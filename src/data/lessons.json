@@ -10,37 +10,37 @@
         "lines": [
           {
             "text": "Pardon!",
-            "speaker": "ANNA",
+            "speaker": "Anna",
             "translation": "¡Perdón!"
           },
           {
             "text": "Ja?",
-            "speaker": "MARIE",
+            "speaker": "Marie",
             "translation": "¿Sí?"
           },
           {
             "text": "Is dit uw tas?",
-            "speaker": "ANNA",
+            "speaker": "Anna",
             "translation": "¿Es esta su bolsa?"
           },
           {
             "text": "Pardon?",
-            "speaker": "MARIE",
+            "speaker": "Marie",
             "translation": "¿Perdón?"
           },
           {
             "text": "Is dit uw tas?",
-            "speaker": "ANNA",
+            "speaker": "Anna",
             "translation": "¿Es esta su bolsa?"
           },
           {
             "text": "Ja, dat is zo.",
-            "speaker": "MARIE",
+            "speaker": "Marie",
             "translation": "Sí, así es."
           },
           {
             "text": "Dank u wel.",
-            "speaker": "ANNA",
+            "speaker": "Anna",
             "translation": "Muchas gracias."
           }
         ],
@@ -163,62 +163,62 @@
         "lines": [
           {
             "text": "Mijn jas en mijn paraplu alstublieft.",
-            "speaker": "KOEN",
+            "speaker": "Koen",
             "translation": "Mi abrigo y mi paraguas, por favor."
           },
           {
             "text": "Hier is uw kaartje.",
-            "speaker": "BART",
+            "speaker": "Bart",
             "translation": "Aquí está su ticket."
           },
           {
             "text": "Dank u, meneer.",
-            "speaker": "KOEN",
+            "speaker": "Koen",
             "translation": "Gracias, señor."
           },
           {
             "text": "Nummer vijf.",
-            "speaker": "BART",
+            "speaker": "Bart",
             "translation": "Número cinco."
           },
           {
             "text": "Hier is uw paraplu en uw jas.",
-            "speaker": "BART",
+            "speaker": "Bart",
             "translation": "Aquí está su paraguas y su abrigo."
           },
           {
             "text": "Dit is niet mijn paraplu.",
-            "speaker": "KOEN",
+            "speaker": "Koen",
             "translation": "Este no es mi paraguas."
           },
           {
             "text": "Sorry, meneer.",
-            "speaker": "BART",
+            "speaker": "Bart",
             "translation": "Lo siento, señor."
           },
           {
             "text": "Is dit uw paraplu?",
-            "speaker": "BART",
+            "speaker": "Bart",
             "translation": "¿Es este su paraguas?"
           },
           {
             "text": "Nee, dat is niet zo!",
-            "speaker": "KOEN",
+            "speaker": "Koen",
             "translation": "¡No, no lo es!"
           },
           {
             "text": "Is dit zo?",
-            "speaker": "BART",
+            "speaker": "Bart",
             "translation": "¿Es este?"
           },
           {
             "text": "Ja, dat is zo.",
-            "speaker": "KOEN",
+            "speaker": "Koen",
             "translation": "Sí, así es."
           },
           {
             "text": "Dank u wel.",
-            "speaker": "KOEN",
+            "speaker": "Koen",
             "translation": "Muchas gracias."
           }
         ],
@@ -351,102 +351,102 @@
         "lines": [
           {
             "text": "Goedemorgen.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Buenos días."
           },
           {
             "text": "Goedemorgen, meneer De Vries.",
-            "speaker": "STUDENTEN",
+            "speaker": "Studenten",
             "translation": "Buenos días, señor De Vries."
           },
           {
             "text": "Dit is mevrouw María García.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Esta es la señora María García."
           },
           {
             "text": "María is een nieuwe studente.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "María es una nueva estudiante."
           },
           {
             "text": "Zij is Spaans.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Ella es española."
           },
           {
             "text": "María, dit is Jan.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "María, este es Jan."
           },
           {
             "text": "Hij is Nederlands.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Él es holandés."
           },
           {
             "text": "Hoe maakt u het?",
-            "speaker": "JAN",
+            "speaker": "Jan",
             "translation": "¿Cómo está usted?"
           },
           {
             "text": "En dit is Sophie.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Y esta es Sophie."
           },
           {
             "text": "Zij is Belgisch.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Ella es belga."
           },
           {
             "text": "Hoe maakt u het?",
-            "speaker": "SOPHIE",
+            "speaker": "Sophie",
             "translation": "¿Cómo está usted?"
           },
           {
             "text": "En dit is Dimitri.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Y este es Dimitri."
           },
           {
             "text": "Hij is Grieks.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Él es griego."
           },
           {
             "text": "Hoe maakt u het?",
-            "speaker": "DIMITRI",
+            "speaker": "Dimitri",
             "translation": "¿Cómo está usted?"
           },
           {
             "text": "En dit is Paulo.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Y este es Paulo."
           },
           {
             "text": "Hij is Braziliaans.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Él es brasileño."
           },
           {
             "text": "Hoe maakt u het?",
-            "speaker": "PAULO",
+            "speaker": "Paulo",
             "translation": "¿Cómo está usted?"
           },
           {
             "text": "En dit is Elena.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Y esta es Elena."
           },
           {
             "text": "Zij is Italiaans.",
-            "speaker": "MENEER DE VRIES",
+            "speaker": "Meneer de Vries",
             "translation": "Ella es italiana."
           },
           {
             "text": "Hoe maakt u het?",
-            "speaker": "ELENA",
+            "speaker": "Elena",
             "translation": "¿Cómo está usted?"
           }
         ],
@@ -587,82 +587,82 @@
         "lines": [
           {
             "text": "Ik ben een nieuwe student.",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "Soy un estudiante nuevo."
           },
           {
             "text": "Mijn naam is Pieter.",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "Mi nombre es Pieter."
           },
           {
             "text": "Hoe maakt u het?",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "¿Cómo está usted?"
           },
           {
             "text": "Mijn naam is Emma.",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "Mi nombre es Emma."
           },
           {
             "text": "Bent u Frans?",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "¿Es usted francesa?"
           },
           {
             "text": "Ja, dat ben ik.",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "Sí, lo soy."
           },
           {
             "text": "Bent u ook Frans?",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "¿Es usted también francés?"
           },
           {
             "text": "Nee, dat ben ik niet.",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "No, no lo soy."
           },
           {
             "text": "Welke nationaliteit bent u?",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "¿Cuál es su nacionalidad?"
           },
           {
             "text": "Ik ben Nederlands.",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "Soy holandés."
           },
           {
             "text": "Bent u lerares?",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "¿Es usted profesora?"
           },
           {
             "text": "Nee, dat ben ik niet.",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "No, no lo soy."
           },
           {
             "text": "Wat is uw beroep?",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "¿Cuál es su profesión?"
           },
           {
             "text": "Ik ben typiste.",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "Soy mecanógrafa."
           },
           {
             "text": "Wat is uw beroep?",
-            "speaker": "EMMA",
+            "speaker": "Emma",
             "translation": "¿Cuál es su profesión?"
           },
           {
             "text": "Ik ben ingenieur.",
-            "speaker": "PIETER",
+            "speaker": "Pieter",
             "translation": "Soy ingeniero."
           }
         ],
@@ -812,72 +812,72 @@
         "lines": [
           {
             "text": "Goedemiddag, mevrouw Bakker.",
-            "speaker": "MENEER JANSEN",
+            "speaker": "Meneer Jansen",
             "translation": "Buenas tardes, señora Bakker."
           },
           {
             "text": "Goedemiddag, meneer Jansen.",
-            "speaker": "MEVROUW BAKKER",
+            "speaker": "Mevrouw Bakker",
             "translation": "Buenas tardes, señor Jansen."
           },
           {
             "text": "Hoe gaat het met u vandaag?",
-            "speaker": "MENEER JANSEN",
+            "speaker": "Meneer Jansen",
             "translation": "¿Cómo está usted hoy?"
           },
           {
             "text": "Ik ben heel goed, dank u.",
-            "speaker": "MEVROUW BAKKER",
+            "speaker": "Mevrouw Bakker",
             "translation": "Estoy muy bien, gracias."
           },
           {
             "text": "En u?",
-            "speaker": "MEVROUW BAKKER",
+            "speaker": "Mevrouw Bakker",
             "translation": "¿Y usted?"
           },
           {
             "text": "Prima, dank u.",
-            "speaker": "MENEER JANSEN",
+            "speaker": "Meneer Jansen",
             "translation": "Excelente, gracias."
           },
           {
             "text": "Hoe gaat het met meneer Bakker?",
-            "speaker": "MENEER JANSEN",
+            "speaker": "Meneer Jansen",
             "translation": "¿Cómo está el señor Bakker?"
           },
           {
             "text": "Hij is prima, dank u.",
-            "speaker": "MEVROUW BAKKER",
+            "speaker": "Mevrouw Bakker",
             "translation": "Él está bien, gracias."
           },
           {
             "text": "Hoe gaat het met mevrouw Jansen?",
-            "speaker": "MEVROUW BAKKER",
+            "speaker": "Mevrouw Bakker",
             "translation": "¿Cómo está la señora Jansen?"
           },
           {
             "text": "Zij is heel goed ook, mevrouw Bakker.",
-            "speaker": "MENEER JANSEN",
+            "speaker": "Meneer Jansen",
             "translation": "Ella está muy bien también, señora Bakker."
           },
           {
             "text": "Tot ziens, mevrouw Bakker.",
-            "speaker": "MENEER JANSEN",
+            "speaker": "Meneer Jansen",
             "translation": "Hasta luego, señora Bakker."
           },
           {
             "text": "Prettig u te zien.",
-            "speaker": "MENEER JANSEN",
+            "speaker": "Meneer Jansen",
             "translation": "Fue un placer verla."
           },
           {
             "text": "Tot ziens ook, meneer Jansen.",
-            "speaker": "MEVROUW BAKKER",
+            "speaker": "Mevrouw Bakker",
             "translation": "Hasta luego también, señor Jansen."
           },
           {
             "text": "Tot ziens.",
-            "speaker": "MEVROUW BAKKER",
+            "speaker": "Mevrouw Bakker",
             "translation": "Hasta luego."
           }
         ],
