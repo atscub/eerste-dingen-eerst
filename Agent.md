@@ -6,6 +6,7 @@ Project: Vite + React + Tailwind app for Dutch lessons.
 - Install: `npm install`
 - Dev: `npm run dev`
 - Build: `npm run build`
+- Checks: `npm run checks`
 - Preview: `npm run preview`
 
 ## Structure
@@ -18,3 +19,4 @@ Project: Vite + React + Tailwind app for Dutch lessons.
 ## Notes
 - Text-to-speech uses the Web Speech API in the browser.
 - UI copy is in Spanish and Dutch; keep language consistency when editing.
+- All changes should be tested by running `npm run checks`.
