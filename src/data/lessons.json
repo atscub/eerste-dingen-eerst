@@ -6,50 +6,68 @@
       "id": 1,
       "title": "Les 1",
       "type": "dialogue",
-      "scenes": [
-        {
-          "sceneNumber": 1,
-          "illustration": "Een vrouw op straat stopt een andere vrouw",
-          "text": "Pardon!",
-          "translation": "¡Perdón!"
-        },
-        {
-          "sceneNumber": 2,
-          "illustration": "De andere vrouw draait zich om",
-          "text": "Ja?",
-          "translation": "¿Sí?"
-        },
-        {
-          "sceneNumber": 3,
-          "illustration": "De eerste vrouw houdt een tas omhoog",
-          "text": "Is dit uw tas?",
-          "translation": "¿Es esta su bolsa?"
-        },
-        {
-          "sceneNumber": 4,
-          "illustration": "De tweede vrouw kijkt verbaasd",
-          "text": "Pardon?",
-          "translation": "¿Perdón?"
-        },
-        {
-          "sceneNumber": 5,
-          "illustration": "De eerste vrouw toont de tas duidelijker",
-          "text": "Is dit uw tas?",
-          "translation": "¿Es esta su bolsa?"
-        },
-        {
-          "sceneNumber": 6,
-          "illustration": "De tweede vrouw glimlacht en knikt",
-          "text": "Ja, dat is zo.",
-          "translation": "Sí, así es."
-        },
-        {
-          "sceneNumber": 7,
-          "illustration": "De vrouw geeft de tas terug",
-          "text": "Dank u wel.",
-          "translation": "Muchas gracias."
-        }
-      ]
+      "dialogue": {
+        "lines": [
+          {
+            "text": "Pardon!",
+            "translation": "¡Perdón!"
+          },
+          {
+            "text": "Ja?",
+            "translation": "¿Sí?"
+          },
+          {
+            "text": "Is dit uw tas?",
+            "translation": "¿Es esta su bolsa?"
+          },
+          {
+            "text": "Pardon?",
+            "translation": "¿Perdón?"
+          },
+          {
+            "text": "Is dit uw tas?",
+            "translation": "¿Es esta su bolsa?"
+          },
+          {
+            "text": "Ja, dat is zo.",
+            "translation": "Sí, así es."
+          },
+          {
+            "text": "Dank u wel.",
+            "translation": "Muchas gracias."
+          }
+        ],
+        "images": [
+          {
+            "src": "https://placehold.co/480x320?text=Scene+1",
+            "alt": "Een vrouw op straat stopt een andere vrouw"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+2",
+            "alt": "De andere vrouw draait zich om"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+3",
+            "alt": "De eerste vrouw houdt een tas omhoog"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+4",
+            "alt": "De tweede vrouw kijkt verbaasd"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+5",
+            "alt": "De eerste vrouw toont de tas duidelijker"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+6",
+            "alt": "De tweede vrouw glimlacht en knikt"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+7",
+            "alt": "De vrouw geeft de tas terug"
+          }
+        ]
+      }
     },
     {
       "id": 2,
@@ -146,90 +164,88 @@
       "id": 3,
       "title": "Les 3",
       "type": "dialogue",
-      "scenes": [
-        {
-          "sceneNumber": 1,
-          "illustration": "Garderobe bij een restaurant, een man geeft zijn kaartje",
-          "text": "Mijn jas en mijn paraplu alstublieft.",
-          "translation": "Mi abrigo y mi paraguas, por favor."
-        },
-        {
-          "sceneNumber": 2,
-          "illustration": "De garderobemedewerker neemt het kaartje",
-          "text": "Hier is uw kaartje.",
-          "translation": "Aquí está su ticket."
-        },
-        {
-          "sceneNumber": 3,
-          "illustration": "De medewerker kijkt naar het nummer",
-          "lines": [
-            {
-              "text": "Dank u, meneer.",
-              "translation": "Gracias, señor."
-            },
-            {
-              "text": "Nummer vijf.",
-              "translation": "Número cinco."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 4,
-          "illustration": "De medewerker geeft de jas en paraplu",
-          "lines": [
-            {
-              "text": "Hier is uw paraplu en uw jas.",
-              "translation": "Aquí está su paraguas y su abrigo."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 5,
-          "illustration": "De man kijkt naar een verkeerde paraplu",
-          "lines": [
-            {
-              "text": "Dit is niet mijn paraplu.",
-              "translation": "Este no es mi paraguas."
-            },
-            {
-              "text": "Sorry, meneer.",
-              "translation": "Lo siento, señor."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 6,
-          "illustration": "De man vraagt om verificatie",
-          "lines": [
-            {
-              "text": "Is dit uw paraplu?",
-              "translation": "¿Es este su paraguas?"
-            },
-            {
-              "text": "Nee, dat is niet zo!",
-              "translation": "¡No, no lo es!"
-            }
-          ]
-        },
-        {
-          "sceneNumber": 7,
-          "illustration": "De medewerker geeft de juiste paraplu",
-          "lines": [
-            {
-              "text": "Is dit zo?",
-              "translation": "¿Es este?"
-            },
-            {
-              "text": "Ja, dat is zo.",
-              "translation": "Sí, así es."
-            },
-            {
-              "text": "Dank u wel.",
-              "translation": "Muchas gracias."
-            }
-          ]
-        }
-      ]
+      "dialogue": {
+        "lines": [
+          {
+            "text": "Mijn jas en mijn paraplu alstublieft.",
+            "translation": "Mi abrigo y mi paraguas, por favor."
+          },
+          {
+            "text": "Hier is uw kaartje.",
+            "translation": "Aquí está su ticket."
+          },
+          {
+            "text": "Dank u, meneer.",
+            "translation": "Gracias, señor."
+          },
+          {
+            "text": "Nummer vijf.",
+            "translation": "Número cinco."
+          },
+          {
+            "text": "Hier is uw paraplu en uw jas.",
+            "translation": "Aquí está su paraguas y su abrigo."
+          },
+          {
+            "text": "Dit is niet mijn paraplu.",
+            "translation": "Este no es mi paraguas."
+          },
+          {
+            "text": "Sorry, meneer.",
+            "translation": "Lo siento, señor."
+          },
+          {
+            "text": "Is dit uw paraplu?",
+            "translation": "¿Es este su paraguas?"
+          },
+          {
+            "text": "Nee, dat is niet zo!",
+            "translation": "¡No, no lo es!"
+          },
+          {
+            "text": "Is dit zo?",
+            "translation": "¿Es este?"
+          },
+          {
+            "text": "Ja, dat is zo.",
+            "translation": "Sí, así es."
+          },
+          {
+            "text": "Dank u wel.",
+            "translation": "Muchas gracias."
+          }
+        ],
+        "images": [
+          {
+            "src": "https://placehold.co/480x320?text=Scene+1",
+            "alt": "Garderobe bij een restaurant, een man geeft zijn kaartje"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+2",
+            "alt": "De garderobemedewerker neemt het kaartje"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+3",
+            "alt": "De medewerker kijkt naar het nummer"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+4",
+            "alt": "De medewerker geeft de jas en paraplu"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+5",
+            "alt": "De man kijkt naar een verkeerde paraplu"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+6",
+            "alt": "De man vraagt om verificatie"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+7",
+            "alt": "De medewerker geeft de juiste paraplu"
+          }
+        ]
+      }
     },
     {
       "id": 4,
@@ -324,139 +340,140 @@
       "id": 5,
       "title": "Les 5",
       "type": "dialogue",
-      "scenes": [
-        {
-          "sceneNumber": 1,
-          "illustration": "Een klaslokaal, leraar voor de klas met studenten",
-          "speaker": "MENEER DE VRIES",
-          "text": "Goedemorgen.",
-          "translation": "Buenos días.",
-          "response": {
-            "speaker": "STUDENTEN",
+      "dialogue": {
+        "lines": [
+          {
+            "text": "Goedemorgen.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Buenos días."
+          },
+          {
             "text": "Goedemorgen, meneer De Vries.",
+            "speaker": "STUDENTEN",
             "translation": "Buenos días, señor De Vries."
-          }
-        },
-        {
-          "sceneNumber": 2,
-          "illustration": "Leraar wijst naar een nieuwe studente",
-          "speaker": "MENEER DE VRIES",
-          "lines": [
-            {
-              "text": "Dit is mevrouw María García.",
-              "translation": "Esta es la señora María García."
-            },
-            {
-              "text": "María is een nieuwe studente.",
-              "translation": "María es una nueva estudiante."
-            },
-            {
-              "text": "Zij is Spaans.",
-              "translation": "Ella es española."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 3,
-          "illustration": "Leraar introduceert een mannelijke student",
-          "speaker": "MENEER DE VRIES",
-          "lines": [
-            {
-              "text": "María, dit is Jan.",
-              "translation": "María, este es Jan."
-            },
-            {
-              "text": "Hij is Nederlands.",
-              "translation": "Él es holandés."
-            }
-          ],
-          "response": {
+          },
+          {
+            "text": "Dit is mevrouw María García.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Esta es la señora María García."
+          },
+          {
+            "text": "María is een nieuwe studente.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "María es una nueva estudiante."
+          },
+          {
+            "text": "Zij is Spaans.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Ella es española."
+          },
+          {
+            "text": "María, dit is Jan.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "María, este es Jan."
+          },
+          {
+            "text": "Hij is Nederlands.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Él es holandés."
+          },
+          {
+            "text": "Hoe maakt u het?",
             "speaker": "JAN",
-            "text": "Hoe maakt u het?",
             "translation": "¿Cómo está usted?"
-          }
-        },
-        {
-          "sceneNumber": 4,
-          "illustration": "Leraar introduceert een vrouwelijke student",
-          "speaker": "MENEER DE VRIES",
-          "lines": [
-            {
-              "text": "En dit is Sophie.",
-              "translation": "Y esta es Sophie."
-            },
-            {
-              "text": "Zij is Belgisch.",
-              "translation": "Ella es belga."
-            }
-          ],
-          "response": {
+          },
+          {
+            "text": "En dit is Sophie.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Y esta es Sophie."
+          },
+          {
+            "text": "Zij is Belgisch.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Ella es belga."
+          },
+          {
+            "text": "Hoe maakt u het?",
             "speaker": "SOPHIE",
-            "text": "Hoe maakt u het?",
             "translation": "¿Cómo está usted?"
-          }
-        },
-        {
-          "sceneNumber": 5,
-          "illustration": "Leraar introduceert nog een student",
-          "speaker": "MENEER DE VRIES",
-          "lines": [
-            {
-              "text": "En dit is Dimitri.",
-              "translation": "Y este es Dimitri."
-            },
-            {
-              "text": "Hij is Grieks.",
-              "translation": "Él es griego."
-            }
-          ],
-          "response": {
+          },
+          {
+            "text": "En dit is Dimitri.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Y este es Dimitri."
+          },
+          {
+            "text": "Hij is Grieks.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Él es griego."
+          },
+          {
+            "text": "Hoe maakt u het?",
             "speaker": "DIMITRI",
-            "text": "Hoe maakt u het?",
             "translation": "¿Cómo está usted?"
-          }
-        },
-        {
-          "sceneNumber": 6,
-          "illustration": "Leraar introduceert laatste student",
-          "speaker": "MENEER DE VRIES",
-          "lines": [
-            {
-              "text": "En dit is Paulo.",
-              "translation": "Y este es Paulo."
-            },
-            {
-              "text": "Hij is Braziliaans.",
-              "translation": "Él es brasileño."
-            }
-          ],
-          "response": {
+          },
+          {
+            "text": "En dit is Paulo.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Y este es Paulo."
+          },
+          {
+            "text": "Hij is Braziliaans.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Él es brasileño."
+          },
+          {
+            "text": "Hoe maakt u het?",
             "speaker": "PAULO",
-            "text": "Hoe maakt u het?",
             "translation": "¿Cómo está usted?"
-          }
-        },
-        {
-          "sceneNumber": 7,
-          "illustration": "Leraar introduceert laatste studente",
-          "speaker": "MENEER DE VRIES",
-          "lines": [
-            {
-              "text": "En dit is Elena.",
-              "translation": "Y esta es Elena."
-            },
-            {
-              "text": "Zij is Italiaans.",
-              "translation": "Ella es italiana."
-            }
-          ],
-          "response": {
+          },
+          {
+            "text": "En dit is Elena.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Y esta es Elena."
+          },
+          {
+            "text": "Zij is Italiaans.",
+            "speaker": "MENEER DE VRIES",
+            "translation": "Ella es italiana."
+          },
+          {
+            "text": "Hoe maakt u het?",
             "speaker": "ELENA",
-            "text": "Hoe maakt u het?",
             "translation": "¿Cómo está usted?"
           }
-        }
-      ]
+        ],
+        "images": [
+          {
+            "src": "https://placehold.co/480x320?text=Scene+1",
+            "alt": "Een klaslokaal, leraar voor de klas met studenten"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+2",
+            "alt": "Leraar wijst naar een nieuwe studente"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+3",
+            "alt": "Leraar introduceert een mannelijke student"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+4",
+            "alt": "Leraar introduceert een vrouwelijke student"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+5",
+            "alt": "Leraar introduceert nog een student"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+6",
+            "alt": "Leraar introduceert laatste student"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+7",
+            "alt": "Leraar introduceert laatste studente"
+          }
+        ]
+      }
     },
     {
       "id": 6,
@@ -559,130 +576,120 @@
       "id": 7,
       "title": "Les 7",
       "type": "dialogue",
-      "scenes": [
-        {
-          "sceneNumber": 1,
-          "illustration": "Man en vrouw zitten aan tafeltje in café",
-          "lines": [
-            {
-              "speaker": "PIETER",
-              "text": "Ik ben een nieuwe student.",
-              "translation": "Soy un estudiante nuevo."
-            },
-            {
-              "speaker": "PIETER",
-              "text": "Mijn naam is Pieter.",
-              "translation": "Mi nombre es Pieter."
-            },
-            {
-              "speaker": "EMMA",
-              "text": "Hoe maakt u het?",
-              "translation": "¿Cómo está usted?"
-            },
-            {
-              "speaker": "EMMA",
-              "text": "Mijn naam is Emma.",
-              "translation": "Mi nombre es Emma."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 2,
-          "illustration": "Ze praten, vrouw vraagt iets",
-          "lines": [
-            {
-              "speaker": "PIETER",
-              "text": "Bent u Frans?",
-              "translation": "¿Es usted francesa?"
-            },
-            {
-              "speaker": "EMMA",
-              "text": "Ja, dat ben ik.",
-              "translation": "Sí, lo soy."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 3,
-          "illustration": "Man gebaart naar Frankrijk op een kaart in gedachte",
-          "lines": [
-            {
-              "speaker": "EMMA",
-              "text": "Bent u ook Frans?",
-              "translation": "¿Es usted también francés?"
-            },
-            {
-              "speaker": "PIETER",
-              "text": "Nee, dat ben ik niet.",
-              "translation": "No, no lo soy."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 4,
-          "illustration": "Man wijst naar Nederland op kaart",
-          "lines": [
-            {
-              "speaker": "EMMA",
-              "text": "Welke nationaliteit bent u?",
-              "translation": "¿Cuál es su nacionalidad?"
-            },
-            {
-              "speaker": "PIETER",
-              "text": "Ik ben Nederlands.",
-              "translation": "Soy holandés."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 5,
-          "illustration": "Vrouw vraagt over beroep, met vraagteken en schoolbord",
-          "lines": [
-            {
-              "speaker": "PIETER",
-              "text": "Bent u lerares?",
-              "translation": "¿Es usted profesora?"
-            },
-            {
-              "speaker": "EMMA",
-              "text": "Nee, dat ben ik niet.",
-              "translation": "No, no lo soy."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 6,
-          "illustration": "Vrouw wijst naar typemachine/schrijven",
-          "lines": [
-            {
-              "speaker": "PIETER",
-              "text": "Wat is uw beroep?",
-              "translation": "¿Cuál es su profesión?"
-            },
-            {
-              "speaker": "EMMA",
-              "text": "Ik ben typiste.",
-              "translation": "Soy mecanógrafa."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 7,
-          "illustration": "Man wijst naar bouwtekening/engineering gereedschap",
-          "lines": [
-            {
-              "speaker": "EMMA",
-              "text": "Wat is uw beroep?",
-              "translation": "¿Cuál es su profesión?"
-            },
-            {
-              "speaker": "PIETER",
-              "text": "Ik ben ingenieur.",
-              "translation": "Soy ingeniero."
-            }
-          ]
-        }
-      ]
+      "dialogue": {
+        "lines": [
+          {
+            "text": "Ik ben een nieuwe student.",
+            "speaker": "PIETER",
+            "translation": "Soy un estudiante nuevo."
+          },
+          {
+            "text": "Mijn naam is Pieter.",
+            "speaker": "PIETER",
+            "translation": "Mi nombre es Pieter."
+          },
+          {
+            "text": "Hoe maakt u het?",
+            "speaker": "EMMA",
+            "translation": "¿Cómo está usted?"
+          },
+          {
+            "text": "Mijn naam is Emma.",
+            "speaker": "EMMA",
+            "translation": "Mi nombre es Emma."
+          },
+          {
+            "text": "Bent u Frans?",
+            "speaker": "PIETER",
+            "translation": "¿Es usted francesa?"
+          },
+          {
+            "text": "Ja, dat ben ik.",
+            "speaker": "EMMA",
+            "translation": "Sí, lo soy."
+          },
+          {
+            "text": "Bent u ook Frans?",
+            "speaker": "EMMA",
+            "translation": "¿Es usted también francés?"
+          },
+          {
+            "text": "Nee, dat ben ik niet.",
+            "speaker": "PIETER",
+            "translation": "No, no lo soy."
+          },
+          {
+            "text": "Welke nationaliteit bent u?",
+            "speaker": "EMMA",
+            "translation": "¿Cuál es su nacionalidad?"
+          },
+          {
+            "text": "Ik ben Nederlands.",
+            "speaker": "PIETER",
+            "translation": "Soy holandés."
+          },
+          {
+            "text": "Bent u lerares?",
+            "speaker": "PIETER",
+            "translation": "¿Es usted profesora?"
+          },
+          {
+            "text": "Nee, dat ben ik niet.",
+            "speaker": "EMMA",
+            "translation": "No, no lo soy."
+          },
+          {
+            "text": "Wat is uw beroep?",
+            "speaker": "PIETER",
+            "translation": "¿Cuál es su profesión?"
+          },
+          {
+            "text": "Ik ben typiste.",
+            "speaker": "EMMA",
+            "translation": "Soy mecanógrafa."
+          },
+          {
+            "text": "Wat is uw beroep?",
+            "speaker": "EMMA",
+            "translation": "¿Cuál es su profesión?"
+          },
+          {
+            "text": "Ik ben ingenieur.",
+            "speaker": "PIETER",
+            "translation": "Soy ingeniero."
+          }
+        ],
+        "images": [
+          {
+            "src": "https://placehold.co/480x320?text=Scene+1",
+            "alt": "Man en vrouw zitten aan tafeltje in café"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+2",
+            "alt": "Ze praten, vrouw vraagt iets"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+3",
+            "alt": "Man gebaart naar Frankrijk op een kaart in gedachte"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+4",
+            "alt": "Man wijst naar Nederland op kaart"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+5",
+            "alt": "Vrouw vraagt over beroep, met vraagteken en schoolbord"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+6",
+            "alt": "Vrouw wijst naar typemachine/schrijven"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+7",
+            "alt": "Man wijst naar bouwtekening/engineering gereedschap"
+          }
+        ]
+      }
     },
     {
       "id": 8,
@@ -794,108 +801,102 @@
       "id": 9,
       "title": "Les 9",
       "type": "dialogue",
-      "scenes": [
-        {
-          "sceneNumber": 1,
-          "illustration": "Meneer Jansen en mevrouw Bakker op straat",
-          "lines": [
-            {
-              "speaker": "MENEER JANSEN",
-              "text": "Goedemiddag, mevrouw Bakker.",
-              "translation": "Buenas tardes, señora Bakker."
-            },
-            {
-              "speaker": "MEVROUW BAKKER",
-              "text": "Goedemiddag, meneer Jansen.",
-              "translation": "Buenas tardes, señor Jansen."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 2,
-          "illustration": "Ze schudden handen",
-          "lines": [
-            {
-              "speaker": "MENEER JANSEN",
-              "text": "Hoe gaat het met u vandaag?",
-              "translation": "¿Cómo está usted hoy?"
-            },
-            {
-              "speaker": "MEVROUW BAKKER",
-              "text": "Ik ben heel goed, dank u.",
-              "translation": "Estoy muy bien, gracias."
-            },
-            {
-              "speaker": "MEVROUW BAKKER",
-              "text": "En u?",
-              "translation": "¿Y usted?"
-            }
-          ]
-        },
-        {
-          "sceneNumber": 3,
-          "illustration": "Meneer Jansen glimlacht",
-          "lines": [
-            {
-              "speaker": "MENEER JANSEN",
-              "text": "Prima, dank u.",
-              "translation": "Excelente, gracias."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 4,
-          "illustration": "Mevrouw Bakker vraagt over iemand anders",
-          "lines": [
-            {
-              "speaker": "MENEER JANSEN",
-              "text": "Hoe gaat het met meneer Bakker?",
-              "translation": "¿Cómo está el señor Bakker?"
-            },
-            {
-              "speaker": "MEVROUW BAKKER",
-              "text": "Hij is prima, dank u.",
-              "translation": "Él está bien, gracias."
-            },
-            {
-              "speaker": "MEVROUW BAKKER",
-              "text": "Hoe gaat het met mevrouw Jansen?",
-              "translation": "¿Cómo está la señora Jansen?"
-            },
-            {
-              "speaker": "MENEER JANSEN",
-              "text": "Zij is heel goed ook, mevrouw Bakker.",
-              "translation": "Ella está muy bien también, señora Bakker."
-            }
-          ]
-        },
-        {
-          "sceneNumber": 5,
-          "illustration": "Ze nemen afscheid",
-          "lines": [
-            {
-              "speaker": "MENEER JANSEN",
-              "text": "Tot ziens, mevrouw Bakker.",
-              "translation": "Hasta luego, señora Bakker."
-            },
-            {
-              "speaker": "MENEER JANSEN",
-              "text": "Prettig u te zien.",
-              "translation": "Fue un placer verla."
-            },
-            {
-              "speaker": "MEVROUW BAKKER",
-              "text": "Tot ziens ook, meneer Jansen.",
-              "translation": "Hasta luego también, señor Jansen."
-            },
-            {
-              "speaker": "MEVROUW BAKKER",
-              "text": "Tot ziens.",
-              "translation": "Hasta luego."
-            }
-          ]
-        }
-      ]
+      "dialogue": {
+        "lines": [
+          {
+            "text": "Goedemiddag, mevrouw Bakker.",
+            "speaker": "MENEER JANSEN",
+            "translation": "Buenas tardes, señora Bakker."
+          },
+          {
+            "text": "Goedemiddag, meneer Jansen.",
+            "speaker": "MEVROUW BAKKER",
+            "translation": "Buenas tardes, señor Jansen."
+          },
+          {
+            "text": "Hoe gaat het met u vandaag?",
+            "speaker": "MENEER JANSEN",
+            "translation": "¿Cómo está usted hoy?"
+          },
+          {
+            "text": "Ik ben heel goed, dank u.",
+            "speaker": "MEVROUW BAKKER",
+            "translation": "Estoy muy bien, gracias."
+          },
+          {
+            "text": "En u?",
+            "speaker": "MEVROUW BAKKER",
+            "translation": "¿Y usted?"
+          },
+          {
+            "text": "Prima, dank u.",
+            "speaker": "MENEER JANSEN",
+            "translation": "Excelente, gracias."
+          },
+          {
+            "text": "Hoe gaat het met meneer Bakker?",
+            "speaker": "MENEER JANSEN",
+            "translation": "¿Cómo está el señor Bakker?"
+          },
+          {
+            "text": "Hij is prima, dank u.",
+            "speaker": "MEVROUW BAKKER",
+            "translation": "Él está bien, gracias."
+          },
+          {
+            "text": "Hoe gaat het met mevrouw Jansen?",
+            "speaker": "MEVROUW BAKKER",
+            "translation": "¿Cómo está la señora Jansen?"
+          },
+          {
+            "text": "Zij is heel goed ook, mevrouw Bakker.",
+            "speaker": "MENEER JANSEN",
+            "translation": "Ella está muy bien también, señora Bakker."
+          },
+          {
+            "text": "Tot ziens, mevrouw Bakker.",
+            "speaker": "MENEER JANSEN",
+            "translation": "Hasta luego, señora Bakker."
+          },
+          {
+            "text": "Prettig u te zien.",
+            "speaker": "MENEER JANSEN",
+            "translation": "Fue un placer verla."
+          },
+          {
+            "text": "Tot ziens ook, meneer Jansen.",
+            "speaker": "MEVROUW BAKKER",
+            "translation": "Hasta luego también, señor Jansen."
+          },
+          {
+            "text": "Tot ziens.",
+            "speaker": "MEVROUW BAKKER",
+            "translation": "Hasta luego."
+          }
+        ],
+        "images": [
+          {
+            "src": "https://placehold.co/480x320?text=Scene+1",
+            "alt": "Meneer Jansen en mevrouw Bakker op straat"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+2",
+            "alt": "Ze schudden handen"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+3",
+            "alt": "Meneer Jansen glimlacht"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+4",
+            "alt": "Mevrouw Bakker vraagt over iemand anders"
+          },
+          {
+            "src": "https://placehold.co/480x320?text=Scene+5",
+            "alt": "Ze nemen afscheid"
+          }
+        ]
+      }
     },
     {
       "id": 10,
@@ -1040,37 +1041,55 @@
       {
         "letter": "g en ch",
         "description": "Zoals de Spaanse 'j' maar sterker",
-        "examples": ["goedemorgen", "acht"],
+        "examples": [
+          "goedemorgen",
+          "acht"
+        ],
         "spanish": "Como la 'j' española pero más fuerte"
       },
       {
         "letter": "ui",
         "description": "Geen equivalent in Spaans",
-        "examples": ["huis", "uit"],
+        "examples": [
+          "huis",
+          "uit"
+        ],
         "spanish": "No tiene equivalente en español"
       },
       {
         "letter": "ij/ei",
         "description": "Zoals 'ay' in Engels",
-        "examples": ["mijn", "zijn"],
+        "examples": [
+          "mijn",
+          "zijn"
+        ],
         "spanish": "Como 'ay' en inglés"
       },
       {
         "letter": "oe",
         "description": "Zoals 'u' in Spaans",
-        "examples": ["goed", "boek"],
+        "examples": [
+          "goed",
+          "boek"
+        ],
         "spanish": "Como la 'u' en español"
       },
       {
         "letter": "w",
         "description": "Tussen 'v' en 'w'",
-        "examples": ["wat", "wie"],
+        "examples": [
+          "wat",
+          "wie"
+        ],
         "spanish": "Entre 'v' y 'w'"
       },
       {
         "letter": "v",
         "description": "Zoals 'f' maar met stem",
-        "examples": ["vrouw", "van"],
+        "examples": [
+          "vrouw",
+          "van"
+        ],
         "spanish": "Como 'f' pero con voz"
       }
     ]
