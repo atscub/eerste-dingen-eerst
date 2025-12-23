@@ -11,7 +11,7 @@ const AudioButton = ({ text, className = '', size = 'btn-sm' }) => {
       const utterance = new SpeechSynthesisUtterance(text);
       utterance.lang = 'nl-NL';
       utterance.rate = 0.85;
-
+      
       utterance.onstart = () => setIsPlaying(true);
       utterance.onend = () => setIsPlaying(false);
       utterance.onerror = () => setIsPlaying(false);

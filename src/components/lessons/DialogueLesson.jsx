@@ -6,17 +6,46 @@ const DialogueLesson = ({ lesson }) => {
 
   if (!dialogue) return null;
 
+  const speakerPalette = [
+    'text-rose-400',
+    'text-sky-400',
+    'text-amber-400',
+    'text-emerald-400',
+    'text-violet-400',
+    'text-teal-400',
+  ];
+  const speakerColorMap = new Map();
+
+  const getSpeakerMeta = (speaker) => {
+    if (!speaker) return { label: null, color: null };
+    if (!speakerColorMap.has(speaker)) {
+      const color =
+        speakerPalette[speakerColorMap.size % speakerPalette.length];
+      speakerColorMap.set(speaker, color);
+    }
+    return { label: speaker, color: speakerColorMap.get(speaker) };
+  };
+
   return (
     <section className="space-y-6">
       <LessonHeader lesson={lesson} />
 
       <div className="card bg-base-100 shadow-md border border-base-300">
-        <div className="card-body gap-6">
-          <div className="flex flex-col gap-6 lg:flex-row lg:justify-between">
-            <div className="space-y-3">
-              {dialogue.lines.map((line, idx) => (
-                <DialogueLine key={idx} line={line} />
-              ))}
+        <div className="card-body gap-6 lg:p-12">
+          <div className="flex flex-col gap-12 lg:flex-row lg:justify-between">
+            <div className="space-y-6 flex-1">
+              <h2 className="text-2xl font-semibold mb-8">Dialogues</h2>
+              {dialogue.lines.map((line, idx) => {
+                const { label, color } = getSpeakerMeta(line.speaker);
+                return (
+                  <DialogueLine
+                    key={idx}
+                    line={line}
+                    speaker={label}
+                    speakerColor={color}
+                  />
+                );
+              })}
             </div>
             <div className="space-y-3">
               <div className="text-xs uppercase tracking-wide text-base-content/60">

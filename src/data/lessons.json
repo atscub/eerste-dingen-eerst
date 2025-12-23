@@ -10,30 +10,37 @@
         "lines": [
           {
             "text": "Pardon!",
+            "speaker": "ANNA",
             "translation": "¡Perdón!"
           },
           {
             "text": "Ja?",
+            "speaker": "MARIE",
             "translation": "¿Sí?"
           },
           {
             "text": "Is dit uw tas?",
+            "speaker": "ANNA",
             "translation": "¿Es esta su bolsa?"
           },
           {
             "text": "Pardon?",
+            "speaker": "MARIE",
             "translation": "¿Perdón?"
           },
           {
             "text": "Is dit uw tas?",
+            "speaker": "ANNA",
             "translation": "¿Es esta su bolsa?"
           },
           {
             "text": "Ja, dat is zo.",
+            "speaker": "MARIE",
             "translation": "Sí, así es."
           },
           {
             "text": "Dank u wel.",
+            "speaker": "ANNA",
             "translation": "Muchas gracias."
           }
         ],
@@ -53,18 +60,6 @@
           {
             "src": "https://placehold.co/480x320?text=Scene+4",
             "alt": "De tweede vrouw kijkt verbaasd"
-          },
-          {
-            "src": "https://placehold.co/480x320?text=Scene+5",
-            "alt": "De eerste vrouw toont de tas duidelijker"
-          },
-          {
-            "src": "https://placehold.co/480x320?text=Scene+6",
-            "alt": "De tweede vrouw glimlacht en knikt"
-          },
-          {
-            "src": "https://placehold.co/480x320?text=Scene+7",
-            "alt": "De vrouw geeft de tas terug"
           }
         ]
       }
@@ -168,50 +163,62 @@
         "lines": [
           {
             "text": "Mijn jas en mijn paraplu alstublieft.",
+            "speaker": "KOEN",
             "translation": "Mi abrigo y mi paraguas, por favor."
           },
           {
             "text": "Hier is uw kaartje.",
+            "speaker": "BART",
             "translation": "Aquí está su ticket."
           },
           {
             "text": "Dank u, meneer.",
+            "speaker": "KOEN",
             "translation": "Gracias, señor."
           },
           {
             "text": "Nummer vijf.",
+            "speaker": "BART",
             "translation": "Número cinco."
           },
           {
             "text": "Hier is uw paraplu en uw jas.",
+            "speaker": "BART",
             "translation": "Aquí está su paraguas y su abrigo."
           },
           {
             "text": "Dit is niet mijn paraplu.",
+            "speaker": "KOEN",
             "translation": "Este no es mi paraguas."
           },
           {
             "text": "Sorry, meneer.",
+            "speaker": "BART",
             "translation": "Lo siento, señor."
           },
           {
             "text": "Is dit uw paraplu?",
+            "speaker": "BART",
             "translation": "¿Es este su paraguas?"
           },
           {
             "text": "Nee, dat is niet zo!",
+            "speaker": "KOEN",
             "translation": "¡No, no lo es!"
           },
           {
             "text": "Is dit zo?",
+            "speaker": "BART",
             "translation": "¿Es este?"
           },
           {
             "text": "Ja, dat is zo.",
+            "speaker": "KOEN",
             "translation": "Sí, así es."
           },
           {
             "text": "Dank u wel.",
+            "speaker": "KOEN",
             "translation": "Muchas gracias."
           }
         ],
