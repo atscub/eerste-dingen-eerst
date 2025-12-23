@@ -5,17 +5,13 @@ import {
   useParams,
   useSearchParams,
 } from 'react-router';
-import lessonsDataRaw from '../data/lessons.json';
+import { defaultLessonId, lessons, lessonsData } from '../data/lessonData';
 import AppHeader from '../components/layout/AppHeader';
 import AppFooter from '../components/layout/AppFooter';
 import LessonViewer from '../components/lessons/LessonViewer';
 import LessonPagination from '../components/sections/LessonPagination';
 import PronunciationGuide from '../components/sections/PronunciationGuide';
-import type { CourseData, Lesson } from '../types/lessons';
-
-const lessonsData = lessonsDataRaw as CourseData;
-const lessons = lessonsData.lessons;
-export const defaultLessonId = lessons[0]?.id ?? 1;
+import type { Lesson } from '../types/lessons';
 
 const LessonPage = () => {
   const { lessonId } = useParams();

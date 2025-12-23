@@ -1,5 +1,6 @@
 import { Navigate, Route, Routes } from 'react-router';
-import LessonPage, { defaultLessonId } from './pages/lesson';
+import { defaultLessonId } from './data/lessonData';
+import LessonPage from './pages/lesson';
 
 function AppLayout() {
   return (
