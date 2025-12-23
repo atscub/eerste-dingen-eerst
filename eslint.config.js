@@ -6,7 +6,7 @@ import reactRefresh from 'eslint-plugin-react-refresh';
 import tseslint from 'typescript-eslint';
 
 export default [
-  { ignores: ['dist', 'node_modules'] },
+  { ignores: ['dist', 'node_modules', '.react-router'] },
   js.configs.recommended,
   ...tseslint.configs.recommended,
   {
@@ -44,6 +44,12 @@ export default [
     files: ['vite.config.js'],
     languageOptions: {
       globals: globals.node,
+    },
+  },
+  {
+    files: ['app/**/*.ts', 'app/**/*.tsx'],
+    rules: {
+      'react-refresh/only-export-components': 'off',
     },
   },
 ];
