@@ -1,6 +1,11 @@
 import AudioButton from '../common/AudioButton';
+import type { ExerciseSentence as ExerciseSentenceData } from '../../types/lessons';
 
-const ExerciseSentence = ({ sentence }) => {
+type ExerciseSentenceProps = {
+  sentence: ExerciseSentenceData;
+};
+
+const ExerciseSentence = ({ sentence }: ExerciseSentenceProps) => {
   return (
     <div className="flex items-start gap-3 rounded-box bg-base-200 p-3 border border-base-300">
       <AudioButton text={sentence.dutch} />

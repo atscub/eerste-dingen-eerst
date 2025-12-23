@@ -1,22 +1,21 @@
 import { useEffect } from 'react';
 import {
-  Navigate,
-  Route,
-  Routes,
   useLocation,
   useNavigate,
   useParams,
   useSearchParams,
 } from 'react-router';
-import lessonsData from './data/lessons.json';
-import AppHeader from './components/layout/AppHeader';
-import AppFooter from './components/layout/AppFooter';
-import LessonViewer from './components/lessons/LessonViewer';
-import LessonPagination from './components/sections/LessonPagination';
-import PronunciationGuide from './components/sections/PronunciationGuide';
+import lessonsDataRaw from '../data/lessons.json';
+import AppHeader from '../components/layout/AppHeader';
+import AppFooter from '../components/layout/AppFooter';
+import LessonViewer from '../components/lessons/LessonViewer';
+import LessonPagination from '../components/sections/LessonPagination';
+import PronunciationGuide from '../components/sections/PronunciationGuide';
+import type { CourseData, Lesson } from '../types/lessons';
 
+const lessonsData = lessonsDataRaw as CourseData;
 const lessons = lessonsData.lessons;
-const defaultLessonId = lessons[0]?.id ?? 1;
+export const defaultLessonId = lessons[0]?.id ?? 1;
 
 const LessonPage = () => {
   const { lessonId } = useParams();
@@ -30,7 +29,7 @@ const LessonPage = () => {
     (lesson) => lesson.id === numericLessonId
   );
   const safeIndex = currentIndex === -1 ? 0 : currentIndex;
-  const currentLesson = lessons[safeIndex];
+  const currentLesson: Lesson | undefined = lessons[safeIndex];
   const totalLessons = lessons.length;
 
   useEffect(() => {
@@ -42,7 +41,7 @@ const LessonPage = () => {
     }
   }, [lessonId, numericLessonId, currentIndex, navigate, location.search]);
 
-  const goToLesson = (id) => {
+  const goToLesson = (id: number) => {
     navigate({ pathname: `/lesson/${id}`, search: location.search });
     window.scrollTo({ top: 0, behavior: 'smooth' });
   };
@@ -61,7 +60,7 @@ const LessonPage = () => {
 
   const hasPrev = safeIndex > 0;
   const hasNext = safeIndex >= 0 && safeIndex < totalLessons - 1;
-  const setPronunciationParam = (value) => {
+  const setPronunciationParam = (value: boolean) => {
     const nextParams = new URLSearchParams(searchParams);
     if (value) {
       nextParams.set('pronunciation', 'true');
@@ -120,20 +119,4 @@ const LessonPage = () => {
   );
 };
 
-function AppLayout() {
-  return (
-    <Routes>
-      <Route
-        path="/"
-        element={<Navigate to={`/lesson/${defaultLessonId}`} replace />}
-      />
-      <Route path="/lesson/:lessonId" element={<LessonPage />} />
-      <Route
-        path="*"
-        element={<Navigate to={`/lesson/${defaultLessonId}`} replace />}
-      />
-    </Routes>
-  );
-}
-
-export default AppLayout;
+export default LessonPage;

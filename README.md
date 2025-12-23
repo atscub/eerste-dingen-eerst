@@ -107,8 +107,8 @@ dutch-lessons/
 ├── src/
 │   ├── data/
 │   │   └── lessons.json      # Todas las lecciones
-│   ├── App.jsx               # Componente principal
-│   ├── main.jsx              # Entry point de React
+│   ├── layout.tsx            # Layout y rutas principales
+│   ├── main.tsx              # Entry point de React
 │   └── index.css             # Estilos globales + Tailwind
 ├── index.html                # HTML template
 ├── package.json              # Dependencias del proyecto
@@ -144,7 +144,7 @@ Edita el archivo `src/data/lessons.json` siguiendo la estructura existente:
 
 - Los colores y estilos están en componentes usando Tailwind
 - Edita `tailwind.config.js` para cambiar el tema
-- Los componentes principales están en `src/App.jsx`
+- Los componentes principales están en `src/pages/lesson.tsx`
 
 **Nota**: La función de text-to-speech requiere navegadores modernos con soporte para Web Speech API.
 

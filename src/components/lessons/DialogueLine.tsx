@@ -1,8 +1,15 @@
 import classNames from 'classnames';
 import AudioButton from '../common/AudioButton';
 import TranslationTooltip from '../common/TranslationTooltip';
+import type { DialogueLine as DialogueLineData } from '../../types/lessons';
 
-const DialogueLine = ({ line, speaker, speakerColor }) => {
+type DialogueLineProps = {
+  line: DialogueLineData;
+  speaker?: string | null;
+  speakerColor?: string | null;
+};
+
+const DialogueLine = ({ line, speaker, speakerColor }: DialogueLineProps) => {
   const speakerLabel = speaker || line.speaker;
   const speakerClass = speakerColor
     ? `font-semibold ${speakerColor}`

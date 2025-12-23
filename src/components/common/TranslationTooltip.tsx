@@ -1,6 +1,10 @@
 import { Languages } from 'lucide-react';
 
-const TranslationTooltip = ({ translation }) => {
+type TranslationTooltipProps = {
+  translation?: string | null;
+};
+
+const TranslationTooltip = ({ translation }: TranslationTooltipProps) => {
   if (!translation) return null;
 
   return (

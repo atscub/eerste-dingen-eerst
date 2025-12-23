@@ -1,7 +1,13 @@
 import { useState } from 'react';
 import { Volume2 } from 'lucide-react';
 
-const AudioButton = ({ text, className = '', size = 'btn-sm' }) => {
+type AudioButtonProps = {
+  text: string;
+  className?: string;
+  size?: string;
+};
+
+const AudioButton = ({ text, className = '', size = 'btn-sm' }: AudioButtonProps) => {
   const [isPlaying, setIsPlaying] = useState(false);
 
   const speak = () => {

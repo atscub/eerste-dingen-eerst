@@ -1,3 +1,15 @@
+import type { Lesson } from '../../types/lessons';
+
+type AppHeaderProps = {
+  courseTitle: string;
+  courseSubtitle: string;
+  lessons: Lesson[];
+  currentLessonId: number | '';
+  showPronunciation: boolean;
+  onLessonChange: (id: number) => void;
+  onTogglePronunciation: () => void;
+};
+
 const AppHeader = ({
   courseTitle,
   courseSubtitle,
@@ -6,7 +18,7 @@ const AppHeader = ({
   showPronunciation,
   onLessonChange,
   onTogglePronunciation,
-}) => {
+}: AppHeaderProps) => {
   return (
     <header className="sticky top-0 z-50 border-b border-base-300 bg-base-100/80 backdrop-blur">
       <div className="navbar max-w-6xl mx-auto px-4 py-3">

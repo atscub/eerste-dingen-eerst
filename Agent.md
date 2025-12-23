@@ -10,8 +10,8 @@ Project: Vite + React + Tailwind app for Dutch lessons.
 
 ## Structure
 - Entry HTML: `index.html`
-- App bootstrap: `src/main.jsx`
-- App UI: `src/App.jsx`
+- App bootstrap: `src/main.tsx`
+- App layout: `src/layout.tsx`
 - Lesson data: `src/data/lessons.json`
 - Global styles: `src/index.css`
 

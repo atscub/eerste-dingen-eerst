@@ -1,8 +1,13 @@
 import AudioButton from '../common/AudioButton';
 import LessonHeader from './LessonHeader';
 import ExerciseSentence from './ExerciseSentence';
+import type { PracticeLesson as PracticeLessonData } from '../../types/lessons';
 
-const PracticeLesson = ({ lesson }) => {
+type PracticeLessonProps = {
+  lesson: PracticeLessonData;
+};
+
+const PracticeLesson = ({ lesson }: PracticeLessonProps) => {
   return (
     <section className="space-y-6">
       <LessonHeader lesson={lesson} />

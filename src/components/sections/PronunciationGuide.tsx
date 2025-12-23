@@ -1,6 +1,11 @@
 import AudioButton from '../common/AudioButton';
+import type { PronunciationGuideData } from '../../types/lessons';
 
-const PronunciationGuide = ({ data }) => {
+type PronunciationGuideProps = {
+  data: PronunciationGuideData;
+};
+
+const PronunciationGuide = ({ data }: PronunciationGuideProps) => {
   return (
     <div className="card bg-base-100 shadow-md border border-base-300">
       <div className="card-body space-y-5">

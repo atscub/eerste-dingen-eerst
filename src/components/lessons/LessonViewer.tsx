@@ -1,8 +1,13 @@
 import DialogueLesson from './DialogueLesson';
 import VocabularyLesson from './VocabularyLesson';
 import PracticeLesson from './PracticeLesson';
+import type { Lesson } from '../../types/lessons';
 
-const LessonViewer = ({ lesson }) => {
+type LessonViewerProps = {
+  lesson?: Lesson | null;
+};
+
+const LessonViewer = ({ lesson }: LessonViewerProps) => {
   if (!lesson) return null;
 
   if (lesson.type === 'dialogue') {

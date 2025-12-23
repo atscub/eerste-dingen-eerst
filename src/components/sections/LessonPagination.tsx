@@ -1,5 +1,14 @@
 import { ChevronLeft, ChevronRight } from 'lucide-react';
 
+type LessonPaginationProps = {
+  currentLessonId: number;
+  totalLessons: number;
+  hasPrev: boolean;
+  hasNext: boolean;
+  onPrev: () => void;
+  onNext: () => void;
+};
+
 const LessonPagination = ({
   currentLessonId,
   totalLessons,
@@ -7,7 +16,7 @@ const LessonPagination = ({
   hasNext,
   onPrev,
   onNext,
-}) => {
+}: LessonPaginationProps) => {
   return (
     <div className="card bg-base-100 shadow-sm border border-base-300">
       <div className="card-body py-4">

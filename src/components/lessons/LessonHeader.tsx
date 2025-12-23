@@ -1,10 +1,16 @@
-const lessonTypeLabels = {
+import type { Lesson, LessonType } from '../../types/lessons';
+
+const lessonTypeLabels: Record<LessonType, string> = {
   dialogue: 'Diálogo',
   vocabulary: 'Vocabulario',
   practice: 'Práctica',
 };
 
-const LessonHeader = ({ lesson }) => {
+type LessonHeaderProps = {
+  lesson: Lesson;
+};
+
+const LessonHeader = ({ lesson }: LessonHeaderProps) => {
   const typeLabel = lessonTypeLabels[lesson.type] || 'Lección';
 
   return (

@@ -1,7 +1,12 @@
 import LessonHeader from './LessonHeader';
 import DialogueLine from './DialogueLine';
+import type { DialogueLesson as DialogueLessonData } from '../../types/lessons';
 
-const DialogueLesson = ({ lesson }) => {
+type DialogueLessonProps = {
+  lesson: DialogueLessonData;
+};
+
+const DialogueLesson = ({ lesson }: DialogueLessonProps) => {
   const dialogue = lesson.dialogue;
 
   if (!dialogue) return null;
@@ -14,16 +19,18 @@ const DialogueLesson = ({ lesson }) => {
     'text-violet-400',
     'text-teal-400',
   ];
-  const speakerColorMap = new Map();
+  const speakerColorMap = new Map<string, string>();
 
-  const getSpeakerMeta = (speaker) => {
+  const getSpeakerMeta = (
+    speaker?: string
+  ): { label: string | null; color: string | null } => {
     if (!speaker) return { label: null, color: null };
     if (!speakerColorMap.has(speaker)) {
       const color =
         speakerPalette[speakerColorMap.size % speakerPalette.length];
       speakerColorMap.set(speaker, color);
     }
-    return { label: speaker, color: speakerColorMap.get(speaker) };
+    return { label: speaker, color: speakerColorMap.get(speaker) ?? null };
   };
 
   return (

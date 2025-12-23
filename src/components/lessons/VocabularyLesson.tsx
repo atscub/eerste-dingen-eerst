@@ -1,8 +1,13 @@
 import AudioButton from '../common/AudioButton';
 import LessonHeader from './LessonHeader';
 import ExerciseSentence from './ExerciseSentence';
+import type { VocabularyLesson as VocabularyLessonData } from '../../types/lessons';
 
-const VocabularyLesson = ({ lesson }) => {
+type VocabularyLessonProps = {
+  lesson: VocabularyLessonData;
+};
+
+const VocabularyLesson = ({ lesson }: VocabularyLessonProps) => {
   return (
     <section className="space-y-6">
       <LessonHeader lesson={lesson} />
