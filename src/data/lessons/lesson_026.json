@@ -1,0 +1,19 @@
+{
+  "id": 26,
+  "title": "Les 26",
+  "subtitle": "¿Dónde está?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Geef me ... boek. Welk boek? ... boek op de tafel.",
+        "spanish": "Dame ... libro. ¿Cuál libro? ... libro en la mesa."
+      },
+      {
+        "dutch": "Geef me een boek. Welk boek? Het boek op de tafel.",
+        "spanish": "Dame un libro. ¿Cuál libro? El libro de la mesa."
+      }
+    ]
+  }
+}

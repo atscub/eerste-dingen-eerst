@@ -1,0 +1,87 @@
+{
+  "id": 105,
+  "title": "Les 105",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "De baas roept Miss Simpson naar zijn kantoor omdat ze een brief vol fouten heeft getypt.",
+        "speaker": "Situatie",
+        "translation": "¿Puedo usar su teléfono, por favor?"
+      },
+      {
+        "text": "Waar is Miss Simpson, Bob? Ik wil haar.",
+        "speaker": "De Baas",
+        "translation": "Claro. Ayúdese usted mismo. Está en el vestíbulo."
+      },
+      {
+        "text": "Wilt u met haar praten, meneer?",
+        "speaker": "Bob",
+        "translation": "¿Puedo hablar con el señor Turner, por favor?"
+      },
+      {
+        "text": "Ja, ik wil. Ik wil dat ze naar mijn kantoor komt. Zeg dat ze meteen moet komen.",
+        "speaker": "De Baas",
+        "translation": "Lo siento. El señor Turner está en este momento fuera de la oficina. ¿Quién llama, por favor?"
+      },
+      {
+        "text": "Wilde u mij zien, meneer?",
+        "speaker": "Miss Simpson",
+        "translation": "Este es el señor Gates."
+      },
+      {
+        "text": "Ah, ja, Miss Simpson. Hoe spel je \"intelligent\"? Kun je het mij vertellen?",
+        "speaker": "De Baas",
+        "translation": "Oh, sí, señor Gates. ¿Quiere dejar un mensaje?"
+      },
+      {
+        "text": "I-N-T-E-L-L-I-G-E-N-T.",
+        "speaker": "Miss Simpson",
+        "translation": "Sí. Por favor dígale que el proyecto debe terminarse antes de las cinco en punto esta tarde."
+      },
+      {
+        "text": "Dat klopt. Je hebt het getypt met slechts één \"L\". Deze brief zit vol fouten. Ik wil dat je hem opnieuw typt.",
+        "speaker": "De Baas",
+        "translation": "Muy bien, señor Gates. Le daré el mensaje tan pronto como él vuelva."
+      },
+      {
+        "text": "Ja, meneer. Het spijt me.",
+        "speaker": "Miss Simpson",
+        "translation": "Gracias. Adiós."
+      },
+      {
+        "text": "En hier is een klein cadeautje voor jou.",
+        "speaker": "De Baas",
+        "translation": ""
+      },
+      {
+        "text": "Wat is het?",
+        "speaker": "Miss Simpson",
+        "translation": ""
+      },
+      {
+        "text": "Het is een woordenboek. Ik hoop dat het je zal helpen.",
+        "speaker": "De Baas",
+        "translation": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Een man in pak zit achter een groot bureau en wenkt een jonge vrouw met een bril naar voren"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Miss Simpson staat voor het bureau terwijl de baas haar een brief laat zien, ze kijkt nerveus"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "De baas wijst naar fouten in de brief, zijn gezicht staat streng maar niet boos"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "De baas geeft Miss Simpson een woordenboek, zij kijkt dankbaar maar een beetje beschaamd"
+      }
+    ]
+  }
+}

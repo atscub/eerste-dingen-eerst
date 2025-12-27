@@ -1,0 +1,30 @@
+{
+  "id": 57,
+  "title": "Les 57",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Niños caminando a la escuela a pie (reloj: 8:00)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Sra. Sawyer en la carnicería (reloj: 10:00)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Sra. Sawyer tomando té en el jardín (reloj: 4:00)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Niños jugando en el jardín en lugar de hacer tarea (reloj: 6:00)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Sr. Sawyer leyendo un libro en lugar del periódico (reloj: 9:00)"
+      }
+    ]
+  }
+}

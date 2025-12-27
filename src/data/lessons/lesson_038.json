@@ -1,0 +1,19 @@
+{
+  "id": 38,
+  "title": "Les 38",
+  "subtitle": "¿Qué vas a hacer? / ¿Qué estás haciendo ahora?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Wat ... je aan het doen?",
+        "spanish": "¿Qué ... estás haciendo?"
+      },
+      {
+        "dutch": "Wat ben je aan het doen?",
+        "spanish": "¿Qué estás haciendo?"
+      }
+    ]
+  }
+}

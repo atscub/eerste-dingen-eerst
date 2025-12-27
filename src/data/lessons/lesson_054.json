@@ -1,0 +1,15 @@
+{
+  "id": 54,
+  "title": "Les 54",
+  "subtitle": "¿De qué nacionalidad son? ¿De dónde vienen?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto: Haz estos de la misma manera:",
+    "example": [
+      {
+        "dutch": "El sol sale temprano. ¿Sale el sol temprano? El sol no sale temprano.",
+        "spanish": "El sol sale temprano. ¿Sale el sol temprano? El sol no sale temprano."
+      }
+    ]
+  }
+}

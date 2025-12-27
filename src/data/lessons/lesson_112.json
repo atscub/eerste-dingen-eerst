@@ -1,0 +1,40 @@
+{
+  "id": 112,
+  "title": "Les 112",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hoe vergelijken ze?**",
+    "examples": [
+      "Deze jurk is lang, maar die is langer.",
+      "Tom is intelligent, maar Bill is intelligenter.",
+      "Grammatica: Hoe vergelijken ze?",
+      "Positieve vergelijkingen:",
+      "Negatieve vergelijkingen:",
+      "Intelligentietests:",
+      "Boeken:",
+      "Bekijk deze zinnen:",
+      "Doe deze op dezelfde manier:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Deze jurk is lang, maar die is... → *Deze jurk is lang, maar die is langer.*",
+    "example": [
+      {
+        "dutch": "Deze jurk is lang, maar die is langer.",
+        "spanish": "Este vestido es largo, pero ese es más largo."
+      },
+      {
+        "dutch": "Tom is intelligent, maar Bill is intelligenter.",
+        "spanish": "Tom es inteligente, pero Bill es más inteligente."
+      },
+      {
+        "dutch": "",
+        "spanish": "Deze jurk is lang, maar die is langer."
+      },
+      {
+        "dutch": "",
+        "spanish": "Tom is intelligent, maar Bill is intelligenter."
+      }
+    ]
+  }
+}

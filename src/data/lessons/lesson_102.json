@@ -1,0 +1,31 @@
+{
+  "id": 102,
+  "title": "Les 102",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hij zegt... zij denkt... zij geloven...**\n\n| Hij | hij |\n|-----|-----|\n| zegt | is... |\n| denkt | voelt zich... |\n| gelooft | heeft... |\n| weet | heeft nodig... |\n| hoopt | wil... |\n| is bang | kan... |\n| is sorry | moet... |\n| is zeker | zal... |",
+    "examples": [
+      "Hij zegt dat hij zijn melk heeft gedronken.",
+      "Grammatica: Hij zegt... zij denkt... zij geloven...",
+      "Gevoelens/toestanden:",
+      "Klachten:",
+      "Behoeften:",
+      "Handelingen:",
+      "Bekijk dit:",
+      "Doe deze op dezelfde manier:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Hij drinkt zijn melk. → *Hij zegt dat hij zijn melk heeft gedronken.*",
+    "example": [
+      {
+        "dutch": "Hij zegt dat hij zijn melk heeft gedronken.",
+        "spanish": "Él dice que ha bebido su leche."
+      },
+      {
+        "dutch": "Hij drinkt zijn melk.",
+        "spanish": "Hij zegt dat hij zijn melk heeft gedronken."
+      }
+    ]
+  }
+}

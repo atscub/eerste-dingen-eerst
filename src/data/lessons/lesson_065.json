@@ -1,0 +1,100 @@
+{
+  "id": 65,
+  "title": "Les 65",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Wat ga je vanavond doen, Betty?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué vas a hacer esta noche, Betty?"
+      },
+      {
+        "text": "Ik ga wat vrienden ontmoeten, pap.",
+        "speaker": "Speaker 2",
+        "translation": "Voy a encontrarme con unos amigos, papá."
+      },
+      {
+        "text": "Je mag niet laat thuiskomen. Je moet om half elf thuis zijn.",
+        "speaker": "Speaker 1",
+        "translation": "No debes llegar a casa tarde. Debes estar en casa a las diez y media."
+      },
+      {
+        "text": "Ik kan niet zo vroeg thuiskomen, pap!",
+        "speaker": "Speaker 2",
+        "translation": "¡No puedo llegar a casa tan temprano, papá!"
+      },
+      {
+        "text": "Mag ik de sleutel van de voordeur, alsjeblieft?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puedo tener la llave de la puerta principal, por favor?"
+      },
+      {
+        "text": "Nee, dat mag niet.",
+        "speaker": "Speaker 2",
+        "translation": "No, no puedes."
+      },
+      {
+        "text": "Betty is achttien jaar oud, Tom. Ze is geen baby. Geef haar de sleutel. Ze komt altijd vroeg thuis.",
+        "speaker": "Speaker 1",
+        "translation": "Betty tiene dieciocho años, Tom. No es una bebé. Dale la llave. Siempre llega a casa temprano."
+      },
+      {
+        "text": "Oh, goed dan!",
+        "speaker": "Speaker 2",
+        "translation": "¡Oh, está bien!"
+      },
+      {
+        "text": "Hier is hij. Maar je mag niet na kwart voor elf thuiskomen. Hoor je me?",
+        "speaker": "Speaker 1",
+        "translation": "Aquí tienes. Pero no debes llegar a casa después de las once menos cuarto. ¿Me oyes?"
+      },
+      {
+        "text": "Ja, pap.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, papá."
+      },
+      {
+        "text": "Dank je, mam.",
+        "speaker": "Speaker 1",
+        "translation": "Gracias, mamá."
+      },
+      {
+        "text": "Dat is prima, lieverd. Tot ziens. Veel plezier!",
+        "speaker": "Speaker 2",
+        "translation": "Eso está bien, querida. Adiós. ¡Disfruta!"
+      },
+      {
+        "text": "We hebben altijd plezier, mam. Tot ziens.",
+        "speaker": "Speaker 1",
+        "translation": "Siempre disfrutamos, mamá. Adiós."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Betty y padre hablando en casa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Padre señalando el reloj, estableciendo hora límite"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Betty pidiendo la llave con expresión esperanzada"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Madre interviniendo, defendiendo a Betty"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Padre entregando la llave a Betty"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Betty y madre despidiéndose, sonriendo"
+      }
+    ]
+  }
+}

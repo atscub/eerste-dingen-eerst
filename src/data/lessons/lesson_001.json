@@ -1,0 +1,74 @@
+{
+  "id": 1,
+  "title": "Les 1",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Pardon!",
+        "speaker": "Speaker 1",
+        "translation": "¡Perdón!"
+      },
+      {
+        "text": "Ja?",
+        "speaker": "Speaker 2",
+        "translation": "¿Sí?"
+      },
+      {
+        "text": "Is dit uw tas?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es éste su bolso?"
+      },
+      {
+        "text": "Pardon?",
+        "speaker": "Speaker 2",
+        "translation": "¿Perdón?"
+      },
+      {
+        "text": "Is dit uw tas?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es éste su bolso?"
+      },
+      {
+        "text": "Ja, dat klopt.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, lo es."
+      },
+      {
+        "text": "Hartelijk dank.",
+        "speaker": "Speaker 1",
+        "translation": "Muchas gracias."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Una mujer caminando por un pasillo de tren, mirando hacia atrás a otra persona"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Una mujer de pie junto a una ventana del tren, volteando para mirar"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Una mujer sosteniendo un bolso rayado, mostrándolo"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Una mujer con expresión confusa, con signo de interrogación en el aire"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Una mujer dentro del compartimento del tren mirando hacia afuera"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Dos mujeres interactuando, una entregando el bolso a la otra"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Dos mujeres sonriendo, una agradeciendo a la otra por el bolso devuelto"
+      }
+    ]
+  }
+}

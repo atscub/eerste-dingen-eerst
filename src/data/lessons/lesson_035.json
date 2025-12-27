@@ -1,0 +1,22 @@
+{
+  "id": 35,
+  "title": "Les 35",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Vista panorámica de un pueblo en un valle entre colinas, con un río atravesándolo"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Pareja caminando junto al río, un niño nadando en el agua"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Edificio escolar al lado de un parque, niños saliendo de la escuela y entrando al parque"
+      }
+    ]
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": 60,
+  "title": "Les 60",
+  "subtitle": "¿Qué hora es?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa estos:",
+    "example": [
+      {
+        "dutch": "No tengo plátano, pero tengo durazno.",
+        "spanish": "No tengo plátano, pero tengo durazno."
+      },
+      {
+        "dutch": "Ik heb geen banaan, maar ik heb wel een perzik.",
+        "spanish": "No tengo plátano, pero tengo un durazno."
+      },
+      {
+        "dutch": "No tengo café, pero tengo leche.",
+        "spanish": "No tengo café, pero tengo leche."
+      },
+      {
+        "dutch": "Ik heb geen koffie, maar ik heb wel wat melk.",
+        "spanish": "No tengo café, pero sí tengo un poco de leche."
+      }
+    ]
+  }
+}

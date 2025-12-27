@@ -1,0 +1,19 @@
+{
+  "id": 62,
+  "title": "Les 62",
+  "subtitle": "¿Qué les pasa? ¿Qué deben hacer?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa estos:",
+    "example": [
+      {
+        "dutch": "Tengo dolor de cabeza. Él tiene dolor de cabeza.",
+        "spanish": "Tengo dolor de cabeza. Él tiene dolor de cabeza."
+      },
+      {
+        "dutch": "Ik heb hoofdpijn. Hij heeft hoofdpijn.",
+        "spanish": "Tengo dolor de cabeza. Él tiene dolor de cabeza."
+      }
+    ]
+  }
+}

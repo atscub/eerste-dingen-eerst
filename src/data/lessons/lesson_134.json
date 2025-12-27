@@ -1,0 +1,17 @@
+{
+  "id": 134,
+  "title": "Les 134",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hij zei (dat) hij... / Hij vertelde me (dat) hij...**\n\n**Afbeeldingen 1-12 tonen indirecte rede:**\n1-3. Ik ben moe. → Wat zei hij? Hij zei (dat) hij moe was.\n4-6. Ik ben aan het lezen. → Wat zei ze? Ze zei (dat) ze aan het lezen was.\n7-9. We willen ons avondeten. → Wat zeiden ze? Ze zeiden (dat) ze hun avondeten wilden.\n10-12. Ik heb mijn huiswerk afgemaakt. → Wat zei hij? Hij zei (dat) hij zijn huiswerk had afgemaakt.",
+    "examples": [
+      "Grammatica: Hij zei (dat) hij... / Hij vertelde me (dat) hij...",
+      "Afbeeldingen 1-12 tonen indirecte rede:",
+      "Lees het gesprek in Les 133 opnieuw. Schrijf dan antwoorden op deze vragen:"
+    ]
+  },
+  "exercise": {
+    "instruction": "1. Heeft Miss Marsh net een nieuwe film gemaakt? 2. Wie stelde haar vragen? 3. Wat gaat Miss Marsh doen? 4. Waarom wil Miss Marsh geen andere film maken?",
+    "example": []
+  }
+}

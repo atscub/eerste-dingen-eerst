@@ -1,0 +1,19 @@
+{
+  "id": 10,
+  "title": "Les 10",
+  "subtitle": "Mire...",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Robert is niet een leraar. .... een ingenieur.",
+        "spanish": "Robert no es un profesor. .... un ingeniero."
+      },
+      {
+        "dutch": "Robert is niet een leraar. Hij is een ingenieur.",
+        "spanish": "Robert no es un profesor. Él es un ingeniero."
+      }
+    ]
+  }
+}

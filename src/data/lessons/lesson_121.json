@@ -1,0 +1,105 @@
+{
+  "id": 121,
+  "title": "Les 121",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Een klant in een boekwinkel die vergeten is zijn woordenboeken mee te nemen.",
+        "speaker": "Situatie",
+        "translation": "Hola, Jane. ¿Has estado en la biblioteca recientemente?"
+      },
+      {
+        "text": "Ik kocht een half uur geleden twee dure woordenboeken hier, maar ik vergat ze mee te nemen.",
+        "speaker": "Klant",
+        "translation": "Sí, estuve allí ayer."
+      },
+      {
+        "text": "Wie bediende u, meneer?",
+        "speaker": "Manager",
+        "translation": "¿Conseguiste sacar algo?"
+      },
+      {
+        "text": "De dame die achter de balie staat.",
+        "speaker": "Klant",
+        "translation": "Sí, saqué tres libros."
+      },
+      {
+        "text": "Welke boeken kocht u?",
+        "speaker": "Manager",
+        "translation": "¿Qué sacaste?"
+      },
+      {
+        "text": "De boeken die op de balie liggen.",
+        "speaker": "Klant",
+        "translation": "Saqué una novela policiaca, una biografía y un libro sobre jardinería."
+      },
+      {
+        "text": "Bediende u deze heer een half uur geleden, Miss Roberts? Hij zegt dat hij de man is die deze boeken kocht.",
+        "speaker": "Manager",
+        "translation": "¿Los has leído ya?"
+      },
+      {
+        "text": "Ik kan me het niet herinneren, meneer. De man die ik bediende droeg een hoed.",
+        "speaker": "Miss Roberts",
+        "translation": "He leído la novela policiaca. Fue realmente emocionante."
+      },
+      {
+        "text": "Heb je een hoed, meneer?",
+        "speaker": "Manager",
+        "translation": "¿Qué tal la biografía?"
+      },
+      {
+        "text": "Ja, ik heb er een.",
+        "speaker": "Klant",
+        "translation": "Aún no la he leído. Pero he hojeado el libro de jardinería. Es muy interesante."
+      },
+      {
+        "text": "Zou je hem willen opzetten, alsjeblieft?",
+        "speaker": "Manager",
+        "translation": "¿Cuánto tiempo puedes quedarte con ellos?"
+      },
+      {
+        "text": "Goed.",
+        "speaker": "Klant",
+        "translation": "Puedo quedarme con ellos durante dos semanas."
+      },
+      {
+        "text": "Is dit de man die je bediende, Miss Roberts?",
+        "speaker": "Manager",
+        "translation": ""
+      },
+      {
+        "text": "Ja, meneer. Ik herken hem nu.",
+        "speaker": "Miss Roberts",
+        "translation": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Een man staat bij de balie van een boekwinkel en praat met de manager, boekenplanken op de achtergrond"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "De manager en een verkoopster kijken naar elkaar, de verkoopster staat achter de balie"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "De klant wijst naar boeken op de balie terwijl hij met de manager praat"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Close-up van de klant die zijn bril opzet en de verkoopster aandachtig bekijkt"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "De klant met zijn bril op, de manager en verkoopster kijken allemaal naar elkaar"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Alle drie lachen nu, de klant draagt nu zijn bril en herkent de verkoopster"
+      }
+    ]
+  }
+}

@@ -46,10 +46,22 @@ const PracticeLesson = ({ lesson }: PracticeLessonProps) => {
               {lesson.exercise.instruction}
             </p>
 
-            {lesson.exercise.sentences &&
-              lesson.exercise.sentences.map((sentence, idx) => (
-                <ExerciseSentence key={idx} sentence={sentence} />
-              ))}
+            {lesson.exercise.example &&
+              lesson.exercise.example.map((example, idx) => {
+                const sentenceText =
+                  example.complete ?? example.dutch ?? example.incomplete;
+                if (!sentenceText) return null;
+
+                return (
+                  <ExerciseSentence
+                    key={idx}
+                    sentence={{
+                      dutch: sentenceText,
+                      spanish: example.spanish ?? undefined,
+                    }}
+                  />
+                );
+              })}
           </div>
         </div>
       )}

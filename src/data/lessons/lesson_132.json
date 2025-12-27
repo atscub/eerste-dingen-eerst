@@ -1,0 +1,17 @@
+{
+  "id": 132,
+  "title": "Les 132",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hij kan... zijn / Hij kan... zijn geweest / Ik weet het niet zeker**\n\n**Afbeeldingen 1-6 tonen onzekerheid:**\n1. Waar is Harry? Hij kan in zijn kamer zijn. Ik weet het niet zeker.\n2. Waar gaat hij heen? Hij kan naar de bioscoop gaan. Ik weet het niet zeker.\n3. Waarom is hij te laat? Hij kan druk zijn. Ik weet het niet zeker.\n4. Wat doet hij? Hij kan aan het lezen zijn. Ik weet het niet zeker.\n5. Waarom was hij te laat? Hij kan druk zijn geweest. Ik weet het niet zeker.\n6. Wat was hij aan het doen? Hij kan aan het lezen zijn geweest. Ik weet het niet zeker.",
+    "examples": [
+      "Grammatica: Hij kan... zijn / Hij kan... zijn geweest / Ik weet het niet zeker",
+      "Afbeeldingen 1-6 tonen onzekerheid:",
+      "Lees het gesprek in Les 131 opnieuw. Schrijf dan antwoorden op deze vragen:"
+    ]
+  },
+  "exercise": {
+    "instruction": "1. Praat Roy met Harry? 2. Waar kunnen Harry en zijn vrouw dit jaar heen gaan? 3. Wie wil naar Egypte gaan? 4. Hoe zullen ze reizen?",
+    "example": []
+  }
+}

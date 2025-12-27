@@ -1,0 +1,15 @@
+{
+  "id": 84,
+  "title": "Les 84",
+  "subtitle": "¿Has tenido...?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto: Haz estos de la misma manera:",
+    "example": [
+      {
+        "dutch": "Ten un poco de café. Ya he tenido un poco. He tenido un plátano. Ya he tenido uno.",
+        "spanish": "Ten un poco de café. Ya he tenido un poco. He tenido un plátano. Ya he tenido uno."
+      }
+    ]
+  }
+}

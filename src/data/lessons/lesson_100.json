@@ -1,0 +1,18 @@
+{
+  "id": 100,
+  "title": "Les 100",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Él está bebiendo su leche. Él dice que está bebiendo su leche.",
+        "spanish": "Él está bebiendo su leche. Él dice que está bebiendo su leche."
+      },
+      {
+        "dutch": "Hij drinkt zijn melk. Hij zegt dat hij zijn melk aan het drinken is.",
+        "spanish": "Él está bebiendo su leche. Él dice que está bebiendo su leche."
+      }
+    ]
+  }
+}

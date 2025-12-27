@@ -1,0 +1,51 @@
+{
+  "id": 46,
+  "title": "Les 46",
+  "subtitle": "¿Puedes...?",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "I can put my hat on, but I can't put my coat on.",
+        "speaker": "Speaker 1",
+        "translation": ""
+      },
+      {
+        "text": "I can see that aeroplane, but I can't see a bird.",
+        "speaker": "Speaker 2",
+        "translation": ""
+      },
+      {
+        "text": "I can paint this book-case, but I can't paint this room.",
+        "speaker": "Speaker 1",
+        "translation": ""
+      },
+      {
+        "text": "I can lift that chair, but I can't lift this table.",
+        "speaker": "Speaker 2",
+        "translation": ""
+      },
+      {
+        "text": "Ik kan mijn hoed opzetten, maar ik kan mijn jas niet aantrekken.",
+        "speaker": "Speaker 1",
+        "translation": ""
+      },
+      {
+        "text": "Ik kan dat vliegtuig zien, maar ik kan geen vogel zien.",
+        "speaker": "Speaker 2",
+        "translation": ""
+      },
+      {
+        "text": "Ik kan deze boekenplank schilderen, maar ik kan deze kamer niet schilderen.",
+        "speaker": "Speaker 1",
+        "translation": ""
+      },
+      {
+        "text": "Ik kan die stoel optillen, maar ik kan deze tafel niet optillen.",
+        "speaker": "Speaker 2",
+        "translation": ""
+      }
+    ],
+    "images": []
+  }
+}

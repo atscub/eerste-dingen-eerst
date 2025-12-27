@@ -51,6 +51,25 @@ const practiceLesson: Lesson = {
   ],
 };
 
+const grammarLesson: Lesson = {
+  id: 4,
+  title: 'Grammar',
+  type: 'grammar',
+  grammar: {
+    explanation: 'Basic grammar rules',
+    examples: ['Example one'],
+  },
+  exercise: {
+    instruction: 'Complete the sentence',
+    example: [
+      {
+        dutch: 'Ik ben student.',
+        spanish: 'Soy estudiante.',
+      },
+    ],
+  },
+};
+
 describe('LessonViewer', () => {
   it('renders dialogue lessons', () => {
     render(<LessonViewer lesson={dialogueLesson} />);
@@ -72,6 +91,14 @@ describe('LessonViewer', () => {
 
     expect(screen.getByText('Hoe gaat het?')).toBeInTheDocument();
     expect(screen.getByText(/Pr.ctica/)).toBeInTheDocument();
+  });
+
+  it('renders grammar lessons', () => {
+    render(<LessonViewer lesson={grammarLesson} />);
+
+    expect(screen.getAllByText(/Gram.tica/).length).toBeGreaterThan(0);
+    expect(screen.getByText('Basic grammar rules')).toBeInTheDocument();
+    expect(screen.getByText('Ik ben student.')).toBeInTheDocument();
   });
 
   it('renders nothing when lesson is missing', () => {

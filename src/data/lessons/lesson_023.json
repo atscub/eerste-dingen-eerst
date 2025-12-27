@@ -1,0 +1,75 @@
+{
+  "id": 23,
+  "title": "Les 23",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Geef me wat glazen, alsjeblieft, Jane.",
+        "speaker": "Speaker 1",
+        "translation": "Dame unos vasos, por favor, Jane."
+      },
+      {
+        "text": "Welke glazen?",
+        "speaker": "Speaker 2",
+        "translation": "¿Qué vasos?"
+      },
+      {
+        "text": "Deze?",
+        "speaker": "Speaker 1",
+        "translation": "¿Éstos?"
+      },
+      {
+        "text": "Nee, niet die. Die op de plank.",
+        "speaker": "Speaker 2",
+        "translation": "No, no ésos. Los que están en el estante."
+      },
+      {
+        "text": "Deze?",
+        "speaker": "Speaker 1",
+        "translation": "¿Éstos?"
+      },
+      {
+        "text": "Ja, alsjeblieft.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, por favor."
+      },
+      {
+        "text": "Alsjeblieft.",
+        "speaker": "Speaker 1",
+        "translation": "Aquí tienes."
+      },
+      {
+        "text": "Dank je.",
+        "speaker": "Speaker 2",
+        "translation": "Gracias."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Hombre y mujer en un bar/cocina con muchos vasos"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Mujer mirando los vasos en diferentes lugares con expresión confusa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Mujer señalando algunos vasos en una mesa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Hombre señalando específicamente hacia el estante de la pared"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Mujer alcanzando los vasos correctos en el estante"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Mujer entregando los vasos al hombre satisfecho"
+      }
+    ]
+  }
+}

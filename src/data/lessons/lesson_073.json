@@ -1,0 +1,34 @@
+{
+  "id": 73,
+  "title": "Les 73",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Sra. Mills en Londres mirando alrededor, perdida"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Sra. Mills viendo a un hombre en la parada de autobús"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Sra. Mills hablando con el hombre, preguntando direcciones"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "El hombre sonriendo pero luciendo confundido"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "El hombre sacando un libro de frases de su bolsillo"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "El hombre leyendo del libro de frases"
+      }
+    ]
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "id": 32,
+  "title": "Les 32",
+  "subtitle": "¿Qué está haciendo él/ella?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Haz estos de la misma manera:",
+    "example": [
+      {
+        "dutch": "Veeg de vloer! Ze veegt het.",
+        "spanish": "¡Barre el suelo! Ella lo barre."
+      }
+    ]
+  }
+}

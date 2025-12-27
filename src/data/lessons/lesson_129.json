@@ -1,0 +1,110 @@
+{
+  "id": 129,
+  "title": "Les 129",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Een politieagent houdt Harry en Ann aan omdat Harry te hard reed.",
+        "speaker": "Situatie",
+        "translation": "Un policía detiene a Harry y Ann porque Harry conducía demasiado rápido."
+      },
+      {
+        "text": "Kijk, Harry! Die politieagent zwaait naar je. Hij wil dat je stopt.",
+        "speaker": "Ann",
+        "translation": "¡Mira, Harry! Ese policía te está haciendo señas. Quiere que pares."
+      },
+      {
+        "text": "Waar denk je dat je bent? Op een racebaan? Je moet zeventig mijl per uur hebben gereden.",
+        "speaker": "Politieagent",
+        "translation": "¿Dónde crees que estás? ¿En una pista de carreras? Debes haber estado conduciendo a setenta millas por hora."
+      },
+      {
+        "text": "Ik kan niet hebben. Ik deed tachtig toen ik je inhaalde.",
+        "speaker": "Harry",
+        "translation": "No puedo haber estado. Estaba haciendo ochenta cuando te adelanté."
+      },
+      {
+        "text": "Ik deed tachtig toen ik je inhaalde.",
+        "speaker": "Politieagent",
+        "translation": "Estaba haciendo ochenta cuando te adelanté."
+      },
+      {
+        "text": "Zag je de snelheidslimiet niet?",
+        "speaker": "Politieagent",
+        "translation": "¿No viste el límite de velocidad?"
+      },
+      {
+        "text": "Ik ben bang dat ik hem niet zag, agent. Ik moet hebben gedroomd.",
+        "speaker": "Harry",
+        "translation": "Me temo que no lo vi, oficial. Debo haber estado soñando."
+      },
+      {
+        "text": "Hij droomde niet, agent. Ik vertelde hem langzaam te rijden.",
+        "speaker": "Ann",
+        "translation": "No estaba soñando, oficial. Le dije que condujera despacio."
+      },
+      {
+        "text": "Daarom zag ik het bord niet.",
+        "speaker": "Harry",
+        "translation": "Por eso no vi la señal."
+      },
+      {
+        "text": "Laat me je rijbewijs en je verzekeringscertificaat zien.",
+        "speaker": "Politieagent",
+        "translation": "Déjame ver tu licencia de conducir y tu certificado de seguro."
+      },
+      {
+        "text": "Ik zal je deze keer niet beboeten. Maar je zou beter niet opnieuw moeten doen!",
+        "speaker": "Politieagent",
+        "translation": "No te multaré esta vez. ¡Pero mejor no lo hagas de nuevo!"
+      },
+      {
+        "text": "Dank je. Ik zal zeker voorzichtiger zijn.",
+        "speaker": "Harry",
+        "translation": "Gracias. Ciertamente tendré más cuidado."
+      },
+      {
+        "text": "Ik zei je langzaam te rijden, Harry.",
+        "speaker": "Ann",
+        "translation": "Te dije que conducieras despacio, Harry."
+      },
+      {
+        "text": "Je zegt me altijd langzaam te rijden, lieverd.",
+        "speaker": "Harry",
+        "translation": "Siempre me dices que conduzca despacio, querida."
+      },
+      {
+        "text": "Nou, volgende keer kun je beter mijn advies opvolgen!",
+        "speaker": "Ann",
+        "translation": "Bueno, ¡la próxima vez será mejor que sigas mi consejo!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Een politieagent zwaait naar een auto om te stoppen, snelheidsbord \"40\" zichtbaar"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "De politieagent buigt zich naar het raam van de auto, Harry en Ann zitten binnen"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Close-up van de politieagent die naar Harry's gezicht kijkt bij het snelheidsbord"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "De politieagent onderzoekt Harry's rijbewijs en verzekeringspapieren"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "De politieagent geeft de papieren terug aan Harry terwijl Ann toekijkt"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Ann wijst beschuldigend naar Harry terwijl de politieagent wegrijdt op de achtergrond"
+      }
+    ]
+  }
+}

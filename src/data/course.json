@@ -1,0 +1,64 @@
+{
+  "courseTitle": "Eerste Dingen Eerst",
+  "courseSubtitle": "Nederlands voor Spaanssprekenden",
+  "pronunciation": {
+    "title": "Pronunciatie Tips voor Spanstaligen",
+    "subtitle": "Pronunciation Tips for Spanish Speakers",
+    "tips": [
+      {
+        "letter": "g en ch",
+        "description": "Zoals de Spaanse 'j' maar sterker",
+        "examples": [
+          "goedemorgen",
+          "acht"
+        ],
+        "spanish": "Como la 'j' española pero más fuerte"
+      },
+      {
+        "letter": "ui",
+        "description": "Geen equivalent in Spaans",
+        "examples": [
+          "huis",
+          "uit"
+        ],
+        "spanish": "No tiene equivalente en español"
+      },
+      {
+        "letter": "ij/ei",
+        "description": "Zoals 'ay' in Engels",
+        "examples": [
+          "mijn",
+          "zijn"
+        ],
+        "spanish": "Como 'ay' en inglés"
+      },
+      {
+        "letter": "oe",
+        "description": "Zoals 'u' in Spaans",
+        "examples": [
+          "goed",
+          "boek"
+        ],
+        "spanish": "Como la 'u' en español"
+      },
+      {
+        "letter": "w",
+        "description": "Tussen 'v' en 'w'",
+        "examples": [
+          "wat",
+          "wie"
+        ],
+        "spanish": "Entre 'v' y 'w'"
+      },
+      {
+        "letter": "v",
+        "description": "Zoals 'f' maar met stem",
+        "examples": [
+          "vrouw",
+          "van"
+        ],
+        "spanish": "Como 'f' pero con voz"
+      }
+    ]
+  }
+}

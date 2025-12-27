@@ -1,0 +1,91 @@
+{
+  "id": 125,
+  "title": "Les 125",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Susan vraagt Peter of hij kan komen voor thee, maar hij moet eerst de tuin sproeien.",
+        "speaker": "Situatie",
+        "translation": "¿Qué harás este fin de semana, Linda?"
+      },
+      {
+        "text": "Kun je nu binnenkomen en thee drinken, Peter?",
+        "speaker": "Susan",
+        "translation": "No estoy segura todavía."
+      },
+      {
+        "text": "Nog niet, lieverd. Ik moet eerst de tuin sproeien.",
+        "speaker": "Peter",
+        "translation": "¿Por qué no vienes con nosotros? Vamos a ir a la playa."
+      },
+      {
+        "text": "Moet je hem nu sproeien?",
+        "speaker": "Susan",
+        "translation": "Me encantaría, pero tengo que terminar mi proyecto."
+      },
+      {
+        "text": "Ik ben bang van wel. Kijk ernaar! Hij is vreselijk droog.",
+        "speaker": "Peter",
+        "translation": "Oh, vamos. Puedes hacer eso la próxima semana."
+      },
+      {
+        "text": "Wat vervelend!",
+        "speaker": "Susan",
+        "translation": "No, de verdad no puedo. Tengo que entregarlo el lunes."
+      },
+      {
+        "text": "Afgelopen zomer was het ook erg droog, weet je nog? Ik moest hem elke dag sproeien.",
+        "speaker": "Peter",
+        "translation": "¿Qué estás escribiendo?"
+      },
+      {
+        "text": "Nou, ik zal zelf thee drinken.",
+        "speaker": "Susan",
+        "translation": "Es un ensayo sobre la contaminación ambiental."
+      },
+      {
+        "text": "Dat was snel! Heb je al afgemaakt?",
+        "speaker": "Susan",
+        "translation": "Suena interesante. ¿Cuánto tiempo llevas trabajando en ello?"
+      },
+      {
+        "text": "Ja, lieverd. Kijk uit het raam.",
+        "speaker": "Peter",
+        "translation": "He estado trabajando en ello durante dos semanas."
+      },
+      {
+        "text": "Goede hemel! Het regent. Dat betekent dat je de tuin niet hoeft te sproeien.",
+        "speaker": "Susan",
+        "translation": "Bueno, buena suerte con eso."
+      },
+      {
+        "text": "Dat was een aangename verrassing. Het betekent dat ik in plaats daarvan thee kan drinken.",
+        "speaker": "Peter",
+        "translation": "Gracias. Que te diviertas en la playa."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Peter is in de tuin aan het werk met een tuinslang, Susan roept vanaf het huis"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Peter onderzoekt de droge aarde terwijl Susan uit het raam kijkt"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Peter wijst naar de tuin terwijl hij met Susan praat die bij de deur staat"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Het begint te regenen, Peter kijkt verbaasd naar de lucht"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Susan en Peter staan binnen bij het raam en kijken naar de regen, beiden glimlachen"
+      }
+    ]
+  }
+}

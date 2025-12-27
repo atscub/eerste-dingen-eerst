@@ -1,0 +1,17 @@
+{
+  "id": 140,
+  "title": "Les 140",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hij wil weten of/waarom/wat/wanneer...**\n\n**Afbeeldingen 1-9 tonen indirecte vragen:**\n1-3. Ben je moe? / Waarom ben je moe? → Hij wil weten of je moe bent. / Hij wil weten waarom je moe bent.\n4-6. Lees je? / Wat ben je aan het lezen? → Hij wil weten of je aan het lezen bent. / Hij wil weten wat je aan het lezen bent.\n7-9. Doet Tom altijd zijn huiswerk? / Wanneer doet Tom zijn huiswerk? → Hij wil weten of Tom altijd zijn huiswerk doet. / Hij wil weten wanneer Tom zijn huiswerk doet.",
+    "examples": [
+      "Grammatica: Hij wil weten of/waarom/wat/wanneer...",
+      "Afbeeldingen 1-9 tonen indirecte vragen:",
+      "Lees het gesprek in Les 139 opnieuw. Schrijf dan antwoorden op deze vragen:"
+    ]
+  },
+  "exercise": {
+    "instruction": "1. Spreekt meneer Grimes niet met John Smith? 2. Wie nodigde meneer en mevrouw Grimes voor het avondeten uit? 3. Hoe laat zei meneer Grimes dat hij er zou zijn? 4. Waarom kan hij niet om zes uur daar zijn?",
+    "example": []
+  }
+}

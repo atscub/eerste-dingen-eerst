@@ -1,0 +1,49 @@
+{
+  "id": 41,
+  "title": "Les 41",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Is die tas zwaar, Mary?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es esa bolsa pesada, Mary?"
+      },
+      {
+        "text": "Niet erg zwaar.",
+        "speaker": "Speaker 2",
+        "translation": "No muy pesada."
+      },
+      {
+        "text": "Hier! Zet hem op deze stoel. Wat zit erin?",
+        "speaker": "Speaker 1",
+        "translation": "¡Aquí! Ponla sobre esta silla. ¿Qué hay en ella?"
+      },
+      {
+        "text": "Een stuk kaas.",
+        "speaker": "Speaker 2",
+        "translation": "Un pedazo de queso."
+      },
+      {
+        "text": "Is dat blik tabak voor mij?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es esa lata de tabaco para mí?"
+      },
+      {
+        "text": "Nou, het is zeker niet voor mij!",
+        "speaker": "Speaker 2",
+        "translation": "Bueno, ¡ciertamente no es para mí!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "John y Mary con una bolsa de compras"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "John y Mary mirando la lata de tabaco con expresión irónica"
+      }
+    ]
+  }
+}

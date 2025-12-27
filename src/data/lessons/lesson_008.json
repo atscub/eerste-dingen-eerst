@@ -1,0 +1,98 @@
+{
+  "id": 8,
+  "title": "Les 8",
+  "subtitle": "¿Cuál es su profesión?",
+  "type": "vocabulary",
+  "items": [
+    {
+      "number": 1,
+      "dutch": "de politieagent",
+      "english": "policeman",
+      "spanish": "el policía",
+      "illustration": "Illustratie van de politieagent"
+    },
+    {
+      "number": 2,
+      "dutch": "de politieagente",
+      "english": "policewoman",
+      "spanish": "la mujer policía",
+      "illustration": "Illustratie van de politieagente"
+    },
+    {
+      "number": 3,
+      "dutch": "de taxichauffeur",
+      "english": "taxi driver",
+      "spanish": "el taxista",
+      "illustration": "Illustratie van de taxichauffeur"
+    },
+    {
+      "number": 4,
+      "dutch": "de stewardess",
+      "english": "air hostess",
+      "spanish": "la azafata",
+      "illustration": "Illustratie van de stewardess"
+    },
+    {
+      "number": 5,
+      "dutch": "de postbode",
+      "english": "postman",
+      "spanish": "el cartero",
+      "illustration": "Illustratie van de postbode"
+    },
+    {
+      "number": 6,
+      "dutch": "de verpleegster",
+      "english": "nurse",
+      "spanish": "la enfermera",
+      "illustration": "Illustratie van de verpleegster"
+    },
+    {
+      "number": 7,
+      "dutch": "de monteur",
+      "english": "mechanic",
+      "spanish": "el mecánico",
+      "illustration": "Illustratie van de monteur"
+    },
+    {
+      "number": 8,
+      "dutch": "de kapper",
+      "english": "hairdresser",
+      "spanish": "el peluquero",
+      "illustration": "Illustratie van de kapper"
+    },
+    {
+      "number": 9,
+      "dutch": "de huisvrouw",
+      "english": "housewife",
+      "spanish": "el ama de casa",
+      "illustration": "Illustratie van de huisvrouw"
+    },
+    {
+      "number": 10,
+      "dutch": "de melkboer",
+      "english": "milkman",
+      "spanish": "el lechero",
+      "illustration": "Illustratie van de melkboer"
+    },
+    {
+      "number": 11,
+      "dutch": "de ingenieur",
+      "english": "engineer",
+      "spanish": "el ingeniero",
+      "illustration": "Illustratie van de ingenieur"
+    }
+  ],
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Mijn naam ... Stella. | ... Spaans.",
+        "spanish": "Mi nombre ... Stella. | ... española."
+      },
+      {
+        "dutch": "Mijn naam is Stella. | Ik ben Spaans.",
+        "spanish": "Mi nombre es Stella. | Soy española."
+      }
+    ]
+  }
+}

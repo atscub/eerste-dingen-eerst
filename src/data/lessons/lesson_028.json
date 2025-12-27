@@ -1,0 +1,23 @@
+{
+  "id": 28,
+  "title": "Les 28",
+  "subtitle": "¿Dónde están?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa estos: Ahora mira esto:",
+    "example": [
+      {
+        "dutch": "een boek – wat boeken; een man – wat mannen; een huisvrouw – wat huisvrouwen.",
+        "spanish": "un libro – algunos libros; un hombre – algunos hombres; un ama de casa – algunas amas de casa."
+      },
+      {
+        "dutch": "Er is een boek op het bureau.",
+        "spanish": "Hay un libro sobre el escritorio."
+      },
+      {
+        "dutch": "Er zijn wat boeken op het bureau.",
+        "spanish": "Hay algunos libros sobre el escritorio."
+      }
+    ]
+  }
+}

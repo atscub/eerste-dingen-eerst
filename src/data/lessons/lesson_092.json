@@ -1,0 +1,14 @@
+{
+  "id": 92,
+  "title": "Les 92",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto: Escribe estos nuevamente. Usa formas cortas:",
+    "example": [
+      {
+        "dutch": "Lloverá mañana. Va a llover mañana.",
+        "spanish": "Lloverá mañana. Va a llover mañana."
+      }
+    ]
+  }
+}

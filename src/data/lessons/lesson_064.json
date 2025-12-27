@@ -1,0 +1,19 @@
+{
+  "id": 64,
+  "title": "Les 64",
+  "subtitle": "¡No...! ¡No debes...!",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "No debo tomar aspirinas.",
+        "spanish": "No debo tomar aspirinas."
+      },
+      {
+        "dutch": "Jimmy no debe tomar aspirinas.",
+        "spanish": "Jimmy no debe tomar aspirinas."
+      }
+    ]
+  }
+}

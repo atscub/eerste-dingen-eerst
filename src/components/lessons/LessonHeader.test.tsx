@@ -31,18 +31,30 @@ const buildLesson = (type: LessonType): Lesson => {
     };
   }
 
+  if (type === 'practice') {
+    return {
+      id: 3,
+      title: 'Lesson Three',
+      type,
+      items: [
+        {
+          number: 1,
+          question: 'Hoe gaat het?',
+          translation: 'How are you?',
+          illustration: 'greeting',
+        },
+      ],
+    };
+  }
+
   return {
-    id: 3,
-    title: 'Lesson Three',
+    id: 4,
+    title: 'Lesson Four',
     type,
-    items: [
-      {
-        number: 1,
-        question: 'Hoe gaat het?',
-        translation: 'How are you?',
-        illustration: 'greeting',
-      },
-    ],
+    grammar: {
+      explanation: 'Basic grammar',
+      examples: ['Example one'],
+    },
   };
 };
 
@@ -56,6 +68,9 @@ describe('LessonHeader', () => {
 
     rerender(<LessonHeader lesson={buildLesson('practice')} />);
     expect(screen.getByText(/Pr.ctica/)).toBeInTheDocument();
+
+    rerender(<LessonHeader lesson={buildLesson('grammar')} />);
+    expect(screen.getByText(/Gram.tica/)).toBeInTheDocument();
   });
 
   it('renders the subtitle when provided', () => {

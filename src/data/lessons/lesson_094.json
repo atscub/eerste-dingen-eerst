@@ -1,0 +1,18 @@
+{
+  "id": 94,
+  "title": "Les 94",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Él fue a Accra el año pasado.",
+        "spanish": "Él fue a Accra el año pasado."
+      },
+      {
+        "dutch": "Hij zal volgend jaar naar Accra gaan.",
+        "spanish": "Él irá a Accra el próximo año."
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+{
+  "id": 34,
+  "title": "Les 34",
+  "subtitle": "¿Qué están haciendo?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "nemen – nemend",
+        "spanish": "tomar – tomando"
+      },
+      {
+        "dutch": "Neem ... Hij neemt zijn boek.",
+        "spanish": "Toma ... Él toma su libro."
+      }
+    ]
+  }
+}

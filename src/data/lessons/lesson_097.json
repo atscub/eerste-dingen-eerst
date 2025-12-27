@@ -1,0 +1,123 @@
+{
+  "id": 97,
+  "title": "Les 97",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Ik liet eergisteren een koffer achter in de trein naar Londen.",
+        "speaker": "Speaker 1",
+        "translation": "Dejé una maleta en el tren a Londres el otro día."
+      },
+      {
+        "text": "Kunt u hem beschrijven, meneer?",
+        "speaker": "Speaker 2",
+        "translation": "¿Puede describirla, señor?"
+      },
+      {
+        "text": "Het is een kleine blauwe koffer en hij heeft een rits. Er is een label aan de hendel met mijn naam en adres erop.",
+        "speaker": "Speaker 1",
+        "translation": "Es una maleta azul pequeña y tiene cremallera. Hay una etiqueta en el asa con mi nombre y dirección."
+      },
+      {
+        "text": "Is dit uw koffer?",
+        "speaker": "Speaker 2",
+        "translation": "¿Es esta maleta suya?"
+      },
+      {
+        "text": "Nee, dat is de mijne niet.",
+        "speaker": "Speaker 1",
+        "translation": "No, esa no es mía."
+      },
+      {
+        "text": "Wat dacht u van deze?",
+        "speaker": "Speaker 2",
+        "translation": "¿Qué tal esta?"
+      },
+      {
+        "text": "Laat me hem zien.",
+        "speaker": "Speaker 1",
+        "translation": "Déjame verla."
+      },
+      {
+        "text": "Wat is uw naam en adres?",
+        "speaker": "Speaker 2",
+        "translation": "¿Cuál es su nombre y dirección?"
+      },
+      {
+        "text": "David Hall, 83, Bridge Street.",
+        "speaker": "Speaker 1",
+        "translation": "David Hall, 83, Bridge Street."
+      },
+      {
+        "text": "Dat klopt. D. N. Hall, 83, Bridge Street.",
+        "speaker": "Speaker 2",
+        "translation": "Eso es correcto. D. N. Hall, 83, Bridge Street."
+      },
+      {
+        "text": "Vijf shilling, alstublieft.",
+        "speaker": "Speaker 1",
+        "translation": "Cinco chelines, por favor."
+      },
+      {
+        "text": "Alstublieft.",
+        "speaker": "Speaker 2",
+        "translation": "Aquí tiene."
+      },
+      {
+        "text": "Dank u.",
+        "speaker": "Speaker 1",
+        "translation": "Gracias."
+      },
+      {
+        "text": "Hé!",
+        "speaker": "Speaker 2",
+        "translation": "¡Oye!"
+      },
+      {
+        "text": "Wat is er?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué pasa?"
+      },
+      {
+        "text": "Deze koffer is niet van mij! U heeft me de verkeerde koffer gegeven!",
+        "speaker": "Speaker 2",
+        "translation": "¡Esta maleta no me pertenece! ¡Me has dado la maleta equivocada!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Cartel \"LOST PROPERTY\" con Sr. Hall en el mostrador"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Empleado mostrando una maleta"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Sr. Hall examinando la maleta con etiqueta"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Empleado señalando otra maleta"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Primer plano de la etiqueta con \"D.N. HALL, 83 BRIDGE STREET\""
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Sr. Hall pagando al empleado"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Sr. Hall llamando la atención del empleado"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+8",
+        "alt": "Sr. Hall mostrando que es la maleta equivocada"
+      }
+    ]
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "id": 88,
+  "title": "Les 88",
+  "subtitle": "¿Has... todavía?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Él compró una casa el año pasado.",
+        "spanish": "Él compró una casa el año pasado."
+      },
+      {
+        "dutch": "PREGUNTA: ¿Compró una casa el año pasado?",
+        "spanish": "PREGUNTA: ¿Compró una casa el año pasado?"
+      },
+      {
+        "dutch": "NEGATIVO: No compró una casa el año pasado.",
+        "spanish": "NEGATIVO: No compró una casa el año pasado."
+      }
+    ]
+  }
+}

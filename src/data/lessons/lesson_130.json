@@ -1,0 +1,29 @@
+{
+  "id": 130,
+  "title": "Les 130",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hij kan niet... zijn geweest / Hij moet... zijn geweest**\n\n**Afbeeldingen 1-8 tonen conclusies over het verleden:**\n1. Hij kan niet ziek zijn geweest. Hij moet moe zijn geweest.\n2. Het kan niet mijn nieuwe hoed zijn geweest. Het moet mijn oude zijn geweest.\n3. Ze kan niet Deens zijn geweest. Ze moet Zweeds zijn geweest.\n4. Hij kan geen tandarts zijn geweest. Hij moet een dokter zijn geweest.\n5. Ze kan geen veertig zijn geweest. Ze moet vijftig zijn geweest.\n6. Het kan niet de 20e zijn geweest. Het moet de 21e zijn geweest.\n7. Hij kan niet de jongste zijn geweest. Hij moet de oudste zijn geweest.\n8. Hij kan niet aan het lezen zijn geweest. Hij moet aan het slapen zijn geweest.",
+    "examples": [
+      "moest",
+      "moet",
+      "Grammatica: Hij kan niet... zijn geweest / Hij moet... zijn geweest",
+      "Afbeeldingen 1-8 tonen conclusies over het verleden:",
+      "Bekijk deze zinnen:",
+      "Kopieer deze zinnen. Vul in: had to of must have been."
+    ]
+  },
+  "exercise": {
+    "instruction": "Hij is erg moe omdat hij *moest* vroeg opstaan vanmorgen. Hij is niet vroeg opgestaan vanmorgen. Hij *moet* moe zijn geweest.",
+    "example": [
+      {
+        "dutch": "moest",
+        "spanish": "debía"
+      },
+      {
+        "dutch": "moet",
+        "spanish": "debe"
+      }
+    ]
+  }
+}

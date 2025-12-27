@@ -1,0 +1,91 @@
+{
+  "id": 12,
+  "title": "Les 12",
+  "subtitle": "¿De quién es esto...? / Esto es mi/tu/su...",
+  "type": "vocabulary",
+  "items": [
+    {
+      "number": 1,
+      "dutch": "de tas",
+      "english": "handbag",
+      "spanish": "el bolso",
+      "illustration": "Illustratie van de tas"
+    },
+    {
+      "number": 2,
+      "dutch": "de auto",
+      "english": "car",
+      "spanish": "el coche",
+      "illustration": "Illustratie van de auto"
+    },
+    {
+      "number": 3,
+      "dutch": "de jas",
+      "english": "coat",
+      "spanish": "el abrigo",
+      "illustration": "Illustratie van de jas"
+    },
+    {
+      "number": 4,
+      "dutch": "de paraplu",
+      "english": "umbrella",
+      "spanish": "el paraguas",
+      "illustration": "Illustratie van de paraplu"
+    },
+    {
+      "number": 5,
+      "dutch": "de pen",
+      "english": "pen",
+      "spanish": "la pluma",
+      "illustration": "Illustratie van de pen"
+    },
+    {
+      "number": 6,
+      "dutch": "de jurk",
+      "english": "dress",
+      "spanish": "el vestido",
+      "illustration": "Illustratie van de jurk"
+    },
+    {
+      "number": 7,
+      "dutch": "het pak",
+      "english": "suit",
+      "spanish": "el traje",
+      "illustration": "Illustratie van het pak"
+    },
+    {
+      "number": 8,
+      "dutch": "de rok",
+      "english": "skirt",
+      "spanish": "la falda",
+      "illustration": "Illustratie van de rok"
+    },
+    {
+      "number": 9,
+      "dutch": "de blouse",
+      "english": "blouse",
+      "spanish": "la blusa",
+      "illustration": "Illustratie van de blouse"
+    },
+    {
+      "number": 10,
+      "dutch": "de das",
+      "english": "tie",
+      "spanish": "la corbata",
+      "illustration": "Illustratie van de das"
+    }
+  ],
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Hans is hier. Dat is ... auto.",
+        "spanish": "Hans está aquí. Ese es ... coche."
+      },
+      {
+        "dutch": "Hans is hier. Dat is zijn auto.",
+        "spanish": "Hans está aquí. Ese es su coche."
+      }
+    ]
+  }
+}

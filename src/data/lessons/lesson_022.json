@@ -1,0 +1,19 @@
+{
+  "id": 22,
+  "title": "Les 22",
+  "subtitle": "Dame/le/nos/les un...",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Is dit het overhemd van Tim? Nee, het is het niet. ... overhemd is wit.",
+        "spanish": "¿Es esta la camisa de Tim? No, no lo es. ... camisa es blanca."
+      },
+      {
+        "dutch": "Is dit het overhemd van Tim? Nee, het is het niet. Zijn overhemd is wit.",
+        "spanish": "¿Es esta la camisa de Tim? No, no lo es. Su camisa es blanca."
+      }
+    ]
+  }
+}

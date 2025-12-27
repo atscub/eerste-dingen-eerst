@@ -1,0 +1,113 @@
+{
+  "id": 15,
+  "title": "Les 15",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Zijn jullie Zweeds?",
+        "speaker": "Speaker 1",
+        "translation": "¿Son ustedes suecas?"
+      },
+      {
+        "text": "Nee, dat zijn we niet. We zijn Deens.",
+        "speaker": "Speaker 2",
+        "translation": "No, no lo somos. Somos danesas."
+      },
+      {
+        "text": "Zijn jullie vriendinnen ook Deens?",
+        "speaker": "Speaker 1",
+        "translation": "¿Son sus amigas danesas, también?"
+      },
+      {
+        "text": "Nee, dat zijn ze niet. Zij zijn Noors.",
+        "speaker": "Speaker 2",
+        "translation": "No, no lo son. Ellas son noruegas."
+      },
+      {
+        "text": "Jullie paspoorten, alstublieft.",
+        "speaker": "Speaker 1",
+        "translation": "Sus pasaportes, por favor."
+      },
+      {
+        "text": "Alstublieft.",
+        "speaker": "Speaker 2",
+        "translation": "Aquí están."
+      },
+      {
+        "text": "Zijn dit jullie koffers?",
+        "speaker": "Speaker 1",
+        "translation": "¿Son éstas sus maletas?"
+      },
+      {
+        "text": "Nee, dat zijn ze niet.",
+        "speaker": "Speaker 2",
+        "translation": "No, no lo son."
+      },
+      {
+        "text": "Onze koffers zijn bruin. Hier zijn ze.",
+        "speaker": "Speaker 1",
+        "translation": "Nuestras maletas son marrones. Aquí están."
+      },
+      {
+        "text": "Zijn jullie toeristen?",
+        "speaker": "Speaker 2",
+        "translation": "¿Son ustedes turistas?"
+      },
+      {
+        "text": "Ja, dat zijn we.",
+        "speaker": "Speaker 1",
+        "translation": "Sí, lo somos."
+      },
+      {
+        "text": "Zijn jullie vriendinnen ook toeristen?",
+        "speaker": "Speaker 2",
+        "translation": "¿Son sus amigas turistas también?"
+      },
+      {
+        "text": "Ja, dat zijn ze.",
+        "speaker": "Speaker 1",
+        "translation": "Sí, lo son."
+      },
+      {
+        "text": "Dat is prima. Hartelijk dank.",
+        "speaker": "Speaker 2",
+        "translation": "Está bien. Muchas gracias."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Funcionario de aduanas hablando con un grupo de chicas con equipaje"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Las chicas mostrando que no son suecas, señalando hacia Dinamarca"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Las chicas entregando sus pasaportes al funcionario"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Funcionario señalando unas maletas grises mientras las chicas niegan con la cabeza"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Las chicas señalando sus propias maletas marrones"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Funcionario preguntando si son turistas, las chicas asintiendo"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Grupo completo de chicas con todo su equipaje"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+8",
+        "alt": "Funcionario despidiendo al grupo, gesto de aprobación"
+      }
+    ]
+  }
+}

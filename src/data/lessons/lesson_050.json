@@ -1,0 +1,19 @@
+{
+  "id": 50,
+  "title": "Les 50",
+  "subtitle": "Le gusta... pero no le gusta...",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Completa con: **ben**, **ben niet**, **zijn niet**, **is niet**, **kan niet**, **hou niet van**, **doet niet**.",
+    "example": [
+      {
+        "dutch": "Ze houdt van aardappelen, maar ik ...",
+        "spanish": "A ella le gustan las patatas, pero yo ..."
+      },
+      {
+        "dutch": "Ze houdt van aardappelen, maar ik niet.",
+        "spanish": "A ella le gustan las patatas, pero a mí no."
+      }
+    ]
+  }
+}

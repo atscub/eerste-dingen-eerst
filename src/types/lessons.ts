@@ -1,4 +1,4 @@
-export type LessonType = 'dialogue' | 'vocabulary' | 'practice';
+export type LessonType = 'dialogue' | 'vocabulary' | 'practice' | 'grammar';
 
 export interface DialogueLine {
   text: string;
@@ -81,11 +81,27 @@ export interface PracticeLesson extends LessonBase {
   items: PracticeItem[];
   exercise?: {
     instruction: string;
-    sentences?: ExerciseSentence[];
+    example?: ExerciseExample[];
   };
 }
 
-export type Lesson = DialogueLesson | VocabularyLesson | PracticeLesson;
+export interface GrammarLesson extends LessonBase {
+  type: 'grammar';
+  grammar: {
+    explanation: string;
+    examples: string[];
+  };
+  exercise?: {
+    instruction: string;
+    example?: ExerciseExample[];
+  };
+}
+
+export type Lesson =
+  | DialogueLesson
+  | VocabularyLesson
+  | PracticeLesson
+  | GrammarLesson;
 
 export interface PronunciationTip {
   letter: string;
@@ -103,6 +119,5 @@ export interface PronunciationGuideData {
 export interface CourseData {
   courseTitle: string;
   courseSubtitle: string;
-  lessons: Lesson[];
   pronunciation: PronunciationGuideData;
 }

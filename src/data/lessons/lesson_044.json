@@ -1,0 +1,19 @@
+{
+  "id": 44,
+  "title": "Les 44",
+  "subtitle": "¿Hay algún/algunos...?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa estos:",
+    "example": [
+      {
+        "dutch": "glas – glazen; boek – boeken; huisvrouw – huisvrouwen.",
+        "spanish": "vaso – vasos; libro – libros; ama de casa – amas de casa."
+      },
+      {
+        "dutch": "Ik kan wat kopjes zien, maar ik kan geen glazen zien.",
+        "spanish": "Puedo ver algunas tazas, pero no puedo ver vasos."
+      }
+    ]
+  }
+}

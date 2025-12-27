@@ -1,0 +1,105 @@
+{
+  "id": 52,
+  "title": "Les 52",
+  "subtitle": "¿De qué nacionalidad son? ¿De dónde vienen?",
+  "type": "vocabulary",
+  "items": [
+    {
+      "number": 20,
+      "dutch": "Ik ben Amerikaans. Ik kom uit Amerika.",
+      "english": "Ik ben Amerikaans. Ik kom uit Amerika.",
+      "spanish": "Soy estadounidense. Vengo de América.",
+      "illustration": "Illustratie van Ik ben Amerikaans. Ik kom uit Amerika."
+    },
+    {
+      "number": 21,
+      "dutch": "Hij is Braziliaans. Hij komt uit Brazilië.",
+      "english": "Hij is Braziliaans. Hij komt uit Brazilië.",
+      "spanish": "Él es brasileño. Viene de Brasil.",
+      "illustration": "Illustratie van Hij is Braziliaans. Hij komt uit Brazilië."
+    },
+    {
+      "number": 22,
+      "dutch": "Zij is Nederlands. Zij komt uit Nederland.",
+      "english": "Zij is Nederlands. Zij komt uit Nederland.",
+      "spanish": "Ella es holandesa. Viene de Holanda.",
+      "illustration": "Illustratie van Zij is Nederlands. Zij komt uit Nederland."
+    },
+    {
+      "number": 23,
+      "dutch": "Wij zijn Engels. Wij komen uit Engeland.",
+      "english": "Wij zijn Engels. Wij komen uit Engeland.",
+      "spanish": "Somos ingleses. Venimos de Inglaterra.",
+      "illustration": "Illustratie van Wij zijn Engels. Wij komen uit Engeland."
+    },
+    {
+      "number": 24,
+      "dutch": "Zij zijn Frans. Zij komen uit Frankrijk.",
+      "english": "Zij zijn Frans. Zij komen uit Frankrijk.",
+      "spanish": "Son franceses. Vienen de Francia.",
+      "illustration": "Illustratie van Zij zijn Frans. Zij komen uit Frankrijk."
+    },
+    {
+      "number": 25,
+      "dutch": "Jij bent Duits. Jij komt uit Duitsland.",
+      "english": "Jij bent Duits. Jij komt uit Duitsland.",
+      "spanish": "Eres alemán. Vienes de Alemania.",
+      "illustration": "Illustratie van Jij bent Duits. Jij komt uit Duitsland."
+    },
+    {
+      "number": 26,
+      "dutch": "Hij is Grieks. Hij komt uit Griekenland.",
+      "english": "Hij is Grieks. Hij komt uit Griekenland.",
+      "spanish": "Él es griego. Viene de Grecia.",
+      "illustration": "Illustratie van Hij is Grieks. Hij komt uit Griekenland."
+    },
+    {
+      "number": 27,
+      "dutch": "Jij bent Italiaans. Jij komt uit Italië.",
+      "english": "Jij bent Italiaans. Jij komt uit Italië.",
+      "spanish": "Eres italiano. Vienes de Italia.",
+      "illustration": "Illustratie van Jij bent Italiaans. Jij komt uit Italië."
+    },
+    {
+      "number": 28,
+      "dutch": "Wij zijn Noors. Wij komen uit Noorwegen.",
+      "english": "Wij zijn Noors. Wij komen uit Noorwegen.",
+      "spanish": "Somos noruegos. Venimos de Noruega.",
+      "illustration": "Illustratie van Wij zijn Noors. Wij komen uit Noorwegen."
+    },
+    {
+      "number": 29,
+      "dutch": "Zij zijn Russisch. Zij komen uit Rusland.",
+      "english": "Zij zijn Russisch. Zij komen uit Rusland.",
+      "spanish": "Son rusos. Vienen de Rusia.",
+      "illustration": "Illustratie van Zij zijn Russisch. Zij komen uit Rusland."
+    },
+    {
+      "number": 30,
+      "dutch": "Zij is Spaans. Zij komt uit Spanje.",
+      "english": "Zij is Spaans. Zij komt uit Spanje.",
+      "spanish": "Ella es española. Viene de España.",
+      "illustration": "Illustratie van Zij is Spaans. Zij komt uit Spanje."
+    },
+    {
+      "number": 31,
+      "dutch": "Ik ben Zweeds. Ik kom uit Zweden.",
+      "english": "Ik ben Zweeds. Ik kom uit Zweden.",
+      "spanish": "Soy sueca. Vengo de Suecia.",
+      "illustration": "Illustratie van Ik ben Zweeds. Ik kom uit Zweden."
+    }
+  ],
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Vengo de Inglaterra, pero Stella viene de España.",
+        "spanish": "Vengo de Inglaterra, pero Stella viene de España."
+      },
+      {
+        "dutch": "Ik kom uit Engeland, maar Stella komt uit Spanje.",
+        "spanish": "Vengo de Inglaterra, pero Stella viene de España."
+      }
+    ]
+  }
+}

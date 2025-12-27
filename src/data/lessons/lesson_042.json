@@ -1,0 +1,27 @@
+{
+  "id": 42,
+  "title": "Les 42",
+  "subtitle": "¿Hay un/algún... en/sobre...?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa estos:",
+    "example": [
+      {
+        "dutch": "Er is een foto op het bureau.",
+        "spanish": "Hay una foto sobre el escritorio."
+      },
+      {
+        "dutch": "Is er melk in de fles?",
+        "spanish": "¿Hay leche en la botella?"
+      },
+      {
+        "dutch": "Er is geen melk in de fles.",
+        "spanish": "No hay leche en la botella."
+      },
+      {
+        "dutch": "Er is wat melk in dat kopje.",
+        "spanish": "Hay un poco de leche en esa taza."
+      }
+    ]
+  }
+}

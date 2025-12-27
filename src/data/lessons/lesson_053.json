@@ -1,0 +1,67 @@
+{
+  "id": 53,
+  "title": "Les 53",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Waar kom je vandaan?",
+        "speaker": "Speaker 1",
+        "translation": "¿De dónde vienes?"
+      },
+      {
+        "text": "Ik kom uit Engeland.",
+        "speaker": "Speaker 2",
+        "translation": "Vengo de Inglaterra."
+      },
+      {
+        "text": "Hoe is het klimaat in jouw land?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cómo es el clima en tu país?"
+      },
+      {
+        "text": "Het is mild, maar het is niet altijd aangenaam.",
+        "speaker": "Speaker 2",
+        "translation": "Es templado, pero no siempre es agradable."
+      },
+      {
+        "text": "Het weer is vaak koud in het noorden en winderig in het oosten. Het is vaak nat in het westen en soms warm in het zuiden.",
+        "speaker": "Speaker 1",
+        "translation": "El clima a menudo es frío en el norte y ventoso en el este. A menudo está húmedo en el oeste y a veces cálido en el sur."
+      },
+      {
+        "text": "Welke seizoenen vind je het beste?",
+        "speaker": "Speaker 2",
+        "translation": "¿Qué estaciones te gustan más?"
+      },
+      {
+        "text": "Ik hou van de lente en de zomer. De dagen zijn lang en de nachten zijn kort. De zon komt vroeg op en gaat laat onder.",
+        "speaker": "Speaker 1",
+        "translation": "Me gustan la primavera y el verano. Los días son largos y las noches son cortas. El sol sale temprano y se pone tarde."
+      },
+      {
+        "text": "Ik hou niet van de herfst en de winter. De dagen zijn kort en de nachten zijn lang. De zon komt laat op en gaat vroeg onder. Ons klimaat is niet erg goed, maar het is zeker interessant. Het is ons favoriete gespreksonderwerp.",
+        "speaker": "Speaker 2",
+        "translation": "No me gustan el otoño y el invierno. Los días son cortos y las noches son largas. El sol sale tarde y se pone temprano. Nuestro clima no es muy bueno, pero sin duda es interesante. Es nuestro tema de conversación favorito."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Hans y Jim conversando sobre el clima"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Mapa de Inglaterra con indicadores de clima: Norte (frío/nieve), Este (viento), Oeste (lluvia), Sur (sol)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Escena de primavera/verano con sol saliendo temprano, días largos"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Escena de otoño/invierno con sol saliendo tarde, días cortos"
+      }
+    ]
+  }
+}

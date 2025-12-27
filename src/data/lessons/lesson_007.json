@@ -1,0 +1,109 @@
+{
+  "id": 7,
+  "title": "Les 7",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Ik ben een nieuwe student. Mijn naam is Robert.",
+        "speaker": "Speaker 1",
+        "translation": "Soy un estudiante nuevo. Mi nombre es Robert."
+      },
+      {
+        "text": "Hoe maakt u het? Mijn naam is Alice.",
+        "speaker": "Speaker 2",
+        "translation": "¿Cómo está usted? Mi nombre es Alice."
+      },
+      {
+        "text": "Bent u Frans?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es usted francesa?"
+      },
+      {
+        "text": "Ja, dat ben ik.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, lo soy."
+      },
+      {
+        "text": "Bent u ook Frans?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es usted francés, también?"
+      },
+      {
+        "text": "Nee, dat ben ik niet.",
+        "speaker": "Speaker 2",
+        "translation": "No, no lo soy."
+      },
+      {
+        "text": "Wat is uw nationaliteit?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cuál es su nacionalidad?"
+      },
+      {
+        "text": "Ik ben Italiaans.",
+        "speaker": "Speaker 2",
+        "translation": "Soy italiano."
+      },
+      {
+        "text": "Bent u lerares?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es usted profesora?"
+      },
+      {
+        "text": "Nee, dat ben ik niet.",
+        "speaker": "Speaker 2",
+        "translation": "No, no lo soy."
+      },
+      {
+        "text": "Wat is uw beroep?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cuál es su profesión?"
+      },
+      {
+        "text": "Ik ben typiste.",
+        "speaker": "Speaker 2",
+        "translation": "Soy mecanógrafa."
+      },
+      {
+        "text": "Wat is uw beroep?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cuál es su profesión?"
+      },
+      {
+        "text": "Ik ben ingenieur.",
+        "speaker": "Speaker 2",
+        "translation": "Soy ingeniero."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Robert y Alice sentados en una mesa de café, presentándose"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Alice preguntando con expresión curiosa, con signo de interrogación sobre Francia"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Robert respondiendo negativamente, signo de interrogación sobre Francia"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Robert señalando hacia Italia en un mapa mental"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Alice imaginando a una profesora en una pizarra"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Alice mostrando una máquina de escribir imaginaria"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Robert rodeado de planos de ingeniería y herramientas"
+      }
+    ]
+  }
+}

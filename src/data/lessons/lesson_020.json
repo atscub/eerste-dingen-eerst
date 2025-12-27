@@ -1,0 +1,19 @@
+{
+  "id": 20,
+  "title": "Les 20",
+  "subtitle": "¡Míralos!",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Die kinderen ... dorstig.",
+        "spanish": "Esos niños ... sedientos."
+      },
+      {
+        "dutch": "Die kinderen zijn dorstig.",
+        "spanish": "Esos niños están sedientos."
+      }
+    ]
+  }
+}

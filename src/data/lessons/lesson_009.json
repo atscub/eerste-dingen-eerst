@@ -1,0 +1,81 @@
+{
+  "id": 9,
+  "title": "Les 9",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Goedemiddag, mevrouw Davis.",
+        "speaker": "Speaker 1",
+        "translation": "Buenas tardes, Sra. Davis."
+      },
+      {
+        "text": "Goedemiddag, meneer Ford.",
+        "speaker": "Speaker 2",
+        "translation": "Buenas tardes, Sr. Ford."
+      },
+      {
+        "text": "Hoe gaat het met u vandaag?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cómo está usted hoy?"
+      },
+      {
+        "text": "Het gaat heel goed met mij, dank u. En met u?",
+        "speaker": "Speaker 2",
+        "translation": "Estoy muy bien, gracias. ¿Y usted?"
+      },
+      {
+        "text": "Prima, dank u.",
+        "speaker": "Speaker 1",
+        "translation": "Estoy bien, gracias."
+      },
+      {
+        "text": "Hoe gaat het met meneer Davis?",
+        "speaker": "Speaker 2",
+        "translation": "¿Cómo está el Sr. Davis?"
+      },
+      {
+        "text": "Het gaat goed met hem, dank u. Hoe gaat het met mevrouw Ford?",
+        "speaker": "Speaker 1",
+        "translation": "Él está bien, gracias. ¿Cómo está la Sra. Ford?"
+      },
+      {
+        "text": "Het gaat ook heel goed met haar, mevrouw Davis.",
+        "speaker": "Speaker 2",
+        "translation": "Ella también está muy bien, Sra. Davis."
+      },
+      {
+        "text": "Tot ziens, mevrouw Davis. Fijn u te zien.",
+        "speaker": "Speaker 1",
+        "translation": "Adiós, Sra. Davis. Gusto en verla."
+      },
+      {
+        "text": "Ook fijn u te zien, meneer Ford. Tot ziens.",
+        "speaker": "Speaker 2",
+        "translation": "Gusto en verlo a usted también, Sr. Ford. Adiós."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Sr. Ford y Sra. Davis encontrándose en la calle, saludándose amablemente"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Ambos conversando cortésmente, gestos amistosos"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Sr. Ford con expresión satisfecha al responder sobre su estado"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Sra. Davis preguntando por el Sr. Davis, gesto de interés"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Ambos despidiéndose con gestos de mano, sonriendo mientras se alejan"
+      }
+    ]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "id": 67,
+  "title": "Les 67",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Hallo, mevrouw Williams. Was u bij de slager?",
+        "speaker": "Speaker 1",
+        "translation": "Hola, Sra. Williams. ¿Estuvo en la carnicería?"
+      },
+      {
+        "text": "Ja, dat was ik.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, estuve."
+      },
+      {
+        "text": "Was u ook bij de slager?",
+        "speaker": "Speaker 1",
+        "translation": "¿Estuvo en la carnicería también?"
+      },
+      {
+        "text": "Nee, dat was ik niet. Ik was bij de groenteboer. Hoe gaat het met Jimmy vandaag?",
+        "speaker": "Speaker 2",
+        "translation": "No, no estuve. Estuve en la verdulería. ¿Cómo está Jimmy hoy?"
+      },
+      {
+        "text": "Het gaat heel goed met hem, dank u.",
+        "speaker": "Speaker 1",
+        "translation": "Está muy bien, gracias."
+      },
+      {
+        "text": "Was hij afgelopen week afwezig van school?",
+        "speaker": "Speaker 2",
+        "translation": "¿Estuvo ausente de la escuela la semana pasada?"
+      },
+      {
+        "text": "Ja, dat was hij. Hij was afwezig op maandag, dinsdag, woensdag en donderdag. Hoe is het met jullie allemaal?",
+        "speaker": "Speaker 1",
+        "translation": "Sí, lo estuvo. Estuvo ausente el lunes, martes, miércoles y jueves. ¿Cómo están todos ustedes?"
+      },
+      {
+        "text": "Heel goed, dank u. We gaan drie dagen op het platteland doorbrengen. We gaan het weekend bij mijn moeder logeren.",
+        "speaker": "Speaker 2",
+        "translation": "Muy bien, gracias. Vamos a pasar tres días en el campo. Vamos a quedarnos en casa de mi madre para el fin de semana."
+      },
+      {
+        "text": "Vrijdag, zaterdag en zondag op het platteland. Wat een geluk!",
+        "speaker": "Speaker 1",
+        "translation": "Viernes, sábado y domingo en el campo. ¡Qué suerte tienen!"
+      }
+    ],
+    "images": []
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "id": 72,
+  "title": "Les 72",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Está ventilando la habitación ahora. Ella... ayer.",
+        "spanish": "Está ventilando la habitación ahora. Ella... ayer."
+      },
+      {
+        "dutch": "Ze luchtte het gisteren.",
+        "spanish": "Ella ventiló la habitación ayer."
+      }
+    ]
+  }
+}

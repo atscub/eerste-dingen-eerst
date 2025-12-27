@@ -1,0 +1,28 @@
+{
+  "id": 118,
+  "title": "Les 118",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Wat was je aan het doen?**\n\n**Afbeeldingen m-r tonen verschillende acties in het verleden continu:**\n- m. Iemand klopte op de deur toen ik aan het ontbijten was.\n- n. Toen ik het huis aan het verlaten was, kwam de postbode aan.\n- o. Net toen ik de voordeur aan het openen was, ging de telefoon.\n- p. Ze gleed uit en deed zichzelf pijn terwijl ze uit de bus aan het stappen was.\n- q. Hij sneed zichzelf terwijl hij aan het scheren was.\n- r. Mijn vrouw was het avondeten aan het koken terwijl ik in de tuin aan het werken was.",
+    "examples": [
+      "Hij kwam aan toen ik een bad aan het nemen was.",
+      "Grammatica: Wat was je aan het doen?",
+      "Afbeeldingen m-r tonen verschillende acties in het verleden continu:",
+      "Bekijk dit:",
+      "Voeg deze zinnen op dezelfde manier samen. Gebruik: when."
+    ]
+  },
+  "exercise": {
+    "instruction": "Hij kwam aan. Ik nam een bad. → *Hij kwam aan toen ik een bad aan het nemen was.*",
+    "example": [
+      {
+        "dutch": "Hij kwam aan toen ik een bad aan het nemen was.",
+        "spanish": "Él llegó cuando yo estaba tomando un baño."
+      },
+      {
+        "dutch": "Hij kwam aan. Ik nam een bad.",
+        "spanish": "Hij kwam aan toen ik een bad aan het nemen was."
+      }
+    ]
+  }
+}

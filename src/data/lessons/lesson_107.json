@@ -1,0 +1,85 @@
+{
+  "id": 107,
+  "title": "Les 107",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Een verkoopster helpt een klant die jurken past in een kledingwinkel.",
+        "speaker": "Situatie",
+        "translation": "¿Te gusta, querida?"
+      },
+      {
+        "text": "Vindt u deze jurk mooi, mevrouw?",
+        "speaker": "Verkoopster",
+        "translation": "No me gusta mucho. El color no me sienta bien."
+      },
+      {
+        "text": "Ik vind de kleur heel mooi. Het is een mooie jurk, maar hij is te klein voor mij.",
+        "speaker": "Klant",
+        "translation": "¿Quieres ver otro?"
+      },
+      {
+        "text": "Hoe vind je deze?",
+        "speaker": "Verkoopster",
+        "translation": "Sí, por favor."
+      },
+      {
+        "text": "Het is een mooie jurk. Hij is heel slim. Korte rokken zijn nu in de mode. Zou je hem willen passen?",
+        "speaker": "Verkoopster",
+        "translation": "¿Qué tal este?"
+      },
+      {
+        "text": "Goed.",
+        "speaker": "Klant",
+        "translation": "Ese es encantador. ¿Cuánto cuesta?"
+      },
+      {
+        "text": "Ik ben bang dat deze groene jurk ook te klein voor mij is. Hij is kleiner dan de blauwe.",
+        "speaker": "Klant",
+        "translation": "Cuarenta y nueve libras cincuenta."
+      },
+      {
+        "text": "Ik vind de kleur ook niet mooi. Hij staat me helemaal niet. Ik denk dat de blauwe jurk mooier is.",
+        "speaker": "Klant",
+        "translation": "Es demasiado caro. ¿No tienes uno más barato?"
+      },
+      {
+        "text": "Zou je mij een andere blauwe jurk kunnen laten zien? Ik wil een jurk zoals die, maar hij moet mijn maat zijn.",
+        "speaker": "Klant",
+        "translation": "Sí, tenemos uno por treinta y nueve libras cincuenta. Es exactamente igual que el otro, excepto que es de un color diferente."
+      },
+      {
+        "text": "Ik ben bang dat ik geen grotere jurk heb. Dit is de grootste jurk in de winkel.",
+        "speaker": "Verkoopster",
+        "translation": "Creo que me llevaré el más barato."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Een elegante vrouw en een verkoopster staan tussen kledingrekken vol kleurrijke jurken"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "De klant past een gestreepte jurk en kijkt kritisch in de spiegel"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "De klant past een groene jurk die te klein lijkt, de verkoopster kijkt bezorgd"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "De klant en verkoopster vergelijken een groene en een blauwe jurk"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "De klant vraagt om een andere blauwe jurk te zien, gebaren expressief"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "De verkoopster toont de grootste jurk uit de winkel aan de teleurgestelde klant"
+      }
+    ]
+  }
+}

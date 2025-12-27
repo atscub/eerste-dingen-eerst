@@ -1,0 +1,80 @@
+{
+  "id": 45,
+  "title": "Les 45",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Kun je hier even komen, alsjeblieft, Bob?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puedes venir aquí un minuto, por favor, Bob?"
+      },
+      {
+        "text": "Ja, meneer?",
+        "speaker": "Speaker 2",
+        "translation": "¿Sí, señor?"
+      },
+      {
+        "text": "Waar is juffrouw Jones?",
+        "speaker": "Speaker 1",
+        "translation": "¿Dónde está la Srta. Jones?"
+      },
+      {
+        "text": "Ze is naast de deur. Ze is in haar kantoor, meneer.",
+        "speaker": "Speaker 2",
+        "translation": "Está en la puerta de al lado. Está en su oficina, señor."
+      },
+      {
+        "text": "Kan ze deze brief voor me typen? Vraag het haar, alsjeblieft.",
+        "speaker": "Speaker 1",
+        "translation": "¿Puede escribir a máquina esta carta por mí? Pregúntale, por favor."
+      },
+      {
+        "text": "Ja, meneer.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, señor."
+      },
+      {
+        "text": "Kun je deze brief typen voor de baas, alsjeblieft, juffrouw Jones?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puede escribir a máquina esta carta para el jefe, por favor, Srta. Jones?"
+      },
+      {
+        "text": "Ja, natuurlijk kan ik dat.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, por supuesto que puedo."
+      },
+      {
+        "text": "Alsjeblieft.",
+        "speaker": "Speaker 1",
+        "translation": "Aquí tiene."
+      },
+      {
+        "text": "Dank je, Bob.",
+        "speaker": "Speaker 2",
+        "translation": "Gracias, Bob."
+      },
+      {
+        "text": "Bob!",
+        "speaker": "Speaker 1",
+        "translation": "¡Bob!"
+      },
+      {
+        "text": "Ja? Wat is er?",
+        "speaker": "Speaker 2",
+        "translation": "¿Sí? ¿Qué pasa?"
+      },
+      {
+        "text": "Ik kan deze brief niet typen.",
+        "speaker": "Speaker 1",
+        "translation": "No puedo escribir esta carta a máquina."
+      },
+      {
+        "text": "Ik kan hem niet lezen! Het handschrift van de baas is verschrikkelijk!",
+        "speaker": "Speaker 2",
+        "translation": "¡No puedo leerla! ¡La letra del jefe es terrible!"
+      }
+    ],
+    "images": []
+  }
+}

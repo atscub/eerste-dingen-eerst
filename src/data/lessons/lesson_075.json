@@ -1,0 +1,94 @@
+{
+  "id": 75,
+  "title": "Les 75",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Heeft u schoenen zoals deze?",
+        "speaker": "Speaker 1",
+        "translation": "¿Tiene zapatos como estos?"
+      },
+      {
+        "text": "Welke maat?",
+        "speaker": "Speaker 2",
+        "translation": "¿Qué talla?"
+      },
+      {
+        "text": "Maat vijf.",
+        "speaker": "Speaker 1",
+        "translation": "Talla cinco."
+      },
+      {
+        "text": "Welke kleur?",
+        "speaker": "Speaker 2",
+        "translation": "¿De qué color?"
+      },
+      {
+        "text": "Zwart.",
+        "speaker": "Speaker 1",
+        "translation": "Negro."
+      },
+      {
+        "text": "Het spijt me. Die hebben we niet.",
+        "speaker": "Speaker 2",
+        "translation": "Lo siento. No tenemos."
+      },
+      {
+        "text": "Maar mijn zus kocht vorige maand dit paar.",
+        "speaker": "Speaker 1",
+        "translation": "Pero mi hermana compró este par el mes pasado."
+      },
+      {
+        "text": "Kocht ze ze hier?",
+        "speaker": "Speaker 2",
+        "translation": "¿Los compró aquí?"
+      },
+      {
+        "text": "Nee, ze kocht ze in de Verenigde Staten.",
+        "speaker": "Speaker 1",
+        "translation": "No, los compró en Estados Unidos."
+      },
+      {
+        "text": "We hadden een maand geleden zulke schoenen, maar we hebben ze nu niet meer.",
+        "speaker": "Speaker 2",
+        "translation": "Teníamos zapatos como esos hace un mes, pero no tenemos ahora."
+      },
+      {
+        "text": "Kunt u een paar voor me krijgen, alstublieft?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puede conseguirme un par, por favor?"
+      },
+      {
+        "text": "Ik ben bang van niet. Ze waren vorig jaar en het jaar daarvoor in de mode. Maar ze zijn dit jaar niet in de mode.",
+        "speaker": "Speaker 2",
+        "translation": "Me temo que no puedo. Estuvieron de moda el año pasado y el año anterior. Pero no están de moda este año."
+      },
+      {
+        "text": "Deze schoenen zijn nu in de mode.",
+        "speaker": "Speaker 1",
+        "translation": "Estos zapatos están de moda ahora."
+      },
+      {
+        "text": "Ze zien er erg oncomfortabel uit.",
+        "speaker": "Speaker 2",
+        "translation": "Se ven muy incómodos."
+      },
+      {
+        "text": "Ze zijn erg oncomfortabel. Maar vrouwen dragen altijd oncomfortabele schoenen!",
+        "speaker": "Speaker 1",
+        "translation": "Son muy incómodos. ¡Pero las mujeres siempre usan zapatos incómodos!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Dama y vendedor en zapatería, dama mostrando zapato"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Vendedor mostrando zapatos modernos a la dama, ambos mirando escépticos"
+      }
+    ]
+  }
+}

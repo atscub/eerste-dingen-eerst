@@ -1,0 +1,19 @@
+{
+  "id": 78,
+  "title": "Les 78",
+  "subtitle": "¿Cuándo...?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Ella va al pueblo todos los días. Ella fue al pueblo ayer.",
+        "spanish": "Ella va al pueblo todos los días. Ella fue al pueblo ayer."
+      },
+      {
+        "dutch": "Zij gaat elke dag naar de stad. Zij ging gisteren naar de stad.",
+        "spanish": "Ella va a la ciudad todos los días. Ella fue a la ciudad ayer."
+      }
+    ]
+  }
+}

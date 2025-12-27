@@ -1,0 +1,74 @@
+{
+  "id": 3,
+  "title": "Les 3",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Mijn jas en mijn paraplu, alstublieft.",
+        "speaker": "Speaker 1",
+        "translation": "Mi abrigo y mi paraguas, por favor."
+      },
+      {
+        "text": "Hier is mijn kaartje.",
+        "speaker": "Speaker 2",
+        "translation": "Aquí está mi boleto."
+      },
+      {
+        "text": "Dank u, meneer. Nummer vijf.",
+        "speaker": "Speaker 1",
+        "translation": "Gracias, señor. Número cinco."
+      },
+      {
+        "text": "Hier is uw paraplu en uw jas.",
+        "speaker": "Speaker 2",
+        "translation": "Aquí está su paraguas y su abrigo."
+      },
+      {
+        "text": "Dit is niet mijn paraplu. Sorry, meneer.",
+        "speaker": "Speaker 1",
+        "translation": "Éste no es mi paraguas. Lo siento, señor."
+      },
+      {
+        "text": "Is dit uw paraplu? Nee, dat is het niet!",
+        "speaker": "Speaker 2",
+        "translation": "¿Es éste su paraguas? ¡No, no lo es!"
+      },
+      {
+        "text": "Is dit hem? Ja, dat is hem. Hartelijk dank.",
+        "speaker": "Speaker 1",
+        "translation": "¿Es éste? Sí, lo es. Muchas gracias."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Un guardarropa con un empleado y un cliente en el mostrador, letrero \"CLOAKROOM\""
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Primer plano de una mano entregando un boleto numerado"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "El empleado mirando el boleto con el número 5"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "El empleado alcanzando paraguas y abrigo en el perchero"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Cliente y empleado, el empleado mostrando confusión con un paraguas incorrecto"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "El empleado verificando otro paraguas con expresión interrogativa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Cliente y empleado sonriendo, el cliente recibiendo el paraguas correcto"
+      }
+    ]
+  }
+}

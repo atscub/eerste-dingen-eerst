@@ -1,0 +1,75 @@
+{
+  "id": 49,
+  "title": "Les 49",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Wilt u vandaag vlees, mevrouw Bird?",
+        "speaker": "Speaker 1",
+        "translation": "¿Quiere algo de carne hoy, Sra. Bird?"
+      },
+      {
+        "text": "Ja, graag.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, por favor."
+      },
+      {
+        "text": "Wilt u rundvlees of lamsvlees?",
+        "speaker": "Speaker 1",
+        "translation": "¿Quiere carne de res o cordero?"
+      },
+      {
+        "text": "Rundvlees, graag.",
+        "speaker": "Speaker 2",
+        "translation": "Carne de res, por favor."
+      },
+      {
+        "text": "Dit lamsvlees is erg goed.",
+        "speaker": "Speaker 1",
+        "translation": "Este cordero es muy bueno."
+      },
+      {
+        "text": "Ik hou van lamsvlees, maar mijn man niet.",
+        "speaker": "Speaker 2",
+        "translation": "Me gusta el cordero, pero a mi esposo no."
+      },
+      {
+        "text": "Wat dacht u van biefstuk? Dit is een mooi stuk.",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué tal algo de bistec? Este es un pedazo bonito."
+      },
+      {
+        "text": "Geef me dat stuk, alsjeblieft.",
+        "speaker": "Speaker 2",
+        "translation": "Dame ese pedazo, por favor."
+      },
+      {
+        "text": "En ook een pond gehakt.",
+        "speaker": "Speaker 1",
+        "translation": "Y una libra de carne molida, también."
+      },
+      {
+        "text": "Wilt u een kip, mevrouw Bird? Ze zijn erg goed.",
+        "speaker": "Speaker 2",
+        "translation": "¿Quiere un pollo, Sra. Bird? Son muy buenos."
+      },
+      {
+        "text": "Nee, dank u.",
+        "speaker": "Speaker 1",
+        "translation": "No, gracias."
+      },
+      {
+        "text": "Mijn man houdt van biefstuk, maar hij houdt niet van kip.",
+        "speaker": "Speaker 2",
+        "translation": "A mi esposo le gusta el bistec, pero no le gusta el pollo."
+      },
+      {
+        "text": "Om u de waarheid te zeggen, mevrouw Bird, ik hou ook niet van kip!",
+        "speaker": "Speaker 1",
+        "translation": "Para decirte la verdad, Sra. Bird, ¡a mí tampoco me gusta el pollo!"
+      }
+    ],
+    "images": []
+  }
+}

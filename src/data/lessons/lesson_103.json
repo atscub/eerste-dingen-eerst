@@ -1,0 +1,77 @@
+{
+  "id": 103,
+  "title": "Les 103",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Harry en Dick staan buiten de examenruimte en bespreken hoe het examen ging.",
+        "speaker": "Situatie",
+        "translation": "¿Cómo estuvo el examen, Dick?"
+      },
+      {
+        "text": "Hoe was het examen, Dick?",
+        "speaker": "Harry",
+        "translation": "No estuvo tan mal. Creo que aprobé inglés y matemáticas. Las preguntas fueron muy fáciles. ¿Cómo te fue a ti, Harry?"
+      },
+      {
+        "text": "Niet te slecht. Ik denk dat ik geslaagd ben voor Engels en Wiskunde. De vragen waren heel makkelijk. Hoe ging het met jou, Harry?",
+        "speaker": "Dick",
+        "translation": "Los exámenes de inglés y matemáticas no fueron suficientemente fáciles para mí. Espero no haber suspendido."
+      },
+      {
+        "text": "De Engelse en Wiskundepapieren waren niet makkelijk genoeg voor mij. Ik hoop dat ik niet gezakt ben.",
+        "speaker": "Harry",
+        "translation": "Creo que suspendí la prueba de inteligencia. Pude contestar dieciséis de las preguntas. Esas fueron muy fáciles. Pero no pude contestar el resto. Eran demasiado difíciles para mí."
+      },
+      {
+        "text": "Ik denk dat ik gezakt ben voor de Intelligentietest. Ik kon zestien van de vragen beantwoorden. Die waren heel makkelijk. Maar ik kon de rest niet beantwoorden. Die waren te moeilijk voor mij.",
+        "speaker": "Dick",
+        "translation": "Las pruebas de inteligencia son terribles, ¿no?"
+      },
+      {
+        "text": "Intelligentietests zijn verschrikkelijk, nietwaar?",
+        "speaker": "Harry",
+        "translation": "Las odio. Estoy seguro de que tengo un C.I. bajo."
+      },
+      {
+        "text": "Ik haat ze. Ik weet zeker dat ik een laag I.Q. heb.",
+        "speaker": "Dick",
+        "translation": "¡Oh, anímate! Quizás no lo hicimos tan mal. El chico al lado mío escribió su nombre en la parte superior del papel."
+      },
+      {
+        "text": "O, kop op! Misschien hebben we het niet te slecht gedaan. De jongen naast mij schreef zijn naam bovenaan het papier.",
+        "speaker": "Harry",
+        "translation": "¿Sí?"
+      },
+      {
+        "text": "Ja?",
+        "speaker": "Dick",
+        "translation": "Luego se sentó allí y lo miró durante tres horas. ¡No escribió ni una palabra!"
+      },
+      {
+        "text": "Toen zat hij daar en keek hij er drie uur naar! Hij schreef geen woord!",
+        "speaker": "Harry",
+        "translation": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Twee jonge mannen staan in een gang voor een deur met \"EXAMINATION ROOM\" erop, beiden houden boeken vast"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "De jongens praten druk met elkaar, de ene ziet er bezorgd uit, de andere meer ontspannen"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Close-up van Harry's gezicht, hij kijkt teleurgesteld terwijl hij over het examen vertelt"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Dick kijkt nadenkend en maakt een kalmerend gebaar terwijl hij Harry probeert op te vrolijken"
+      }
+    ]
+  }
+}

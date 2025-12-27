@@ -1,0 +1,53 @@
+{
+  "id": 124,
+  "title": "Les 124",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Who/Whom, Which en That**\n\n**Afbeeldingen 1-9 herhalen de structuren van Les 122 met andere voorbeelden:**\n\n1-3. **Personen (onderwerp):**\n- Wie bediende je? De man die achter de balie staat.\n- Wie bediende je? De vrouw die achter de balie staat.\n- Wie maakt al dat lawaai? De mannen die de weg aan het repareren zijn.\n\n4-6. **Personen (lijdend voorwerp):**\n- Ik bediende hem gisteren. Hij is de man die ik gisteren bediende.\n- Ik bediende haar gisteren. Ze is de vrouw die ik gisteren bediende.\n- Ik zag ze gisteren. Ze zijn de mannen die ik gisteren zag.\n\n7-9. **Dingen:**\n- Wat is dit? Dit is het boek dat ik gisteren kocht.\n- Wat zijn dit? Dit zijn de boeken die ik gisteren kocht.\n- Wat is dit? Dit is het kitten dat ik in de tuin vond.",
+    "examples": [
+      "haar",
+      "het",
+      "erop",
+      "hem",
+      "met hem",
+      "ze",
+      "over ze",
+      "Grammatica: Who/Whom, Which en That",
+      "Afbeeldingen 1-9 herhalen de structuren van Les 122 met andere voorbeelden:",
+      "Personen (onderwerp):",
+      "Personen (lijdend voorwerp):",
+      "Dingen:",
+      "Bekijk deze zinnen:",
+      "Voeg deze zinnen op dezelfde manier samen:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Zij is het meisje. Ik ontmoette *haar* gisteren. → Zij is het meisje die ik gisteren ontmoette.",
+    "example": [
+      {
+        "dutch": "haar",
+        "spanish": "su"
+      },
+      {
+        "dutch": "het",
+        "spanish": "lo"
+      },
+      {
+        "dutch": "erop",
+        "spanish": "encima"
+      },
+      {
+        "dutch": "",
+        "spanish": "Zij is het meisje die ik gisteren ontmoette."
+      },
+      {
+        "dutch": "",
+        "spanish": "Dit is het boek dat ik gisteren kocht."
+      },
+      {
+        "dutch": "",
+        "spanish": "Dit is het schip waarop ik reisde."
+      }
+    ]
+  }
+}

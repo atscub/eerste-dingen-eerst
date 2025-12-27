@@ -1,0 +1,87 @@
+{
+  "id": 63,
+  "title": "Les 63",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Hoe gaat het met Jimmy vandaag?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cómo está Jimmy hoy?"
+      },
+      {
+        "text": "Het gaat beter met hem, dank u, dokter.",
+        "speaker": "Speaker 2",
+        "translation": "Está mejor, gracias, doctor."
+      },
+      {
+        "text": "Mag ik hem zien, alstublieft, mevrouw Williams?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puedo verlo, por favor, Sra. Williams?"
+      },
+      {
+        "text": "Zeker, dokter. Komt u naar boven.",
+        "speaker": "Speaker 2",
+        "translation": "Ciertamente, doctor. Suba."
+      },
+      {
+        "text": "Je ziet er erg goed uit, Jimmy. Je bent nu beter, maar je mag nog niet opstaan. Je moet nog twee dagen in bed blijven.",
+        "speaker": "Speaker 1",
+        "translation": "Te ves muy bien, Jimmy. Estás mejor ahora, pero no debes levantarte todavía. Debes quedarse en cama otros dos días."
+      },
+      {
+        "text": "De jongen mag nog niet naar school, mevrouw Williams. En hij mag geen rijk voedsel eten.",
+        "speaker": "Speaker 2",
+        "translation": "El niño no debe ir a la escuela todavía, Sra. Williams. Y no debe comer comida rica."
+      },
+      {
+        "text": "Heeft hij koorts, dokter?",
+        "speaker": "Speaker 1",
+        "translation": "¿Tiene fiebre, doctor?"
+      },
+      {
+        "text": "Nee, die heeft hij niet.",
+        "speaker": "Speaker 2",
+        "translation": "No, no tiene."
+      },
+      {
+        "text": "Moet hij in bed blijven?",
+        "speaker": "Speaker 1",
+        "translation": "¿Debe quedarse en cama?"
+      },
+      {
+        "text": "Ja. Hij moet nog twee dagen in bed blijven. Hij mag elke dag ongeveer twee uur opstaan, maar u moet de kamer warm houden.",
+        "speaker": "Speaker 2",
+        "translation": "Sí. Debe permanecer en cama otros dos días. Puede levantarse unas dos horas cada día, pero debes mantener la habitación caliente."
+      },
+      {
+        "text": "Waar is meneer Williams vanavond?",
+        "speaker": "Speaker 1",
+        "translation": "¿Dónde está el Sr. Williams esta noche?"
+      },
+      {
+        "text": "Hij ligt in bed, dokter. Kunt u hem alstublieft zien? Hij heeft ook een zware verkoudheid.",
+        "speaker": "Speaker 2",
+        "translation": "Está en cama, doctor. ¿Puede verlo, por favor? Él también tiene un resfriado fuerte."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Doctor llegando, Sra. Williams en la puerta"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Doctor examinando a Jimmy en cama, Jimmy se ve mejor"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Doctor y Sra. Williams hablando junto a la ventana"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Sr. Williams en cama en otra habitación, se ve enfermo"
+      }
+    ]
+  }
+}

@@ -1,0 +1,104 @@
+{
+  "id": 79,
+  "title": "Les 79",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Wat ben je aan het doen, Peggy?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué estás haciendo, Peggy?"
+      },
+      {
+        "text": "Ik maak een boodschappenlijstje, Tom.",
+        "speaker": "Speaker 2",
+        "translation": "Estoy haciendo una lista de compras, Tom."
+      },
+      {
+        "text": "Wat hebben we nodig?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué necesitamos?"
+      },
+      {
+        "text": "We hebben deze week veel dingen nodig.",
+        "speaker": "Speaker 2",
+        "translation": "Necesitamos muchas cosas esta semana."
+      },
+      {
+        "text": "Ik moet naar de kruidenier. We hebben niet veel thee of koffie, en we hebben geen suiker of jam.",
+        "speaker": "Speaker 1",
+        "translation": "Debo ir a la tienda de comestibles. No tenemos mucho té ni café, y no tenemos azúcar ni mermelada."
+      },
+      {
+        "text": "Hoe zit het met groenten?",
+        "speaker": "Speaker 2",
+        "translation": "¿Qué hay de vegetales?"
+      },
+      {
+        "text": "Ik moet naar de groenteboer. We hebben niet veel tomaten, maar we hebben veel aardappelen.",
+        "speaker": "Speaker 1",
+        "translation": "Debo ir a la verdulería. No tenemos muchos tomates, pero tenemos muchas papas."
+      },
+      {
+        "text": "Ik moet ook naar de slager. We hebben wat vlees nodig. We hebben helemaal geen vlees.",
+        "speaker": "Speaker 2",
+        "translation": "También debo ir a la carnicería. Necesitamos algo de carne. No tenemos nada de carne."
+      },
+      {
+        "text": "Hebben we bier en wijn?",
+        "speaker": "Speaker 1",
+        "translation": "¿Tenemos cerveza y vino?"
+      },
+      {
+        "text": "Nee, die hebben we niet. En ik ga niets halen!",
+        "speaker": "Speaker 2",
+        "translation": "No, no tenemos. ¡Y no voy a conseguir nada!"
+      },
+      {
+        "text": "Ik hoop dat je wat geld hebt.",
+        "speaker": "Speaker 1",
+        "translation": "Espero que tengas algo de dinero."
+      },
+      {
+        "text": "Ik heb niet veel.",
+        "speaker": "Speaker 2",
+        "translation": "No tengo mucho."
+      },
+      {
+        "text": "Nou, ik heb ook niet veel!",
+        "speaker": "Speaker 1",
+        "translation": "Bueno, ¡yo tampoco tengo mucho!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Tom y Peggy en casa, Peggy escribiendo lista"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Peggy mirando los estantes de la cocina vacíos"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Peggy revisando el área de verduras de la cocina"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Peggy mirando el refrigerador vacío"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Peggy mirando la despensa de bebidas vacía"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Tom y Peggy mirando sus billeteras casi vacías"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Tom y Peggy preocupados por el dinero"
+      }
+    ]
+  }
+}

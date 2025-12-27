@@ -1,0 +1,19 @@
+{
+  "id": 58,
+  "title": "Les 58",
+  "subtitle": "¿Qué hora es?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Él suele afeitarse a las 7:00, pero hoy, él... a las 8:00.",
+        "spanish": "Él suele afeitarse a las 7:00, pero hoy, él... a las 8:00."
+      },
+      {
+        "dutch": "Hij scheert zich meestal om 7 uur, maar vandaag scheert hij zich om 8 uur.",
+        "spanish": "Él suele afeitarse a las 7:00, pero hoy se afeita a las 8:00."
+      }
+    ]
+  }
+}

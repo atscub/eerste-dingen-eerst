@@ -1,0 +1,15 @@
+{
+  "id": 86,
+  "title": "Les 86",
+  "subtitle": "¿Qué has hecho?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa estas dos oraciones: ¿En cuál de estas oraciones podemos poner has?",
+    "example": [
+      {
+        "dutch": "Ella ya ha ventilado la habitación. Ella la ventiló esta mañana.",
+        "spanish": "Ella ya ha ventilado la habitación. Ella la ventiló esta mañana."
+      }
+    ]
+  }
+}

@@ -1,0 +1,28 @@
+{
+  "id": 120,
+  "title": "Les 120",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Het was al gebeurd**\n\n**Afbeeldingen s-x tonen situaties met de voltooid verleden tijd:**\n- s. Ik vroeg naar de prijs van de auto, maar ze hadden hem al verkocht.\n- t. Ik rende naar het perron snel, maar de trein was al vertrokken.\n- u. Hij gaf ons onze schriften nadat hij ze had verbeterd.\n- v. Ze ging op vakantie nadat ze het examen had afgelegd.\n- w. Ze had het huishouden afgemaakt voordat ze naar buiten ging.\n- x. We hadden gegeten voordat ze aankwamen.",
+    "examples": [
+      "Ze ging naar huis nadat ze de brief had getypt.",
+      "Grammatica: Het was al gebeurd",
+      "Afbeeldingen s-x tonen situaties met de voltooid verleden tijd:",
+      "Bekijk dit:",
+      "Voeg deze zinnen op dezelfde manier samen. Gebruik: after."
+    ]
+  },
+  "exercise": {
+    "instruction": "Ze ging naar huis. Ze typte de brief. → *Ze ging naar huis nadat ze de brief had getypt.*",
+    "example": [
+      {
+        "dutch": "Ze ging naar huis nadat ze de brief had getypt.",
+        "spanish": "Ella se fue a casa después de haber escrito la carta."
+      },
+      {
+        "dutch": "",
+        "spanish": "Ze ging naar huis nadat ze de brief had getypt."
+      }
+    ]
+  }
+}

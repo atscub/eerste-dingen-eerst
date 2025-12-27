@@ -1,0 +1,19 @@
+{
+  "id": 56,
+  "title": "Les 56",
+  "subtitle": "¿Qué suelen hacer?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Ella lava los platos todos los días.",
+        "spanish": "Ella lava los platos todos los días."
+      },
+      {
+        "dutch": "Zij wast de afwas elke dag.",
+        "spanish": "Ella lava los platos todos los días."
+      }
+    ]
+  }
+}

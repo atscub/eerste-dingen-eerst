@@ -1,0 +1,91 @@
+{
+  "id": 51,
+  "title": "Les 51",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Waar kom je vandaan?",
+        "speaker": "Speaker 1",
+        "translation": "¿De dónde vienes?"
+      },
+      {
+        "text": "Ik kom uit Griekenland.",
+        "speaker": "Speaker 2",
+        "translation": "Vengo de Grecia."
+      },
+      {
+        "text": "Hoe is het klimaat in jouw land?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cómo es el clima en tu país?"
+      },
+      {
+        "text": "Het is erg aangenaam.",
+        "speaker": "Speaker 2",
+        "translation": "Es muy agradable."
+      },
+      {
+        "text": "Hoe is het weer in de lente?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cómo es el clima en primavera?"
+      },
+      {
+        "text": "Het waait vaak in maart. Het is altijd warm in april en mei, maar het regent soms.",
+        "speaker": "Speaker 2",
+        "translation": "A menudo hace viento en marzo. Siempre hace calor en abril y mayo, pero a veces llueve."
+      },
+      {
+        "text": "Hoe is het in de zomer?",
+        "speaker": "Speaker 1",
+        "translation": "¿Cómo es en verano?"
+      },
+      {
+        "text": "Het is altijd heet in juni, juli en augustus. De zon schijnt elke dag.",
+        "speaker": "Speaker 2",
+        "translation": "Siempre hace calor en junio, julio y agosto. El sol brilla todos los días."
+      },
+      {
+        "text": "Is het koud of warm in de herfst?",
+        "speaker": "Speaker 1",
+        "translation": "¿Hace frío o calor en otoño?"
+      },
+      {
+        "text": "Het is altijd warm in september en oktober. Het is vaak koud in november en het regent soms.",
+        "speaker": "Speaker 2",
+        "translation": "Siempre hace calor en septiembre y octubre. A menudo hace frío en noviembre y a veces llueve."
+      },
+      {
+        "text": "Is het erg koud in de winter?",
+        "speaker": "Speaker 1",
+        "translation": "¿Hace mucho frío en invierno?"
+      },
+      {
+        "text": "Het is vaak koud in december, januari en februari. Het sneeuwt soms.",
+        "speaker": "Speaker 2",
+        "translation": "A menudo hace frío en diciembre, enero y febrero. A veces nieva."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Hans y Dimitri conversando, con un mapa de Grecia visible"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Escena de primavera con flores, viento, lluvia y sol"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Escena de verano con sol brillante, árbol, playa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Escena de otoño con hojas cayendo, lluvia, nubes"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Escena de invierno con nieve cayendo, árbol desnudo, casas nevadas"
+      }
+    ]
+  }
+}

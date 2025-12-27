@@ -1,0 +1,23 @@
+{
+  "id": 90,
+  "title": "Les 90",
+  "subtitle": "¿Has... todavía?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Él leyó este libro la semana pasada.",
+        "spanish": "Él leyó este libro la semana pasada."
+      },
+      {
+        "dutch": "PREGUNTA: ¿Leyó este libro la semana pasada?",
+        "spanish": "PREGUNTA: ¿Leyó este libro la semana pasada?"
+      },
+      {
+        "dutch": "NEGATIVO: No leyó este libro la semana pasada.",
+        "spanish": "NEGATIVO: No leyó este libro la semana pasada."
+      }
+    ]
+  }
+}

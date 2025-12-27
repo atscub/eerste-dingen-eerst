@@ -1,0 +1,75 @@
+{
+  "id": 85,
+  "title": "Les 85",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Hallo, Ken.",
+        "speaker": "Speaker 1",
+        "translation": "Hola, Ken."
+      },
+      {
+        "text": "Hallo, George.",
+        "speaker": "Speaker 2",
+        "translation": "Hola, George."
+      },
+      {
+        "text": "Ben je net naar de bioscoop geweest?",
+        "speaker": "Speaker 1",
+        "translation": "¿Acabas de ir al cine?"
+      },
+      {
+        "text": "Ja, dat ben ik.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, lo hice."
+      },
+      {
+        "text": "Wat draaien ze?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué están mostrando?"
+      },
+      {
+        "text": "\"Parijs in de lente\".",
+        "speaker": "Speaker 2",
+        "translation": "\"París en la primavera\"."
+      },
+      {
+        "text": "Oh, ik heb hem al gezien. Ik zag hem vorig jaar op een BBC-televisieprogramma. Het is een oude film, maar hij is erg goed.",
+        "speaker": "Speaker 1",
+        "translation": "Oh, ya la he visto. La vi en un programa de televisión de la BBC el año pasado. Es una película antigua, pero es muy buena."
+      },
+      {
+        "text": "Parijs is een mooie stad.",
+        "speaker": "Speaker 2",
+        "translation": "París es una ciudad hermosa."
+      },
+      {
+        "text": "Ik ben er nooit geweest. Ben jij er ooit geweest, Ken?",
+        "speaker": "Speaker 1",
+        "translation": "Nunca he estado allí. ¿Alguna vez has estado allí, Ken?"
+      },
+      {
+        "text": "Ja, dat ben ik. Ik was er in april.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, lo he hecho. Estuve allí en abril."
+      },
+      {
+        "text": "Parijs in de lente, hè?",
+        "speaker": "Speaker 1",
+        "translation": "¿París en primavera, eh?"
+      },
+      {
+        "text": "Het was lente, maar het weer was verschrikkelijk. Het regende de hele tijd.",
+        "speaker": "Speaker 2",
+        "translation": "Era primavera, pero el clima era horrible. Llovió todo el tiempo."
+      },
+      {
+        "text": "Net als in het oude goede Londen!",
+        "speaker": "Speaker 1",
+        "translation": "¡Justo como el querido viejo Londres!"
+      }
+    ],
+    "images": []
+  }
+}

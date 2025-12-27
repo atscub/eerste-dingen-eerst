@@ -1,0 +1,75 @@
+{
+  "id": 139,
+  "title": "Les 139",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Meneer Grimes belt naar John Smith maar raakt in de war met de verkeerde John Smith.",
+        "speaker": "Situatie",
+        "translation": "El Sr. Grimes llama a John Smith pero se confunde con el John Smith equivocado."
+      },
+      {
+        "text": "Is dat jij, John?",
+        "speaker": "Meneer Grimes",
+        "translation": "¿Eres tú, John?"
+      },
+      {
+        "text": "Ja, aan het woord.",
+        "speaker": "John Smith",
+        "translation": "Sí, al habla."
+      },
+      {
+        "text": "Zeg Mary dat we vanavond laat voor het avondeten zullen zijn.",
+        "speaker": "Meneer Grimes",
+        "translation": "Dile a Mary que llegaremos tarde para la cena esta noche."
+      },
+      {
+        "text": "Ik ben bang dat ik het niet begrijp.",
+        "speaker": "John Smith",
+        "translation": "Me temo que no entiendo."
+      },
+      {
+        "text": "Heeft Mary je het niet verteld? Ze nodigde Betty en mij vanavond voor het avondeten uit. Ik zei dat ik om zes uur bij jouw huis zou zijn, maar de baas wil dat ik wat extra werk doe. Ik zal op kantoor moeten blijven. Ik weet niet wanneer ik zal afronden. O, en trouwens, mijn vrouw wil weten of Mary enige hulp nodig heeft.",
+        "speaker": "Meneer Grimes",
+        "translation": "¿Mary no te lo dijo? Ella invitó a Betty y a mí a cenar esta noche. Dije que estaría en tu casa a las seis, pero el jefe quiere que haga un trabajo extra. Tendré que quedarme en la oficina. No sé cuándo terminaré. Oh, y por cierto, mi esposa quiere saber si Mary necesita ayuda."
+      },
+      {
+        "text": "Ik weet niet waar je het over hebt.",
+        "speaker": "John Smith",
+        "translation": "No sé de qué estás hablando."
+      },
+      {
+        "text": "Dat is John Smith, nietwaar?",
+        "speaker": "Meneer Grimes",
+        "translation": "Ese es John Smith, ¿verdad?"
+      },
+      {
+        "text": "Ja, ik ben John Smith.",
+        "speaker": "John Smith",
+        "translation": "Sí, soy John Smith."
+      },
+      {
+        "text": "Jij bent John Smith, de ingenieur, nietwaar?",
+        "speaker": "Meneer Grimes",
+        "translation": "Tú eres John Smith, el ingeniero, ¿verdad?"
+      },
+      {
+        "text": "Dat klopt.",
+        "speaker": "John Smith",
+        "translation": "Correcto."
+      },
+      {
+        "text": "Je werkt voor de Overseas Engineering Company, nietwaar?",
+        "speaker": "Meneer Grimes",
+        "translation": "Trabajas para la Compañía de Ingeniería Overseas, ¿verdad?"
+      },
+      {
+        "text": "Nee, dat doe ik niet. Ik ben John Smith de telefooningenieur en ik repareer je telefoonlijn.",
+        "speaker": "John Smith",
+        "translation": "No, no lo hago. Soy John Smith el ingeniero telefónico y estoy reparando tu línea telefónica."
+      }
+    ],
+    "images": []
+  }
+}

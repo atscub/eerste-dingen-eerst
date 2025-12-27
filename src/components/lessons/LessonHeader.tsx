@@ -4,6 +4,7 @@ const lessonTypeLabels: Record<LessonType, string> = {
   dialogue: 'Diálogo',
   vocabulary: 'Vocabulario',
   practice: 'Práctica',
+  grammar: 'Gramática',
 };
 
 type LessonHeaderProps = {

@@ -1,0 +1,108 @@
+{
+  "id": 19,
+  "title": "Les 19",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Wat is er aan de hand, kinderen?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué pasa, niños?"
+      },
+      {
+        "text": "We zijn moe...",
+        "speaker": "Speaker 2",
+        "translation": "Estamos cansados..."
+      },
+      {
+        "text": "...en we hebben dorst, mama.",
+        "speaker": "Speaker 1",
+        "translation": "...y tenemos sed, mamá."
+      },
+      {
+        "text": "Ga hier zitten.",
+        "speaker": "Speaker 2",
+        "translation": "Siéntense aquí."
+      },
+      {
+        "text": "Gaat het nu goed?",
+        "speaker": "Speaker 1",
+        "translation": "¿Están bien ahora?"
+      },
+      {
+        "text": "Nee, niet echt.",
+        "speaker": "Speaker 2",
+        "translation": "No, no lo estamos."
+      },
+      {
+        "text": "Kijk! Daar is een ijscoman.",
+        "speaker": "Speaker 1",
+        "translation": "¡Miren! Hay un heladero."
+      },
+      {
+        "text": "Twee ijsjes, alstublieft.",
+        "speaker": "Speaker 2",
+        "translation": "Dos helados, por favor."
+      },
+      {
+        "text": "Alsjeblieft, kinderen.",
+        "speaker": "Speaker 1",
+        "translation": "Aquí tienen, niños."
+      },
+      {
+        "text": "Dank je, mama.",
+        "speaker": "Speaker 2",
+        "translation": "Gracias, mamá."
+      },
+      {
+        "text": "Deze ijsjes zijn lekker.",
+        "speaker": "Speaker 1",
+        "translation": "Estos helados son agradables."
+      },
+      {
+        "text": "Gaat het nu goed?",
+        "speaker": "Speaker 2",
+        "translation": "¿Están bien ahora?"
+      },
+      {
+        "text": "Ja, het gaat goed, dank je!",
+        "speaker": "Speaker 1",
+        "translation": "Sí, lo estamos, ¡gracias!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Madre con dos niños cansados sentados en un banco del parque"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Los niños sentándose en el banco, luciendo agotados"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Niños todavía con expresión de incomodidad"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Madre señalando al heladero a lo lejos"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Madre comprando helados del carrito de helados"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Madre entregando los helados a los niños sonrientes"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Niños disfrutando sus helados, expresiones felices"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+8",
+        "alt": "Familia completa contenta en el banco, niños comiendo helado"
+      }
+    ]
+  }
+}

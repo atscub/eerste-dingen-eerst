@@ -1,0 +1,54 @@
+{
+  "id": 122,
+  "title": "Les 122",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Who/Whom, Which en That**\n\n**Afbeeldingen 1-9 tonen verschillende situaties:**\n\n1-3. **Personen als onderwerp (who/that):**\n- Wie bediende je? De man die/dat achter de balie staat.\n- Wie bediende je? De vrouw die/dat achter de balie staat.\n- Wie maakt al dat lawaai? De mannen die/dat de weg aan het repareren zijn.\n\n4-6. **Personen als lijdend voorwerp (whom/that):**\n- Ik bediende hem gisteren. Hij is de man die/dat ik gisteren bediende.\n- Ik bediende haar gisteren. Ze is de vrouw die/dat ik gisteren bediende.\n- Ik zag ze gisteren. Ze zijn de mannen die/dat ik gisteren zag.\n\n7-9. **Dingen (which/that):**\n- Welk boek kocht je? Het boek dat/die op de balie ligt.\n- Welke boeken kocht je? De boeken die/dat op de balie liggen.\n- Welke hond is van jou? De hond die/dat die mand draagt.",
+    "examples": [
+      "die",
+      "haar",
+      "het",
+      "dat",
+      "hem",
+      "ze",
+      "Hij",
+      "Zij",
+      "Ik",
+      "Grammatica: Who/Whom, Which en That",
+      "Afbeeldingen 1-9 tonen verschillende situaties:",
+      "Personen als onderwerp (who/that):",
+      "Personen als lijdend voorwerp (whom/that):",
+      "Dingen (which/that):",
+      "Bekijk deze zinnen:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Zij is het meisje. Zij ontmoette mij gisteren. → Zij is het meisje *die* mij gisteren ontmoette.",
+    "example": [
+      {
+        "dutch": "die",
+        "spanish": "ese"
+      },
+      {
+        "dutch": "haar",
+        "spanish": "su"
+      },
+      {
+        "dutch": "die",
+        "spanish": "ese"
+      },
+      {
+        "dutch": "",
+        "spanish": "Zij is het meisje die mij gisteren ontmoette."
+      },
+      {
+        "dutch": "",
+        "spanish": "Zij is het meisje die ik gisteren ontmoette."
+      },
+      {
+        "dutch": "",
+        "spanish": "Dit is het boek dat ik gisteren kocht."
+      }
+    ]
+  }
+}

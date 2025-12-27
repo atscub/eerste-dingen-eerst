@@ -1,0 +1,18 @@
+{
+  "id": 98,
+  "title": "Les 98",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Este vestido pertenece a mi hermana. Es de ella.",
+        "spanish": "Este vestido pertenece a mi hermana. Es de ella."
+      },
+      {
+        "dutch": "Deze jurk is van mijn zus. Hij is van haar.",
+        "spanish": "Este vestido es de mi hermana. Es de ella."
+      }
+    ]
+  }
+}

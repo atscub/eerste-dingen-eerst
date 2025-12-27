@@ -1,0 +1,19 @@
+{
+  "id": 36,
+  "title": "Les 36",
+  "subtitle": "¿Dónde...?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "zetten – zettend",
+        "spanish": "poner – poniendo"
+      },
+      {
+        "dutch": "Zet ... Hij zet zijn jas aan.",
+        "spanish": "Ponte ... Él se pone su abrigo."
+      }
+    ]
+  }
+}

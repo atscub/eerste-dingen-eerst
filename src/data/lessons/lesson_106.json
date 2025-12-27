@@ -1,0 +1,27 @@
+{
+  "id": 106,
+  "title": "Les 106",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Ik wil dat je... Zeg (hem) dat hij...**",
+    "examples": [
+      "Ik wil dat je het repareert.",
+      "Grammatica: Ik wil dat je... Zeg (hem) dat hij...",
+      "Bekijk dit:",
+      "Doe deze op dezelfde manier:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Repareer het alsjeblieft. → *Ik wil dat je het repareert.*",
+    "example": [
+      {
+        "dutch": "Ik wil dat je het repareert.",
+        "spanish": "Quiero que lo repares."
+      },
+      {
+        "dutch": "Repareer het alsjeblieft.",
+        "spanish": "Ik wil dat je het repareert."
+      }
+    ]
+  }
+}

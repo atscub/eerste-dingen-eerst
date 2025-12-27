@@ -1,0 +1,27 @@
+{
+  "id": 4,
+  "title": "Les 4",
+  "subtitle": "¿Es éste su...?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Copia esto:",
+    "example": [
+      {
+        "dutch": "Dit is niet mijn paraplu.",
+        "spanish": "Este no es mi paraguas."
+      },
+      {
+        "dutch": "Sorry, meneer.",
+        "spanish": "Lo siento, señor."
+      },
+      {
+        "dutch": "Is dit uw paraplu?",
+        "spanish": "¿Es este su paraguas?"
+      },
+      {
+        "dutch": "Nee, dat is het niet!",
+        "spanish": "¡No, no lo es!"
+      }
+    ]
+  }
+}

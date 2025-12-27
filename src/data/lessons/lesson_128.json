@@ -1,0 +1,18 @@
+{
+  "id": 128,
+  "title": "Les 128",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hij kan niet... zijn / Hij moet... zijn**\n\n**Afbeeldingen 1-8 tonen logische conclusies:**\n1. Hij kan niet ziek zijn. Hij moet moe zijn.\n2. Het kan niet mijn nieuwe hoed zijn. Het moet mijn oude zijn.\n3. Ze kan niet Deens zijn. Ze moet Zweeds zijn.\n4. Hij kan geen tandarts zijn. Hij moet een dokter zijn.\n5. Ze kan geen veertig zijn. Ze moet vijftig zijn.\n6. Het kan niet de 20e zijn. Het moet de 21e zijn.\n7. Hij kan niet de jongste zijn. Hij moet de oudste zijn.\n8. Hij kan niet aan het lezen zijn. Hij moet aan het slapen zijn.",
+    "examples": [
+      "Grammatica: Hij kan niet... zijn / Hij moet... zijn",
+      "Afbeeldingen 1-8 tonen logische conclusies:",
+      "Bekijk deze zinnen:",
+      "In welke van deze zinnen kunnen we 'has to' in plaats van 'must' gebruiken:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Hij moet voor zes uur thuis zijn. Hij moet voor zes uur thuis zijn. Hij moet moe zijn.",
+    "example": []
+  }
+}

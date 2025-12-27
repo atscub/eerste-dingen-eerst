@@ -1,0 +1,20 @@
+{
+  "id": 6,
+  "title": "Les 6",
+  "subtitle": "¿De qué marca es?",
+  "type": "vocabulary",
+  "items": [],
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Alice is een studente. ... is niet Duits. ... is Frans.",
+        "spanish": "Alice es una estudiante. ... no es alemana. ... es francesa."
+      },
+      {
+        "dutch": "Alice is een studente. Zij is niet Duits. Zij is Frans.",
+        "spanish": "Alice es una estudiante. Ella no es alemana. Ella es francesa."
+      }
+    ]
+  }
+}

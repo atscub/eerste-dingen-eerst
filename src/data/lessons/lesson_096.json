@@ -1,0 +1,15 @@
+{
+  "id": 96,
+  "title": "Les 96",
+  "subtitle": "¿Qué hora exacta es?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto: Cambia estas oraciones de la misma manera:",
+    "example": [
+      {
+        "dutch": "Debemos volver a la estación. Será mejor que volvamos a la estación.",
+        "spanish": "Debemos volver a la estación. Será mejor que volvamos a la estación."
+      }
+    ]
+  }
+}

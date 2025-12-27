@@ -1,0 +1,99 @@
+{
+  "id": 11,
+  "title": "Les 11",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Van wie is dit overhemd?",
+        "speaker": "Speaker 1",
+        "translation": "¿De quién es esta camisa?"
+      },
+      {
+        "text": "Is dit jouw overhemd, Frank?",
+        "speaker": "Speaker 2",
+        "translation": "¿Es ésta tu camisa, Frank?"
+      },
+      {
+        "text": "Nee, meneer. Het is niet mijn overhemd.",
+        "speaker": "Speaker 1",
+        "translation": "No, señor. No es mi camisa."
+      },
+      {
+        "text": "Dit is mijn overhemd. Mijn overhemd is blauw.",
+        "speaker": "Speaker 2",
+        "translation": "Ésta es mi camisa. Mi camisa es azul."
+      },
+      {
+        "text": "Is dit het overhemd van Tim?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es ésta la camisa de Tim?"
+      },
+      {
+        "text": "Misschien, meneer. Het overhemd van Tim is wit.",
+        "speaker": "Speaker 2",
+        "translation": "Quizás lo sea, señor. La camisa de Tim es blanca."
+      },
+      {
+        "text": "Tim!",
+        "speaker": "Speaker 1",
+        "translation": "¡Tim!"
+      },
+      {
+        "text": "Ja, meneer?",
+        "speaker": "Speaker 2",
+        "translation": "¿Sí, señor?"
+      },
+      {
+        "text": "Is dit jouw overhemd?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es ésta tu camisa?"
+      },
+      {
+        "text": "Ja, meneer.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, señor."
+      },
+      {
+        "text": "Alsjeblieft. Vang!",
+        "speaker": "Speaker 1",
+        "translation": "Aquí tienes. ¡Agárrala!"
+      },
+      {
+        "text": "Dank u, meneer.",
+        "speaker": "Speaker 2",
+        "translation": "Gracias, señor."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Aula con camisas colgadas en ganchos, profesor sosteniendo una camisa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Profesor mostrando la camisa a Frank, quien está sentado en su pupitre"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Frank señalando su propia camisa azul que lleva puesta"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Profesor mostrando la camisa blanca, preguntando si es de Tim"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Tim levantando la mano para responder"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Tim confirmando que la camisa es suya"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Profesor lanzando la camisa a Tim, quien la atrapa"
+      }
+    ]
+  }
+}

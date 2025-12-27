@@ -1,0 +1,17 @@
+{
+  "id": 142,
+  "title": "Les 142",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Iemand nodigde Sally uit voor een feest / Sally werd uitgenodigd voor een feest**\n\n**Afbeeldingen 1-8 tonen lijdende vorm:**\n1-2. Ze is beschaamd. / Ze zijn bezorgd.\n3-4. Repareert iemand ooit deze auto? / Iemand repareert hem regelmatig. Hij wordt regelmatig gerepareerd.\n5-6. Corrigeert iemand ooit deze schriften? / Iemand corrigeert ze regelmatig. Ze worden regelmatig gecorrigeerd.\n7-8. Ontmoette iemand hem vanmorgen op het station? / Iemand ontmoette hem vanmorgen op het station. Hij werd vanmorgen op het station ontmoet.",
+    "examples": [
+      "Grammatica: Iemand nodigde Sally uit voor een feest / Sally werd uitgenodigd voor een feest",
+      "Afbeeldingen 1-8 tonen lijdende vorm:",
+      "Lees het verhaal in Les 141 opnieuw. Schrijf dan antwoorden op deze vragen:"
+    ]
+  },
+  "exercise": {
+    "instruction": "1. Hoe oud is Sally? 2. Waarom besloot Sally's moeder haar met de trein te brengen? 3. Waar zat Sally? 4. Wie kwam de coupé binnen?",
+    "example": []
+  }
+}

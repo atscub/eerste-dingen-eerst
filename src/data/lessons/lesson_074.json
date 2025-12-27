@@ -1,0 +1,23 @@
+{
+  "id": 74,
+  "title": "Les 74",
+  "subtitle": "¿Qué hicieron?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto: Ahora mira esto:",
+    "example": [
+      {
+        "dutch": "rápido - rápidamente; sediento - sedientemente; cuidadoso - cuidadosamente.",
+        "spanish": "rápido - rápidamente; sediento - sedientemente; cuidadoso - cuidadosamente."
+      },
+      {
+        "dutch": "Ella sonrió... (agradable)",
+        "spanish": "Ella sonrió... (agradable)"
+      },
+      {
+        "dutch": "Zij glimlachte aangenaam.",
+        "spanish": "Ella sonrió agradablemente."
+      }
+    ]
+  }
+}

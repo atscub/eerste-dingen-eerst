@@ -1,0 +1,42 @@
+{
+  "id": 55,
+  "title": "Les 55",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "La casa de los Sawyer en King Street 87"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Sr. Sawyer llevando a los niños a la escuela en coche por la mañana"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Sra. Sawyer haciendo tareas del hogar"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Sra. Sawyer almorzando al mediodía (reloj mostrando las 12)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Sra. Sawyer tomando té con amigas por la tarde"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Niños llegando a casa de la escuela temprano"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Sr. Sawyer llegando a casa tarde del trabajo"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+8",
+        "alt": "Familia en casa por la noche: niños haciendo tarea, padres con periódico y TV"
+      }
+    ]
+  }
+}

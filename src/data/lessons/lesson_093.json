@@ -1,0 +1,42 @@
+{
+  "id": 93,
+  "title": "Les 93",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Sr. Hill junto a un avión B.E.A."
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Sr. Hill en uniforme R.A.F. durante la guerra"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Avión volando hacia Nueva York (rascacielos visibles)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Avión volando hacia Tokio (arquitectura japonesa visible)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Sr. Hill en Madrid con cartel \"SPAIN\" y un avión"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Avión regresando a Londres (Big Ben visible)"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "Globo terráqueo con flechas de avión mostrando viajes"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+8",
+        "alt": "Sra. Hill en casa mirando un avión pasar"
+      }
+    ]
+  }
+}

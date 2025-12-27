@@ -1,0 +1,15 @@
+{
+  "id": 30,
+  "title": "Les 30",
+  "subtitle": "¿Qué debo hacer?",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto: Cambia estos de la misma manera:",
+    "example": [
+      {
+        "dutch": "Het kopje is niet leeg. Maak het leeg!",
+        "spanish": "La taza no está vacía. ¡Vacíala!"
+      }
+    ]
+  }
+}

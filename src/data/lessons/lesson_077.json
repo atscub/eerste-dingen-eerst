@@ -1,0 +1,70 @@
+{
+  "id": 77,
+  "title": "Les 77",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Goedemorgen, meneer Croft.",
+        "speaker": "Speaker 1",
+        "translation": "Buenos días, Sr. Croft."
+      },
+      {
+        "text": "Goedemorgen, verpleegster. Ik wil graag de tandarts zien, alstublieft.",
+        "speaker": "Speaker 2",
+        "translation": "Buenos días, enfermera. Quiero ver al dentista, por favor."
+      },
+      {
+        "text": "Heeft u een afspraak?",
+        "speaker": "Speaker 1",
+        "translation": "¿Tiene cita?"
+      },
+      {
+        "text": "Nee, die heb ik niet.",
+        "speaker": "Speaker 2",
+        "translation": "No, no tengo."
+      },
+      {
+        "text": "Is het urgent?",
+        "speaker": "Speaker 1",
+        "translation": "¿Es urgente?"
+      },
+      {
+        "text": "Ja, dat is het. Het is heel urgent. Ik voel me verschrikkelijk. Ik heb verschrikkelijke kiespijn.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, lo es. Es muy urgente. Me siento terrible. Tengo un dolor de muelas terrible."
+      },
+      {
+        "text": "Kunt u om 10 uur 's ochtends komen op maandag 24 april?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puede venir a las 10 a.m. el lunes 24 de abril?"
+      },
+      {
+        "text": "Ik moet de tandarts nu zien, verpleegster.",
+        "speaker": "Speaker 2",
+        "translation": "Debo ver al dentista ahora, enfermera."
+      },
+      {
+        "text": "De tandarts is op dit moment erg druk. Kunt u om 2 uur 's middags komen?",
+        "speaker": "Speaker 1",
+        "translation": "El dentista está muy ocupado en este momento. ¿Puede venir a las 2:00 p.m.?"
+      },
+      {
+        "text": "Dat is erg laat. Kan de tandarts me nu niet zien?",
+        "speaker": "Speaker 2",
+        "translation": "Eso es muy tarde. ¿No puede verme el dentista ahora?"
+      },
+      {
+        "text": "Ik ben bang dat hij dat niet kan, meneer Croft. Kunt u niet wachten tot vanmiddag?",
+        "speaker": "Speaker 1",
+        "translation": "Me temo que no puede, Sr. Croft. ¿No puede esperar hasta esta tarde?"
+      },
+      {
+        "text": "Ik kan wachten, maar mijn tanden kunnen dat niet!",
+        "speaker": "Speaker 2",
+        "translation": "Puedo esperar, ¡pero mis muelas no pueden!"
+      }
+    ],
+    "images": []
+  }
+}

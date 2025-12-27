@@ -1,0 +1,90 @@
+{
+  "id": 111,
+  "title": "Les 111",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Meneer en mevrouw Frith willen een platenspeler kopen maar vinden hem te duur.",
+        "speaker": "Situatie",
+        "translation": "¿Qué te pasa, Sam?"
+      },
+      {
+        "text": "Ik vind deze platenspeler heel mooi. Hoeveel kost hij alsjeblieft?",
+        "speaker": "Meneer Frith",
+        "translation": "No me encuentro muy bien."
+      },
+      {
+        "text": "Het is het duurste model in de winkel. Hij kost vierenzestig pond.",
+        "speaker": "Verkoper",
+        "translation": "¿Qué tienes?"
+      },
+      {
+        "text": "Dat is te duur voor ons. We kunnen al dat geld niet betalen.",
+        "speaker": "Mevrouw Frith",
+        "translation": "Creo que tengo gripe."
+      },
+      {
+        "text": "Dit model is minder duur dan dat. Het is maar achtentwintig pond. Maar natuurlijk is hij niet zo goed als de dure.",
+        "speaker": "Verkoper",
+        "translation": "¿Has tomado tu temperatura?"
+      },
+      {
+        "text": "Ik vind dit model niet mooi. Het andere model is duurder, maar hij is het geld waard.",
+        "speaker": "Meneer Frith",
+        "translation": "Sí. Tengo bastante fiebre."
+      },
+      {
+        "text": "Kunnen we het op afbetaling kopen?",
+        "speaker": "Meneer Frith",
+        "translation": "¿Has visto al médico?"
+      },
+      {
+        "text": "Natuurlijk. Je kunt een aanbetaling van tien pond doen, en dan één pond per week gedurende zestig weken.",
+        "speaker": "Verkoper",
+        "translation": "No, todavía no."
+      },
+      {
+        "text": "Vind je het goed, lieverd?",
+        "speaker": "Meneer Frith",
+        "translation": "Será mejor que vayas a la cama y llames al médico inmediatamente."
+      },
+      {
+        "text": "Ik vind het zeker goed, maar ik vind de prijs niet leuk. Je wilt altijd het beste, maar we kunnen het ons niet veroorloven. Soms denk je dat je miljonair bent!",
+        "speaker": "Mevrouw Frith",
+        "translation": ""
+      },
+      {
+        "text": "Miljonairs kopen geen dingen op afbetaling!",
+        "speaker": "Meneer Frith",
+        "translation": ""
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Een echtpaar staat voor een toonbank met een verkoper die een moderne platenspeler laat zien, prijskaartje \"£64\" zichtbaar"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Mevrouw Frith kijkt bezorgd naar de prijs terwijl haar man nadenkend kijkt"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "De verkoper toont een goedkoper model voor \"£28\", wijzend naar de kenmerken"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Meneer Frith vergelijkt de twee modellen, houdt zijn kin vast in gedachten"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Een bord toont \"HIRE PURCHASE - BUY IT ON INSTALMENTS\" terwijl de verkoper het uitlegt"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Het echtpaar bespreekt de aankoopoptie terwijl de verkoper glimlacht"
+      }
+    ]
+  }
+}

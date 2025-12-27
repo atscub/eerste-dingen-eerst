@@ -1,0 +1,27 @@
+{
+  "id": 80,
+  "title": "Les 80",
+  "subtitle": "Debo ir a...",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "No tengo huevos. / No tengo muchos huevos.",
+        "spanish": "No tengo huevos. / No tengo muchos huevos."
+      },
+      {
+        "dutch": "Ik heb geen eieren. / Ik heb niet veel eieren.",
+        "spanish": "No tengo huevos. / No tengo muchos huevos."
+      },
+      {
+        "dutch": "Él no tiene café. / Él no tiene mucho café.",
+        "spanish": "Él no tiene café. / Él no tiene mucho café."
+      },
+      {
+        "dutch": "Hij heeft geen koffie. / Hij heeft niet veel koffie.",
+        "spanish": "Él no tiene café. / Él no tiene mucho café."
+      }
+    ]
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": 114,
+  "title": "Les 114",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Ik heb niets**",
+    "examples": [
+      "Er is geen melk in die fles.",
+      "Grammatica: Ik heb niets",
+      "o-q",
+      "r-t",
+      "u-w",
+      "x-z",
+      "Bekijk dit:",
+      "Verander deze zinnen op dezelfde manier:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Er is geen melk in die fles. → *Er is geen melk in die fles.*",
+    "example": [
+      {
+        "dutch": "Er is geen melk in die fles.",
+        "spanish": "No hay leche en esa botella."
+      },
+      {
+        "dutch": "Er is geen melk in die fles.",
+        "spanish": "Er is geen melk in die fles."
+      }
+    ]
+  }
+}

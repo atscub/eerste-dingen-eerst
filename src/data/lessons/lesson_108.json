@@ -1,0 +1,28 @@
+{
+  "id": 108,
+  "title": "Les 108",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Hoe vergelijken ze?**",
+    "examples": [
+      "Het is vandaag warm, maar het was warmer gisteren.",
+      "Grammatica: Hoe vergelijken ze?",
+      "Bekijk deze woorden:",
+      "Bekijk nu dit:",
+      "Doe deze op dezelfde manier:"
+    ]
+  },
+  "exercise": {
+    "instruction": "koud - kouder; aardig - aardiger; heet - heter; zwaar - zwaarder.",
+    "example": [
+      {
+        "dutch": "Het is vandaag warm, maar het was warmer gisteren.",
+        "spanish": "Hace calor hoy, pero ayer hacía más calor."
+      },
+      {
+        "dutch": "",
+        "spanish": "Het is vandaag warm, maar het was warmer gisteren."
+      }
+    ]
+  }
+}

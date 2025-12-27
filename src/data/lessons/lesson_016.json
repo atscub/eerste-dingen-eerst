@@ -1,0 +1,19 @@
+{
+  "id": 16,
+  "title": "Les 16",
+  "subtitle": "Nacionalidades y colores plurales",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Het is ... Zweedse auto.",
+        "spanish": "Es ... coche sueco."
+      },
+      {
+        "dutch": "Het is een Zweedse auto.",
+        "spanish": "Es un coche sueco."
+      }
+    ]
+  }
+}

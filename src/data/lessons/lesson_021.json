@@ -1,0 +1,75 @@
+{
+  "id": 21,
+  "title": "Les 21",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Geef me een boek, alsjeblieft, Jane.",
+        "speaker": "Speaker 1",
+        "translation": "Dame un libro, por favor, Jane."
+      },
+      {
+        "text": "Welk boek?",
+        "speaker": "Speaker 2",
+        "translation": "¿Qué libro?"
+      },
+      {
+        "text": "Deze?",
+        "speaker": "Speaker 1",
+        "translation": "¿Éste?"
+      },
+      {
+        "text": "Nee, niet die. De rode.",
+        "speaker": "Speaker 2",
+        "translation": "No, no ese. El rojo."
+      },
+      {
+        "text": "Deze?",
+        "speaker": "Speaker 1",
+        "translation": "¿Éste?"
+      },
+      {
+        "text": "Ja, alsjeblieft.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, por favor."
+      },
+      {
+        "text": "Alsjeblieft.",
+        "speaker": "Speaker 1",
+        "translation": "Aquí tienes."
+      },
+      {
+        "text": "Dank je.",
+        "speaker": "Speaker 2",
+        "translation": "Gracias."
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Hombre sentado en un sillón pidiendo un libro a una mujer de pie junto a un estante"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Mujer volteando hacia el estante con expresión interrogativa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Mujer señalando un libro en el estante"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Hombre señalando hacia un libro rojo diferente"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Mujer tomando el libro rojo correcto del estante"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Mujer entregando el libro rojo al hombre"
+      }
+    ]
+  }
+}

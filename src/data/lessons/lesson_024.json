@@ -1,0 +1,19 @@
+{
+  "id": 24,
+  "title": "Les 24",
+  "subtitle": "Dame/le/nos/les unos...",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Geef Tim dit overhemd. Geef ... dit, ook.",
+        "spanish": "Dale a Tim esta camisa. Dale ... esto también."
+      },
+      {
+        "dutch": "Geef Tim dit overhemd. Geef hem dit ook.",
+        "spanish": "Dale a Tim esta camisa. Dale esto también."
+      }
+    ]
+  }
+}

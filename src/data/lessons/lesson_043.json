@@ -1,0 +1,118 @@
+{
+  "id": 43,
+  "title": "Les 43",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Kun je thee zetten, John?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puedes hacer el té, John?"
+      },
+      {
+        "text": "Ja, natuurlijk kan ik dat, Mary.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, por supuesto que puedo, Mary."
+      },
+      {
+        "text": "Is er water in deze theepot?",
+        "speaker": "Speaker 1",
+        "translation": "¿Hay algo de agua en esta tetera?"
+      },
+      {
+        "text": "Ja, dat is er.",
+        "speaker": "Speaker 2",
+        "translation": "Sí, la hay."
+      },
+      {
+        "text": "Waar is de thee, schat?",
+        "speaker": "Speaker 1",
+        "translation": "¿Dónde está el té, querida?"
+      },
+      {
+        "text": "Hij is daar, achter de theepot.",
+        "speaker": "Speaker 2",
+        "translation": "Está ahí, detrás de la tetera."
+      },
+      {
+        "text": "Kun je hem zien?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puedes verlo?"
+      },
+      {
+        "text": "Ik kan de theepot zien, maar ik kan de thee niet zien.",
+        "speaker": "Speaker 2",
+        "translation": "Puedo ver la tetera, pero no puedo ver el té."
+      },
+      {
+        "text": "Daar is hij! Hij is vlak voor je!",
+        "speaker": "Speaker 1",
+        "translation": "¡Ahí está! ¡Está frente a ti!"
+      },
+      {
+        "text": "Oh ja, nu kan ik hem zien.",
+        "speaker": "Speaker 2",
+        "translation": "Ah sí, ahora puedo verlo."
+      },
+      {
+        "text": "Waar zijn de theekopjes?",
+        "speaker": "Speaker 1",
+        "translation": "¿Dónde están las tazas de té?"
+      },
+      {
+        "text": "Er zijn wat in de kast.",
+        "speaker": "Speaker 2",
+        "translation": "Hay algunas en el armario."
+      },
+      {
+        "text": "Kun je ze vinden?",
+        "speaker": "Speaker 1",
+        "translation": "¿Puedes encontrarlas?"
+      },
+      {
+        "text": "Ja. Hier zijn ze.",
+        "speaker": "Speaker 2",
+        "translation": "Sí. Aquí están."
+      },
+      {
+        "text": "Schiet op, John! De theepot kookt!",
+        "speaker": "Speaker 1",
+        "translation": "¡Date prisa, John! ¡La tetera está hirviendo!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Mary preguntando a John en la cocina si puede hacer té"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "John verificando la tetera"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "John buscando el té"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "John sin poder ver el té"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Mary señalando justo frente a John"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "John abriendo el armario"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+7",
+        "alt": "John encontrando las tazas"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+8",
+        "alt": "La tetera hirviendo con vapor"
+      }
+    ]
+  }
+}

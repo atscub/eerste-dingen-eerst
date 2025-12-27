@@ -1,0 +1,19 @@
+{
+  "id": 82,
+  "title": "Les 82",
+  "subtitle": "Tuve...",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Tomé una taza de café. Bebí una taza de café.",
+        "spanish": "Tomé una taza de café. Bebí una taza de café."
+      },
+      {
+        "dutch": "Ik had een kopje koffie. Ik dronk een kopje koffie.",
+        "spanish": "Tomé una taza de café. Bebí una taza de café."
+      }
+    ]
+  }
+}

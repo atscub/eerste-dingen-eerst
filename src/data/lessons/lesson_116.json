@@ -1,0 +1,28 @@
+{
+  "id": 116,
+  "title": "Les 116",
+  "type": "grammar",
+  "grammar": {
+    "explanation": "**Grammatica: Every, No, Any en Some**\n\n| Basis | Personen | Dingen | Plaatsen |\n|-------|----------|---------|----------|\n| Every | Everyone / Everybody | Everything | Everywhere |\n| No | No one / Nobody | Nothing | Nowhere |\n| Any | Anyone / Anybody | Anything | Anywhere |\n| Some | Someone / Somebody | Something | Somewhere |\n\n**Afbeeldingen a-l tonen verschillende situaties:**\n- a-b. Iedereen slaapt / Alles is rommelig\n- c. Ik zocht mijn pen overal\n- d-e. Is er iemand thuis? / Is er iets in die doos?\n- f. Ik kon mijn pen nergens vinden\n- g-h. Er is niemand thuis / Er is niets in deze doos\n- i. Waar ging je gisteren? Nergens. Ik bleef thuis.\n- j-k. Er is iemand in de tuin / Er is iets onder die stoel!\n- l. Mijn bril moet ergens zijn! Je draagt ze!",
+    "examples": [
+      "Ik kocht niets.",
+      "Grammatica: Every, No, Any en Some",
+      "Afbeeldingen a-l tonen verschillende situaties:",
+      "Bekijk dit:",
+      "Verander deze op dezelfde manier:"
+    ]
+  },
+  "exercise": {
+    "instruction": "Ik kocht niets. → *Ik kocht niets.*",
+    "example": [
+      {
+        "dutch": "Ik kocht niets.",
+        "spanish": "No compré nada."
+      },
+      {
+        "dutch": "Ik kocht niets.",
+        "spanish": "Ik kocht niets."
+      }
+    ]
+  }
+}

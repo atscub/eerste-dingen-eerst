@@ -1,0 +1,30 @@
+{
+  "id": 69,
+  "title": "Les 69",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Circuito de carreras con gradas llenas de gente"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Multitud mirando la carrera, Julie, Jack, narrador y esposa a la izquierda"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Veinte coches en la línea de salida con diferentes banderas de países"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Final emocionante con Billy Stewart en el coche 15 y otros cinco coches detrás"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Narrador conduciendo rápido en el camino a casa, esposa preocupada"
+      }
+    ]
+  }
+}

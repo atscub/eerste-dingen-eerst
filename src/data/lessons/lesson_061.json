@@ -1,0 +1,110 @@
+{
+  "id": 61,
+  "title": "Les 61",
+  "type": "dialogue",
+  "dialogue": {
+    "lines": [
+      {
+        "text": "Waar is Jimmy?",
+        "speaker": "Speaker 1",
+        "translation": "¿Dónde está Jimmy?"
+      },
+      {
+        "text": "Hij ligt in bed.",
+        "speaker": "Speaker 2",
+        "translation": "Está en cama."
+      },
+      {
+        "text": "Wat is er met hem aan de hand?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué le pasa?"
+      },
+      {
+        "text": "Hij voelt zich ziek.",
+        "speaker": "Speaker 2",
+        "translation": "Se siente mal."
+      },
+      {
+        "text": "Hij ziet er ziek uit.",
+        "speaker": "Speaker 1",
+        "translation": "Se ve mal."
+      },
+      {
+        "text": "We moeten de dokter bellen.",
+        "speaker": "Speaker 2",
+        "translation": "Debemos llamar al doctor."
+      },
+      {
+        "text": "Ja, dat moeten we.",
+        "speaker": "Speaker 1",
+        "translation": "Sí, debemos."
+      },
+      {
+        "text": "Kun je het telefoonnummer van de dokter onthouden?",
+        "speaker": "Speaker 2",
+        "translation": "¿Puedes recordar el número de teléfono del doctor?"
+      },
+      {
+        "text": "Ja. Het is 09754.",
+        "speaker": "Speaker 1",
+        "translation": "Sí. Es 09754."
+      },
+      {
+        "text": "Open je mond, Jimmy. Laat me je tong zien. Zeg \"Ah\".",
+        "speaker": "Speaker 2",
+        "translation": "Abre tu boca, Jimmy. Muéstrame tu lengua. Di, \"Ah\"."
+      },
+      {
+        "text": "Wat is er met hem aan de hand, dokter?",
+        "speaker": "Speaker 1",
+        "translation": "¿Qué le pasa, doctor?"
+      },
+      {
+        "text": "Hij heeft een zware verkoudheid, meneer Williams, dus hij moet een week in bed blijven.",
+        "speaker": "Speaker 2",
+        "translation": "Tiene un resfriado fuerte, Sr. Williams, así que debe quedarse en cama durante una semana."
+      },
+      {
+        "text": "Dat is goed nieuws voor Jimmy.",
+        "speaker": "Speaker 1",
+        "translation": "Esas son buenas noticias para Jimmy."
+      },
+      {
+        "text": "Goed nieuws? Waarom?",
+        "speaker": "Speaker 2",
+        "translation": "¿Buenas noticias? ¿Por qué?"
+      },
+      {
+        "text": "Omdat hij niet van school houdt!",
+        "speaker": "Speaker 1",
+        "translation": "¡Porque no le gusta la escuela!"
+      }
+    ],
+    "images": [
+      {
+        "src": "https://placehold.co/480x320?text=Scene+1",
+        "alt": "Sr. y Sra. Williams hablando, teléfono en la mesa"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+2",
+        "alt": "Padres mirando a Jimmy en cama, preocupados"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+3",
+        "alt": "Sra. Williams marcando el teléfono"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+4",
+        "alt": "Doctor examinando la garganta de Jimmy en cama"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+5",
+        "alt": "Doctor hablando con Sr. Williams sobre Jimmy"
+      },
+      {
+        "src": "https://placehold.co/480x320?text=Scene+6",
+        "alt": "Sr. y Sra. Williams con Jimmy en cama, Jimmy sonriendo"
+      }
+    ]
+  }
+}

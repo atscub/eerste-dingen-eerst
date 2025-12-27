@@ -1,0 +1,15 @@
+{
+  "id": 40,
+  "title": "Les 40",
+  "subtitle": "¿Qué vas a hacer? / Voy a...",
+  "type": "practice",
+  "exercise": {
+    "instruction": "Observa esto: Cambia estos de la misma manera:",
+    "example": [
+      {
+        "dutch": "Geef me die vaas. Geef die vaas aan mij.",
+        "spanish": "Dame ese jarrón. Dame ese jarrón a mí."
+      }
+    ]
+  }
+}

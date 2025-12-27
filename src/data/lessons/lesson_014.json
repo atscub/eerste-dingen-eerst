@@ -1,0 +1,91 @@
+{
+  "id": 14,
+  "title": "Les 14",
+  "subtitle": "¿De qué color es tu...?",
+  "type": "vocabulary",
+  "items": [
+    {
+      "number": 1,
+      "dutch": "de paraplu",
+      "english": "umbrella",
+      "spanish": "el paraguas",
+      "illustration": "Illustratie van de paraplu"
+    },
+    {
+      "number": 2,
+      "dutch": "de auto",
+      "english": "car",
+      "spanish": "el coche",
+      "illustration": "Illustratie van de auto"
+    },
+    {
+      "number": 3,
+      "dutch": "het overhemd",
+      "english": "shirt",
+      "spanish": "la camisa",
+      "illustration": "Illustratie van het overhemd"
+    },
+    {
+      "number": 4,
+      "dutch": "de jas",
+      "english": "coat",
+      "spanish": "el abrigo",
+      "illustration": "Illustratie van de jas"
+    },
+    {
+      "number": 5,
+      "dutch": "de koffer",
+      "english": "case",
+      "spanish": "la maleta",
+      "illustration": "Illustratie van de koffer"
+    },
+    {
+      "number": 6,
+      "dutch": "het tapijt",
+      "english": "carpet",
+      "spanish": "la alfombra",
+      "illustration": "Illustratie van het tapijt"
+    },
+    {
+      "number": 7,
+      "dutch": "de blouse",
+      "english": "blouse",
+      "spanish": "la blusa",
+      "illustration": "Illustratie van de blouse"
+    },
+    {
+      "number": 8,
+      "dutch": "de das",
+      "english": "tie",
+      "spanish": "la corbata",
+      "illustration": "Illustratie van de das"
+    },
+    {
+      "number": 9,
+      "dutch": "de hoed",
+      "english": "hat",
+      "spanish": "el sombrero",
+      "illustration": "Illustratie van de hoed"
+    },
+    {
+      "number": 10,
+      "dutch": "de hond",
+      "english": "dog",
+      "spanish": "el perro",
+      "illustration": "Illustratie van de hond"
+    }
+  ],
+  "exercise": {
+    "instruction": "Observa esto:",
+    "example": [
+      {
+        "dutch": "Dit is Stella. Dit is haar tas.",
+        "spanish": "Esta es Stella. Esta es su bolso."
+      },
+      {
+        "dutch": "Dit is Stella's tas.",
+        "spanish": "Este es el bolso de Stella."
+      }
+    ]
+  }
+}
