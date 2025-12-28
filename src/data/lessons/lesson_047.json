@@ -1,95 +1,97 @@
 {
   "id": 47,
   "title": "Les 47",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Hou je van koffie, mevrouw Price?",
-        "speaker": "Mevrouw Young",
-        "translation": "¿Te gusta el café, Sra. Price?"
-      },
-      {
-        "text": "Ja, dat doe ik.",
-        "speaker": "Mevrouw Price",
-        "translation": "Sí, me gusta."
-      },
-      {
-        "text": "Wil je een kopje?",
-        "speaker": "Mevrouw Young",
-        "translation": "¿Quieres una taza?"
-      },
-      {
-        "text": "Ja, graag, mevrouw Young.",
-        "speaker": "Mevrouw Price",
-        "translation": "Sí, por favor, Sra. Young."
-      },
-      {
-        "text": "Wil je suiker?",
-        "speaker": "Mevrouw Young",
-        "translation": "¿Quieres algo de azúcar?"
-      },
-      {
-        "text": "Ja, graag.",
-        "speaker": "Mevrouw Price",
-        "translation": "Sí, por favor."
-      },
-      {
-        "text": "Wil je melk?",
-        "speaker": "Mevrouw Young",
-        "translation": "¿Quieres algo de leche?"
-      },
-      {
-        "text": "Nee, dank je. Ik hou niet van melk in mijn koffie. Ik hou van zwarte koffie.",
-        "speaker": "Mevrouw Price",
-        "translation": "No, gracias. No me gusta la leche en mi café. Me gusta el café negro."
-      },
-      {
-        "text": "Hou je van koekjes?",
-        "speaker": "Mevrouw Young",
-        "translation": "¿Te gustan las galletas?"
-      },
-      {
-        "text": "Ja, dat doe ik.",
-        "speaker": "Mevrouw Price",
-        "translation": "Sí, me gustan."
-      },
-      {
-        "text": "Wil je er een?",
-        "speaker": "Mevrouw Young",
-        "translation": "¿Quieres una?"
-      },
-      {
-        "text": "Ja, graag.",
-        "speaker": "Mevrouw Price",
-        "translation": "Sí, por favor."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page47_illust001.png",
-        "alt": "Ilustración 1 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page47_illust002.png",
-        "alt": "Ilustración 2 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page47_illust003.png",
-        "alt": "Ilustración 3 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page47_illust004.png",
-        "alt": "Ilustración 4 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page47_illust005.png",
-        "alt": "Ilustración 5 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page47_illust006.png",
-        "alt": "Ilustración 6 del diálogo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Hou je van koffie, mevrouw Price?",
+          "speaker": "Mevrouw Young",
+          "translation": "¿Te gusta el café, Sra. Price?"
+        },
+        {
+          "text": "Ja, dat doe ik.",
+          "speaker": "Mevrouw Price",
+          "translation": "Sí, me gusta."
+        },
+        {
+          "text": "Wil je een kopje?",
+          "speaker": "Mevrouw Young",
+          "translation": "¿Quieres una taza?"
+        },
+        {
+          "text": "Ja, graag, mevrouw Young.",
+          "speaker": "Mevrouw Price",
+          "translation": "Sí, por favor, Sra. Young."
+        },
+        {
+          "text": "Wil je suiker?",
+          "speaker": "Mevrouw Young",
+          "translation": "¿Quieres algo de azúcar?"
+        },
+        {
+          "text": "Ja, graag.",
+          "speaker": "Mevrouw Price",
+          "translation": "Sí, por favor."
+        },
+        {
+          "text": "Wil je melk?",
+          "speaker": "Mevrouw Young",
+          "translation": "¿Quieres algo de leche?"
+        },
+        {
+          "text": "Nee, dank je. Ik hou niet van melk in mijn koffie. Ik hou van zwarte koffie.",
+          "speaker": "Mevrouw Price",
+          "translation": "No, gracias. No me gusta la leche en mi café. Me gusta el café negro."
+        },
+        {
+          "text": "Hou je van koekjes?",
+          "speaker": "Mevrouw Young",
+          "translation": "¿Te gustan las galletas?"
+        },
+        {
+          "text": "Ja, dat doe ik.",
+          "speaker": "Mevrouw Price",
+          "translation": "Sí, me gustan."
+        },
+        {
+          "text": "Wil je er een?",
+          "speaker": "Mevrouw Young",
+          "translation": "¿Quieres una?"
+        },
+        {
+          "text": "Ja, graag.",
+          "speaker": "Mevrouw Price",
+          "translation": "Sí, por favor."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page47_illust001.png",
+          "alt": "Ilustración 1 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page47_illust002.png",
+          "alt": "Ilustración 2 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page47_illust003.png",
+          "alt": "Ilustración 3 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page47_illust004.png",
+          "alt": "Ilustración 4 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page47_illust005.png",
+          "alt": "Ilustración 5 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page47_illust006.png",
+          "alt": "Ilustración 6 del diálogo"
+        }
+      ]
+    }
+  ]
 }

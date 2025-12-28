@@ -2,87 +2,63 @@
   "id": 73,
   "title": "Les 73",
   "subtitle": "Mevrouw Mulder in Amsterdam",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Vorige week ging mevrouw Mulder naar Amsterdam.",
-        "translation": "La semana pasada la señora Mulder fue a Ámsterdam."
-      },
-      {
-        "text": "Ze kent Amsterdam niet erg goed en ze verdwaalde.",
-        "translation": "No conoce Ámsterdam muy bien y se perdió."
-      },
-      {
-        "text": "Plotseling zag ze een man bij een bushalte.",
-        "translation": "De repente vio a un hombre cerca de una parada de autobús."
-      },
-      {
-        "text": "\"Ik kan hem de weg vragen,\" zei ze tegen zichzelf.",
-        "translation": "\"Puedo preguntarle el camino,\" se dijo a sí misma."
-      },
-      {
-        "text": "\"Pardon,\" zei ze. \"Kunt u me de weg naar de Prinsengracht vertellen?\"",
-        "translation": "\"Disculpe,\" dijo. \"¿Puede decirme el camino a Prinsengracht?\""
-      },
-      {
-        "text": "De man glimlachte vriendelijk.",
-        "translation": "El hombre sonrió amablemente."
-      },
-      {
-        "text": "Hij verstond geen Nederlands!",
-        "translation": "¡No entendía holandés!"
-      },
-      {
-        "text": "Hij sprak Duits.",
-        "translation": "Hablaba alemán."
-      },
-      {
-        "text": "Hij was een toerist.",
-        "translation": "Era un turista."
-      },
-      {
-        "text": "Toen stak hij zijn hand in zijn zak en haalde een taalgids tevoorschijn.",
-        "translation": "Entonces metió la mano en su bolsillo y sacó un libro de frases."
-      },
-      {
-        "text": "Hij opende het boek en vond een zin.",
-        "translation": "Abrió el libro y encontró una frase."
-      },
-      {
-        "text": "Hij las de zin langzaam voor.",
-        "translation": "Leyó la frase lentamente."
-      },
-      {
-        "text": "\"Het spijt me,\" zei hij. \"Ik spreek geen Nederlands.\"",
-        "translation": "\"Lo siento,\" dijo. \"No hablo holandés.\""
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page73_illust001.png",
-        "alt": "Sra. Mulder en Ámsterdam mirando alrededor, perdida"
-      },
-      {
-        "src": "/illustrations-sorted/page73_illust002.png",
-        "alt": "Sra. Mulder viendo a un hombre en la parada de autobús"
-      },
-      {
-        "src": "/illustrations-sorted/page73_illust003.png",
-        "alt": "Sra. Mulder hablando con el hombre, preguntando direcciones"
-      },
-      {
-        "src": "/illustrations-sorted/page73_illust004.png",
-        "alt": "El hombre sonriendo pero luciendo confundido"
-      },
-      {
-        "src": "/illustrations-sorted/page73_illust005.png",
-        "alt": "El hombre sacando un libro de frases de su bolsillo"
-      },
-      {
-        "src": "/illustrations-sorted/page73_illust006.png",
-        "alt": "El hombre leyendo del libro de frases"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "reading",
+      "paragraphs": [
+        {
+          "text": "Vorige week ging mevrouw Mulder naar Amsterdam.",
+          "translation": "La semana pasada la señora Mulder fue a Ámsterdam."
+        },
+        {
+          "text": "Ze kent Amsterdam niet erg goed en ze verdwaalde.",
+          "translation": "No conoce Ámsterdam muy bien y se perdió."
+        },
+        {
+          "text": "Plotseling zag ze een man bij een bushalte.",
+          "translation": "De repente vio a un hombre cerca de una parada de autobús."
+        },
+        {
+          "text": "\"Ik kan hem de weg vragen,\" zei ze tegen zichzelf.",
+          "translation": "\"Puedo preguntarle el camino,\" se dijo a sí misma."
+        },
+        {
+          "text": "\"Pardon,\" zei ze. \"Kunt u me de weg naar de Prinsengracht vertellen?\"",
+          "translation": "\"Disculpe,\" dijo. \"¿Puede decirme el camino a Prinsengracht?\""
+        },
+        {
+          "text": "De man glimlachte vriendelijk.",
+          "translation": "El hombre sonrió amablemente."
+        },
+        {
+          "text": "Hij verstond geen Nederlands!",
+          "translation": "¡No entendía holandés!"
+        },
+        {
+          "text": "Hij sprak Duits.",
+          "translation": "Hablaba alemán."
+        },
+        {
+          "text": "Hij was een toerist.",
+          "translation": "Era un turista."
+        },
+        {
+          "text": "Toen stak hij zijn hand in zijn zak en haalde een taalgids tevoorschijn.",
+          "translation": "Entonces metió la mano en su bolsillo y sacó un libro de frases."
+        },
+        {
+          "text": "Hij opende het boek en vond een zin.",
+          "translation": "Abrió el libro y encontró una frase."
+        },
+        {
+          "text": "Hij las de zin langzaam voor.",
+          "translation": "Leyó la frase lentamente."
+        },
+        {
+          "text": "\"Het spijt me,\" zei hij. \"Ik spreek geen Nederlands.\"",
+          "translation": "\"Lo siento,\" dijo. \"No hablo holandés.\""
+        }
+      ]
+    }
+  ]
 }

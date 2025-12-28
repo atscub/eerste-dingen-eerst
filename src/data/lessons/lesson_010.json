@@ -1,19 +1,124 @@
 {
   "id": 10,
   "title": "Les 10",
-  "subtitle": "Mire...",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Robert is niet een leraar. .... een ingenieur.",
-        "spanish": "Robert no es un profesor. .... un ingeniero."
-      },
-      {
-        "dutch": "Robert is niet een leraar. Hij is een ingenieur.",
-        "spanish": "Robert no es un profesor. Él es un ingeniero."
-      }
-    ]
-  }
+  "subtitle": "Kijk naar...",
+  "sections": [
+    {
+      "type": "practice",
+      "prompt": "Kijk naar...",
+      "items": [
+        {
+          "number": 11,
+          "dutch": "die man!",
+          "spanish": "¡ese hombre!",
+          "illustration": "/illustrations-sorted/page10_illust001.png"
+        },
+        {
+          "number": 12,
+          "dutch": "die vrouw!",
+          "spanish": "¡esa mujer!",
+          "illustration": "/illustrations-sorted/page10_illust002.png"
+        },
+        {
+          "number": 13,
+          "dutch": "die politieagent!",
+          "spanish": "¡ese policía!",
+          "illustration": "/illustrations-sorted/page10_illust003.png"
+        },
+        {
+          "number": 14,
+          "dutch": "die politieagente!",
+          "spanish": "¡esa policía!",
+          "illustration": "/illustrations-sorted/page10_illust004.png"
+        },
+        {
+          "number": 15,
+          "dutch": "die monteur!",
+          "spanish": "¡ese mecánico!",
+          "illustration": "/illustrations-sorted/page10_illust005.png"
+        },
+        {
+          "number": 16,
+          "dutch": "die verpleegster!",
+          "spanish": "¡esa enfermera!",
+          "illustration": "/illustrations-sorted/page10_illust006.png"
+        },
+        {
+          "number": 17,
+          "dutch": "meneer Ford!",
+          "spanish": "¡el señor Ford!",
+          "illustration": "/illustrations-sorted/page10_illust007.png"
+        },
+        {
+          "number": 18,
+          "dutch": "mevrouw Ford!",
+          "spanish": "¡la señora Ford!",
+          "illustration": "/illustrations-sorted/page10_illust008.png"
+        },
+        {
+          "number": 19,
+          "dutch": "die melkboer!",
+          "spanish": "¡ese lechero!",
+          "illustration": "/illustrations-sorted/page10_illust009.png"
+        },
+        {
+          "number": 20,
+          "dutch": "die stewardess!",
+          "spanish": "¡esa azafata!",
+          "illustration": "/illustrations-sorted/page10_illust010.png"
+        },
+        {
+          "number": 21,
+          "dutch": "die kapper!",
+          "spanish": "¡ese peluquero!",
+          "illustration": "/illustrations-sorted/page10_illust011.png"
+        },
+        {
+          "number": 22,
+          "dutch": "die taxichauffeur!",
+          "spanish": "¡ese taxista!",
+          "illustration": "/illustrations-sorted/page10_illust012.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["Hij is", "Zij is", "Het is"],
+      "example": [
+        {
+          "input": "Robert is niet een leraar. ---- een ingenieur.",
+          "output": "Robert is niet een leraar. Hij is een ingenieur.",
+          "spanish": "Robert no es un profesor. Él es un ingeniero."
+        }
+      ],
+      "items": [
+        {
+          "text": "Meneer Blake is niet een student. ---- een leraar.",
+          "answer": "Meneer Blake is niet een student. Hij is een leraar."
+        },
+        {
+          "text": "Dit is niet mijn paraplu. ---- uw paraplu.",
+          "answer": "Dit is niet mijn paraplu. Het is uw paraplu."
+        },
+        {
+          "text": "Alice is niet een lerares. ---- een typiste.",
+          "answer": "Alice is niet een lerares. Zij is een typiste."
+        },
+        {
+          "text": "Meneer Ford is niet koud. ---- warm.",
+          "answer": "Meneer Ford is niet koud. Hij is warm."
+        },
+        {
+          "text": "Stella is niet Braziliaans. ---- Spaans.",
+          "answer": "Stella is niet Braziliaans. Zij is Spaans."
+        },
+        {
+          "text": "Dit is niet een Duitse auto. ---- een Zweedse auto.",
+          "answer": "Dit is niet een Duitse auto. Het is een Zweedse auto."
+        }
+      ]
+    }
+  ]
 }

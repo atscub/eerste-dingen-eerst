@@ -1,125 +1,127 @@
 {
   "id": 123,
   "title": "Les 123",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Bill laat Bob foto's zien van zijn reis naar Australië.",
-        "speaker": "Situatie",
-        "translation": "Buenos días."
-      },
-      {
-        "text": "Kijk, Bob. Dit is een foto die ik nam tijdens mijn reis naar Australië.",
-        "speaker": "Bill",
-        "translation": "Buenos días. ¿Puedo ayudarle?"
-      },
-      {
-        "text": "Laat me het eens zien, Bill.",
-        "speaker": "Bob",
-        "translation": "Sí. Quiero comprar un diccionario."
-      },
-      {
-        "text": "Dit is een goede foto. Wie zijn deze mensen?",
-        "speaker": "Bob",
-        "translation": "¿Qué tipo de diccionario quiere?"
-      },
-      {
-        "text": "Het zijn mensen die ik tijdens de reis ontmoette.",
-        "speaker": "Bill",
-        "translation": "Quiero un diccionario de inglés."
-      },
-      {
-        "text": "Dat is het schip waarop we reisden.",
-        "speaker": "Bill",
-        "translation": "¿Un diccionario de inglés-español?"
-      },
-      {
-        "text": "Wat een mooi schip!",
-        "speaker": "Bob",
-        "translation": "No, un diccionario solo de inglés."
-      },
-      {
-        "text": "Wie is dit?",
-        "speaker": "Bob",
-        "translation": "Tenemos varios. ¿Qué tal este?"
-      },
-      {
-        "text": "Dat is de man over wie ik je vertelde. Herinner je je?",
-        "speaker": "Bill",
-        "translation": "Déjeme verlo. Hmm. Es un poco pequeño. ¿Tiene uno más grande?"
-      },
-      {
-        "text": "Ah ja. De man die je een baan in Australië aanbood.",
-        "speaker": "Bob",
-        "translation": "Sí, este es mucho más grande."
-      },
-      {
-        "text": "Dat klopt.",
-        "speaker": "Bill",
-        "translation": "Ah, sí. Este es mejor. ¿Cuánto cuesta?"
-      },
-      {
-        "text": "Wie is dit?",
-        "speaker": "Bob",
-        "translation": "Treinta y cinco libras."
-      },
-      {
-        "text": "Raad eens!",
-        "speaker": "Bill",
-        "translation": "Está bien. Me lo llevo."
-      },
-      {
-        "text": "Het ben jij niet, of wel?",
-        "speaker": "Bob",
-        "translation": ""
-      },
-      {
-        "text": "Dat klopt.",
-        "speaker": "Bill",
-        "translation": ""
-      },
-      {
-        "text": "Ik liet een baard groeien tijdens de reis, maar ik schoor hem af toen ik thuiskwam.",
-        "speaker": "Bill",
-        "translation": ""
-      },
-      {
-        "text": "Waarom schoor je hem af?",
-        "speaker": "Bob",
-        "translation": ""
-      },
-      {
-        "text": "Mijn vrouw vond hem niet leuk!",
-        "speaker": "Bill",
-        "translation": ""
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page123_illust001.png",
-        "alt": "Bill en Bob zitten naast elkaar, Bill houdt een fotoalbum vast"
-      },
-      {
-        "src": "/illustrations-sorted/page123_illust002.png",
-        "alt": "Close-up van een foto in het album met mensen erop"
-      },
-      {
-        "src": "/illustrations-sorted/page123_illust003.png",
-        "alt": "Foto van een groot schip op zee"
-      },
-      {
-        "src": "/illustrations-sorted/page123_illust004.png",
-        "alt": "Foto van een man in de hitte"
-      },
-      {
-        "src": "/illustrations-sorted/page123_illust005.png",
-        "alt": "Foto van Bill met een dikke baard, bijna onherkenbaar"
-      },
-      {
-        "src": "/illustrations-sorted/page123_illust006.png",
-        "alt": "Bill thuis met zijn vrouw, nu zonder baard, vrouw wijst geschokt naar de foto"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Bill laat Bob foto's zien van zijn reis naar Australië.",
+          "speaker": "Situatie",
+          "translation": "Buenos días."
+        },
+        {
+          "text": "Kijk, Bob. Dit is een foto die ik nam tijdens mijn reis naar Australië.",
+          "speaker": "Bill",
+          "translation": "Buenos días. ¿Puedo ayudarle?"
+        },
+        {
+          "text": "Laat me het eens zien, Bill.",
+          "speaker": "Bob",
+          "translation": "Sí. Quiero comprar un diccionario."
+        },
+        {
+          "text": "Dit is een goede foto. Wie zijn deze mensen?",
+          "speaker": "Bob",
+          "translation": "¿Qué tipo de diccionario quiere?"
+        },
+        {
+          "text": "Het zijn mensen die ik tijdens de reis ontmoette.",
+          "speaker": "Bill",
+          "translation": "Quiero un diccionario de inglés."
+        },
+        {
+          "text": "Dat is het schip waarop we reisden.",
+          "speaker": "Bill",
+          "translation": "¿Un diccionario de inglés-español?"
+        },
+        {
+          "text": "Wat een mooi schip!",
+          "speaker": "Bob",
+          "translation": "No, un diccionario solo de inglés."
+        },
+        {
+          "text": "Wie is dit?",
+          "speaker": "Bob",
+          "translation": "Tenemos varios. ¿Qué tal este?"
+        },
+        {
+          "text": "Dat is de man over wie ik je vertelde. Herinner je je?",
+          "speaker": "Bill",
+          "translation": "Déjeme verlo. Hmm. Es un poco pequeño. ¿Tiene uno más grande?"
+        },
+        {
+          "text": "Ah ja. De man die je een baan in Australië aanbood.",
+          "speaker": "Bob",
+          "translation": "Sí, este es mucho más grande."
+        },
+        {
+          "text": "Dat klopt.",
+          "speaker": "Bill",
+          "translation": "Ah, sí. Este es mejor. ¿Cuánto cuesta?"
+        },
+        {
+          "text": "Wie is dit?",
+          "speaker": "Bob",
+          "translation": "Treinta y cinco libras."
+        },
+        {
+          "text": "Raad eens!",
+          "speaker": "Bill",
+          "translation": "Está bien. Me lo llevo."
+        },
+        {
+          "text": "Het ben jij niet, of wel?",
+          "speaker": "Bob",
+          "translation": ""
+        },
+        {
+          "text": "Dat klopt.",
+          "speaker": "Bill",
+          "translation": ""
+        },
+        {
+          "text": "Ik liet een baard groeien tijdens de reis, maar ik schoor hem af toen ik thuiskwam.",
+          "speaker": "Bill",
+          "translation": ""
+        },
+        {
+          "text": "Waarom schoor je hem af?",
+          "speaker": "Bob",
+          "translation": ""
+        },
+        {
+          "text": "Mijn vrouw vond hem niet leuk!",
+          "speaker": "Bill",
+          "translation": ""
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page123_illust001.png",
+          "alt": "Bill en Bob zitten naast elkaar, Bill houdt een fotoalbum vast"
+        },
+        {
+          "src": "/illustrations-sorted/page123_illust002.png",
+          "alt": "Close-up van een foto in het album met mensen erop"
+        },
+        {
+          "src": "/illustrations-sorted/page123_illust003.png",
+          "alt": "Foto van een groot schip op zee"
+        },
+        {
+          "src": "/illustrations-sorted/page123_illust004.png",
+          "alt": "Foto van een man in de hitte"
+        },
+        {
+          "src": "/illustrations-sorted/page123_illust005.png",
+          "alt": "Foto van Bill met een dikke baard, bijna onherkenbaar"
+        },
+        {
+          "src": "/illustrations-sorted/page123_illust006.png",
+          "alt": "Bill thuis met zijn vrouw, nu zonder baard, vrouw wijst geschokt naar de foto"
+        }
+      ]
+    }
+  ]
 }

@@ -1,54 +1,56 @@
 {
   "id": 133,
   "title": "Les 133",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Een verslaggever interviewt Miss Marsh over haar nieuwe film en pensioenplannen.",
-        "speaker": "Situatie",
-        "translation": "Un reportero entrevista a Miss Marsh sobre su nueva película y planes de jubilación."
-      },
-      {
-        "text": "Heb je net een nieuwe film gemaakt, Miss Marsh?",
-        "speaker": "Verslaggever",
-        "translation": "¿Acabas de hacer una nueva película, Miss Marsh?"
-      },
-      {
-        "text": "Ja, dat heb ik.",
-        "speaker": "Miss Marsh",
-        "translation": "Sí, así es."
-      },
-      {
-        "text": "Ga je nog een maken?",
-        "speaker": "Verslaggever",
-        "translation": "¿Vas a hacer otra?"
-      },
-      {
-        "text": "Nee, dat ga ik niet. Ik ga met pensioen. Ik voel me erg moe. Ik wil voor lange tijd geen andere film meer maken.",
-        "speaker": "Miss Marsh",
-        "translation": "No, no voy a hacerlo. Voy a jubilarme. Me siento muy cansada. No quiero hacer otra película durante mucho tiempo."
-      },
-      {
-        "text": "Laten we een krant kopen, Millie. Luister naar dit! \"Karen Marsh: Sensationeel Nieuws! door onze verslaggever, Alan Jones. Miss Karen Marsh kwam vandaag aan op de luchthaven van Londen. Ze droeg een blauwe jurk en een nertsen jas. Ze vertelde me dat ze net een nieuwe film had gemaakt. Ze zei dat ze geen andere ging maken. Ze zei dat ze met pensioen ging. Ze vertelde verslaggevers dat ze zich erg moe voelde en voor lange tijd geen andere film wilde maken.\"",
-        "speaker": "Kate",
-        "translation": "Compremos un periódico, Millie. ¡Escucha esto! \"Karen Marsh: ¡Noticias Sensacionales! por nuestro reportero, Alan Jones. Miss Karen Marsh llegó hoy al aeropuerto de Londres. Llevaba un vestido azul y un abrigo de visón. Me dijo que acababa de hacer una nueva película. Dijo que no iba a hacer otra. Dijo que se iba a jubilar. Dijo a los reporteros que se sentía muy cansada y no quería hacer otra película durante mucho tiempo.\""
-      },
-      {
-        "text": "Nou, stel je voor, Kate!",
-        "speaker": "Millie",
-        "translation": "Bueno, ¡imagínate, Kate!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page133_illust001.png",
-        "alt": "Een verslaggever met een microfoon interviewt Miss Marsh terwijl een cameraman filmt"
-      },
-      {
-        "src": "/illustrations-sorted/page133_illust002.png",
-        "alt": "Kate en Millie lezen een krant met de kop \"KAREN MARSH SENSATION NEWS\""
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Een verslaggever interviewt Miss Marsh over haar nieuwe film en pensioenplannen.",
+          "speaker": "Situatie",
+          "translation": "Un reportero entrevista a Miss Marsh sobre su nueva película y planes de jubilación."
+        },
+        {
+          "text": "Heb je net een nieuwe film gemaakt, Miss Marsh?",
+          "speaker": "Verslaggever",
+          "translation": "¿Acabas de hacer una nueva película, Miss Marsh?"
+        },
+        {
+          "text": "Ja, dat heb ik.",
+          "speaker": "Miss Marsh",
+          "translation": "Sí, así es."
+        },
+        {
+          "text": "Ga je nog een maken?",
+          "speaker": "Verslaggever",
+          "translation": "¿Vas a hacer otra?"
+        },
+        {
+          "text": "Nee, dat ga ik niet. Ik ga met pensioen. Ik voel me erg moe. Ik wil voor lange tijd geen andere film meer maken.",
+          "speaker": "Miss Marsh",
+          "translation": "No, no voy a hacerlo. Voy a jubilarme. Me siento muy cansada. No quiero hacer otra película durante mucho tiempo."
+        },
+        {
+          "text": "Laten we een krant kopen, Millie. Luister naar dit! \"Karen Marsh: Sensationeel Nieuws! door onze verslaggever, Alan Jones. Miss Karen Marsh kwam vandaag aan op de luchthaven van Londen. Ze droeg een blauwe jurk en een nertsen jas. Ze vertelde me dat ze net een nieuwe film had gemaakt. Ze zei dat ze geen andere ging maken. Ze zei dat ze met pensioen ging. Ze vertelde verslaggevers dat ze zich erg moe voelde en voor lange tijd geen andere film wilde maken.\"",
+          "speaker": "Kate",
+          "translation": "Compremos un periódico, Millie. ¡Escucha esto! \"Karen Marsh: ¡Noticias Sensacionales! por nuestro reportero, Alan Jones. Miss Karen Marsh llegó hoy al aeropuerto de Londres. Llevaba un vestido azul y un abrigo de visón. Me dijo que acababa de hacer una nueva película. Dijo que no iba a hacer otra. Dijo que se iba a jubilar. Dijo a los reporteros que se sentía muy cansada y no quería hacer otra película durante mucho tiempo.\""
+        },
+        {
+          "text": "Nou, stel je voor, Kate!",
+          "speaker": "Millie",
+          "translation": "Bueno, ¡imagínate, Kate!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page133_illust001.png",
+          "alt": "Een verslaggever met een microfoon interviewt Miss Marsh terwijl een cameraman filmt"
+        },
+        {
+          "src": "/illustrations-sorted/page133_illust002.png",
+          "alt": "Kate en Millie lezen een krant met de kop \"KAREN MARSH SENSATION NEWS\""
+        }
+      ]
+    }
+  ]
 }

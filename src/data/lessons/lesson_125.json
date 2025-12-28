@@ -1,91 +1,93 @@
 {
   "id": 125,
   "title": "Les 125",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Susan vraagt Peter of hij kan komen voor thee, maar hij moet eerst de tuin sproeien.",
-        "speaker": "Situatie",
-        "translation": "¿Qué harás este fin de semana, Linda?"
-      },
-      {
-        "text": "Kun je nu binnenkomen en thee drinken, Peter?",
-        "speaker": "Susan",
-        "translation": "No estoy segura todavía."
-      },
-      {
-        "text": "Nog niet, lieverd. Ik moet eerst de tuin sproeien.",
-        "speaker": "Peter",
-        "translation": "¿Por qué no vienes con nosotros? Vamos a ir a la playa."
-      },
-      {
-        "text": "Moet je hem nu sproeien?",
-        "speaker": "Susan",
-        "translation": "Me encantaría, pero tengo que terminar mi proyecto."
-      },
-      {
-        "text": "Ik ben bang van wel. Kijk ernaar! Hij is vreselijk droog.",
-        "speaker": "Peter",
-        "translation": "Oh, vamos. Puedes hacer eso la próxima semana."
-      },
-      {
-        "text": "Wat vervelend!",
-        "speaker": "Susan",
-        "translation": "No, de verdad no puedo. Tengo que entregarlo el lunes."
-      },
-      {
-        "text": "Afgelopen zomer was het ook erg droog, weet je nog? Ik moest hem elke dag sproeien.",
-        "speaker": "Peter",
-        "translation": "¿Qué estás escribiendo?"
-      },
-      {
-        "text": "Nou, ik zal zelf thee drinken.",
-        "speaker": "Susan",
-        "translation": "Es un ensayo sobre la contaminación ambiental."
-      },
-      {
-        "text": "Dat was snel! Heb je al afgemaakt?",
-        "speaker": "Susan",
-        "translation": "Suena interesante. ¿Cuánto tiempo llevas trabajando en ello?"
-      },
-      {
-        "text": "Ja, lieverd. Kijk uit het raam.",
-        "speaker": "Peter",
-        "translation": "He estado trabajando en ello durante dos semanas."
-      },
-      {
-        "text": "Goede hemel! Het regent. Dat betekent dat je de tuin niet hoeft te sproeien.",
-        "speaker": "Susan",
-        "translation": "Bueno, buena suerte con eso."
-      },
-      {
-        "text": "Dat was een aangename verrassing. Het betekent dat ik in plaats daarvan thee kan drinken.",
-        "speaker": "Peter",
-        "translation": "Gracias. Que te diviertas en la playa."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page125_illust001.png",
-        "alt": "Peter is in de tuin aan het werk met een tuinslang, Susan roept vanaf het huis"
-      },
-      {
-        "src": "/illustrations-sorted/page125_illust002.png",
-        "alt": "Peter onderzoekt de droge aarde terwijl Susan uit het raam kijkt"
-      },
-      {
-        "src": "/illustrations-sorted/page125_illust003.png",
-        "alt": "Peter wijst naar de tuin terwijl hij met Susan praat die bij de deur staat"
-      },
-      {
-        "src": "/illustrations-sorted/page125_illust004.png",
-        "alt": "Het begint te regenen, Peter kijkt verbaasd naar de lucht"
-      },
-      {
-        "src": "/illustrations-sorted/page125_illust005.png",
-        "alt": "Susan en Peter staan binnen bij het raam en kijken naar de regen, beiden glimlachen"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Susan vraagt Peter of hij kan komen voor thee, maar hij moet eerst de tuin sproeien.",
+          "speaker": "Situatie",
+          "translation": "¿Qué harás este fin de semana, Linda?"
+        },
+        {
+          "text": "Kun je nu binnenkomen en thee drinken, Peter?",
+          "speaker": "Susan",
+          "translation": "No estoy segura todavía."
+        },
+        {
+          "text": "Nog niet, lieverd. Ik moet eerst de tuin sproeien.",
+          "speaker": "Peter",
+          "translation": "¿Por qué no vienes con nosotros? Vamos a ir a la playa."
+        },
+        {
+          "text": "Moet je hem nu sproeien?",
+          "speaker": "Susan",
+          "translation": "Me encantaría, pero tengo que terminar mi proyecto."
+        },
+        {
+          "text": "Ik ben bang van wel. Kijk ernaar! Hij is vreselijk droog.",
+          "speaker": "Peter",
+          "translation": "Oh, vamos. Puedes hacer eso la próxima semana."
+        },
+        {
+          "text": "Wat vervelend!",
+          "speaker": "Susan",
+          "translation": "No, de verdad no puedo. Tengo que entregarlo el lunes."
+        },
+        {
+          "text": "Afgelopen zomer was het ook erg droog, weet je nog? Ik moest hem elke dag sproeien.",
+          "speaker": "Peter",
+          "translation": "¿Qué estás escribiendo?"
+        },
+        {
+          "text": "Nou, ik zal zelf thee drinken.",
+          "speaker": "Susan",
+          "translation": "Es un ensayo sobre la contaminación ambiental."
+        },
+        {
+          "text": "Dat was snel! Heb je al afgemaakt?",
+          "speaker": "Susan",
+          "translation": "Suena interesante. ¿Cuánto tiempo llevas trabajando en ello?"
+        },
+        {
+          "text": "Ja, lieverd. Kijk uit het raam.",
+          "speaker": "Peter",
+          "translation": "He estado trabajando en ello durante dos semanas."
+        },
+        {
+          "text": "Goede hemel! Het regent. Dat betekent dat je de tuin niet hoeft te sproeien.",
+          "speaker": "Susan",
+          "translation": "Bueno, buena suerte con eso."
+        },
+        {
+          "text": "Dat was een aangename verrassing. Het betekent dat ik in plaats daarvan thee kan drinken.",
+          "speaker": "Peter",
+          "translation": "Gracias. Que te diviertas en la playa."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page125_illust001.png",
+          "alt": "Peter is in de tuin aan het werk met een tuinslang, Susan roept vanaf het huis"
+        },
+        {
+          "src": "/illustrations-sorted/page125_illust002.png",
+          "alt": "Peter onderzoekt de droge aarde terwijl Susan uit het raam kijkt"
+        },
+        {
+          "src": "/illustrations-sorted/page125_illust003.png",
+          "alt": "Peter wijst naar de tuin terwijl hij met Susan praat die bij de deur staat"
+        },
+        {
+          "src": "/illustrations-sorted/page125_illust004.png",
+          "alt": "Het begint te regenen, Peter kijkt verbaasd naar de lucht"
+        },
+        {
+          "src": "/illustrations-sorted/page125_illust005.png",
+          "alt": "Susan en Peter staan binnen bij het raam en kijken naar de regen, beiden glimlachen"
+        }
+      ]
+    }
+  ]
 }

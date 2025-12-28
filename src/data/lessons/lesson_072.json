@@ -1,18 +1,73 @@
 {
   "id": 72,
   "title": "Les 72",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Está ventilando la habitación ahora. Ella... ayer.",
-        "spanish": "Está ventilando la habitación ahora. Ella... ayer."
-      },
-      {
-        "dutch": "Ze luchtte het gisteren.",
-        "spanish": "Ella ventiló la habitación ayer."
-      }
-    ]
-  }
+  "subtitle": "Wanneer heb je...?",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "prompt": "Tijdsuitdrukkingen",
+      "columns": ["VANDAAG", "GISTEREN", "EERGISTEREN"],
+      "rows": [
+        ["vanmorgen", "gistermorgen", "eergisteren 's ochtends"],
+        ["vanmiddag", "gistermiddag", "eergisteren 's middags"],
+        ["vanavond", "gisteravond", "eergisteren 's avonds"],
+        ["vannacht", "gisterennacht", "eergisteren 's nachts"]
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Wanneer heb je...?",
+      "items": [
+        { "number": 1, "dutch": "geluchte", "spanish": "ventiló", "illustration": "/illustrations-sorted/page72_illust001.png" },
+        { "number": 2, "dutch": "maakte schoon", "spanish": "limpió", "illustration": "/illustrations-sorted/page72_illust002.png" },
+        { "number": 3, "dutch": "opende", "spanish": "abrió", "illustration": "/illustrations-sorted/page72_illust003.png" },
+        { "number": 4, "dutch": "slepte", "spanish": "afiló", "illustration": "/illustrations-sorted/page72_illust004.png" },
+        { "number": 5, "dutch": "zette aan", "spanish": "encendió", "illustration": "/illustrations-sorted/page72_illust005.png" },
+        { "number": 6, "dutch": "luisterde", "spanish": "escuchó", "illustration": "/illustrations-sorted/page72_illust006.png" },
+        { "number": 7, "dutch": "kookte", "spanish": "hirvió", "illustration": "/illustrations-sorted/page72_illust007.png" },
+        { "number": 8, "dutch": "arriveerde", "spanish": "llegó", "illustration": "/illustrations-sorted/page72_illust008.png" },
+        { "number": 9, "dutch": "speelde", "spanish": "jugó", "illustration": "/illustrations-sorted/page72_illust009.png" },
+        { "number": 10, "dutch": "bleef", "spanish": "se quedó", "illustration": "/illustrations-sorted/page72_illust010.png" },
+        { "number": 11, "dutch": "scheerde", "spanish": "afeitó", "illustration": "/illustrations-sorted/page72_illust011.png" },
+        { "number": 12, "dutch": "klom", "spanish": "trepó", "illustration": "/illustrations-sorted/page72_illust012.png" },
+        { "number": 13, "dutch": "telefoneerde", "spanish": "llamó por teléfono", "illustration": "/illustrations-sorted/page72_illust013.png" },
+        { "number": 14, "dutch": "belde", "spanish": "llamó", "illustration": "/illustrations-sorted/page72_illust014.png" },
+        { "number": 15, "dutch": "leegde", "spanish": "vació", "illustration": "/illustrations-sorted/page72_illust015.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Zij is de kamer nu aan het luchten. Zij ... het gisteren.",
+          "output": "Zij luchtte het gisteren.",
+          "spanish": "Ella está ventilando la habitación ahora. Ella la ventiló ayer."
+        }
+      ],
+      "items": [
+        {
+          "text": "Het regent nu. Het ... gisteren.",
+          "answer": "Het regende gisteren."
+        },
+        {
+          "text": "Het sneeuwt nu. Het ... gisteren.",
+          "answer": "Het sneeuwde gisteren."
+        },
+        {
+          "text": "Zij is wat eieren aan het koken. Zij ... gisteren wat.",
+          "answer": "Zij kookte gisteren wat."
+        },
+        {
+          "text": "Wij genieten van onze lunch. Wij ... er gisteren ook van.",
+          "answer": "Wij genoten er gisteren ook van."
+        },
+        {
+          "text": "Zij haasten zich naar hun werk. Zij ... zich gisteren ook naar hun werk.",
+          "answer": "Zij haastten zich gisteren ook naar hun werk."
+        }
+      ]
+    }
+  ]
 }

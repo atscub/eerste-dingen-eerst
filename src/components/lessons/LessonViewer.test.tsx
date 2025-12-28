@@ -6,33 +6,39 @@ import LessonViewer from './LessonViewer';
 const dialogueLesson: Lesson = {
   id: 1,
   title: 'Intro',
-  type: 'dialogue',
-  dialogue: {
-    lines: [
-      {
-        text: 'Hallo',
-        speaker: 'Ana',
-      },
-    ],
-    images: [
-      {
-        src: '/img/scene-1.png',
-        alt: 'Scene 1',
-      },
-    ],
-  },
+  sections: [
+    {
+      type: 'dialogue',
+      lines: [
+        {
+          text: 'Hallo',
+          speaker: 'Ana',
+        },
+      ],
+      images: [
+        {
+          src: '/img/scene-1.png',
+          alt: 'Scene 1',
+        },
+      ],
+    },
+  ],
 };
 
 const vocabularyLesson: Lesson = {
   id: 2,
   title: 'Words',
-  type: 'vocabulary',
-  items: [
+  sections: [
     {
-      number: 1,
-      dutch: 'Hoi',
-      english: 'Hi',
-      illustration: 'wave',
+      type: 'vocabulary',
+      items: [
+        {
+          number: 1,
+          dutch: 'Hoi',
+          english: 'Hi',
+          illustration: '/wave.png',
+        },
+      ],
     },
   ],
 };
@@ -40,41 +46,51 @@ const vocabularyLesson: Lesson = {
 const practiceLesson: Lesson = {
   id: 3,
   title: 'Practice',
-  type: 'practice',
-  items: [
+  sections: [
     {
-      number: 1,
-      question: 'Hoe gaat het?',
-      translation: 'How are you?',
-      illustration: 'greeting',
+      type: 'practice',
+      items: [
+        {
+          number: 1,
+          question: 'Hoe gaat het?',
+          spanish: 'How are you?',
+          illustration: '/greeting.png',
+        },
+      ],
     },
   ],
 };
 
-const grammarLesson: Lesson = {
+const readingLesson: Lesson = {
   id: 4,
-  title: 'Grammar',
-  type: 'grammar',
-  grammar: {
-    explanation: 'Basic grammar rules',
-    examples: ['Example one'],
-  },
-  exercise: {
-    instruction: 'Complete the sentence',
-    example: [
-      {
-        dutch: 'Ik ben student.',
-        spanish: 'Soy estudiante.',
-      },
-    ],
-  },
+  title: 'Reading',
+  sections: [
+    {
+      type: 'reading',
+      title: 'Grammar',
+      paragraphs: [
+        { text: 'Basic grammar rules' },
+        { text: 'Example one' },
+      ],
+    },
+    {
+      type: 'exercise',
+      exerciseType: 'general',
+      instruction: 'Complete the sentence',
+      example: [
+        {
+          dutch: 'Ik ben student.',
+          spanish: 'Soy estudiante.',
+        },
+      ],
+    },
+  ],
 };
 
 describe('LessonViewer', () => {
   it('renders dialogue lessons', () => {
     render(<LessonViewer lesson={dialogueLesson} />);
 
-    expect(screen.getByText('Dialogues')).toBeInTheDocument();
     expect(screen.getByText('Hallo')).toBeInTheDocument();
     expect(screen.getByAltText('Scene 1')).toBeInTheDocument();
   });
@@ -82,7 +98,6 @@ describe('LessonViewer', () => {
   it('renders vocabulary lessons', () => {
     render(<LessonViewer lesson={vocabularyLesson} />);
 
-    expect(screen.getByText('Vocabulario')).toBeInTheDocument();
     expect(screen.getByText('Hoi')).toBeInTheDocument();
   });
 
@@ -90,13 +105,11 @@ describe('LessonViewer', () => {
     render(<LessonViewer lesson={practiceLesson} />);
 
     expect(screen.getByText('Hoe gaat het?')).toBeInTheDocument();
-    expect(screen.getByText(/Pr.ctica/)).toBeInTheDocument();
   });
 
-  it('renders grammar lessons', () => {
-    render(<LessonViewer lesson={grammarLesson} />);
+  it('renders reading lessons with exercise', () => {
+    render(<LessonViewer lesson={readingLesson} />);
 
-    expect(screen.getAllByText(/Gram.tica/).length).toBeGreaterThan(0);
     expect(screen.getByText('Basic grammar rules')).toBeInTheDocument();
     expect(screen.getByText('Ik ben student.')).toBeInTheDocument();
   });

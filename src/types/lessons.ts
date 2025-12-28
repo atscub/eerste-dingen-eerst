@@ -1,4 +1,30 @@
-export type LessonType = 'dialogue' | 'vocabulary' | 'practice' | 'grammar';
+// =============================================================================
+// BASE TYPES
+// =============================================================================
+
+export interface Image {
+  src: string;
+  alt: string;
+}
+
+// =============================================================================
+// SECTION TYPES
+// =============================================================================
+
+export type SectionType =
+  | 'dialogue'
+  | 'reading'
+  | 'vocabulary'
+  | 'vocabularyGroup'
+  | 'vocabularyTable'
+  | 'practice'
+  | 'grammarTable'
+  | 'patternDrill'
+  | 'exercise';
+
+// =============================================================================
+// DIALOGUE SECTION
+// =============================================================================
 
 export interface DialogueLine {
   text: string;
@@ -6,103 +32,211 @@ export interface DialogueLine {
   translation?: string;
 }
 
-export interface DialogueImage {
-  src: string;
-  alt: string;
-}
-
-export interface DialogueContent {
-  lines: DialogueLine[];
-  headerImage?: DialogueImage;
-  images: DialogueImage[];
-}
-
-export interface LessonBase {
-  id: number;
-  title: string;
-  subtitle?: string;
-  type: LessonType;
-}
-
-export interface DialogueLesson extends LessonBase {
+export interface DialogueSection {
   type: 'dialogue';
-  dialogue: DialogueContent;
+  title?: string;
+  lines: DialogueLine[];
+  images: Image[];
 }
+
+// =============================================================================
+// READING SECTION
+// =============================================================================
+
+export interface ReadingParagraph {
+  text: string;
+  translation?: string;
+}
+
+export interface ReadingSection {
+  type: 'reading';
+  title?: string;
+  headerImage?: Image;
+  paragraphs: ReadingParagraph[];
+}
+
+// =============================================================================
+// VOCABULARY SECTION
+// =============================================================================
 
 export interface VocabularyItem {
-  number: number;
+  number?: number;
   dutch: string;
   english?: string;
   spanish?: string;
   description?: string;
-  illustration: string;
+  illustration?: string;
 }
+
+export interface VocabularySection {
+  type: 'vocabulary';
+  title?: string;
+  prompt?: string;
+  items: VocabularyItem[];
+}
+
+// =============================================================================
+// VOCABULARY GROUP SECTION
+// =============================================================================
+
+export interface VocabularyGroupItem {
+  number?: number;
+  dutch: string;
+  english?: string;
+  spanish?: string;
+  illustration?: string;
+}
+
+export interface VocabularyGroup {
+  prompt: string;
+  items: VocabularyGroupItem[];
+}
+
+export interface VocabularyGroupSection {
+  type: 'vocabularyGroup';
+  title?: string;
+  groups: VocabularyGroup[];
+}
+
+// =============================================================================
+// VOCABULARY TABLE SECTION
+// =============================================================================
+
+export interface VocabularyTableItem {
+  number?: number;
+  label: string;
+  dutch?: string;
+  english?: string;
+  spanish?: string;
+  illustration?: string;
+}
+
+export interface VocabularyTableRow {
+  category?: string;
+  items: VocabularyTableItem[];
+}
+
+export interface VocabularyTableSection {
+  type: 'vocabularyTable';
+  title?: string;
+  rows: VocabularyTableRow[];
+}
+
+// =============================================================================
+// PRACTICE SECTION
+// =============================================================================
 
 export interface PracticeItem {
-  number: number;
-  question: string;
-  translation: string;
-  illustration: string;
+  number?: number;
+  label?: string;
+  question?: string;
+  answer?: string;
+  dutch?: string;
+  english?: string;
+  spanish?: string;
+  illustration?: string;
 }
 
-export interface ExerciseSentence {
-  dutch: string;
-  spanish?: string;
+export interface PracticeSection {
+  type: 'practice';
+  title?: string;
+  prompt?: string;
+  items: PracticeItem[];
 }
+
+// =============================================================================
+// GRAMMAR TABLE SECTION
+// =============================================================================
+
+export interface GrammarTableSection {
+  type: 'grammarTable';
+  title?: string;
+  columns: string[];
+  rows: string[][];
+}
+
+// =============================================================================
+// PATTERN DRILL SECTION
+// =============================================================================
+
+export interface PatternDrillItem {
+  number?: number;
+  input?: string;
+  output?: string;
+  dutch?: string;
+  english?: string;
+  spanish?: string;
+  illustration?: string;
+}
+
+export interface PatternDrillSection {
+  type: 'patternDrill';
+  title?: string;
+  pattern?: string;
+  inputPrompt?: string;
+  items: PatternDrillItem[];
+}
+
+// =============================================================================
+// EXERCISE SECTION
+// =============================================================================
+
+export type ExerciseType = 'copy' | 'fillIn' | 'transform' | 'rewrite' | 'comprehension' | 'general';
 
 export interface ExerciseExample {
-  incomplete?: string;
-  complete?: string;
+  input?: string;
+  output?: string;
   dutch?: string;
   spanish?: string;
+  handwritten?: boolean;
 }
 
 export interface ExerciseItem {
   text: string;
-  answer: string;
+  answer?: string;
   spanish?: string;
 }
 
-export interface ExerciseBlock {
+export interface ExerciseSection {
+  type: 'exercise';
+  title?: string;
+  exerciseType: ExerciseType;
   instruction: string;
-  example?: ExerciseExample[];
   instruction2?: string;
-  exercises?: ExerciseItem[];
-  sentences?: ExerciseSentence[];
+  wordsToUse?: string[];
+  example?: ExerciseExample[];
+  items?: ExerciseItem[];
 }
 
-export interface VocabularyLesson extends LessonBase {
-  type: 'vocabulary';
-  items: VocabularyItem[];
-  exercise?: ExerciseBlock;
+// =============================================================================
+// SECTION UNION
+// =============================================================================
+
+export type Section =
+  | DialogueSection
+  | ReadingSection
+  | VocabularySection
+  | VocabularyGroupSection
+  | VocabularyTableSection
+  | PracticeSection
+  | GrammarTableSection
+  | PatternDrillSection
+  | ExerciseSection;
+
+// =============================================================================
+// LESSON
+// =============================================================================
+
+export interface Lesson {
+  id: number;
+  title: string;
+  subtitle?: string;
+  sections: Section[];
 }
 
-export interface PracticeLesson extends LessonBase {
-  type: 'practice';
-  items: PracticeItem[];
-  exercise?: {
-    instruction: string;
-    example?: ExerciseExample[];
-  };
-}
-
-export interface GrammarLesson extends LessonBase {
-  type: 'grammar';
-  grammar: {
-    explanation: string;
-    examples: string[];
-  };
-  exercise?: {
-    instruction: string;
-    example?: ExerciseExample[];
-  };
-}
-
-export type Lesson =
-  | DialogueLesson
-  | VocabularyLesson
-  | PracticeLesson
-  | GrammarLesson;
+// =============================================================================
+// PRONUNCIATION & COURSE
+// =============================================================================
 
 export interface PronunciationTip {
   letter: string;

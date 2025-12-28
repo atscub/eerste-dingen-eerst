@@ -1,19 +1,112 @@
 {
   "id": 36,
   "title": "Les 36",
-  "subtitle": "¿Dónde...?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "zetten – zettend",
-        "spanish": "poner – poniendo"
-      },
-      {
-        "dutch": "Zet ... Hij zet zijn jas aan.",
-        "spanish": "Ponte ... Él se pone su abrigo."
-      }
-    ]
-  }
+  "subtitle": "Waar...?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Waar...?",
+      "items": [
+        {
+          "number": 1,
+          "dutch": "een",
+          "spanish": "uno",
+          "illustration": "/illustrations-sorted/page36_illust001.png"
+        },
+        {
+          "number": 2,
+          "dutch": "twee",
+          "spanish": "dos",
+          "illustration": "/illustrations-sorted/page36_illust002.png"
+        },
+        {
+          "number": 3,
+          "dutch": "drie",
+          "spanish": "tres",
+          "illustration": "/illustrations-sorted/page36_illust003.png"
+        },
+        {
+          "number": 4,
+          "dutch": "vier",
+          "spanish": "cuatro",
+          "illustration": "/illustrations-sorted/page36_illust004.png"
+        },
+        {
+          "number": 5,
+          "dutch": "vijf",
+          "spanish": "cinco",
+          "illustration": "/illustrations-sorted/page36_illust005.png"
+        },
+        {
+          "number": 6,
+          "dutch": "zes",
+          "spanish": "seis",
+          "illustration": "/illustrations-sorted/page36_illust006.png"
+        },
+        {
+          "number": 7,
+          "dutch": "zeven",
+          "spanish": "siete",
+          "illustration": "/illustrations-sorted/page36_illust007.png"
+        },
+        {
+          "number": 8,
+          "dutch": "acht",
+          "spanish": "ocho",
+          "illustration": "/illustrations-sorted/page36_illust008.png"
+        },
+        {
+          "number": 9,
+          "dutch": "negen",
+          "spanish": "nueve",
+          "illustration": "/illustrations-sorted/page36_illust009.png"
+        },
+        {
+          "number": 10,
+          "dutch": "tien",
+          "spanish": "diez",
+          "illustration": "/illustrations-sorted/page36_illust010.png"
+        },
+        {
+          "number": 11,
+          "dutch": "elf",
+          "spanish": "once",
+          "illustration": "/illustrations-sorted/page36_illust011.png"
+        },
+        {
+          "number": 12,
+          "dutch": "twaalf",
+          "spanish": "doce",
+          "illustration": "/illustrations-sorted/page36_illust012.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto: zetten - zettend",
+      "wordsToUse": ["zwemt", "zit", "rent"],
+      "example": [
+        {
+          "input": "Zet... Hij ---- zijn jas aan.",
+          "output": "Zet... Hij zet zijn jas aan.",
+          "spanish": "Ponte... Él se pone su abrigo."
+        }
+      ],
+      "items": [
+        {
+          "text": "Zwem... Hij ---- over de rivier.",
+          "answer": "Zwem... Hij zwemt over de rivier."
+        },
+        {
+          "text": "Zit... Zij ---- op het gras.",
+          "answer": "Zit... Zij zit op het gras."
+        },
+        {
+          "text": "Ren... De kat ---- langs de muur.",
+          "answer": "Ren... De kat rent langs de muur."
+        }
+      ]
+    }
+  ]
 }

@@ -1,114 +1,116 @@
 {
   "id": 115,
   "title": "Les 115",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Helen en Jim staan voor een huis en proberen te ontdekken of Pat en Tom thuis zijn.",
-        "speaker": "Situatie",
-        "translation": "¿Cuándo partiste ayer?"
-      },
-      {
-        "text": "Is er iemand thuis?",
-        "speaker": "Helen",
-        "translation": "Partí a las ocho de la mañana."
-      },
-      {
-        "text": "Ik zal nog een keer kloppen, Helen. Alles is heel stil. Ik weet zeker dat er niemand thuis is.",
-        "speaker": "Jim",
-        "translation": "¿A qué hora llegaste?"
-      },
-      {
-        "text": "Maar dat is onmogelijk. Pat en Tom hebben ons voor de lunch uitgenodigd. Kijk door het raam.",
-        "speaker": "Helen",
-        "translation": "Llegué a las dos de la tarde."
-      },
-      {
-        "text": "Zie je iets?",
-        "speaker": "Helen",
-        "translation": "¿Te divertiste?"
-      },
-      {
-        "text": "Helemaal niets.",
-        "speaker": "Jim",
-        "translation": "Sí, lo pasé muy bien. Pero llovió todo el tiempo."
-      },
-      {
-        "text": "Laten we de achterdeur proberen.",
-        "speaker": "Helen",
-        "translation": "¿Qué hiciste?"
-      },
-      {
-        "text": "Kijk! Iedereen is in de tuin.",
-        "speaker": "Jim",
-        "translation": "Fui a visitar museos."
-      },
-      {
-        "text": "Hallo, Helen. Hallo, Jim.",
-        "speaker": "Pat",
-        "translation": "¿Fuiste solo?"
-      },
-      {
-        "text": "Iedereen wil buiten lunchen. Het is lekker en warm hier buiten.",
-        "speaker": "Tom",
-        "translation": "No, fui con un amigo."
-      },
-      {
-        "text": "Kom en drink wat.",
-        "speaker": "Pat",
-        "translation": "¿Cuándo regresaste?"
-      },
-      {
-        "text": "Dank je, Pat. Mag ik alsjeblieft een glas bier?",
-        "speaker": "Jim",
-        "translation": "Regresé anoche a las nueve."
-      },
-      {
-        "text": "Bier? Er is geen over. Je kunt wat limonade nemen.",
-        "speaker": "Pat",
-        "translation": ""
-      },
-      {
-        "text": "Limonade!",
-        "speaker": "Jim",
-        "translation": ""
-      },
-      {
-        "text": "Geloof haar niet, Jim. Ze maakt maar een grapje. Drink wat bier!",
-        "speaker": "Tom",
-        "translation": ""
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page115_illust001.png",
-        "alt": "Helen en Jim staan voor een huis met een dichte deur, Helen klopt aan"
-      },
-      {
-        "src": "/illustrations-sorted/page115_illust002.png",
-        "alt": "Beiden kijken door het raam, alles lijkt stil"
-      },
-      {
-        "src": "/illustrations-sorted/page115_illust003.png",
-        "alt": "Close-up van Helen die door het raam turt, niets te zien"
-      },
-      {
-        "src": "/illustrations-sorted/page115_illust004.png",
-        "alt": "Helen en Jim lopen naar de achterdeur van het huis"
-      },
-      {
-        "src": "/illustrations-sorted/page115_illust005.png",
-        "alt": "Ze zien Pat en Tom in de achtertuin, iedereen ziet er blij uit"
-      },
-      {
-        "src": "/illustrations-sorted/page115_illust006.png",
-        "alt": "Pat biedt drankjes aan op een dienblad, bierflesjes en limonade zichtbaar"
-      },
-      {
-        "src": "/illustrations-sorted/page115_illust007.png",
-        "alt": "Tom houdt een grote bierpul omhoog en glimlacht breed naar Jim"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Helen en Jim staan voor een huis en proberen te ontdekken of Pat en Tom thuis zijn.",
+          "speaker": "Situatie",
+          "translation": "¿Cuándo partiste ayer?"
+        },
+        {
+          "text": "Is er iemand thuis?",
+          "speaker": "Helen",
+          "translation": "Partí a las ocho de la mañana."
+        },
+        {
+          "text": "Ik zal nog een keer kloppen, Helen. Alles is heel stil. Ik weet zeker dat er niemand thuis is.",
+          "speaker": "Jim",
+          "translation": "¿A qué hora llegaste?"
+        },
+        {
+          "text": "Maar dat is onmogelijk. Pat en Tom hebben ons voor de lunch uitgenodigd. Kijk door het raam.",
+          "speaker": "Helen",
+          "translation": "Llegué a las dos de la tarde."
+        },
+        {
+          "text": "Zie je iets?",
+          "speaker": "Helen",
+          "translation": "¿Te divertiste?"
+        },
+        {
+          "text": "Helemaal niets.",
+          "speaker": "Jim",
+          "translation": "Sí, lo pasé muy bien. Pero llovió todo el tiempo."
+        },
+        {
+          "text": "Laten we de achterdeur proberen.",
+          "speaker": "Helen",
+          "translation": "¿Qué hiciste?"
+        },
+        {
+          "text": "Kijk! Iedereen is in de tuin.",
+          "speaker": "Jim",
+          "translation": "Fui a visitar museos."
+        },
+        {
+          "text": "Hallo, Helen. Hallo, Jim.",
+          "speaker": "Pat",
+          "translation": "¿Fuiste solo?"
+        },
+        {
+          "text": "Iedereen wil buiten lunchen. Het is lekker en warm hier buiten.",
+          "speaker": "Tom",
+          "translation": "No, fui con un amigo."
+        },
+        {
+          "text": "Kom en drink wat.",
+          "speaker": "Pat",
+          "translation": "¿Cuándo regresaste?"
+        },
+        {
+          "text": "Dank je, Pat. Mag ik alsjeblieft een glas bier?",
+          "speaker": "Jim",
+          "translation": "Regresé anoche a las nueve."
+        },
+        {
+          "text": "Bier? Er is geen over. Je kunt wat limonade nemen.",
+          "speaker": "Pat",
+          "translation": ""
+        },
+        {
+          "text": "Limonade!",
+          "speaker": "Jim",
+          "translation": ""
+        },
+        {
+          "text": "Geloof haar niet, Jim. Ze maakt maar een grapje. Drink wat bier!",
+          "speaker": "Tom",
+          "translation": ""
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page115_illust001.png",
+          "alt": "Helen en Jim staan voor een huis met een dichte deur, Helen klopt aan"
+        },
+        {
+          "src": "/illustrations-sorted/page115_illust002.png",
+          "alt": "Beiden kijken door het raam, alles lijkt stil"
+        },
+        {
+          "src": "/illustrations-sorted/page115_illust003.png",
+          "alt": "Close-up van Helen die door het raam turt, niets te zien"
+        },
+        {
+          "src": "/illustrations-sorted/page115_illust004.png",
+          "alt": "Helen en Jim lopen naar de achterdeur van het huis"
+        },
+        {
+          "src": "/illustrations-sorted/page115_illust005.png",
+          "alt": "Ze zien Pat en Tom in de achtertuin, iedereen ziet er blij uit"
+        },
+        {
+          "src": "/illustrations-sorted/page115_illust006.png",
+          "alt": "Pat biedt drankjes aan op een dienblad, bierflesjes en limonade zichtbaar"
+        },
+        {
+          "src": "/illustrations-sorted/page115_illust007.png",
+          "alt": "Tom houdt een grote bierpul omhoog en glimlacht breed naar Jim"
+        }
+      ]
+    }
+  ]
 }

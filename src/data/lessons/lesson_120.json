@@ -1,28 +1,57 @@
 {
   "id": 120,
   "title": "Les 120",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Het was al gebeurd**\n\n**Afbeeldingen s-x tonen situaties met de voltooid verleden tijd:**\n- s. Ik vroeg naar de prijs van de auto, maar ze hadden hem al verkocht.\n- t. Ik rende naar het perron snel, maar de trein was al vertrokken.\n- u. Hij gaf ons onze schriften nadat hij ze had verbeterd.\n- v. Ze ging op vakantie nadat ze het examen had afgelegd.\n- w. Ze had het huishouden afgemaakt voordat ze naar buiten ging.\n- x. We hadden gegeten voordat ze aankwamen.",
-    "examples": [
-      "Ze ging naar huis nadat ze de brief had getypt.",
-      "Grammatica: Het was al gebeurd",
-      "Afbeeldingen s-x tonen situaties met de voltooid verleden tijd:",
-      "Bekijk dit:",
-      "Voeg deze zinnen op dezelfde manier samen. Gebruik: after."
-    ]
-  },
-  "exercise": {
-    "instruction": "Ze ging naar huis. Ze typte de brief. → *Ze ging naar huis nadat ze de brief had getypt.*",
-    "example": [
-      {
-        "dutch": "Ze ging naar huis nadat ze de brief had getypt.",
-        "spanish": "Ella se fue a casa después de haber escrito la carta."
-      },
-      {
-        "dutch": "",
-        "spanish": "Ze ging naar huis nadat ze de brief had getypt."
-      }
-    ]
-  }
+  "subtitle": "Het was al gebeurd",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Het was al gebeurd (Voltooid verleden tijd)",
+      "items": [
+        { "number": 1, "dutch": "Ik vroeg naar de prijs van de auto, maar ze hadden hem al verkocht.", "spanish": "Pregunté el precio del coche, pero ya lo habían vendido.", "illustration": "/illustrations-sorted/page120_illust001.png" },
+        { "number": 2, "dutch": "Ik rende snel naar het perron, maar de trein was al vertrokken.", "spanish": "Corrí rápido al andén, pero el tren ya había salido.", "illustration": "/illustrations-sorted/page120_illust002.png" },
+        { "number": 3, "dutch": "Hij gaf ons onze schriften nadat hij ze had verbeterd.", "spanish": "Nos dio nuestros cuadernos después de haberlos corregido.", "illustration": "/illustrations-sorted/page120_illust003.png" },
+        { "number": 4, "dutch": "Ze ging op vakantie nadat ze het examen had afgelegd.", "spanish": "Se fue de vacaciones después de haber hecho el examen.", "illustration": "/illustrations-sorted/page120_illust004.png" },
+        { "number": 5, "dutch": "Ze had het huishouden afgemaakt voordat ze naar buiten ging.", "spanish": "Había terminado las tareas del hogar antes de salir.", "illustration": "/illustrations-sorted/page120_illust005.png" },
+        { "number": 6, "dutch": "We hadden gegeten voordat ze aankwamen.", "spanish": "Habíamos cenado antes de que llegaran.", "illustration": "/illustrations-sorted/page120_illust006.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Voeg deze zinnen samen. Gebruik: after (nadat).",
+      "example": [
+        {
+          "input": "Ze ging naar huis. Ze typte de brief.",
+          "output": "Ze ging naar huis nadat ze de brief had getypt.",
+          "spanish": "Ella se fue a casa después de haber escrito la carta."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij liet de vaas vallen. Hij nam hem mee naar de woonkamer.",
+          "answer": "Hij liet de vaas vallen nadat hij hem naar de woonkamer had meegenomen."
+        },
+        {
+          "text": "Hij kocht een andere auto. Hij verkocht zijn oude.",
+          "answer": "Hij kocht een andere auto nadat hij zijn oude had verkocht."
+        },
+        {
+          "text": "Ze veegde de vloer. Ze stofte alles af.",
+          "answer": "Ze veegde de vloer nadat ze alles had afgestoft."
+        },
+        {
+          "text": "Ze dronk de melk. Ze kookte het.",
+          "answer": "Ze dronk de melk nadat ze het had gekookt."
+        },
+        {
+          "text": "Hij zette de televisie uit. Hij zag het programma.",
+          "answer": "Hij zette de televisie uit nadat hij het programma had gezien."
+        },
+        {
+          "text": "Hij ging naar bed. Hij deed zijn huiswerk.",
+          "answer": "Hij ging naar bed nadat hij zijn huiswerk had gedaan."
+        }
+      ]
+    }
+  ]
 }

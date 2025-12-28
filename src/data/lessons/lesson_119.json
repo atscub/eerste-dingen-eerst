@@ -1,6 +1,15 @@
 {
   "id": 119,
   "title": "Les 119",
-  "type": "practice",
-  "items": []
+  "sections": [
+    {
+      "type": "reading",
+      "paragraphs": [
+        {
+          "text": "Deze les wordt nog toegevoegd.",
+          "translation": "Esta lección se añadirá pronto."
+        }
+      ]
+    }
+  ]
 }

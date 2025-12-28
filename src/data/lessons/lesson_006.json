@@ -1,20 +1,100 @@
 {
   "id": 6,
   "title": "Les 6",
-  "subtitle": "¿De qué marca es?",
-  "type": "vocabulary",
-  "items": [],
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Alice is een studente. ... is niet Duits. ... is Frans.",
-        "spanish": "Alice es una estudiante. ... no es alemana. ... es francesa."
-      },
-      {
-        "dutch": "Alice is een studente. Zij is niet Duits. Zij is Frans.",
-        "spanish": "Alice es una estudiante. Ella no es alemana. Ella es francesa."
-      }
-    ]
-  }
+  "subtitle": "Wat voor merk is het?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat voor merk is het?",
+      "items": [
+        {
+          "number": 8,
+          "dutch": "een Zweedse auto",
+          "english": "a Swedish car",
+          "spanish": "un coche sueco",
+          "illustration": "/illustrations-sorted/page6_illust001.png"
+        },
+        {
+          "number": 9,
+          "dutch": "een Franse auto",
+          "english": "a French car",
+          "spanish": "un coche francés",
+          "illustration": "/illustrations-sorted/page6_illust002.png"
+        },
+        {
+          "number": 10,
+          "dutch": "een Duitse auto",
+          "english": "a German car",
+          "spanish": "un coche alemán",
+          "illustration": "/illustrations-sorted/page6_illust003.png"
+        },
+        {
+          "number": 11,
+          "dutch": "een Italiaanse auto",
+          "english": "an Italian car",
+          "spanish": "un coche italiano",
+          "illustration": "/illustrations-sorted/page6_illust004.png"
+        },
+        {
+          "number": 12,
+          "dutch": "een Engelse auto",
+          "english": "an English car",
+          "spanish": "un coche inglés",
+          "illustration": "/illustrations-sorted/page6_illust005.png"
+        },
+        {
+          "number": 13,
+          "dutch": "een Russische auto",
+          "english": "a Russian car",
+          "spanish": "un coche ruso",
+          "illustration": "/illustrations-sorted/page6_illust006.png"
+        },
+        {
+          "number": 14,
+          "dutch": "een Amerikaanse auto",
+          "english": "an American car",
+          "spanish": "un coche americano",
+          "illustration": "/illustrations-sorted/page6_illust007.png"
+        },
+        {
+          "number": 15,
+          "dutch": "een Japanse auto",
+          "english": "a Japanese car",
+          "spanish": "un coche japonés",
+          "illustration": "/illustrations-sorted/page6_illust008.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["Hij", "Zij", "Het"],
+      "example": [
+        {
+          "input": "Stella is een studente. ---- is niet Duits. ---- is Spaans.",
+          "output": "Stella is een studente. Zij is niet Duits. Zij is Spaans.",
+          "spanish": "Stella es una estudiante. Ella no es alemana. Ella es española."
+        }
+      ],
+      "items": [
+        {
+          "text": "Alice is een studente. ---- is niet Duits. ---- is Frans.",
+          "answer": "Alice is een studente. Zij is niet Duits. Zij is Frans."
+        },
+        {
+          "text": "Dit is haar auto. ---- is een Franse auto.",
+          "answer": "Dit is haar auto. Het is een Franse auto."
+        },
+        {
+          "text": "Hans is een student. ---- is niet Frans. ---- is Duits.",
+          "answer": "Hans is een student. Hij is niet Frans. Hij is Duits."
+        },
+        {
+          "text": "Dit is zijn auto. ---- is een Duitse auto.",
+          "answer": "Dit is zijn auto. Het is een Duitse auto."
+        }
+      ]
+    }
+  ]
 }

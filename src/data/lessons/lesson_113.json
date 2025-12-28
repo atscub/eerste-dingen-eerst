@@ -1,106 +1,108 @@
 {
   "id": 113,
   "title": "Les 113",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Een conducteur in een bus probeert een biljet van een pond te wisselen maar niemand kan helpen.",
-        "speaker": "Situatie",
-        "translation": "¿Todavía está esperando el autobús, señora?"
-      },
-      {
-        "text": "Toegangsbiljetten alsjeblieft! Trafalgar Square alsjeblieft.",
-        "speaker": "Conducteur",
-        "translation": "Sí. He estado esperando durante veinte minutos. Creo que se ha ido."
-      },
-      {
-        "text": "Ik ben bang, meneer. Ik kan een biljet van een pond niet wisselen. Heb je geen kleingeld?",
-        "speaker": "Man",
-        "translation": "Ya llegará pronto."
-      },
-      {
-        "text": "Ik heb geen kleingeld, ik ben bang.",
-        "speaker": "Man",
-        "translation": "Espero que sí. Tengo que estar en el trabajo a las nueve en punto."
-      },
-      {
-        "text": "Ik zal het aan enkele passagiers vragen.",
-        "speaker": "Conducteur",
-        "translation": "¿A qué hora empieza su trabajo?"
-      },
-      {
-        "text": "Heb je kleingeld, meneer?",
-        "speaker": "Conducteur",
-        "translation": "A las nueve."
-      },
-      {
-        "text": "Het spijt me. Ik heb niets.",
-        "speaker": "1E Passagier",
-        "translation": "Oh, querida. Son casi las nueve menos cuarto ahora."
-      },
-      {
-        "text": "Ik heb ook niets.",
-        "speaker": "2E Passagier",
-        "translation": "Lo sé. Nunca llegué tarde antes."
-      },
-      {
-        "text": "Kun je dit biljet van een pond wisselen, mevrouw?",
-        "speaker": "Conducteur",
-        "translation": "¿Cuánto tiempo lleva en su trabajo?"
-      },
-      {
-        "text": "Ik ben bang dat ik dat niet kan.",
-        "speaker": "3E Passagier",
-        "translation": "Cinco años."
-      },
-      {
-        "text": "Ik ook niet.",
-        "speaker": "4E Passagier",
-        "translation": "¿Y nunca ha llegado tarde?"
-      },
-      {
-        "text": "Het spijt me heel erg, meneer. Je moet uit de bus stappen. Geen van onze passagiers kan dit biljet wisselen. Ze zijn allemaal miljonairs!",
-        "speaker": "Conducteur",
-        "translation": "Nunca."
-      },
-      {
-        "text": "Behalve wij, conducteur.",
-        "speaker": "Twee Zwervers",
-        "translation": "Bueno, no se preocupe. Aquí viene el autobús."
-      },
-      {
-        "text": "Ik heb wat kleingeld.",
-        "speaker": "1E Zwerver",
-        "translation": ""
-      },
-      {
-        "text": "Ik ook.",
-        "speaker": "2E Zwerver",
-        "translation": ""
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page113_illust001.png",
-        "alt": "Een busconducteur in uniform staat bij de ingang en spreekt een man in pak aan, bus stopt bij \"Trafalgar Square\""
-      },
-      {
-        "src": "/illustrations-sorted/page113_illust002.png",
-        "alt": "De conducteur vraagt twee passagiers of ze kleingeld hebben, beiden schudden hun hoofd"
-      },
-      {
-        "src": "/illustrations-sorted/page113_illust003.png",
-        "alt": "De conducteur vraagt een derde en vierde passagier, weer negatieve reacties"
-      },
-      {
-        "src": "/illustrations-sorted/page113_illust004.png",
-        "alt": "De conducteur kijkt gefrustreerd naar het bankbiljet terwijl passagiers toekijken"
-      },
-      {
-        "src": "/illustrations-sorted/page113_illust005.png",
-        "alt": "Twee zwervers buiten de bus lachen en tonen zakken vol munten"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Een conducteur in een bus probeert een biljet van een pond te wisselen maar niemand kan helpen.",
+          "speaker": "Situatie",
+          "translation": "¿Todavía está esperando el autobús, señora?"
+        },
+        {
+          "text": "Toegangsbiljetten alsjeblieft! Trafalgar Square alsjeblieft.",
+          "speaker": "Conducteur",
+          "translation": "Sí. He estado esperando durante veinte minutos. Creo que se ha ido."
+        },
+        {
+          "text": "Ik ben bang, meneer. Ik kan een biljet van een pond niet wisselen. Heb je geen kleingeld?",
+          "speaker": "Man",
+          "translation": "Ya llegará pronto."
+        },
+        {
+          "text": "Ik heb geen kleingeld, ik ben bang.",
+          "speaker": "Man",
+          "translation": "Espero que sí. Tengo que estar en el trabajo a las nueve en punto."
+        },
+        {
+          "text": "Ik zal het aan enkele passagiers vragen.",
+          "speaker": "Conducteur",
+          "translation": "¿A qué hora empieza su trabajo?"
+        },
+        {
+          "text": "Heb je kleingeld, meneer?",
+          "speaker": "Conducteur",
+          "translation": "A las nueve."
+        },
+        {
+          "text": "Het spijt me. Ik heb niets.",
+          "speaker": "1E Passagier",
+          "translation": "Oh, querida. Son casi las nueve menos cuarto ahora."
+        },
+        {
+          "text": "Ik heb ook niets.",
+          "speaker": "2E Passagier",
+          "translation": "Lo sé. Nunca llegué tarde antes."
+        },
+        {
+          "text": "Kun je dit biljet van een pond wisselen, mevrouw?",
+          "speaker": "Conducteur",
+          "translation": "¿Cuánto tiempo lleva en su trabajo?"
+        },
+        {
+          "text": "Ik ben bang dat ik dat niet kan.",
+          "speaker": "3E Passagier",
+          "translation": "Cinco años."
+        },
+        {
+          "text": "Ik ook niet.",
+          "speaker": "4E Passagier",
+          "translation": "¿Y nunca ha llegado tarde?"
+        },
+        {
+          "text": "Het spijt me heel erg, meneer. Je moet uit de bus stappen. Geen van onze passagiers kan dit biljet wisselen. Ze zijn allemaal miljonairs!",
+          "speaker": "Conducteur",
+          "translation": "Nunca."
+        },
+        {
+          "text": "Behalve wij, conducteur.",
+          "speaker": "Twee Zwervers",
+          "translation": "Bueno, no se preocupe. Aquí viene el autobús."
+        },
+        {
+          "text": "Ik heb wat kleingeld.",
+          "speaker": "1E Zwerver",
+          "translation": ""
+        },
+        {
+          "text": "Ik ook.",
+          "speaker": "2E Zwerver",
+          "translation": ""
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page113_illust001.png",
+          "alt": "Een busconducteur in uniform staat bij de ingang en spreekt een man in pak aan, bus stopt bij \"Trafalgar Square\""
+        },
+        {
+          "src": "/illustrations-sorted/page113_illust002.png",
+          "alt": "De conducteur vraagt twee passagiers of ze kleingeld hebben, beiden schudden hun hoofd"
+        },
+        {
+          "src": "/illustrations-sorted/page113_illust003.png",
+          "alt": "De conducteur vraagt een derde en vierde passagier, weer negatieve reacties"
+        },
+        {
+          "src": "/illustrations-sorted/page113_illust004.png",
+          "alt": "De conducteur kijkt gefrustreerd naar het bankbiljet terwijl passagiers toekijken"
+        },
+        {
+          "src": "/illustrations-sorted/page113_illust005.png",
+          "alt": "Twee zwervers buiten de bus lachen en tonen zakken vol munten"
+        }
+      ]
+    }
+  ]
 }

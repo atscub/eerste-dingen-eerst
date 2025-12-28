@@ -1,81 +1,83 @@
 {
   "id": 41,
   "title": "Les 41",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Is die tas zwaar, Mary?",
-        "speaker": "Mary",
-        "translation": "¿Es esa bolsa pesada, Mary?"
-      },
-      {
-        "text": "Niet erg zwaar.",
-        "speaker": "Sam",
-        "translation": "No muy pesada."
-      },
-      {
-        "text": "Hier! Zet hem op deze stoel. Wat zit erin?",
-        "speaker": "Mary",
-        "translation": "¡Aquí! Ponla sobre esta silla. ¿Qué hay en ella?"
-      },
-      {
-        "text": "Een stuk kaas.",
-        "speaker": "Sam",
-        "translation": "Un pedazo de queso."
-      },
-      {
-        "text": "Is dat blik tabak voor mij?",
-        "speaker": "Mary",
-        "translation": "¿Es esa lata de tabaco para mí?"
-      },
-      {
-        "text": "Nou, het is zeker niet voor mij!",
-        "speaker": "Sam",
-        "translation": "Bueno, ¡ciertamente no es para mí!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page41_illust001.png",
-        "alt": "John y Mary con una bolsa de compras"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust002.png",
-        "alt": "John y Mary mirando la lata de tabaco con expresión irónica"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust003.png",
-        "alt": "Ilustración 3 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust004.png",
-        "alt": "Ilustración 4 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust005.png",
-        "alt": "Ilustración 5 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust006.png",
-        "alt": "Ilustración 6 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust007.png",
-        "alt": "Ilustración 7 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust008.png",
-        "alt": "Ilustración 8 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust009.png",
-        "alt": "Ilustración 9 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page41_illust010.png",
-        "alt": "Ilustración 10 del diálogo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Is die tas zwaar, Mary?",
+          "speaker": "Mary",
+          "translation": "¿Es esa bolsa pesada, Mary?"
+        },
+        {
+          "text": "Niet erg zwaar.",
+          "speaker": "Sam",
+          "translation": "No muy pesada."
+        },
+        {
+          "text": "Hier! Zet hem op deze stoel. Wat zit erin?",
+          "speaker": "Mary",
+          "translation": "¡Aquí! Ponla sobre esta silla. ¿Qué hay en ella?"
+        },
+        {
+          "text": "Een stuk kaas.",
+          "speaker": "Sam",
+          "translation": "Un pedazo de queso."
+        },
+        {
+          "text": "Is dat blik tabak voor mij?",
+          "speaker": "Mary",
+          "translation": "¿Es esa lata de tabaco para mí?"
+        },
+        {
+          "text": "Nou, het is zeker niet voor mij!",
+          "speaker": "Sam",
+          "translation": "Bueno, ¡ciertamente no es para mí!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page41_illust001.png",
+          "alt": "John y Mary con una bolsa de compras"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust002.png",
+          "alt": "John y Mary mirando la lata de tabaco con expresión irónica"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust003.png",
+          "alt": "Ilustración 3 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust004.png",
+          "alt": "Ilustración 4 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust005.png",
+          "alt": "Ilustración 5 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust006.png",
+          "alt": "Ilustración 6 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust007.png",
+          "alt": "Ilustración 7 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust008.png",
+          "alt": "Ilustración 8 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust009.png",
+          "alt": "Ilustración 9 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page41_illust010.png",
+          "alt": "Ilustración 10 del diálogo"
+        }
+      ]
+    }
+  ]
 }

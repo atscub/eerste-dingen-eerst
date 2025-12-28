@@ -1,15 +1,63 @@
 {
   "id": 86,
   "title": "Les 86",
-  "subtitle": "¿Qué has hecho?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa estas dos oraciones: ¿En cuál de estas oraciones podemos poner has?",
-    "example": [
-      {
-        "dutch": "Ella ya ha ventilado la habitación. Ella la ventiló esta mañana.",
-        "spanish": "Ella ya ha ventilado la habitación. Ella la ventiló esta mañana."
-      }
-    ]
-  }
+  "subtitle": "Wat heb je gedaan?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat heb je gedaan?",
+      "items": [
+        { "number": 1, "dutch": "geluchte", "spanish": "ventiló", "illustration": "/illustrations-sorted/page86_illust001.png" },
+        { "number": 2, "dutch": "maakte schoon", "spanish": "limpió", "illustration": "/illustrations-sorted/page86_illust002.png" },
+        { "number": 3, "dutch": "opende", "spanish": "abrió", "illustration": "/illustrations-sorted/page86_illust003.png" },
+        { "number": 4, "dutch": "slepte", "spanish": "afiló", "illustration": "/illustrations-sorted/page86_illust004.png" },
+        { "number": 5, "dutch": "zette aan", "spanish": "encendió", "illustration": "/illustrations-sorted/page86_illust005.png" },
+        { "number": 6, "dutch": "luisterde naar", "spanish": "escuchó", "illustration": "/illustrations-sorted/page86_illust006.png" },
+        { "number": 7, "dutch": "kookte", "spanish": "hirvió", "illustration": "/illustrations-sorted/page86_illust007.png" },
+        { "number": 8, "dutch": "beantwoordde", "spanish": "respondió", "illustration": "/illustrations-sorted/page86_illust008.png" },
+        { "number": 9, "dutch": "leegde", "spanish": "vació", "illustration": "/illustrations-sorted/page86_illust009.png" },
+        { "number": 10, "dutch": "vroeg", "spanish": "preguntó", "illustration": "/illustrations-sorted/page86_illust010.png" },
+        { "number": 11, "dutch": "typte", "spanish": "escribió a máquina", "illustration": "/illustrations-sorted/page86_illust011.png" },
+        { "number": 12, "dutch": "waste", "spanish": "lavó", "illustration": "/illustrations-sorted/page86_illust012.png" },
+        { "number": 13, "dutch": "wandelde", "spanish": "caminó", "illustration": "/illustrations-sorted/page86_illust013.png" },
+        { "number": 14, "dutch": "verfde", "spanish": "pintó", "illustration": "/illustrations-sorted/page86_illust014.png" },
+        { "number": 15, "dutch": "stofte af", "spanish": "quitó el polvo", "illustration": "/illustrations-sorted/page86_illust015.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Bekijk deze twee zinnen: Zij heeft de kamer al gelucht. Zij luchtte hem vanmorgen. In welke van deze zinnen kunnen we heeft zetten?",
+      "items": [
+        {
+          "text": "Zij ... net een ei gekookt.",
+          "answer": "Zij heeft net een ei gekookt."
+        },
+        {
+          "text": "Zij ... het een minuut geleden gekookt.",
+          "answer": "Zij kookte het een minuut geleden."
+        },
+        {
+          "text": "Zij ... nooit in Joegoslavië geweest, maar hij ... er in 1966.",
+          "answer": "Zij is nooit in Joegoslavië geweest, maar hij was er in 1966."
+        },
+        {
+          "text": "Hij ... die boekenkast al geverfd.",
+          "answer": "Hij heeft die boekenkast al geverfd."
+        },
+        {
+          "text": "Hij ... hem een week geleden geverfd.",
+          "answer": "Hij verfde hem een week geleden."
+        },
+        {
+          "text": "Zij ... de mand vanmorgen geleegd.",
+          "answer": "Zij leegde de mand vanmorgen."
+        },
+        {
+          "text": "Zij ... net het dressoir afgestoft.",
+          "answer": "Zij heeft net het dressoir afgestoft."
+        }
+      ]
+    }
+  ]
 }

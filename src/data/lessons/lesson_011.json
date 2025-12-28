@@ -1,99 +1,101 @@
 {
   "id": 11,
   "title": "Les 11",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Van wie is dit overhemd?",
-        "speaker": "Leraar",
-        "translation": "¿De quién es esta camisa?"
-      },
-      {
-        "text": "Is dit jouw overhemd, Frank?",
-        "speaker": "Leraar",
-        "translation": "¿Es ésta tu camisa, Frank?"
-      },
-      {
-        "text": "Nee, meneer. Het is niet mijn overhemd.",
-        "speaker": "Frank",
-        "translation": "No, señor. No es mi camisa."
-      },
-      {
-        "text": "Dit is mijn overhemd. Mijn overhemd is blauw.",
-        "speaker": "Frank",
-        "translation": "Ésta es mi camisa. Mi camisa es azul."
-      },
-      {
-        "text": "Is dit het overhemd van Tim?",
-        "speaker": "Leraar",
-        "translation": "¿Es ésta la camisa de Tim?"
-      },
-      {
-        "text": "Misschien, meneer. Het overhemd van Tim is wit.",
-        "speaker": "Frank",
-        "translation": "Quizás lo sea, señor. La camisa de Tim es blanca."
-      },
-      {
-        "text": "Tim!",
-        "speaker": "Leraar",
-        "translation": "¡Tim!"
-      },
-      {
-        "text": "Ja, meneer?",
-        "speaker": "Tim",
-        "translation": "¿Sí, señor?"
-      },
-      {
-        "text": "Is dit jouw overhemd?",
-        "speaker": "Leraar",
-        "translation": "¿Es ésta tu camisa?"
-      },
-      {
-        "text": "Ja, meneer.",
-        "speaker": "Tim",
-        "translation": "Sí, señor."
-      },
-      {
-        "text": "Alsjeblieft. Vang!",
-        "speaker": "Leraar",
-        "translation": "Aquí tienes. ¡Agárrala!"
-      },
-      {
-        "text": "Dank u, meneer.",
-        "speaker": "Tim",
-        "translation": "Gracias, señor."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page11_illust001.png",
-        "alt": "Aula con camisas colgadas en ganchos, profesor sosteniendo una camisa"
-      },
-      {
-        "src": "/illustrations-sorted/page11_illust002.png",
-        "alt": "Profesor mostrando la camisa a Frank, quien está sentado en su pupitre"
-      },
-      {
-        "src": "/illustrations-sorted/page11_illust003.png",
-        "alt": "Frank señalando su propia camisa azul que lleva puesta"
-      },
-      {
-        "src": "/illustrations-sorted/page11_illust004.png",
-        "alt": "Profesor mostrando la camisa blanca, preguntando si es de Tim"
-      },
-      {
-        "src": "/illustrations-sorted/page11_illust005.png",
-        "alt": "Tim levantando la mano para responder"
-      },
-      {
-        "src": "/illustrations-sorted/page11_illust006.png",
-        "alt": "Tim confirmando que la camisa es suya"
-      },
-      {
-        "src": "/illustrations-sorted/page11_illust007.png",
-        "alt": "Ilustración 7 del diálogo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Van wie is dit overhemd?",
+          "speaker": "Leraar",
+          "translation": "¿De quién es esta camisa?"
+        },
+        {
+          "text": "Is dit jouw overhemd, Frank?",
+          "speaker": "Leraar",
+          "translation": "¿Es ésta tu camisa, Frank?"
+        },
+        {
+          "text": "Nee, meneer. Het is niet mijn overhemd.",
+          "speaker": "Frank",
+          "translation": "No, señor. No es mi camisa."
+        },
+        {
+          "text": "Dit is mijn overhemd. Mijn overhemd is blauw.",
+          "speaker": "Frank",
+          "translation": "Ésta es mi camisa. Mi camisa es azul."
+        },
+        {
+          "text": "Is dit het overhemd van Tim?",
+          "speaker": "Leraar",
+          "translation": "¿Es ésta la camisa de Tim?"
+        },
+        {
+          "text": "Misschien, meneer. Het overhemd van Tim is wit.",
+          "speaker": "Frank",
+          "translation": "Quizás lo sea, señor. La camisa de Tim es blanca."
+        },
+        {
+          "text": "Tim!",
+          "speaker": "Leraar",
+          "translation": "¡Tim!"
+        },
+        {
+          "text": "Ja, meneer?",
+          "speaker": "Tim",
+          "translation": "¿Sí, señor?"
+        },
+        {
+          "text": "Is dit jouw overhemd?",
+          "speaker": "Leraar",
+          "translation": "¿Es ésta tu camisa?"
+        },
+        {
+          "text": "Ja, meneer.",
+          "speaker": "Tim",
+          "translation": "Sí, señor."
+        },
+        {
+          "text": "Alsjeblieft. Vang!",
+          "speaker": "Leraar",
+          "translation": "Aquí tienes. ¡Agárrala!"
+        },
+        {
+          "text": "Dank u, meneer.",
+          "speaker": "Tim",
+          "translation": "Gracias, señor."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page11_illust001.png",
+          "alt": "Aula con camisas colgadas en ganchos, profesor sosteniendo una camisa"
+        },
+        {
+          "src": "/illustrations-sorted/page11_illust002.png",
+          "alt": "Profesor mostrando la camisa a Frank, quien está sentado en su pupitre"
+        },
+        {
+          "src": "/illustrations-sorted/page11_illust003.png",
+          "alt": "Frank señalando su propia camisa azul que lleva puesta"
+        },
+        {
+          "src": "/illustrations-sorted/page11_illust004.png",
+          "alt": "Profesor mostrando la camisa blanca, preguntando si es de Tim"
+        },
+        {
+          "src": "/illustrations-sorted/page11_illust005.png",
+          "alt": "Tim levantando la mano para responder"
+        },
+        {
+          "src": "/illustrations-sorted/page11_illust006.png",
+          "alt": "Tim confirmando que la camisa es suya"
+        },
+        {
+          "src": "/illustrations-sorted/page11_illust007.png",
+          "alt": "Ilustración 7 del diálogo"
+        }
+      ]
+    }
+  ]
 }

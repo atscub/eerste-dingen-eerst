@@ -1,6 +1,8 @@
 node_modules/
 dist/
+build/
 .vite/
+.playwright-mcp/
 
 .env
 .env.local

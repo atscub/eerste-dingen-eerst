@@ -1,18 +1,72 @@
 {
   "id": 94,
   "title": "Les 94",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Él fue a Accra el año pasado.",
-        "spanish": "Él fue a Accra el año pasado."
-      },
-      {
-        "dutch": "Hij zal volgend jaar naar Accra gaan.",
-        "spanish": "Él irá a Accra el próximo año."
-      }
-    ]
-  }
+  "subtitle": "Wanneer ging je / zul je gaan naar...?",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "title": "Tijdsuitdrukkingen:",
+      "columns": ["VERLEDEN", "HEDEN", "TOEKOMST", "VERDER IN DE TOEKOMST"],
+      "rows": [
+        ["vorige week", "deze week", "volgende week", "de week na volgende"],
+        ["vorige maand", "deze maand", "volgende maand", "de maand na volgende"],
+        ["vorig jaar", "dit jaar", "volgend jaar", "het jaar na volgend"]
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Wanneer ging je / zul je gaan naar...?",
+      "items": [
+        { "number": 1, "dutch": "Accra", "spanish": "Accra", "illustration": "/illustrations-sorted/page94_illust001.png" },
+        { "number": 2, "dutch": "Athene", "spanish": "Atenas", "illustration": "/illustrations-sorted/page94_illust002.png" },
+        { "number": 3, "dutch": "Berlijn", "spanish": "Berlín", "illustration": "/illustrations-sorted/page94_illust003.png" },
+        { "number": 4, "dutch": "Bombay", "spanish": "Bombay", "illustration": "/illustrations-sorted/page94_illust004.png" },
+        { "number": 5, "dutch": "Genève", "spanish": "Ginebra", "illustration": "/illustrations-sorted/page94_illust005.png" },
+        { "number": 6, "dutch": "Londen", "spanish": "Londres", "illustration": "/illustrations-sorted/page94_illust006.png" },
+        { "number": 7, "dutch": "Madrid", "spanish": "Madrid", "illustration": "/illustrations-sorted/page94_illust007.png" },
+        { "number": 8, "dutch": "Moskou", "spanish": "Moscú", "illustration": "/illustrations-sorted/page94_illust008.png" },
+        { "number": 9, "dutch": "New York", "spanish": "Nueva York", "illustration": "/illustrations-sorted/page94_illust009.png" },
+        { "number": 10, "dutch": "Parijs", "spanish": "París", "illustration": "/illustrations-sorted/page94_illust010.png" },
+        { "number": 11, "dutch": "Rome", "spanish": "Roma", "illustration": "/illustrations-sorted/page94_illust011.png" },
+        { "number": 12, "dutch": "Stockholm", "spanish": "Estocolmo", "illustration": "/illustrations-sorted/page94_illust012.png" },
+        { "number": 13, "dutch": "Sydney", "spanish": "Sídney", "illustration": "/illustrations-sorted/page94_illust013.png" },
+        { "number": 14, "dutch": "Teheran", "spanish": "Teherán", "illustration": "/illustrations-sorted/page94_illust014.png" },
+        { "number": 15, "dutch": "Tokio", "spanish": "Tokio", "illustration": "/illustrations-sorted/page94_illust015.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Hij ging vorig jaar naar Accra.",
+          "output": "Hij zal volgend jaar naar Accra gaan.",
+          "spanish": "Él fue a Accra el año pasado. Él irá a Accra el próximo año."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij ging vorige week naar New York.",
+          "answer": "Hij zal volgende week naar New York gaan."
+        },
+        {
+          "text": "Zij ging vorige maand naar Sydney.",
+          "answer": "Zij zal volgende maand naar Sydney gaan."
+        },
+        {
+          "text": "Ik ging twee jaar geleden naar Parijs.",
+          "answer": "Ik zal het jaar na volgend naar Parijs gaan."
+        },
+        {
+          "text": "Wij gingen vorig jaar naar Stockholm.",
+          "answer": "Wij zullen volgend jaar naar Stockholm gaan."
+        },
+        {
+          "text": "Zij gingen twee weken geleden naar Genève.",
+          "answer": "Zij zullen de week na volgende naar Genève gaan."
+        }
+      ]
+    }
+  ]
 }

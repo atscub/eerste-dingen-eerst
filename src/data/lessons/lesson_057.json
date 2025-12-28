@@ -2,87 +2,67 @@
   "id": 57,
   "title": "Les 57",
   "subtitle": "Een ongewone dag",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Het is acht uur.",
-        "translation": "Son las ocho."
-      },
-      {
-        "text": "De kinderen gaan elke dag met de auto naar school, maar vandaag gaan ze te voet naar school.",
-        "translation": "Los niños van a la escuela en coche todos los días, pero hoy van a la escuela a pie."
-      },
-      {
-        "text": "Het is tien uur.",
-        "translation": "Son las diez."
-      },
-      {
-        "text": "Mevrouw De Wit blijft 's ochtends meestal thuis, maar deze ochtend gaat ze naar de winkels.",
-        "translation": "La señora De Wit generalmente se queda en casa por la mañana, pero esta mañana va a las tiendas."
-      },
-      {
-        "text": "Het is vier uur.",
-        "translation": "Son las cuatro."
-      },
-      {
-        "text": "'s Middags drinkt mevrouw De Wit meestal thee in de woonkamer.",
-        "translation": "Por la tarde, la señora De Wit generalmente toma té en la sala."
-      },
-      {
-        "text": "Maar deze middag drinkt ze thee in de tuin.",
-        "translation": "Pero esta tarde está tomando té en el jardín."
-      },
-      {
-        "text": "Het is zes uur.",
-        "translation": "Son las seis."
-      },
-      {
-        "text": "'s Avonds maken de kinderen meestal hun huiswerk, maar vanavond maken ze hun huiswerk niet.",
-        "translation": "Por la noche, los niños generalmente hacen su tarea, pero esta noche no están haciendo su tarea."
-      },
-      {
-        "text": "Op dit moment spelen ze in de tuin.",
-        "translation": "En este momento están jugando en el jardín."
-      },
-      {
-        "text": "Het is negen uur.",
-        "translation": "Son las nueve."
-      },
-      {
-        "text": "Meneer De Wit leest 's nachts meestal zijn krant.",
-        "translation": "El señor De Wit generalmente lee su periódico por la noche."
-      },
-      {
-        "text": "Maar hij leest vanavond zijn krant niet.",
-        "translation": "Pero esta noche no está leyendo su periódico."
-      },
-      {
-        "text": "Op dit moment leest hij een interessant boek.",
-        "translation": "En este momento está leyendo un libro interesante."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page57_illust001.png",
-        "alt": "Niños caminando a la escuela a pie (reloj: 8:00)"
-      },
-      {
-        "src": "/illustrations-sorted/page57_illust002.png",
-        "alt": "Sra. De Wit en la carnicería (reloj: 10:00)"
-      },
-      {
-        "src": "/illustrations-sorted/page57_illust003.png",
-        "alt": "Sra. De Wit tomando té en el jardín (reloj: 4:00)"
-      },
-      {
-        "src": "/illustrations-sorted/page57_illust004.png",
-        "alt": "Niños jugando en el jardín (reloj: 6:00)"
-      },
-      {
-        "src": "/illustrations-sorted/page57_illust005.png",
-        "alt": "Sr. De Wit leyendo un libro (reloj: 9:00)"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "reading",
+      "paragraphs": [
+        {
+          "text": "Het is acht uur.",
+          "translation": "Son las ocho."
+        },
+        {
+          "text": "De kinderen gaan elke dag met de auto naar school, maar vandaag gaan ze te voet naar school.",
+          "translation": "Los niños van a la escuela en coche todos los días, pero hoy van a la escuela a pie."
+        },
+        {
+          "text": "Het is tien uur.",
+          "translation": "Son las diez."
+        },
+        {
+          "text": "Mevrouw De Wit blijft 's ochtends meestal thuis, maar deze ochtend gaat ze naar de winkels.",
+          "translation": "La señora De Wit generalmente se queda en casa por la mañana, pero esta mañana va a las tiendas."
+        },
+        {
+          "text": "Het is vier uur.",
+          "translation": "Son las cuatro."
+        },
+        {
+          "text": "'s Middags drinkt mevrouw De Wit meestal thee in de woonkamer.",
+          "translation": "Por la tarde, la señora De Wit generalmente toma té en la sala."
+        },
+        {
+          "text": "Maar deze middag drinkt ze thee in de tuin.",
+          "translation": "Pero esta tarde está tomando té en el jardín."
+        },
+        {
+          "text": "Het is zes uur.",
+          "translation": "Son las seis."
+        },
+        {
+          "text": "'s Avonds maken de kinderen meestal hun huiswerk, maar vanavond maken ze hun huiswerk niet.",
+          "translation": "Por la noche, los niños generalmente hacen su tarea, pero esta noche no están haciendo su tarea."
+        },
+        {
+          "text": "Op dit moment spelen ze in de tuin.",
+          "translation": "En este momento están jugando en el jardín."
+        },
+        {
+          "text": "Het is negen uur.",
+          "translation": "Son las nueve."
+        },
+        {
+          "text": "Meneer De Wit leest 's nachts meestal zijn krant.",
+          "translation": "El señor De Wit generalmente lee su periódico por la noche."
+        },
+        {
+          "text": "Maar hij leest vanavond zijn krant niet.",
+          "translation": "Pero esta noche no está leyendo su periódico."
+        },
+        {
+          "text": "Op dit moment leest hij een interessant boek.",
+          "translation": "En este momento está leyendo un libro interesante."
+        }
+      ]
+    }
+  ]
 }

@@ -1,59 +1,57 @@
 {
   "id": 131,
   "title": "Les 131",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Roy en Harry bespreken vakantieplannen en maken zich zorgen over wie voor huis en tuin zal zorgen.",
-        "speaker": "Situatie",
-        "translation": "Roy y Harry discuten planes de vacaciones y se preocupan por quién cuidará la casa y el jardín."
-      },
-      {
-        "text": "Waar ga je dit jaar je vakantie doorbrengen, Harry?",
-        "speaker": "Roy",
-        "translation": "¿Dónde vas a pasar tus vacaciones este año, Harry?"
-      },
-      {
-        "text": "We gaan misschien naar het buitenland. Ik weet het niet zeker. Mijn vrouw wil naar Egypte gaan. Ik zou er ook graag heen willen. We kunnen ons niet beslissen.",
-        "speaker": "Harry",
-        "translation": "Puede que vayamos al extranjero. No estoy seguro. Mi esposa quiere ir a Egipto. A mí también me gustaría ir. No podemos decidir."
-      },
-      {
-        "text": "Zullen jullie per schip of per vliegtuig reizen?",
-        "speaker": "Roy",
-        "translation": "¿Viajarán en barco o en avión?"
-      },
-      {
-        "text": "We gaan misschien per schip.",
-        "speaker": "Harry",
-        "translation": "Puede que vayamos en barco."
-      },
-      {
-        "text": "Het is goedkoper, nietwaar?",
-        "speaker": "Roy",
-        "translation": "Es más barato, ¿no?"
-      },
-      {
-        "text": "Het kan goedkoper zijn, maar het kost veel tijd.",
-        "speaker": "Harry",
-        "translation": "Puede ser más barato, pero toma mucho tiempo."
-      },
-      {
-        "text": "Ik weet zeker dat jullie jezelf zullen vermaken.",
-        "speaker": "Roy",
-        "translation": "Estoy seguro de que se divertirán."
-      },
-      {
-        "text": "Wees niet zo zeker. We gaan misschien helemaal nergens heen. Mijn vrouw maakt zich altijd te veel zorgen. Wie gaat voor de hond zorgen? Wie gaat voor het huis zorgen? Wie gaat voor de tuin zorgen? We hebben dit probleem elk jaar. Uiteindelijk blijven we thuis en zorgen we voor alles!",
-        "speaker": "Harry",
-        "translation": "No estés tan seguro. Puede que no vayamos a ninguna parte. Mi esposa siempre se preocupa demasiado. ¿Quién va a cuidar del perro? ¿Quién va a cuidar de la casa? ¿Quién va a cuidar del jardín? Tenemos este problema cada año. ¡Al final nos quedamos en casa y cuidamos de todo!"
-      }
-    ],
-    "headerImage": {
-      "src": "/illustrations-sorted/page131_illust001.png",
-      "alt": "Ilustración 1 del diálogo"
-    },
-    "images": []
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Roy en Harry bespreken vakantieplannen en maken zich zorgen over wie voor huis en tuin zal zorgen.",
+          "speaker": "Situatie",
+          "translation": "Roy y Harry discuten planes de vacaciones y se preocupan por quién cuidará la casa y el jardín."
+        },
+        {
+          "text": "Waar ga je dit jaar je vakantie doorbrengen, Harry?",
+          "speaker": "Roy",
+          "translation": "¿Dónde vas a pasar tus vacaciones este año, Harry?"
+        },
+        {
+          "text": "We gaan misschien naar het buitenland. Ik weet het niet zeker. Mijn vrouw wil naar Egypte gaan. Ik zou er ook graag heen willen. We kunnen ons niet beslissen.",
+          "speaker": "Harry",
+          "translation": "Puede que vayamos al extranjero. No estoy seguro. Mi esposa quiere ir a Egipto. A mí también me gustaría ir. No podemos decidir."
+        },
+        {
+          "text": "Zullen jullie per schip of per vliegtuig reizen?",
+          "speaker": "Roy",
+          "translation": "¿Viajarán en barco o en avión?"
+        },
+        {
+          "text": "We gaan misschien per schip.",
+          "speaker": "Harry",
+          "translation": "Puede que vayamos en barco."
+        },
+        {
+          "text": "Het is goedkoper, nietwaar?",
+          "speaker": "Roy",
+          "translation": "Es más barato, ¿no?"
+        },
+        {
+          "text": "Het kan goedkoper zijn, maar het kost veel tijd.",
+          "speaker": "Harry",
+          "translation": "Puede ser más barato, pero toma mucho tiempo."
+        },
+        {
+          "text": "Ik weet zeker dat jullie jezelf zullen vermaken.",
+          "speaker": "Roy",
+          "translation": "Estoy seguro de que se divertirán."
+        },
+        {
+          "text": "Wees niet zo zeker. We gaan misschien helemaal nergens heen. Mijn vrouw maakt zich altijd te veel zorgen. Wie gaat voor de hond zorgen? Wie gaat voor het huis zorgen? Wie gaat voor de tuin zorgen? We hebben dit probleem elk jaar. Uiteindelijk blijven we thuis en zorgen we voor alles!",
+          "speaker": "Harry",
+          "translation": "No estés tan seguro. Puede que no vayamos a ninguna parte. Mi esposa siempre se preocupa demasiado. ¿Quién va a cuidar del perro? ¿Quién va a cuidar de la casa? ¿Quién va a cuidar del jardín? Tenemos este problema cada año. ¡Al final nos quedamos en casa y cuidamos de todo!"
+        }
+      ],
+      "images": []
+    }
+  ]
 }

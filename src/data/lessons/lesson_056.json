@@ -1,19 +1,59 @@
 {
   "id": 56,
   "title": "Les 56",
-  "subtitle": "¿Qué suelen hacer?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Ella lava los platos todos los días.",
-        "spanish": "Ella lava los platos todos los días."
-      },
-      {
-        "dutch": "Zij wast de afwas elke dag.",
-        "spanish": "Ella lava los platos todos los días."
-      }
-    ]
-  }
+  "subtitle": "Wat doen zij gewoonlijk?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "elke dag - 's ochtends - 's middags - 's avonds - 's nachts",
+      "items": [
+        { "number": 1, "dutch": "stoft af", "spanish": "quita el polvo", "illustration": "/illustrations-sorted/page56_illust001.png" },
+        { "number": 2, "dutch": "maakt", "spanish": "hace", "illustration": "/illustrations-sorted/page56_illust002.png" },
+        { "number": 3, "dutch": "scheert", "spanish": "afeita", "illustration": "/illustrations-sorted/page56_illust003.png" },
+        { "number": 4, "dutch": "luistert", "spanish": "escucha", "illustration": "/illustrations-sorted/page56_illust004.png" },
+        { "number": 21, "dutch": "maakt schoon", "spanish": "limpia", "illustration": "/illustrations-sorted/page56_illust005.png" },
+        { "number": 22, "dutch": "gaat", "spanish": "va", "illustration": "/illustrations-sorted/page56_illust006.png" },
+        { "number": 23, "dutch": "wast", "spanish": "lava", "illustration": "/illustrations-sorted/page56_illust007.png" },
+        { "number": 24, "dutch": "typt", "spanish": "escribe a máquina", "illustration": "/illustrations-sorted/page56_illust008.png" },
+        { "number": 31, "dutch": "drinkt", "spanish": "bebe", "illustration": "/illustrations-sorted/page56_illust009.png" },
+        { "number": 32, "dutch": "kijkt", "spanish": "mira", "illustration": "/illustrations-sorted/page56_illust010.png" },
+        { "number": 33, "dutch": "eet", "spanish": "come", "illustration": "/illustrations-sorted/page56_illust011.png" },
+        { "number": 34, "dutch": "leest", "spanish": "lee", "illustration": "/illustrations-sorted/page56_illust012.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto: Voeg s of es toe waar nodig.",
+      "example": [
+        {
+          "input": "Zij was... de afwas elke dag.",
+          "output": "Zij wast de afwas elke dag.",
+          "spanish": "Ella lava los platos todos los días."
+        }
+      ],
+      "items": [
+        {
+          "text": "De kinderen ga... 's ochtends naar school.",
+          "answer": "De kinderen gaan 's ochtends naar school."
+        },
+        {
+          "text": "Hun vader breng... hen naar school.",
+          "answer": "Hun vader brengt hen naar school."
+        },
+        {
+          "text": "Mevrouw Sawyer blijf... thuis.",
+          "answer": "Mevrouw Sawyer blijft thuis."
+        },
+        {
+          "text": "Zij doe... het huishouden.",
+          "answer": "Zij doet het huishouden."
+        },
+        {
+          "text": "Zij eet... altijd haar lunch om twaalf uur.",
+          "answer": "Zij eet altijd haar lunch om twaalf uur."
+        }
+      ]
+    }
+  ]
 }

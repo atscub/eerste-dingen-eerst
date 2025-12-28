@@ -1,18 +1,98 @@
 {
   "id": 100,
   "title": "Les 100",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Él está bebiendo su leche. Él dice que está bebiendo su leche.",
-        "spanish": "Él está bebiendo su leche. Él dice que está bebiendo su leche."
-      },
-      {
-        "dutch": "Hij drinkt zijn melk. Hij zegt dat hij zijn melk aan het drinken is.",
-        "spanish": "Él está bebiendo su leche. Él dice que está bebiendo su leche."
-      }
-    ]
-  }
+  "subtitle": "Hij zegt dat... Zij zegt dat... Ze zeggen dat...",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "title": "Indirecte rede:",
+      "columns": ["Hij", "dat hij"],
+      "rows": [
+        ["zegt", "is..."],
+        ["denkt", "voelt..."],
+        ["gelooft", "heeft (gekregen)..."],
+        ["weet", "nodig heeft..."],
+        ["begrijpt", "wil..."],
+        ["is bang", "kan..."],
+        ["vindt het jammer", "moet..."],
+        ["is zeker", "zal..."]
+      ]
+    },
+    {
+      "type": "vocabularyGroup",
+      "prompt": "Hij zegt dat... Zij zegt dat... Ze zeggen dat...",
+      "groups": [
+        {
+          "prompt": "is/zijn - voelt/voelen",
+          "items": [
+            { "number": 1, "dutch": "moe", "spanish": "cansado", "illustration": "/illustrations-sorted/page100_illust001.png" },
+            { "number": 2, "dutch": "dorstig", "spanish": "sediento", "illustration": "/illustrations-sorted/page100_illust002.png" },
+            { "number": 3, "dutch": "koud", "spanish": "frío", "illustration": "/illustrations-sorted/page100_illust003.png" },
+            { "number": 4, "dutch": "ziek", "spanish": "enfermo", "illustration": "/illustrations-sorted/page100_illust004.png" }
+          ]
+        },
+        {
+          "prompt": "heeft/hebben (gekregen)",
+          "items": [
+            { "number": 5, "dutch": "een verkoudheid", "spanish": "un resfriado", "illustration": "/illustrations-sorted/page100_illust005.png" },
+            { "number": 6, "dutch": "hoofdpijn", "spanish": "un dolor de cabeza", "illustration": "/illustrations-sorted/page100_illust006.png" },
+            { "number": 7, "dutch": "oorpijn", "spanish": "un dolor de oído", "illustration": "/illustrations-sorted/page100_illust007.png" },
+            { "number": 8, "dutch": "kiespijn", "spanish": "un dolor de muelas", "illustration": "/illustrations-sorted/page100_illust008.png" }
+          ]
+        },
+        {
+          "prompt": "heeft/hebben nodig - wil/willen",
+          "items": [
+            { "number": 9, "dutch": "een knipbeurt", "spanish": "un corte de pelo", "illustration": "/illustrations-sorted/page100_illust009.png" },
+            { "number": 10, "dutch": "een rijbewijs", "spanish": "una licencia", "illustration": "/illustrations-sorted/page100_illust010.png" },
+            { "number": 11, "dutch": "een röntgenfoto", "spanish": "una radiografía", "illustration": "/illustrations-sorted/page100_illust011.png" },
+            { "number": 12, "dutch": "wat geld", "spanish": "algo de dinero", "illustration": "/illustrations-sorted/page100_illust012.png" }
+          ]
+        },
+        {
+          "prompt": "kan - moet - zal",
+          "items": [
+            { "number": 13, "dutch": "wachten", "spanish": "esperar", "illustration": "/illustrations-sorted/page100_illust013.png" },
+            { "number": 14, "dutch": "de bus halen", "spanish": "tomar el autobús", "illustration": "/illustrations-sorted/page100_illust014.png" },
+            { "number": 15, "dutch": "repareren", "spanish": "reparar", "illustration": "/illustrations-sorted/page100_illust015.png" },
+            { "number": 16, "dutch": "verkopen", "spanish": "vender", "illustration": "/illustrations-sorted/page100_illust016.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Hij drinkt zijn melk.",
+          "output": "Hij zegt dat hij zijn melk aan het drinken is.",
+          "spanish": "Él está bebiendo su leche. Él dice que está bebiendo su leche."
+        }
+      ],
+      "items": [
+        {
+          "text": "Zij heeft haar pen gevonden.",
+          "answer": "Zij zegt dat zij haar pen heeft gevonden."
+        },
+        {
+          "text": "Zij moeten hier blijven.",
+          "answer": "Zij zeggen dat zij hier moeten blijven."
+        },
+        {
+          "text": "Hij herinnert zich jou.",
+          "answer": "Hij zegt dat hij zich jou herinnert."
+        },
+        {
+          "text": "Zij spreekt geen Engels.",
+          "answer": "Zij zegt dat zij geen Engels spreekt."
+        },
+        {
+          "text": "Zij zijn de afwas aan het doen.",
+          "answer": "Zij zeggen dat zij de afwas aan het doen zijn."
+        }
+      ]
+    }
+  ]
 }

@@ -1,23 +1,77 @@
 {
   "id": 90,
   "title": "Les 90",
-  "subtitle": "¿Has... todavía?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Él leyó este libro la semana pasada.",
-        "spanish": "Él leyó este libro la semana pasada."
-      },
-      {
-        "dutch": "PREGUNTA: ¿Leyó este libro la semana pasada?",
-        "spanish": "PREGUNTA: ¿Leyó este libro la semana pasada?"
-      },
-      {
-        "dutch": "NEGATIVO: No leyó este libro la semana pasada.",
-        "spanish": "NEGATIVO: No leyó este libro la semana pasada."
-      }
-    ]
-  }
+  "subtitle": "Heb je al...?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Heb je al...?",
+      "items": [
+        { "number": 1, "dutch": "Heb je dit boek al gelezen? Ja. Wanneer heb je het gelezen? Ik heb het vorig jaar gelezen.", "spanish": "¿Ya has leído este libro? Sí. ¿Cuándo lo leíste? Lo leí el año pasado.", "illustration": "/illustrations-sorted/page90_illust001.png" },
+        { "number": 2, "dutch": "Heb je je huiswerk al gedaan? Ja. Wanneer heb je het gedaan? Ik heb het een half uur geleden gedaan.", "spanish": "¿Ya has hecho tu tarea? Sí. ¿Cuándo la hiciste? La hice hace media hora.", "illustration": "/illustrations-sorted/page90_illust002.png" },
+        { "number": 3, "dutch": "Is hij al weg? Ja. Wanneer is hij weggegaan? Hij is een uur geleden weggegaan.", "spanish": "¿Ya se ha ido? Sí. ¿Cuándo se fue? Se fue hace una hora.", "illustration": "/illustrations-sorted/page90_illust003.png" },
+        { "number": 4, "dutch": "Heeft zij al met hem gesproken? Ja. Wanneer heeft zij met hem gesproken? Zij heeft gisteren met hem gesproken.", "spanish": "¿Ya ha hablado con él? Sí. ¿Cuándo habló con él? Habló con él ayer.", "illustration": "/illustrations-sorted/page90_illust004.png" }
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "title": "Bestudeer deze werkwoorden:",
+      "columns": ["infinitief", "verleden tijd", "voltooid deelwoord"],
+      "rows": [
+        ["snijden", "sneed", "gesneden"],
+        ["leggen", "legde", "gelegd"],
+        ["lezen", "las", "gelezen"],
+        ["zetten", "zette", "gezet"],
+        ["sluiten", "sloot", "gesloten"],
+        ["doen", "deed", "gedaan"],
+        ["komen", "kwam", "gekomen"],
+        ["geven", "gaf", "gegeven"],
+        ["zwemmen", "zwom", "gezwommen"],
+        ["nemen", "nam", "genomen"],
+        ["eten", "at", "gegeten"],
+        ["gaan", "ging", "gegaan"],
+        ["opstaan", "stond op", "opgestaan"],
+        ["zien", "zag", "gezien"],
+        ["spreken", "sprak", "gesproken"]
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Hij las dit boek vorige week.",
+          "output": "VRAAG: Las hij dit boek vorige week? ONTKENNING: Hij las dit boek vorige week niet.",
+          "spanish": "Él leyó este libro la semana pasada. PREGUNTA: ¿Leyó él este libro la semana pasada? NEGACIÓN: Él no leyó este libro la semana pasada."
+        }
+      ],
+      "items": [
+        {
+          "text": "De zon ging om twintig over zeven onder.",
+          "answer": "Ging de zon om twintig over zeven onder? De zon ging niet om twintig over zeven onder."
+        },
+        {
+          "text": "Hij at zijn lunch om één uur.",
+          "answer": "At hij zijn lunch om één uur? Hij at zijn lunch niet om één uur."
+        },
+        {
+          "text": "Zij deden gisteravond hun huiswerk.",
+          "answer": "Deden zij gisteravond hun huiswerk? Zij deden gisteravond hun huiswerk niet."
+        },
+        {
+          "text": "Hij kwam vanmorgen met de auto.",
+          "answer": "Kwam hij vanmorgen met de auto? Hij kwam vanmorgen niet met de auto."
+        },
+        {
+          "text": "De zon kwam om half zes op.",
+          "answer": "Kwam de zon om half zes op? De zon kwam niet om half zes op."
+        },
+        {
+          "text": "Wij zwommen gisteren door de rivier.",
+          "answer": "Zwommen wij gisteren door de rivier? Wij zwommen gisteren niet door de rivier."
+        }
+      ]
+    }
+  ]
 }

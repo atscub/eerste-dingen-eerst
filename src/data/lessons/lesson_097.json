@@ -1,123 +1,125 @@
 {
   "id": 97,
   "title": "Les 97",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Ik liet eergisteren een koffer achter in de trein naar Londen.",
-        "speaker": "Meneer Hall",
-        "translation": "Dejé una maleta en el tren a Londres el otro día."
-      },
-      {
-        "text": "Kunt u hem beschrijven, meneer?",
-        "speaker": "Beambte",
-        "translation": "¿Puede describirla, señor?"
-      },
-      {
-        "text": "Het is een kleine blauwe koffer en hij heeft een rits. Er is een label aan de hendel met mijn naam en adres erop.",
-        "speaker": "Meneer Hall",
-        "translation": "Es una maleta azul pequeña y tiene cremallera. Hay una etiqueta en el asa con mi nombre y dirección."
-      },
-      {
-        "text": "Is dit uw koffer?",
-        "speaker": "Beambte",
-        "translation": "¿Es esta maleta suya?"
-      },
-      {
-        "text": "Nee, dat is de mijne niet.",
-        "speaker": "Meneer Hall",
-        "translation": "No, esa no es mía."
-      },
-      {
-        "text": "Wat dacht u van deze?",
-        "speaker": "Beambte",
-        "translation": "¿Qué tal esta?"
-      },
-      {
-        "text": "Laat me hem zien.",
-        "speaker": "Meneer Hall",
-        "translation": "Déjame verla."
-      },
-      {
-        "text": "Wat is uw naam en adres?",
-        "speaker": "Beambte",
-        "translation": "¿Cuál es su nombre y dirección?"
-      },
-      {
-        "text": "David Hall, 83, Bridge Street.",
-        "speaker": "Meneer Hall",
-        "translation": "David Hall, 83, Bridge Street."
-      },
-      {
-        "text": "Dat klopt. D. N. Hall, 83, Bridge Street.",
-        "speaker": "Beambte",
-        "translation": "Eso es correcto. D. N. Hall, 83, Bridge Street."
-      },
-      {
-        "text": "Vijf shilling, alstublieft.",
-        "speaker": "Beambte",
-        "translation": "Cinco chelines, por favor."
-      },
-      {
-        "text": "Alstublieft.",
-        "speaker": "Meneer Hall",
-        "translation": "Aquí tiene."
-      },
-      {
-        "text": "Dank u.",
-        "speaker": "Beambte",
-        "translation": "Gracias."
-      },
-      {
-        "text": "Hé!",
-        "speaker": "Meneer Hall",
-        "translation": "¡Oye!"
-      },
-      {
-        "text": "Wat is er?",
-        "speaker": "Beambte",
-        "translation": "¿Qué pasa?"
-      },
-      {
-        "text": "Deze koffer is niet van mij! U heeft me de verkeerde koffer gegeven!",
-        "speaker": "Meneer Hall",
-        "translation": "¡Esta maleta no me pertenece! ¡Me has dado la maleta equivocada!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page97_illust001.png",
-        "alt": "Cartel \"LOST PROPERTY\" con Sr. Hall en el mostrador"
-      },
-      {
-        "src": "/illustrations-sorted/page97_illust002.png",
-        "alt": "Empleado mostrando una maleta"
-      },
-      {
-        "src": "/illustrations-sorted/page97_illust003.png",
-        "alt": "Sr. Hall examinando la maleta con etiqueta"
-      },
-      {
-        "src": "/illustrations-sorted/page97_illust004.png",
-        "alt": "Empleado señalando otra maleta"
-      },
-      {
-        "src": "/illustrations-sorted/page97_illust005.png",
-        "alt": "Primer plano de la etiqueta con \"D.N. HALL, 83 BRIDGE STREET\""
-      },
-      {
-        "src": "/illustrations-sorted/page97_illust006.png",
-        "alt": "Sr. Hall pagando al empleado"
-      },
-      {
-        "src": "/illustrations-sorted/page97_illust007.png",
-        "alt": "Sr. Hall llamando la atención del empleado"
-      },
-      {
-        "src": "/illustrations-sorted/page97_illust008.png",
-        "alt": "Sr. Hall mostrando que es la maleta equivocada"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Ik liet eergisteren een koffer achter in de trein naar Londen.",
+          "speaker": "Meneer Hall",
+          "translation": "Dejé una maleta en el tren a Londres el otro día."
+        },
+        {
+          "text": "Kunt u hem beschrijven, meneer?",
+          "speaker": "Beambte",
+          "translation": "¿Puede describirla, señor?"
+        },
+        {
+          "text": "Het is een kleine blauwe koffer en hij heeft een rits. Er is een label aan de hendel met mijn naam en adres erop.",
+          "speaker": "Meneer Hall",
+          "translation": "Es una maleta azul pequeña y tiene cremallera. Hay una etiqueta en el asa con mi nombre y dirección."
+        },
+        {
+          "text": "Is dit uw koffer?",
+          "speaker": "Beambte",
+          "translation": "¿Es esta maleta suya?"
+        },
+        {
+          "text": "Nee, dat is de mijne niet.",
+          "speaker": "Meneer Hall",
+          "translation": "No, esa no es mía."
+        },
+        {
+          "text": "Wat dacht u van deze?",
+          "speaker": "Beambte",
+          "translation": "¿Qué tal esta?"
+        },
+        {
+          "text": "Laat me hem zien.",
+          "speaker": "Meneer Hall",
+          "translation": "Déjame verla."
+        },
+        {
+          "text": "Wat is uw naam en adres?",
+          "speaker": "Beambte",
+          "translation": "¿Cuál es su nombre y dirección?"
+        },
+        {
+          "text": "David Hall, 83, Bridge Street.",
+          "speaker": "Meneer Hall",
+          "translation": "David Hall, 83, Bridge Street."
+        },
+        {
+          "text": "Dat klopt. D. N. Hall, 83, Bridge Street.",
+          "speaker": "Beambte",
+          "translation": "Eso es correcto. D. N. Hall, 83, Bridge Street."
+        },
+        {
+          "text": "Vijf shilling, alstublieft.",
+          "speaker": "Beambte",
+          "translation": "Cinco chelines, por favor."
+        },
+        {
+          "text": "Alstublieft.",
+          "speaker": "Meneer Hall",
+          "translation": "Aquí tiene."
+        },
+        {
+          "text": "Dank u.",
+          "speaker": "Beambte",
+          "translation": "Gracias."
+        },
+        {
+          "text": "Hé!",
+          "speaker": "Meneer Hall",
+          "translation": "¡Oye!"
+        },
+        {
+          "text": "Wat is er?",
+          "speaker": "Beambte",
+          "translation": "¿Qué pasa?"
+        },
+        {
+          "text": "Deze koffer is niet van mij! U heeft me de verkeerde koffer gegeven!",
+          "speaker": "Meneer Hall",
+          "translation": "¡Esta maleta no me pertenece! ¡Me has dado la maleta equivocada!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page97_illust001.png",
+          "alt": "Cartel \"LOST PROPERTY\" con Sr. Hall en el mostrador"
+        },
+        {
+          "src": "/illustrations-sorted/page97_illust002.png",
+          "alt": "Empleado mostrando una maleta"
+        },
+        {
+          "src": "/illustrations-sorted/page97_illust003.png",
+          "alt": "Sr. Hall examinando la maleta con etiqueta"
+        },
+        {
+          "src": "/illustrations-sorted/page97_illust004.png",
+          "alt": "Empleado señalando otra maleta"
+        },
+        {
+          "src": "/illustrations-sorted/page97_illust005.png",
+          "alt": "Primer plano de la etiqueta con \"D.N. HALL, 83 BRIDGE STREET\""
+        },
+        {
+          "src": "/illustrations-sorted/page97_illust006.png",
+          "alt": "Sr. Hall pagando al empleado"
+        },
+        {
+          "src": "/illustrations-sorted/page97_illust007.png",
+          "alt": "Sr. Hall llamando la atención del empleado"
+        },
+        {
+          "src": "/illustrations-sorted/page97_illust008.png",
+          "alt": "Sr. Hall mostrando que es la maleta equivocada"
+        }
+      ]
+    }
+  ]
 }

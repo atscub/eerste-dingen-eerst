@@ -2,87 +2,67 @@
   "id": 69,
   "title": "Les 69",
   "subtitle": "De autorace",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Er is elk jaar een autorace bij onze stad.",
-        "translation": "Hay una carrera de coches cerca de nuestra ciudad cada año."
-      },
-      {
-        "text": "In 1968 was er een hele grote race.",
-        "translation": "En 1968 hubo una carrera muy grande."
-      },
-      {
-        "text": "Er waren honderden mensen.",
-        "translation": "Había cientos de personas allí."
-      },
-      {
-        "text": "Mijn vrouw en ik waren bij de race.",
-        "translation": "Mi esposa y yo estábamos en la carrera."
-      },
-      {
-        "text": "Onze vrienden, Julia en Jan, waren er ook.",
-        "translation": "Nuestros amigos, Julia y Jan, también estaban allí."
-      },
-      {
-        "text": "Je kunt ons in de menigte zien.",
-        "translation": "Puedes vernos en la multitud."
-      },
-      {
-        "text": "We staan aan de linkerkant.",
-        "translation": "Estamos parados a la izquierda."
-      },
-      {
-        "text": "Er waren twintig auto's in de race.",
-        "translation": "Había veinte coches en la carrera."
-      },
-      {
-        "text": "Er waren Engelse auto's, Franse auto's, Duitse auto's, Italiaanse auto's, Amerikaanse auto's en Japanse auto's.",
-        "translation": "Había coches ingleses, franceses, alemanes, italianos, americanos y japoneses."
-      },
-      {
-        "text": "Het was een spannende finish.",
-        "translation": "Fue un final emocionante."
-      },
-      {
-        "text": "De winnaar was Bram Vermeer.",
-        "translation": "El ganador fue Bram Vermeer."
-      },
-      {
-        "text": "Hij zat in auto nummer vijftien.",
-        "translation": "Estaba en el coche número quince."
-      },
-      {
-        "text": "Vijf andere auto's zaten vlak achter hem.",
-        "translation": "Cinco otros coches estaban justo detrás de él."
-      },
-      {
-        "text": "Op de terugweg zei mijn vrouw tegen me: \"Rij niet zo snel! Je bent Bram Vermeer niet!\"",
-        "translation": "En el camino a casa, mi esposa me dijo: \"¡No conduzcas tan rápido! ¡No eres Bram Vermeer!\""
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page69_illust001.png",
-        "alt": "Circuito de carreras con gradas llenas de gente"
-      },
-      {
-        "src": "/illustrations-sorted/page69_illust002.png",
-        "alt": "Multitud mirando la carrera, Julia, Jan, narrador y esposa a la izquierda"
-      },
-      {
-        "src": "/illustrations-sorted/page69_illust003.png",
-        "alt": "Veinte coches con diferentes banderas de países"
-      },
-      {
-        "src": "/illustrations-sorted/page69_illust004.png",
-        "alt": "Final emocionante con Bram Vermeer en el coche 15"
-      },
-      {
-        "src": "/illustrations-sorted/page69_illust005.png",
-        "alt": "Narrador conduciendo rápido, esposa preocupada"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "reading",
+      "paragraphs": [
+        {
+          "text": "Er is elk jaar een autorace bij onze stad.",
+          "translation": "Hay una carrera de coches cerca de nuestra ciudad cada año."
+        },
+        {
+          "text": "In 1968 was er een hele grote race.",
+          "translation": "En 1968 hubo una carrera muy grande."
+        },
+        {
+          "text": "Er waren honderden mensen.",
+          "translation": "Había cientos de personas allí."
+        },
+        {
+          "text": "Mijn vrouw en ik waren bij de race.",
+          "translation": "Mi esposa y yo estábamos en la carrera."
+        },
+        {
+          "text": "Onze vrienden, Julia en Jan, waren er ook.",
+          "translation": "Nuestros amigos, Julia y Jan, también estaban allí."
+        },
+        {
+          "text": "Je kunt ons in de menigte zien.",
+          "translation": "Puedes vernos en la multitud."
+        },
+        {
+          "text": "We staan aan de linkerkant.",
+          "translation": "Estamos parados a la izquierda."
+        },
+        {
+          "text": "Er waren twintig auto's in de race.",
+          "translation": "Había veinte coches en la carrera."
+        },
+        {
+          "text": "Er waren Engelse auto's, Franse auto's, Duitse auto's, Italiaanse auto's, Amerikaanse auto's en Japanse auto's.",
+          "translation": "Había coches ingleses, franceses, alemanes, italianos, americanos y japoneses."
+        },
+        {
+          "text": "Het was een spannende finish.",
+          "translation": "Fue un final emocionante."
+        },
+        {
+          "text": "De winnaar was Bram Vermeer.",
+          "translation": "El ganador fue Bram Vermeer."
+        },
+        {
+          "text": "Hij zat in auto nummer vijftien.",
+          "translation": "Estaba en el coche número quince."
+        },
+        {
+          "text": "Vijf andere auto's zaten vlak achter hem.",
+          "translation": "Cinco otros coches estaban justo detrás de él."
+        },
+        {
+          "text": "Op de terugweg zei mijn vrouw tegen me: \"Rij niet zo snel! Je bent Bram Vermeer niet!\"",
+          "translation": "En el camino a casa, mi esposa me dijo: \"¡No conduzcas tan rápido! ¡No eres Bram Vermeer!\""
+        }
+      ]
+    }
+  ]
 }

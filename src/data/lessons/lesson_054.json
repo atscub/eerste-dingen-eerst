@@ -1,15 +1,55 @@
 {
   "id": 54,
   "title": "Les 54",
-  "subtitle": "¿De qué nacionalidad son? ¿De dónde vienen?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto: Haz estos de la misma manera:",
-    "example": [
-      {
-        "dutch": "El sol sale temprano. ¿Sale el sol temprano? El sol no sale temprano.",
-        "spanish": "El sol sale temprano. ¿Sale el sol temprano? El sol no sale temprano."
-      }
-    ]
-  }
+  "subtitle": "Welke nationaliteit hebben zij? Waar komen zij vandaan?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Welke nationaliteit hebben zij? Waar komen zij vandaan?",
+      "items": [
+        { "number": 20, "dutch": "Ik ben Australisch. Ik kom uit Australië.", "spanish": "Soy australiano/a. Vengo de Australia.", "illustration": "/illustrations-sorted/page54_illust003.png" },
+        { "number": 30, "dutch": "Hij is Oostenrijks. Hij komt uit Oostenrijk.", "spanish": "Él es austríaco. Viene de Austria.", "illustration": "/illustrations-sorted/page54_illust002.png" },
+        { "number": 40, "dutch": "Hij is Canadees. Hij komt uit Canada.", "spanish": "Él es canadiense. Viene de Canadá.", "illustration": "/illustrations-sorted/page54_illust001.png" },
+        { "number": 50, "dutch": "Wij zijn Chinees. Wij komen uit China.", "spanish": "Somos chinos. Venimos de China.", "illustration": "/illustrations-sorted/page54_illust004.png" },
+        { "number": 60, "dutch": "Zij zijn Deens. Zij komen uit Denemarken.", "spanish": "Son daneses. Vienen de Dinamarca.", "illustration": "/illustrations-sorted/page54_illust005.png" },
+        { "number": 70, "dutch": "Jij bent Fins. Jij komt uit Finland.", "spanish": "Eres finlandés. Vienes de Finlandia.", "illustration": "/illustrations-sorted/page54_illust006.png" },
+        { "number": 80, "dutch": "Zij is Indiaas. Zij komt uit India.", "spanish": "Ella es india. Viene de la India.", "illustration": "/illustrations-sorted/page54_illust009.png" },
+        { "number": 90, "dutch": "Jij bent Japans. Jij komt uit Japan.", "spanish": "Eres japonés. Vienes de Japón.", "illustration": "/illustrations-sorted/page54_illust008.png" },
+        { "number": 100, "dutch": "Wij zijn Nigeriaans. Wij komen uit Nigeria.", "spanish": "Somos nigerianos. Venimos de Nigeria.", "illustration": "/illustrations-sorted/page54_illust007.png" },
+        { "number": 101, "dutch": "Zij zijn Pools. Zij komen uit Polen.", "spanish": "Son polacos. Vienen de Polonia.", "illustration": "/illustrations-sorted/page54_illust012.png" },
+        { "number": 102, "dutch": "Zij is Turks. Zij komt uit Turkije.", "spanish": "Ella es turca. Viene de Turquía.", "illustration": "/illustrations-sorted/page54_illust011.png" },
+        { "number": 103, "dutch": "Ik ben Joegoslavisch. Ik kom uit Joegoslavië.", "spanish": "Soy yugoslavo/a. Vengo de Yugoslavia.", "illustration": "/illustrations-sorted/page54_illust010.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "De zon komt vroeg op.",
+          "output": "Komt de zon vroeg op? De zon komt niet vroeg op.",
+          "spanish": "El sol sale temprano. ¿Sale el sol temprano? El sol no sale temprano."
+        }
+      ],
+      "items": [
+        {
+          "text": "De zon gaat laat onder.",
+          "answer": "Gaat de zon laat onder? De zon gaat niet laat onder."
+        },
+        {
+          "text": "Hij houdt van ijs.",
+          "answer": "Houdt hij van ijs? Hij houdt niet van ijs."
+        },
+        {
+          "text": "Mevrouw Jones wil een koekje.",
+          "answer": "Wil mevrouw Jones een koekje? Mevrouw Jones wil geen koekje."
+        },
+        {
+          "text": "Jim komt uit Engeland.",
+          "answer": "Komt Jim uit Engeland? Jim komt niet uit Engeland."
+        }
+      ]
+    }
+  ]
 }

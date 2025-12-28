@@ -1,18 +1,85 @@
 {
   "id": 76,
   "title": "Les 76",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Ella va al pueblo todos los días. Ella fue al pueblo ayer.",
-        "spanish": "Ella va al pueblo todos los días. Ella fue al pueblo ayer."
-      },
-      {
-        "dutch": "Zij gaat elke dag naar de stad. Zij ging gisteren naar de stad.",
-        "spanish": "Ella va a la ciudad todos los días. Ella fue a la ciudad ayer."
-      }
-    ]
-  }
+  "subtitle": "Wanneer heb je...?",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "prompt": "Tijdsuitdrukkingen",
+      "columns": ["NU", "VORIGE", "DAARVOOR"],
+      "rows": [
+        ["deze week", "vorige week", "de week daarvoor"],
+        ["deze maand", "vorige maand", "de maand daarvoor"],
+        ["dit jaar", "vorig jaar", "het jaar daarvoor"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "prompt": "GELEDEN",
+      "columns": ["enkelvoud", "meervoud"],
+      "rows": [
+        ["een minuut geleden", "twee minuten geleden"],
+        ["een uur geleden", "vijf uur geleden"],
+        ["een dag geleden", "drie dagen geleden"],
+        ["een week geleden", "twee weken geleden"],
+        ["een maand geleden", "vier maanden geleden"],
+        ["een jaar geleden", "zes jaar geleden"]
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Wanneer heb je...?",
+      "items": [
+        { "number": 109, "dutch": "keek", "spanish": "miró", "illustration": "/illustrations-sorted/page76_illust001.png" },
+        { "number": 110, "dutch": "sprong", "spanish": "saltó", "illustration": "/illustrations-sorted/page76_illust002.png" },
+        { "number": 111, "dutch": "wandelde", "spanish": "caminó", "illustration": "/illustrations-sorted/page76_illust003.png" },
+        { "number": 112, "dutch": "waste", "spanish": "lavó", "illustration": "/illustrations-sorted/page76_illust004.png" },
+        { "number": 113, "dutch": "werkte", "spanish": "trabajó", "illustration": "/illustrations-sorted/page76_illust005.png" },
+        { "number": 114, "dutch": "vroeg", "spanish": "preguntó", "illustration": "/illustrations-sorted/page76_illust006.png" },
+        { "number": 115, "dutch": "typte", "spanish": "escribió a máquina", "illustration": "/illustrations-sorted/page76_illust007.png" },
+        { "number": 116, "dutch": "keek", "spanish": "miró", "illustration": "/illustrations-sorted/page76_illust008.png" },
+        { "number": 117, "dutch": "praatte", "spanish": "habló", "illustration": "/illustrations-sorted/page76_illust009.png" },
+        { "number": 118, "dutch": "bedankte", "spanish": "agradeció", "illustration": "/illustrations-sorted/page76_illust010.png" },
+        { "number": 119, "dutch": "stofte af", "spanish": "quitó el polvo", "illustration": "/illustrations-sorted/page76_illust011.png" },
+        { "number": 120, "dutch": "verfde", "spanish": "pintó", "illustration": "/illustrations-sorted/page76_illust012.png" },
+        { "number": 121, "dutch": "wachtte", "spanish": "esperó", "illustration": "/illustrations-sorted/page76_illust013.png" },
+        { "number": 122, "dutch": "wilde", "spanish": "quería", "illustration": "/illustrations-sorted/page76_illust014.png" },
+        { "number": 123, "dutch": "begroette", "spanish": "saludó", "illustration": "/illustrations-sorted/page76_illust015.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Zij gaat elke dag naar de stad.",
+          "output": "Zij ging gisteren naar de stad.",
+          "spanish": "Ella va a la ciudad todos los días. Ella fue a la ciudad ayer."
+        }
+      ],
+      "items": [
+        {
+          "text": "Zij ontmoet elke dag haar vriendinnen.",
+          "answer": "Zij ontmoette gisteren haar vriendinnen."
+        },
+        {
+          "text": "Zij drinken elke dag melk.",
+          "answer": "Zij dronken gisteren melk."
+        },
+        {
+          "text": "Hij zwemt elke dag in de rivier.",
+          "answer": "Hij zwom gisteren in de rivier."
+        },
+        {
+          "text": "Zij brengt hem elke dag naar school.",
+          "answer": "Zij bracht hem gisteren naar school."
+        },
+        {
+          "text": "Hij snijdt zichzelf elke ochtend.",
+          "answer": "Hij sneed zichzelf gisterochtend."
+        }
+      ]
+    }
+  ]
 }

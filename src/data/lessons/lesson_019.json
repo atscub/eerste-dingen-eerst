@@ -1,108 +1,110 @@
 {
   "id": 19,
   "title": "Les 19",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Wat is er aan de hand, kinderen?",
-        "speaker": "Moeder",
-        "translation": "¿Qué pasa, niños?"
-      },
-      {
-        "text": "We zijn moe...",
-        "speaker": "Meisje",
-        "translation": "Estamos cansados..."
-      },
-      {
-        "text": "...en we hebben dorst, mama.",
-        "speaker": "Jongen",
-        "translation": "...y tenemos sed, mamá."
-      },
-      {
-        "text": "Ga hier zitten.",
-        "speaker": "Moeder",
-        "translation": "Siéntense aquí."
-      },
-      {
-        "text": "Gaat het nu goed?",
-        "speaker": "Moeder",
-        "translation": "¿Están bien ahora?"
-      },
-      {
-        "text": "Nee, niet echt.",
-        "speaker": "Jongen",
-        "translation": "No, no lo estamos."
-      },
-      {
-        "text": "Kijk! Daar is een ijscoman.",
-        "speaker": "Moeder",
-        "translation": "¡Miren! Hay un heladero."
-      },
-      {
-        "text": "Twee ijsjes, alstublieft.",
-        "speaker": "Moeder",
-        "translation": "Dos helados, por favor."
-      },
-      {
-        "text": "Alsjeblieft, kinderen.",
-        "speaker": "Moeder",
-        "translation": "Aquí tienen, niños."
-      },
-      {
-        "text": "Dank je, mama.",
-        "speaker": "Kinderen",
-        "translation": "Gracias, mamá."
-      },
-      {
-        "text": "Deze ijsjes zijn lekker.",
-        "speaker": "Meisje",
-        "translation": "Estos helados son agradables."
-      },
-      {
-        "text": "Gaat het nu goed?",
-        "speaker": "Moeder",
-        "translation": "¿Están bien ahora?"
-      },
-      {
-        "text": "Ja, het gaat goed, dank je!",
-        "speaker": "Kinderen",
-        "translation": "Sí, lo estamos, ¡gracias!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page19_illust001.png",
-        "alt": "Madre con dos niños cansados sentados en un banco del parque"
-      },
-      {
-        "src": "/illustrations-sorted/page19_illust002.png",
-        "alt": "Los niños sentándose en el banco, luciendo agotados"
-      },
-      {
-        "src": "/illustrations-sorted/page19_illust003.png",
-        "alt": "Niños todavía con expresión de incomodidad"
-      },
-      {
-        "src": "/illustrations-sorted/page19_illust004.png",
-        "alt": "Madre señalando al heladero a lo lejos"
-      },
-      {
-        "src": "/illustrations-sorted/page19_illust005.png",
-        "alt": "Madre comprando helados del carrito de helados"
-      },
-      {
-        "src": "/illustrations-sorted/page19_illust006.png",
-        "alt": "Madre entregando los helados a los niños sonrientes"
-      },
-      {
-        "src": "/illustrations-sorted/page19_illust007.png",
-        "alt": "Niños disfrutando sus helados, expresiones felices"
-      },
-      {
-        "src": "/illustrations-sorted/page19_illust008.png",
-        "alt": "Ilustración 8 del diálogo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Wat is er aan de hand, kinderen?",
+          "speaker": "Moeder",
+          "translation": "¿Qué pasa, niños?"
+        },
+        {
+          "text": "We zijn moe...",
+          "speaker": "Meisje",
+          "translation": "Estamos cansados..."
+        },
+        {
+          "text": "...en we hebben dorst, mama.",
+          "speaker": "Jongen",
+          "translation": "...y tenemos sed, mamá."
+        },
+        {
+          "text": "Ga hier zitten.",
+          "speaker": "Moeder",
+          "translation": "Siéntense aquí."
+        },
+        {
+          "text": "Gaat het nu goed?",
+          "speaker": "Moeder",
+          "translation": "¿Están bien ahora?"
+        },
+        {
+          "text": "Nee, niet echt.",
+          "speaker": "Jongen",
+          "translation": "No, no lo estamos."
+        },
+        {
+          "text": "Kijk! Daar is een ijscoman.",
+          "speaker": "Moeder",
+          "translation": "¡Miren! Hay un heladero."
+        },
+        {
+          "text": "Twee ijsjes, alstublieft.",
+          "speaker": "Moeder",
+          "translation": "Dos helados, por favor."
+        },
+        {
+          "text": "Alsjeblieft, kinderen.",
+          "speaker": "Moeder",
+          "translation": "Aquí tienen, niños."
+        },
+        {
+          "text": "Dank je, mama.",
+          "speaker": "Kinderen",
+          "translation": "Gracias, mamá."
+        },
+        {
+          "text": "Deze ijsjes zijn lekker.",
+          "speaker": "Meisje",
+          "translation": "Estos helados son agradables."
+        },
+        {
+          "text": "Gaat het nu goed?",
+          "speaker": "Moeder",
+          "translation": "¿Están bien ahora?"
+        },
+        {
+          "text": "Ja, het gaat goed, dank je!",
+          "speaker": "Kinderen",
+          "translation": "Sí, lo estamos, ¡gracias!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page19_illust001.png",
+          "alt": "Madre con dos niños cansados sentados en un banco del parque"
+        },
+        {
+          "src": "/illustrations-sorted/page19_illust002.png",
+          "alt": "Los niños sentándose en el banco, luciendo agotados"
+        },
+        {
+          "src": "/illustrations-sorted/page19_illust003.png",
+          "alt": "Niños todavía con expresión de incomodidad"
+        },
+        {
+          "src": "/illustrations-sorted/page19_illust004.png",
+          "alt": "Madre señalando al heladero a lo lejos"
+        },
+        {
+          "src": "/illustrations-sorted/page19_illust005.png",
+          "alt": "Madre comprando helados del carrito de helados"
+        },
+        {
+          "src": "/illustrations-sorted/page19_illust006.png",
+          "alt": "Madre entregando los helados a los niños sonrientes"
+        },
+        {
+          "src": "/illustrations-sorted/page19_illust007.png",
+          "alt": "Niños disfrutando sus helados, expresiones felices"
+        },
+        {
+          "src": "/illustrations-sorted/page19_illust008.png",
+          "alt": "Ilustración 8 del diálogo"
+        }
+      ]
+    }
+  ]
 }

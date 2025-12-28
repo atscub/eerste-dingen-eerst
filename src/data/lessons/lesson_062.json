@@ -1,19 +1,55 @@
 {
   "id": 62,
   "title": "Les 62",
-  "subtitle": "¿Qué les pasa? ¿Qué deben hacer?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa estos:",
-    "example": [
-      {
-        "dutch": "Tengo dolor de cabeza. Él tiene dolor de cabeza.",
-        "spanish": "Tengo dolor de cabeza. Él tiene dolor de cabeza."
-      },
-      {
-        "dutch": "Ik heb hoofdpijn. Hij heeft hoofdpijn.",
-        "spanish": "Tengo dolor de cabeza. Él tiene dolor de cabeza."
-      }
-    ]
-  }
+  "subtitle": "Wat is er met hen? Wat moeten zij doen?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat is er met hen? Wat moeten zij doen?",
+      "items": [
+        { "number": 41, "dutch": "Zij heeft hoofdpijn. Dus zij moet een aspirientje nemen.", "spanish": "Ella tiene dolor de cabeza. Así que debe tomar una aspirina.", "illustration": "/illustrations-sorted/page62_illust001.png" },
+        { "number": 52, "dutch": "George heeft oorpijn. Dus hij moet naar de dokter.", "spanish": "George tiene dolor de oído. Así que debe ir al médico.", "illustration": "/illustrations-sorted/page62_illust002.png" },
+        { "number": 63, "dutch": "Hij heeft kiespijn. Dus hij moet naar de tandarts.", "spanish": "Él tiene dolor de muelas. Así que debe ir al dentista.", "illustration": "/illustrations-sorted/page62_illust003.png" },
+        { "number": 74, "dutch": "Jane heeft maagpijn. Dus zij moet wat medicijn innemen.", "spanish": "Jane tiene dolor de estómago. Así que debe tomar medicina.", "illustration": "/illustrations-sorted/page62_illust004.png" },
+        { "number": 85, "dutch": "Tom heeft koorts. Dus hij moet naar bed.", "spanish": "Tom tiene fiebre. Así que debe ir a la cama.", "illustration": "/illustrations-sorted/page62_illust005.png" },
+        { "number": 96, "dutch": "Frank heeft griep. Dus hij moet in bed blijven.", "spanish": "Frank tiene gripe. Así que debe quedarse en cama.", "illustration": "/illustrations-sorted/page62_illust006.png" },
+        { "number": 107, "dutch": "Jimmy heeft de mazelen. Dus wij moeten de dokter bellen.", "spanish": "Jimmy tiene sarampión. Así que debemos llamar al médico.", "illustration": "/illustrations-sorted/page62_illust007.png" },
+        { "number": 108, "dutch": "Susan heeft de bof. Dus wij moeten de dokter bellen.", "spanish": "Susan tiene paperas. Así que debemos llamar al médico.", "illustration": "/illustrations-sorted/page62_illust008.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa estos: Schrijf deze opnieuw. Begin elke zin met Hij.",
+      "example": [
+        {
+          "input": "Ik heb hoofdpijn. Ik moet thuisblijven.",
+          "output": "Hij heeft hoofdpijn. Hij moet thuisblijven.",
+          "spanish": "Tengo dolor de cabeza. Debo quedarme en casa. -> Él tiene dolor de cabeza. Él debe quedarse en casa."
+        }
+      ],
+      "items": [
+        {
+          "text": "Ik ben verkouden. Ik kan niet naar mijn werk.",
+          "answer": "Hij is verkouden. Hij kan niet naar zijn werk."
+        },
+        {
+          "text": "Ik voel me niet lekker.",
+          "answer": "Hij voelt zich niet lekker."
+        },
+        {
+          "text": "Ik voel me ziek.",
+          "answer": "Hij voelt zich ziek."
+        },
+        {
+          "text": "Ik moet naar de dokter.",
+          "answer": "Hij moet naar de dokter."
+        },
+        {
+          "text": "Ik hou niet van dokters.",
+          "answer": "Hij houdt niet van dokters."
+        }
+      ]
+    }
+  ]
 }

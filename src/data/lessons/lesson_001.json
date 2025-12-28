@@ -1,74 +1,76 @@
 {
   "id": 1,
   "title": "Les 1",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Pardon!",
-        "speaker": "Anna",
-        "translation": "¡Perdón!"
-      },
-      {
-        "text": "Ja?",
-        "speaker": "Maria",
-        "translation": "¿Sí?"
-      },
-      {
-        "text": "Is dit uw tas?",
-        "speaker": "Anna",
-        "translation": "¿Es éste su bolso?"
-      },
-      {
-        "text": "Pardon?",
-        "speaker": "Maria",
-        "translation": "¿Perdón?"
-      },
-      {
-        "text": "Is dit uw tas?",
-        "speaker": "Anna",
-        "translation": "¿Es éste su bolso?"
-      },
-      {
-        "text": "Ja, dat klopt.",
-        "speaker": "Maria",
-        "translation": "Sí, lo es."
-      },
-      {
-        "text": "Hartelijk dank.",
-        "speaker": "Anna",
-        "translation": "Muchas gracias."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page1_illust001.png",
-        "alt": "Una mujer caminando por un pasillo de tren, mirando hacia atrás a otra persona"
-      },
-      {
-        "src": "/illustrations-sorted/page1_illust002.png",
-        "alt": "Ilustración 2 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page1_illust003.png",
-        "alt": "Una mujer sosteniendo un bolso rayado, mostrándolo"
-      },
-      {
-        "src": "/illustrations-sorted/page1_illust004.png",
-        "alt": "Una mujer con expresión confusa, con signo de interrogación en el aire"
-      },
-      {
-        "src": "/illustrations-sorted/page1_illust005.png",
-        "alt": "Una mujer dentro del compartimento del tren mirando hacia afuera"
-      },
-      {
-        "src": "/illustrations-sorted/page1_illust006.png",
-        "alt": "Dos mujeres interactuando, una entregando el bolso a la otra"
-      },
-      {
-        "src": "/illustrations-sorted/page1_illust007.png",
-        "alt": "Dos mujeres sonriendo, una agradeciendo a la otra por el bolso devuelto"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Pardon!",
+          "speaker": "Anna",
+          "translation": "¡Perdón!"
+        },
+        {
+          "text": "Ja?",
+          "speaker": "Maria",
+          "translation": "¿Sí?"
+        },
+        {
+          "text": "Is dit uw tas?",
+          "speaker": "Anna",
+          "translation": "¿Es éste su bolso?"
+        },
+        {
+          "text": "Pardon?",
+          "speaker": "Maria",
+          "translation": "¿Perdón?"
+        },
+        {
+          "text": "Is dit uw tas?",
+          "speaker": "Anna",
+          "translation": "¿Es éste su bolso?"
+        },
+        {
+          "text": "Ja, dat klopt.",
+          "speaker": "Maria",
+          "translation": "Sí, lo es."
+        },
+        {
+          "text": "Hartelijk dank.",
+          "speaker": "Anna",
+          "translation": "Muchas gracias."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page1_illust001.png",
+          "alt": "Una mujer caminando por un pasillo de tren, mirando hacia atrás a otra persona"
+        },
+        {
+          "src": "/illustrations-sorted/page1_illust002.png",
+          "alt": "Ilustración 2 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page1_illust003.png",
+          "alt": "Una mujer sosteniendo un bolso rayado, mostrándolo"
+        },
+        {
+          "src": "/illustrations-sorted/page1_illust004.png",
+          "alt": "Una mujer con expresión confusa, con signo de interrogación en el aire"
+        },
+        {
+          "src": "/illustrations-sorted/page1_illust005.png",
+          "alt": "Una mujer dentro del compartimento del tren mirando hacia afuera"
+        },
+        {
+          "src": "/illustrations-sorted/page1_illust006.png",
+          "alt": "Dos mujeres interactuando, una entregando el bolso a la otra"
+        },
+        {
+          "src": "/illustrations-sorted/page1_illust007.png",
+          "alt": "Dos mujeres sonriendo, una agradeciendo a la otra por el bolso devuelto"
+        }
+      ]
+    }
+  ]
 }

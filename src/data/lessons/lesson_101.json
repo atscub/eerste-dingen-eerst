@@ -1,94 +1,92 @@
 {
   "id": 101,
   "title": "Les 101",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Fin de las Lecciones 51-100",
-        "speaker": "Mary",
-        "translation": "Fin de las Lecciones 51-100"
-      },
-      {
-        "text": "De grootmoeder leest een ansichtkaart van Jimmy voor aan Mary. Ze zitten in de woonkamer met foto's en een klok op de schouw.",
-        "speaker": "Situación",
-        "translation": "La abuela lee una postal de Jimmy a Mary. Están sentadas en la sala de estar con fotos y un reloj en la repisa de la chimenea."
-      },
-      {
-        "text": "Lees Jimmy's kaart voor mij voor, alsjeblieft, Mary.",
-        "speaker": "Grootmoeder",
-        "translation": "Lee la tarjeta de Jimmy para mí, por favor, Mary."
-      },
-      {
-        "text": "\"Ik ben net in Schotland aangekomen en ik verblijf in een Jeugdherberg.\"",
-        "speaker": "Mary",
-        "translation": "\"Acabo de llegar a Escocia y me estoy alojando en un Albergue Juvenil.\""
-      },
-      {
-        "text": "Hè?",
-        "speaker": "Grootmoeder",
-        "translation": "¿Eh?"
-      },
-      {
-        "text": "Hij zegt dat hij net in Schotland is aangekomen. Hij zegt dat hij in een Jeugdherberg verblijft. Je weet dat hij lid is van de Y.H.A.",
-        "speaker": "Mary",
-        "translation": "Dice que acaba de llegar a Escocia. Dice que se está alojando en un Albergue Juvenil. Sabes que es miembro de la Y.H.A."
-      },
-      {
-        "text": "De wat?",
-        "speaker": "Grootmoeder",
-        "translation": "¿De qué?"
-      },
-      {
-        "text": "De Y.H.A., moeder. De Jeugdherbergen Vereniging.",
-        "speaker": "Mary",
-        "translation": "La Y.H.A., madre. La Asociación de Albergues Juveniles."
-      },
-      {
-        "text": "Wat zegt hij nog meer?",
-        "speaker": "Grootmoeder",
-        "translation": "¿Qué más dice?"
-      },
-      {
-        "text": "\"Ik zal binnenkort een brief schrijven. Ik hoop dat jullie allemaal gezond zijn.\"",
-        "speaker": "Mary",
-        "translation": "\"Escribiré una carta pronto. Espero que todos estéis bien.\""
-      },
-      {
-        "text": "Wat?",
-        "speaker": "Grootmoeder",
-        "translation": "¿Qué?"
-      },
-      {
-        "text": "Spreek luider, Mary.",
-        "speaker": "Grootmoeder",
-        "translation": "Habla más alto, Mary."
-      },
-      {
-        "text": "Ik ben bang dat ik je niet kan horen.",
-        "speaker": "Grootmoeder",
-        "translation": "Me temo que no puedo oírte."
-      },
-      {
-        "text": "Hij zegt dat hij binnenkort een brief zal schrijven. Hij hoopt dat we allemaal gezond zijn. \"Liefs, Jimmy.\"",
-        "speaker": "Mary",
-        "translation": "Dice que escribirá una carta pronto. Espera que todos estemos bien. \"Con cariño, Jimmy.\""
-      },
-      {
-        "text": "Is dat alles? Hij zegt niet veel, of wel?",
-        "speaker": "Grootmoeder",
-        "translation": "¿Es eso todo? No dice mucho, ¿verdad?"
-      },
-      {
-        "text": "Hij kan niet veel schrijven op een ansichtkaart, moeder.",
-        "speaker": "Mary",
-        "translation": "No puede escribir mucho en una postal, madre."
-      }
-    ],
-    "headerImage": {
-      "src": "/illustrations-sorted/page101_illust001.png",
-      "alt": "Een oudere vrouw met grijs haar en een jongere vrouw zitten samen op een bank in een gezellige woonkamer, omringd door ingelijste foto's en een antieke klok"
-    },
-    "images": []
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Fin de las Lecciones 51-100",
+          "speaker": "Mary",
+          "translation": "Fin de las Lecciones 51-100"
+        },
+        {
+          "text": "De grootmoeder leest een ansichtkaart van Jimmy voor aan Mary. Ze zitten in de woonkamer met foto's en een klok op de schouw.",
+          "speaker": "Situación",
+          "translation": "La abuela lee una postal de Jimmy a Mary. Están sentadas en la sala de estar con fotos y un reloj en la repisa de la chimenea."
+        },
+        {
+          "text": "Lees Jimmy's kaart voor mij voor, alsjeblieft, Mary.",
+          "speaker": "Grootmoeder",
+          "translation": "Lee la tarjeta de Jimmy para mí, por favor, Mary."
+        },
+        {
+          "text": "\"Ik ben net in Schotland aangekomen en ik verblijf in een Jeugdherberg.\"",
+          "speaker": "Mary",
+          "translation": "\"Acabo de llegar a Escocia y me estoy alojando en un Albergue Juvenil.\""
+        },
+        {
+          "text": "Hè?",
+          "speaker": "Grootmoeder",
+          "translation": "¿Eh?"
+        },
+        {
+          "text": "Hij zegt dat hij net in Schotland is aangekomen. Hij zegt dat hij in een Jeugdherberg verblijft. Je weet dat hij lid is van de Y.H.A.",
+          "speaker": "Mary",
+          "translation": "Dice que acaba de llegar a Escocia. Dice que se está alojando en un Albergue Juvenil. Sabes que es miembro de la Y.H.A."
+        },
+        {
+          "text": "De wat?",
+          "speaker": "Grootmoeder",
+          "translation": "¿De qué?"
+        },
+        {
+          "text": "De Y.H.A., moeder. De Jeugdherbergen Vereniging.",
+          "speaker": "Mary",
+          "translation": "La Y.H.A., madre. La Asociación de Albergues Juveniles."
+        },
+        {
+          "text": "Wat zegt hij nog meer?",
+          "speaker": "Grootmoeder",
+          "translation": "¿Qué más dice?"
+        },
+        {
+          "text": "\"Ik zal binnenkort een brief schrijven. Ik hoop dat jullie allemaal gezond zijn.\"",
+          "speaker": "Mary",
+          "translation": "\"Escribiré una carta pronto. Espero que todos estéis bien.\""
+        },
+        {
+          "text": "Wat?",
+          "speaker": "Grootmoeder",
+          "translation": "¿Qué?"
+        },
+        {
+          "text": "Spreek luider, Mary.",
+          "speaker": "Grootmoeder",
+          "translation": "Habla más alto, Mary."
+        },
+        {
+          "text": "Ik ben bang dat ik je niet kan horen.",
+          "speaker": "Grootmoeder",
+          "translation": "Me temo que no puedo oírte."
+        },
+        {
+          "text": "Hij zegt dat hij binnenkort een brief zal schrijven. Hij hoopt dat we allemaal gezond zijn. \"Liefs, Jimmy.\"",
+          "speaker": "Mary",
+          "translation": "Dice que escribirá una carta pronto. Espera que todos estemos bien. \"Con cariño, Jimmy.\""
+        },
+        {
+          "text": "Is dat alles? Hij zegt niet veel, of wel?",
+          "speaker": "Grootmoeder",
+          "translation": "¿Es eso todo? No dice mucho, ¿verdad?"
+        },
+        {
+          "text": "Hij kan niet veel schrijven op een ansichtkaart, moeder.",
+          "speaker": "Mary",
+          "translation": "No puede escribir mucho en una postal, madre."
+        }
+      ],
+      "images": []
+    }
+  ]
 }

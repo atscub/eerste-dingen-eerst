@@ -1,10 +1,91 @@
 {
   "id": 70,
   "title": "Les 70",
-  "subtitle": "¿Cuándo estuvieron allí?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Copia esto. Pon in, on o in:",
-    "example": []
-  }
+  "subtitle": "Wanneer waren zij daar?",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "title": "ON - dagen",
+      "columns": ["dag", "winkel"],
+      "rows": [
+        ["maandag", "kantoorboekhandel"],
+        ["dinsdag", "groenteboer"],
+        ["woensdag", "kapper"],
+        ["donderdag", "slager"],
+        ["vrijdag", "kruidenier"],
+        ["zaterdag", "zuivelwinkel"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "title": "ON - datums",
+      "columns": ["datum", "winkel"],
+      "rows": [
+        ["21 januari", "thuis"],
+        ["22 februari", "school"],
+        ["23 maart", "bakker"],
+        ["24 april", "bakker"],
+        ["25 mei", "groenteboer"],
+        ["26 juni", "sigarenwinkel"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "title": "IN - maanden en landen",
+      "columns": ["maand", "land"],
+      "rows": [
+        ["juli", "Australië"],
+        ["augustus", "Oostenrijk"],
+        ["september", "Canada"],
+        ["oktober", "China"],
+        ["november", "Denemarken"],
+        ["december", "Finland"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "title": "IN - jaren",
+      "columns": ["jaar", "land"],
+      "rows": [
+        ["1931", "India"],
+        ["1947", "Japan"],
+        ["1952", "Nigeria"],
+        ["1956", "Polen"],
+        ["1960", "Turkije"],
+        ["1967", "Joegoslavië"]
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Kopieer dit. Vul in: at, on of in.",
+      "wordsToUse": ["at", "on", "in"],
+      "items": [
+        {
+          "text": "Wij waren ... maandag bij de kantoorboekhandel.",
+          "answer": "Wij waren op maandag bij de kantoorboekhandel."
+        },
+        {
+          "text": "Wij waren daar ... vier uur.",
+          "answer": "Wij waren daar om vier uur."
+        },
+        {
+          "text": "Zij waren ... september in Australië.",
+          "answer": "Zij waren in september in Australië."
+        },
+        {
+          "text": "Zij waren daar ... de lente.",
+          "answer": "Zij waren daar in de lente."
+        },
+        {
+          "text": "... 25 november waren zij in Canada.",
+          "answer": "Op 25 november waren zij in Canada."
+        },
+        {
+          "text": "Zij waren daar ... 1967.",
+          "answer": "Zij waren daar in 1967."
+        }
+      ]
+    }
+  ]
 }

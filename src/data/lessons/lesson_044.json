@@ -1,19 +1,67 @@
 {
   "id": 44,
   "title": "Les 44",
-  "subtitle": "¿Hay algún/algunos...?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa estos:",
-    "example": [
-      {
-        "dutch": "glas – glazen; boek – boeken; huisvrouw – huisvrouwen.",
-        "spanish": "vaso – vasos; libro – libros; ama de casa – amas de casa."
-      },
-      {
-        "dutch": "Ik kan wat kopjes zien, maar ik kan geen glazen zien.",
-        "spanish": "Puedo ver algunas tazas, pero no puedo ver vasos."
-      }
-    ]
-  }
+  "subtitle": "Zijn er...? Is er...?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Zijn er...? Is er...?",
+      "items": [
+        { "number": 70, "dutch": "zeventig", "spanish": "setenta", "illustration": "/illustrations-sorted/page44_illust001.png" },
+        { "number": 80, "dutch": "tachtig", "spanish": "ochenta", "illustration": "/illustrations-sorted/page44_illust002.png" },
+        { "number": 90, "dutch": "negentig", "spanish": "noventa", "illustration": "/illustrations-sorted/page44_illust003.png" },
+        { "number": 100, "dutch": "honderd", "spanish": "cien", "illustration": "/illustrations-sorted/page44_illust004.png" },
+        { "number": 200, "dutch": "tweehonderd", "spanish": "doscientos", "illustration": "/illustrations-sorted/page44_illust005.png" },
+        { "number": 300, "dutch": "driehonderd", "spanish": "trescientos", "illustration": "/illustrations-sorted/page44_illust006.png" },
+        { "number": 400, "dutch": "vierhonderd", "spanish": "cuatrocientos", "illustration": "/illustrations-sorted/page44_illust007.png" },
+        { "number": 500, "dutch": "vijfhonderd", "spanish": "quinientos", "illustration": "/illustrations-sorted/page44_illust008.png" },
+        { "number": 600, "dutch": "zeshonderd", "spanish": "seiscientos", "illustration": "/illustrations-sorted/page44_illust009.png" },
+        { "number": 700, "dutch": "zevenhonderd", "spanish": "setecientos", "illustration": "/illustrations-sorted/page44_illust010.png" },
+        { "number": 800, "dutch": "achthonderd", "spanish": "ochocientos", "illustration": "/illustrations-sorted/page44_illust011.png" },
+        { "number": 900, "dutch": "negenhonderd", "spanish": "novecientos", "illustration": "/illustrations-sorted/page44_illust012.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "rewrite",
+      "instruction": "Observa estos: glas - glazen; boek - boeken; huisvrouw - huisvrouwen.",
+      "example": [
+        {
+          "input": "Ik kan wat kopjes zien, maar ik kan geen ... zien. (glas)",
+          "output": "Ik kan wat kopjes zien, maar ik kan geen glazen zien.",
+          "spanish": "Puedo ver algunas tazas, pero no puedo ver ningún vaso."
+        }
+      ],
+      "items": [
+        {
+          "text": "Ik kan wat lepels zien, maar ik kan geen ... zien. (mes)",
+          "answer": "Ik kan wat lepels zien, maar ik kan geen messen zien."
+        },
+        {
+          "text": "Ik kan wat hamers zien, maar ik kan geen ... zien. (doos)",
+          "answer": "Ik kan wat hamers zien, maar ik kan geen dozen zien."
+        },
+        {
+          "text": "Ik kan wat koffie zien, maar ik kan geen ... brood zien. (brood)",
+          "answer": "Ik kan wat koffie zien, maar ik kan geen broden zien."
+        },
+        {
+          "text": "Ik kan wat kasten zien, maar ik kan geen ... zien. (plank)",
+          "answer": "Ik kan wat kasten zien, maar ik kan geen planken zien."
+        },
+        {
+          "text": "Ik kan meneer Jones en meneer Brown zien, maar ik kan hun ... niet zien. (vrouw)",
+          "answer": "Ik kan meneer Jones en meneer Brown zien, maar ik kan hun vrouwen niet zien."
+        },
+        {
+          "text": "Ik kan wat kopjes zien, maar ik kan geen ... zien. (bord)",
+          "answer": "Ik kan wat kopjes zien, maar ik kan geen borden zien."
+        },
+        {
+          "text": "Ik kan wat auto's zien, maar ik kan geen ... zien. (bus)",
+          "answer": "Ik kan wat auto's zien, maar ik kan geen bussen zien."
+        }
+      ]
+    }
+  ]
 }

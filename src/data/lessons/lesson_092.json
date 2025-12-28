@@ -1,14 +1,82 @@
 {
   "id": 92,
   "title": "Les 92",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto: Escribe estos nuevamente. Usa formas cortas:",
-    "example": [
-      {
-        "dutch": "Lloverá mañana. Va a llover mañana.",
-        "spanish": "Lloverá mañana. Va a llover mañana."
-      }
-    ]
-  }
+  "subtitle": "Wanneer zal...?",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "title": "Tijdsuitdrukkingen:",
+      "columns": ["VANDAAG", "MORGEN", "OVERMORGEN"],
+      "rows": [
+        ["vanmorgen", "morgenochtend", "overmorgen in de ochtend"],
+        ["vanmiddag", "morgen in de middag", "overmorgen in de middag"],
+        ["vanavond", "morgenavond", "overmorgen in de avond"],
+        ["vannacht", "morgennacht", "de nacht na morgen"]
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Wanneer zal...?",
+      "items": [
+        { "number": 1, "dutch": "regenen", "spanish": "llover", "illustration": "/illustrations-sorted/page92_illust001.png" },
+        { "number": 2, "dutch": "sneeuwen", "spanish": "nevar", "illustration": "/illustrations-sorted/page92_illust002.png" },
+        { "number": 3, "dutch": "vertrekken", "spanish": "salir", "illustration": "/illustrations-sorted/page92_illust003.png" },
+        { "number": 4, "dutch": "opstaan", "spanish": "levantarse", "illustration": "/illustrations-sorted/page92_illust004.png" },
+        { "number": 5, "dutch": "aankomen", "spanish": "llegar", "illustration": "/illustrations-sorted/page92_illust005.png" },
+        { "number": 6, "dutch": "klaar zijn met werken", "spanish": "terminar el trabajo", "illustration": "/illustrations-sorted/page92_illust006.png" },
+        { "number": 7, "dutch": "vakantie hebben", "spanish": "tener vacaciones", "illustration": "/illustrations-sorted/page92_illust007.png" },
+        { "number": 8, "dutch": "naar huis rijden", "spanish": "conducir a casa", "illustration": "/illustrations-sorted/page92_illust008.png" },
+        { "number": 9, "dutch": "naar de kapper gaan", "spanish": "cortarse el pelo", "illustration": "/illustrations-sorted/page92_illust009.png" },
+        { "number": 10, "dutch": "mij bellen", "spanish": "llamarme por teléfono", "illustration": "/illustrations-sorted/page92_illust010.png" },
+        { "number": 11, "dutch": "zich scheren", "spanish": "afeitarse", "illustration": "/illustrations-sorted/page92_illust011.png" },
+        { "number": 12, "dutch": "zijn koffers pakken", "spanish": "hacer sus maletas", "illustration": "/illustrations-sorted/page92_illust012.png" },
+        { "number": 13, "dutch": "de vloer vegen", "spanish": "barrer el piso", "illustration": "/illustrations-sorted/page92_illust013.png" },
+        { "number": 14, "dutch": "deze kamer verven", "spanish": "pintar esta habitación", "illustration": "/illustrations-sorted/page92_illust014.png" },
+        { "number": 15, "dutch": "mijn auto repareren", "spanish": "reparar mi coche", "illustration": "/illustrations-sorted/page92_illust015.png" },
+        { "number": 16, "dutch": "een afspraak maken", "spanish": "hacer una cita", "illustration": "/illustrations-sorted/page92_illust016.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Het zal morgen regenen.",
+          "output": "Het zal morgen regenen.",
+          "spanish": "Lloverá mañana."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij zal morgenochtend aankomen.",
+          "answer": "Hij zal morgenochtend aankomen."
+        },
+        {
+          "text": "Zij zal vanavond komen.",
+          "answer": "Zij zal vanavond komen."
+        },
+        {
+          "text": "Ik zal je de nacht na morgen zien.",
+          "answer": "Ik zal je de nacht na morgen zien."
+        },
+        {
+          "text": "Wij zullen hem volgende week ontmoeten.",
+          "answer": "Wij zullen hem volgende week ontmoeten."
+        },
+        {
+          "text": "Het zal vannacht sneeuwen.",
+          "answer": "Het zal vannacht sneeuwen."
+        },
+        {
+          "text": "Hij zal mij niet geloven.",
+          "answer": "Hij zal mij niet geloven."
+        },
+        {
+          "text": "Wij zullen hier niet blijven.",
+          "answer": "Wij zullen hier niet blijven."
+        }
+      ]
+    }
+  ]
 }

@@ -1,15 +1,80 @@
 {
   "id": 84,
   "title": "Les 84",
-  "subtitle": "¿Has tenido...?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto: Haz estos de la misma manera:",
-    "example": [
-      {
-        "dutch": "Ten un poco de café. Ya he tenido un poco. He tenido un plátano. Ya he tenido uno.",
-        "spanish": "Ten un poco de café. Ya he tenido un poco. He tenido un plátano. Ya he tenido uno."
-      }
-    ]
-  }
+  "subtitle": "Heb je al...?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Heb je al...?",
+      "items": [
+        { "number": 1000, "dutch": "fruit", "spanish": "fruta", "illustration": "/illustrations-sorted/page84_illust001.png" },
+        { "number": 2000, "dutch": "bananen", "spanish": "plátanos", "illustration": "/illustrations-sorted/page84_illust002.png" },
+        { "number": 3000, "dutch": "sinaasappels", "spanish": "naranjas", "illustration": "/illustrations-sorted/page84_illust003.png" },
+        { "number": 4000, "dutch": "perziken", "spanish": "melocotones", "illustration": "/illustrations-sorted/page84_illust004.png" },
+        { "number": 5000, "dutch": "appels", "spanish": "manzanas", "illustration": "/illustrations-sorted/page84_illust005.png" },
+        { "number": 6000, "dutch": "groenten", "spanish": "verduras", "illustration": "/illustrations-sorted/page84_illust006.png" },
+        { "number": 7000, "dutch": "sla", "spanish": "lechuga", "illustration": "/illustrations-sorted/page84_illust007.png" },
+        { "number": 8000, "dutch": "kool", "spanish": "col", "illustration": "/illustrations-sorted/page84_illust008.png" },
+        { "number": 9000, "dutch": "erwten", "spanish": "guisantes", "illustration": "/illustrations-sorted/page84_illust009.png" },
+        { "number": 10000, "dutch": "bonen", "spanish": "judías", "illustration": "/illustrations-sorted/page84_illust010.png" },
+        { "number": 11000, "dutch": "vlees", "spanish": "carne", "illustration": "/illustrations-sorted/page84_illust011.png" },
+        { "number": 12000, "dutch": "rundvlees", "spanish": "carne de res", "illustration": "/illustrations-sorted/page84_illust012.png" },
+        { "number": 13000, "dutch": "lam", "spanish": "cordero", "illustration": "/illustrations-sorted/page84_illust013.png" },
+        { "number": 14000, "dutch": "biefstuk", "spanish": "bistec", "illustration": "/illustrations-sorted/page84_illust014.png" },
+        { "number": 15000, "dutch": "kip", "spanish": "pollo", "illustration": "/illustrations-sorted/page84_illust015.png" },
+        { "number": 16000, "dutch": "melk", "spanish": "leche", "illustration": "/illustrations-sorted/page84_illust016.png" },
+        { "number": 17000, "dutch": "thee", "spanish": "té", "illustration": "/illustrations-sorted/page84_illust017.png" },
+        { "number": 18000, "dutch": "koffie", "spanish": "café", "illustration": "/illustrations-sorted/page84_illust018.png" },
+        { "number": 19000, "dutch": "wijn", "spanish": "vino", "illustration": "/illustrations-sorted/page84_illust019.png" },
+        { "number": 20000, "dutch": "bier", "spanish": "cerveza", "illustration": "/illustrations-sorted/page84_illust020.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Neem wat koffie.",
+          "output": "Ik heb al wat gehad.",
+          "spanish": "Toma un poco de café. Ya he tomado un poco."
+        },
+        {
+          "input": "Neem een banaan.",
+          "output": "Ik heb al een gehad.",
+          "spanish": "Toma un plátano. Ya he tomado uno."
+        }
+      ],
+      "items": [
+        {
+          "text": "Neem wat bier.",
+          "answer": "Ik heb al wat gehad."
+        },
+        {
+          "text": "Neem een appel.",
+          "answer": "Ik heb al een gehad."
+        },
+        {
+          "text": "Neem een perzik.",
+          "answer": "Ik heb al een gehad."
+        },
+        {
+          "text": "Neem wat melk.",
+          "answer": "Ik heb al wat gehad."
+        },
+        {
+          "text": "Neem een glas water.",
+          "answer": "Ik heb al een gehad."
+        },
+        {
+          "text": "Neem een koekje.",
+          "answer": "Ik heb al een gehad."
+        },
+        {
+          "text": "Neem wat kaas.",
+          "answer": "Ik heb al wat gehad."
+        }
+      ]
+    }
+  ]
 }

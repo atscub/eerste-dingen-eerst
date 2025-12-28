@@ -1,17 +1,74 @@
 {
   "id": 142,
   "title": "Les 142",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Iemand nodigde Sally uit voor een feest / Sally werd uitgenodigd voor een feest**\n\n**Afbeeldingen 1-8 tonen lijdende vorm:**\n1-2. Ze is beschaamd. / Ze zijn bezorgd.\n3-4. Repareert iemand ooit deze auto? / Iemand repareert hem regelmatig. Hij wordt regelmatig gerepareerd.\n5-6. Corrigeert iemand ooit deze schriften? / Iemand corrigeert ze regelmatig. Ze worden regelmatig gecorrigeerd.\n7-8. Ontmoette iemand hem vanmorgen op het station? / Iemand ontmoette hem vanmorgen op het station. Hij werd vanmorgen op het station ontmoet.",
-    "examples": [
-      "Grammatica: Iemand nodigde Sally uit voor een feest / Sally werd uitgenodigd voor een feest",
-      "Afbeeldingen 1-8 tonen lijdende vorm:",
-      "Lees het verhaal in Les 141 opnieuw. Schrijf dan antwoorden op deze vragen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "1. Hoe oud is Sally? 2. Waarom besloot Sally's moeder haar met de trein te brengen? 3. Waar zat Sally? 4. Wie kwam de coupé binnen?",
-    "example": []
-  }
+  "subtitle": "Iemand nodigde Sally uit / Sally werd uitgenodigd",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "groups": [
+        {
+          "prompt": "Lijdende vorm - Bijvoeglijke naamwoorden",
+          "items": [
+            { "number": 1, "dutch": "Ze is beschaamd.", "spanish": "Ella está avergonzada.", "illustration": "/illustrations-sorted/page142_illust002.png" },
+            { "number": 2, "dutch": "Ze zijn bezorgd.", "spanish": "Están preocupados.", "illustration": "/illustrations-sorted/page142_illust001.png" }
+          ]
+        },
+        {
+          "prompt": "Lijdende vorm - Tegenwoordige tijd",
+          "items": [
+            { "number": 3, "dutch": "Repareert iemand ooit deze auto?", "spanish": "¿Alguien alguna vez repara este coche?", "illustration": "/illustrations-sorted/page142_illust003.png" },
+            { "number": 4, "dutch": "Iemand repareert hem regelmatig. Hij wordt regelmatig gerepareerd.", "spanish": "Alguien lo repara regularmente. Es reparado regularmente.", "illustration": "/illustrations-sorted/page142_illust004.png" },
+            { "number": 5, "dutch": "Corrigeert iemand ooit deze schriften?", "spanish": "¿Alguien alguna vez corrige estos cuadernos?", "illustration": "/illustrations-sorted/page142_illust005.png" },
+            { "number": 6, "dutch": "Iemand corrigeert ze regelmatig. Ze worden regelmatig gecorrigeerd.", "spanish": "Alguien los corrige regularmente. Son corregidos regularmente.", "illustration": "/illustrations-sorted/page142_illust006.png" }
+          ]
+        },
+        {
+          "prompt": "Lijdende vorm - Verleden tijd",
+          "items": [
+            { "number": 7, "dutch": "Ontmoette iemand hem vanmorgen op het station?", "spanish": "¿Alguien lo recibió en la estación esta mañana?", "illustration": "/illustrations-sorted/page142_illust007.png" },
+            { "number": 8, "dutch": "Iemand ontmoette hem vanmorgen op het station. Hij werd vanmorgen op het station ontmoet.", "spanish": "Alguien lo recibió en la estación esta mañana. Fue recibido en la estación esta mañana.", "illustration": "/illustrations-sorted/page142_illust008.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "comprehension",
+      "instruction": "Lees het verhaal in Les 141 opnieuw. Schrijf dan antwoorden op deze vragen:",
+      "items": [
+        {
+          "text": "Hoe oud is Sally?",
+          "answer": "Sally is acht jaar oud."
+        },
+        {
+          "text": "Waarom besloot Sally's moeder haar met de trein te brengen?",
+          "answer": "Omdat het een lange reis was."
+        },
+        {
+          "text": "Waar zat Sally?",
+          "answer": "Sally zat bij het raam."
+        },
+        {
+          "text": "Wie kwam de coupé binnen?",
+          "answer": "Een dame kwam de coupé binnen."
+        },
+        {
+          "text": "Hoe was de dame gekleed?",
+          "answer": "De dame was in het blauw gekleed."
+        },
+        {
+          "text": "Wat deed de dame?",
+          "answer": "De dame maakte haar gezicht op."
+        },
+        {
+          "text": "Waarom maakte de dame haar gezicht op?",
+          "answer": "Omdat ze mooi wilde zijn."
+        },
+        {
+          "text": "Vond Sally de dame mooi?",
+          "answer": "Nee, Sally vond de dame niet mooi."
+        }
+      ]
+    }
+  ]
 }

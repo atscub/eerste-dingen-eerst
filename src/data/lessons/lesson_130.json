@@ -1,29 +1,56 @@
 {
   "id": 130,
   "title": "Les 130",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij kan niet... zijn geweest / Hij moet... zijn geweest**\n\n**Afbeeldingen 1-8 tonen conclusies over het verleden:**\n1. Hij kan niet ziek zijn geweest. Hij moet moe zijn geweest.\n2. Het kan niet mijn nieuwe hoed zijn geweest. Het moet mijn oude zijn geweest.\n3. Ze kan niet Deens zijn geweest. Ze moet Zweeds zijn geweest.\n4. Hij kan geen tandarts zijn geweest. Hij moet een dokter zijn geweest.\n5. Ze kan geen veertig zijn geweest. Ze moet vijftig zijn geweest.\n6. Het kan niet de 20e zijn geweest. Het moet de 21e zijn geweest.\n7. Hij kan niet de jongste zijn geweest. Hij moet de oudste zijn geweest.\n8. Hij kan niet aan het lezen zijn geweest. Hij moet aan het slapen zijn geweest.",
-    "examples": [
-      "moest",
-      "moet",
-      "Grammatica: Hij kan niet... zijn geweest / Hij moet... zijn geweest",
-      "Afbeeldingen 1-8 tonen conclusies over het verleden:",
-      "Bekijk deze zinnen:",
-      "Kopieer deze zinnen. Vul in: had to of must have been."
-    ]
-  },
-  "exercise": {
-    "instruction": "Hij is erg moe omdat hij *moest* vroeg opstaan vanmorgen. Hij is niet vroeg opgestaan vanmorgen. Hij *moet* moe zijn geweest.",
-    "example": [
-      {
-        "dutch": "moest",
-        "spanish": "debía"
-      },
-      {
-        "dutch": "moet",
-        "spanish": "debe"
-      }
-    ]
-  }
+  "subtitle": "Hij kan niet... geweest zijn / Hij moet... geweest zijn",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hij kan niet... geweest zijn / Hij moet... geweest zijn (Conclusies over het verleden)",
+      "items": [
+        { "number": 1, "dutch": "Hij kan niet ziek geweest zijn. Hij moet moe geweest zijn.", "spanish": "No puede haber estado enfermo. Debe haber estado cansado.", "illustration": "/illustrations-sorted/page130_illust001.png" },
+        { "number": 2, "dutch": "Het kan niet mijn nieuwe hoed geweest zijn. Het moet mijn oude geweest zijn.", "spanish": "No puede haber sido mi sombrero nuevo. Debe haber sido el viejo.", "illustration": "/illustrations-sorted/page130_illust002.png" },
+        { "number": 3, "dutch": "Ze kan niet Deens geweest zijn. Ze moet Zweeds geweest zijn.", "spanish": "No puede haber sido danesa. Debe haber sido sueca.", "illustration": "/illustrations-sorted/page130_illust003.png" },
+        { "number": 4, "dutch": "Hij kan geen tandarts geweest zijn. Hij moet een dokter geweest zijn.", "spanish": "No puede haber sido dentista. Debe haber sido médico.", "illustration": "/illustrations-sorted/page130_illust004.png" },
+        { "number": 5, "dutch": "Ze kan geen veertig geweest zijn. Ze moet vijftig geweest zijn.", "spanish": "No puede haber tenido cuarenta años. Debe haber tenido cincuenta.", "illustration": "/illustrations-sorted/page130_illust005.png" },
+        { "number": 6, "dutch": "Het kan niet de 20e geweest zijn. Het moet de 21e geweest zijn.", "spanish": "No puede haber sido el 20. Debe haber sido el 21.", "illustration": "/illustrations-sorted/page130_illust006.png" },
+        { "number": 7, "dutch": "Hij kan niet de jongste geweest zijn. Hij moet de oudste geweest zijn.", "spanish": "No puede haber sido el menor. Debe haber sido el mayor.", "illustration": "/illustrations-sorted/page130_illust007.png" },
+        { "number": 8, "dutch": "Hij kan niet aan het lezen geweest zijn. Hij moet aan het slapen geweest zijn.", "spanish": "No puede haber estado leyendo. Debe haber estado durmiendo.", "illustration": "/illustrations-sorted/page130_illust008.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Kopieer deze zinnen. Vul in: moest of moet... geweest zijn.",
+      "example": [
+        {
+          "text": "Hij is erg moe omdat hij vroeg *moest* opstaan vanmorgen.",
+          "answer": "moest",
+          "spanish": "Está muy cansado porque debía levantarse temprano esta mañana."
+        },
+        {
+          "text": "Hij is niet vroeg opgestaan vanmorgen. Hij *moet moe geweest zijn*.",
+          "answer": "moet moe geweest zijn",
+          "spanish": "No se levantó temprano esta mañana. Debe haber estado cansado."
+        }
+      ],
+      "items": [
+        {
+          "text": "Ze was laat omdat ze lang op de bus *____* wachten.",
+          "answer": "moest"
+        },
+        {
+          "text": "Ze is nu niet laat. Ze *____* vroeg vertrokken.",
+          "answer": "moet... geweest zijn"
+        },
+        {
+          "text": "Hij *____* een taxi nemen omdat hij geen bus kon krijgen.",
+          "answer": "moest"
+        },
+        {
+          "text": "Hij kwam op tijd aan. Hij *____* een taxi genomen hebben.",
+          "answer": "moet"
+        }
+      ]
+    }
+  ]
 }

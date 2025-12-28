@@ -1,53 +1,74 @@
 {
   "id": 124,
   "title": "Les 124",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Who/Whom, Which en That**\n\n**Afbeeldingen 1-9 herhalen de structuren van Les 122 met andere voorbeelden:**\n\n1-3. **Personen (onderwerp):**\n- Wie bediende je? De man die achter de balie staat.\n- Wie bediende je? De vrouw die achter de balie staat.\n- Wie maakt al dat lawaai? De mannen die de weg aan het repareren zijn.\n\n4-6. **Personen (lijdend voorwerp):**\n- Ik bediende hem gisteren. Hij is de man die ik gisteren bediende.\n- Ik bediende haar gisteren. Ze is de vrouw die ik gisteren bediende.\n- Ik zag ze gisteren. Ze zijn de mannen die ik gisteren zag.\n\n7-9. **Dingen:**\n- Wat is dit? Dit is het boek dat ik gisteren kocht.\n- Wat zijn dit? Dit zijn de boeken die ik gisteren kocht.\n- Wat is dit? Dit is het kitten dat ik in de tuin vond.",
-    "examples": [
-      "haar",
-      "het",
-      "erop",
-      "hem",
-      "met hem",
-      "ze",
-      "over ze",
-      "Grammatica: Who/Whom, Which en That",
-      "Afbeeldingen 1-9 herhalen de structuren van Les 122 met andere voorbeelden:",
-      "Personen (onderwerp):",
-      "Personen (lijdend voorwerp):",
-      "Dingen:",
-      "Bekijk deze zinnen:",
-      "Voeg deze zinnen op dezelfde manier samen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Zij is het meisje. Ik ontmoette *haar* gisteren. → Zij is het meisje die ik gisteren ontmoette.",
-    "example": [
-      {
-        "dutch": "haar",
-        "spanish": "su"
-      },
-      {
-        "dutch": "het",
-        "spanish": "lo"
-      },
-      {
-        "dutch": "erop",
-        "spanish": "encima"
-      },
-      {
-        "dutch": "",
-        "spanish": "Zij is het meisje die ik gisteren ontmoette."
-      },
-      {
-        "dutch": "",
-        "spanish": "Dit is het boek dat ik gisteren kocht."
-      },
-      {
-        "dutch": "",
-        "spanish": "Dit is het schip waarop ik reisde."
-      }
-    ]
-  }
+  "subtitle": "Die/Dat, Wie/Welke",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Die/Dat, Wie/Welke (Zonder betrekkelijk voornaamwoord)",
+      "items": [
+        { "number": 1, "dutch": "Wie bediende je? De man achter de balie.", "spanish": "¿Quién te atendió? El hombre detrás del mostrador.", "illustration": "/illustrations-sorted/page124_illust001.png" },
+        { "number": 2, "dutch": "Wie bediende je? De vrouw achter de balie.", "spanish": "¿Quién te atendió? La mujer detrás del mostrador.", "illustration": "/illustrations-sorted/page124_illust002.png" },
+        { "number": 3, "dutch": "Wie maakt al dat lawaai? De mannen die de weg repareren.", "spanish": "¿Quién hace todo ese ruido? Los hombres reparando la calle.", "illustration": "/illustrations-sorted/page124_illust003.png" },
+        { "number": 4, "dutch": "Ik bediende hem gisteren. Hij is de man die ik gisteren bediende.", "spanish": "Lo atendí ayer. Él es el hombre que atendí ayer.", "illustration": "/illustrations-sorted/page124_illust004.png" },
+        { "number": 5, "dutch": "Ik bediende haar gisteren. Ze is de vrouw die ik gisteren bediende.", "spanish": "La atendí ayer. Ella es la mujer que atendí ayer.", "illustration": "/illustrations-sorted/page124_illust005.png" },
+        { "number": 6, "dutch": "Ik zag ze gisteren. Ze zijn de mannen die ik gisteren zag.", "spanish": "Los vi ayer. Son los hombres que vi ayer.", "illustration": "/illustrations-sorted/page124_illust006.png" },
+        { "number": 7, "dutch": "Wat is dit? Dit is het boek dat ik gisteren kocht.", "spanish": "¿Qué es esto? Este es el libro que compré ayer.", "illustration": "/illustrations-sorted/page124_illust007.png" },
+        { "number": 8, "dutch": "Wat zijn dit? Dit zijn de boeken die ik gisteren kocht.", "spanish": "¿Qué son estos? Estos son los libros que compré ayer.", "illustration": "/illustrations-sorted/page124_illust008.png" },
+        { "number": 9, "dutch": "Wat is dit? Dit is het poesje dat ik in de tuin vond.", "spanish": "¿Qué es esto? Este es el gatito que encontré en el jardín.", "illustration": "/illustrations-sorted/page124_illust009.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Voeg deze zinnen samen (zonder betrekkelijk voornaamwoord waar mogelijk):",
+      "example": [
+        {
+          "input": "Zij is het meisje. Ik ontmoette haar gisteren.",
+          "output": "Zij is het meisje die ik gisteren ontmoette.",
+          "spanish": "Ella es la chica que conocí ayer."
+        },
+        {
+          "input": "Dit is het boek. Ik kocht het gisteren.",
+          "output": "Dit is het boek dat ik gisteren kocht.",
+          "spanish": "Este es el libro que compré ayer."
+        },
+        {
+          "input": "Dit is het schip. Ik reisde erop.",
+          "output": "Dit is het schip waarop ik reisde.",
+          "spanish": "Este es el barco en el que viajé."
+        }
+      ],
+      "items": [
+        {
+          "text": "Zij is de vrouw. Ik reed haar naar Londen.",
+          "answer": "Zij is de vrouw die ik naar Londen reed."
+        },
+        {
+          "text": "Dat is de film. Ik zag hem.",
+          "answer": "Dat is de film die ik zag."
+        },
+        {
+          "text": "Dat is de man. Ik sprak met hem.",
+          "answer": "Dat is de man met wie ik sprak."
+        },
+        {
+          "text": "Zij zijn de dieven. De politie ving ze.",
+          "answer": "Zij zijn de dieven die de politie ving."
+        },
+        {
+          "text": "Dit zijn de brieven. Ik typte ze.",
+          "answer": "Dit zijn de brieven die ik typte."
+        },
+        {
+          "text": "Dit zijn de mensen. Je vroeg me over ze.",
+          "answer": "Dit zijn de mensen over wie je me vroeg."
+        },
+        {
+          "text": "Dit zijn de schoenen. De jongen deed ze uit.",
+          "answer": "Dit zijn de schoenen die de jongen uitdeed."
+        }
+      ]
+    }
+  ]
 }

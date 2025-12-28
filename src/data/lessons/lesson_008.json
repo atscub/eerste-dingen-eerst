@@ -1,98 +1,110 @@
 {
   "id": 8,
   "title": "Les 8",
-  "subtitle": "¿Cuál es su profesión?",
-  "type": "vocabulary",
-  "items": [
+  "subtitle": "Wat is uw beroep?",
+  "sections": [
     {
-      "number": 1,
-      "dutch": "de politieagent",
-      "english": "policeman",
-      "spanish": "el policía",
-      "illustration": "Illustratie van de politieagent"
+      "type": "vocabulary",
+      "prompt": "Wat is uw beroep?",
+      "items": [
+        {
+          "number": 11,
+          "dutch": "de politieagent",
+          "english": "policeman",
+          "spanish": "el policía",
+          "illustration": "/illustrations-sorted/page8_illust001.png"
+        },
+        {
+          "number": 12,
+          "dutch": "de politieagente",
+          "english": "policewoman",
+          "spanish": "la mujer policía",
+          "illustration": "/illustrations-sorted/page8_illust002.png"
+        },
+        {
+          "number": 13,
+          "dutch": "de taxichauffeur",
+          "english": "taxi driver",
+          "spanish": "el taxista",
+          "illustration": "/illustrations-sorted/page8_illust003.png"
+        },
+        {
+          "number": 14,
+          "dutch": "de stewardess",
+          "english": "air hostess",
+          "spanish": "la azafata",
+          "illustration": "/illustrations-sorted/page8_illust004.png"
+        },
+        {
+          "number": 15,
+          "dutch": "de verpleegster",
+          "english": "nurse",
+          "spanish": "la enfermera",
+          "illustration": "/illustrations-sorted/page8_illust005.png"
+        },
+        {
+          "number": 16,
+          "dutch": "de postbode",
+          "english": "postman",
+          "spanish": "el cartero",
+          "illustration": "/illustrations-sorted/page8_illust006.png"
+        },
+        {
+          "number": 17,
+          "dutch": "de monteur",
+          "english": "mechanic",
+          "spanish": "el mecánico",
+          "illustration": "/illustrations-sorted/page8_illust007.png"
+        },
+        {
+          "number": 18,
+          "dutch": "de kapper",
+          "english": "hairdresser",
+          "spanish": "el peluquero",
+          "illustration": "/illustrations-sorted/page8_illust008.png"
+        },
+        {
+          "number": 19,
+          "dutch": "de huisvrouw",
+          "english": "housewife",
+          "spanish": "el ama de casa",
+          "illustration": "/illustrations-sorted/page8_illust009.png"
+        },
+        {
+          "number": 20,
+          "dutch": "de melkboer",
+          "english": "milkman",
+          "spanish": "el lechero",
+          "illustration": "/illustrations-sorted/page8_illust010.png"
+        }
+      ]
     },
     {
-      "number": 2,
-      "dutch": "de politieagente",
-      "english": "policewoman",
-      "spanish": "la mujer policía",
-      "illustration": "Illustratie van de politieagente"
-    },
-    {
-      "number": 3,
-      "dutch": "de taxichauffeur",
-      "english": "taxi driver",
-      "spanish": "el taxista",
-      "illustration": "Illustratie van de taxichauffeur"
-    },
-    {
-      "number": 4,
-      "dutch": "de stewardess",
-      "english": "air hostess",
-      "spanish": "la azafata",
-      "illustration": "Illustratie van de stewardess"
-    },
-    {
-      "number": 5,
-      "dutch": "de postbode",
-      "english": "postman",
-      "spanish": "el cartero",
-      "illustration": "Illustratie van de postbode"
-    },
-    {
-      "number": 6,
-      "dutch": "de verpleegster",
-      "english": "nurse",
-      "spanish": "la enfermera",
-      "illustration": "Illustratie van de verpleegster"
-    },
-    {
-      "number": 7,
-      "dutch": "de monteur",
-      "english": "mechanic",
-      "spanish": "el mecánico",
-      "illustration": "Illustratie van de monteur"
-    },
-    {
-      "number": 8,
-      "dutch": "de kapper",
-      "english": "hairdresser",
-      "spanish": "el peluquero",
-      "illustration": "Illustratie van de kapper"
-    },
-    {
-      "number": 9,
-      "dutch": "de huisvrouw",
-      "english": "housewife",
-      "spanish": "el ama de casa",
-      "illustration": "Illustratie van de huisvrouw"
-    },
-    {
-      "number": 10,
-      "dutch": "de melkboer",
-      "english": "milkman",
-      "spanish": "el lechero",
-      "illustration": "Illustratie van de melkboer"
-    },
-    {
-      "number": 11,
-      "dutch": "de ingenieur",
-      "english": "engineer",
-      "spanish": "el ingeniero",
-      "illustration": "Illustratie van de ingenieur"
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["ben", "is"],
+      "example": [
+        {
+          "input": "Mijn naam ---- Stella. Ik ---- Spaans.",
+          "output": "Mijn naam is Stella. Ik ben Spaans.",
+          "spanish": "Mi nombre es Stella. Soy española."
+        }
+      ],
+      "items": [
+        {
+          "text": "Mijn naam ---- Robert. Ik ---- een student. Ik ---- Italiaans.",
+          "answer": "Mijn naam is Robert. Ik ben een student. Ik ben Italiaans."
+        },
+        {
+          "text": "Alice ---- niet Italiaans. Zij ---- Frans.",
+          "answer": "Alice is niet Italiaans. Zij is Frans."
+        },
+        {
+          "text": "Meneer Blake ---- mijn leraar. Hij ---- niet Frans.",
+          "answer": "Meneer Blake is mijn leraar. Hij is niet Frans."
+        }
+      ]
     }
-  ],
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Mijn naam ... Stella. | ... Spaans.",
-        "spanish": "Mi nombre ... Stella. | ... española."
-      },
-      {
-        "dutch": "Mijn naam is Stella. | Ik ben Spaans.",
-        "spanish": "Mi nombre es Stella. | Soy española."
-      }
-    ]
-  }
+  ]
 }

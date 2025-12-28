@@ -2,66 +2,67 @@
   "id": 27,
   "title": "Les 27",
   "subtitle": "De woonkamer van mevrouw De Vries",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "De woonkamer van mevrouw De Vries is groot.",
-        "translation": "La sala de estar de la señora De Vries es grande."
+  "sections": [
+    {
+      "type": "reading",
+      "headerImage": {
+        "src": "/illustrations-sorted/page27_illust001.png",
+        "alt": "De woonkamer van mevrouw De Vries met televisie, tafel, fauteuils en radio"
       },
-      {
-        "text": "Er staat een televisie in de kamer.",
-        "translation": "Hay un televisor en la habitación."
-      },
-      {
-        "text": "De televisie staat bij het raam.",
-        "translation": "El televisor está cerca de la ventana."
-      },
-      {
-        "text": "Er liggen enkele tijdschriften op de televisie.",
-        "translation": "Hay algunas revistas sobre el televisor."
-      },
-      {
-        "text": "Er staat een tafel in de kamer.",
-        "translation": "Hay una mesa en la habitación."
-      },
-      {
-        "text": "Er liggen enkele kranten op de tafel.",
-        "translation": "Hay algunos periódicos sobre la mesa."
-      },
-      {
-        "text": "Er staan enkele fauteuils in de kamer.",
-        "translation": "Hay algunos sillones en la habitación."
-      },
-      {
-        "text": "De fauteuils staan bij de tafel.",
-        "translation": "Los sillones están cerca de la mesa."
-      },
-      {
-        "text": "Er staat een radio in de kamer.",
-        "translation": "Hay una radio en la habitación."
-      },
-      {
-        "text": "De radio staat bij de deur.",
-        "translation": "La radio está cerca de la puerta."
-      },
-      {
-        "text": "Er liggen enkele boeken op de radio.",
-        "translation": "Hay algunos libros sobre la radio."
-      },
-      {
-        "text": "Er hangen enkele schilderijen in de kamer.",
-        "translation": "Hay algunos cuadros en la habitación."
-      },
-      {
-        "text": "De schilderijen hangen aan de muur.",
-        "translation": "Los cuadros están en la pared."
-      }
-    ],
-    "headerImage": {
-      "src": "/illustrations-sorted/page27_illust001.png",
-      "alt": "De woonkamer van mevrouw De Vries met televisie, tafel, fauteuils en radio"
-    },
-    "images": []
-  }
+      "paragraphs": [
+        {
+          "text": "De woonkamer van mevrouw De Vries is groot.",
+          "translation": "La sala de estar de la señora De Vries es grande."
+        },
+        {
+          "text": "Er staat een televisie in de kamer.",
+          "translation": "Hay un televisor en la habitación."
+        },
+        {
+          "text": "De televisie staat bij het raam.",
+          "translation": "El televisor está cerca de la ventana."
+        },
+        {
+          "text": "Er liggen enkele tijdschriften op de televisie.",
+          "translation": "Hay algunas revistas sobre el televisor."
+        },
+        {
+          "text": "Er staat een tafel in de kamer.",
+          "translation": "Hay una mesa en la habitación."
+        },
+        {
+          "text": "Er liggen enkele kranten op de tafel.",
+          "translation": "Hay algunos periódicos sobre la mesa."
+        },
+        {
+          "text": "Er staan enkele fauteuils in de kamer.",
+          "translation": "Hay algunos sillones en la habitación."
+        },
+        {
+          "text": "De fauteuils staan bij de tafel.",
+          "translation": "Los sillones están cerca de la mesa."
+        },
+        {
+          "text": "Er staat een radio in de kamer.",
+          "translation": "Hay una radio en la habitación."
+        },
+        {
+          "text": "De radio staat bij de deur.",
+          "translation": "La radio está cerca de la puerta."
+        },
+        {
+          "text": "Er liggen enkele boeken op de radio.",
+          "translation": "Hay algunos libros sobre la radio."
+        },
+        {
+          "text": "Er hangen enkele schilderijen in de kamer.",
+          "translation": "Hay algunos cuadros en la habitación."
+        },
+        {
+          "text": "De schilderijen hangen aan de muur.",
+          "translation": "Los cuadros están en la pared."
+        }
+      ]
+    }
+  ]
 }

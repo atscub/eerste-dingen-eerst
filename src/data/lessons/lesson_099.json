@@ -1,84 +1,86 @@
 {
   "id": 99,
   "title": "Les 99",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Au!",
-        "speaker": "Ted",
-        "translation": "¡Ay!"
-      },
-      {
-        "text": "Wat is er, Ted?",
-        "speaker": "Pat",
-        "translation": "¿Qué pasa, Ted?"
-      },
-      {
-        "text": "Ik gleed uit en viel van de trap.",
-        "speaker": "Ted",
-        "translation": "Me resbalé y me caí por las escaleras."
-      },
-      {
-        "text": "Heb je jezelf pijn gedaan?",
-        "speaker": "Pat",
-        "translation": "¿Te lastimaste?"
-      },
-      {
-        "text": "Ja, dat heb ik. Ik denk dat ik mijn rug heb bezeerd.",
-        "speaker": "Ted",
-        "translation": "Sí, lo hice. Creo que me lastimé la espalda."
-      },
-      {
-        "text": "Probeer op te staan. Kun je opstaan? Hier. Laat me je helpen.",
-        "speaker": "Pat",
-        "translation": "Intenta levantarte. ¿Puedes levantarte? Aquí. Déjame ayudarte."
-      },
-      {
-        "text": "Het spijt me, Pat. Ik ben bang dat ik niet kan opstaan.",
-        "speaker": "Ted",
-        "translation": "Lo siento, Pat. Me temo que no puedo levantarme."
-      },
-      {
-        "text": "Ik denk dat de dokter je beter kan zien. Ik zal dokter Carter bellen.",
-        "speaker": "Pat",
-        "translation": "Creo que será mejor que te vea el doctor. Llamaré al Dr. Carter."
-      },
-      {
-        "text": "De dokter zegt dat hij meteen komt. Ik weet zeker dat je een röntgenfoto nodig hebt, Ted.",
-        "speaker": "Pat",
-        "translation": "El doctor dice que vendrá de inmediato. Estoy seguro de que necesitas una radiografía, Ted."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page99_illust001.png",
-        "alt": "Ted cayendo por las escaleras"
-      },
-      {
-        "src": "/illustrations-sorted/page99_illust002.png",
-        "alt": "Pat y Ted en el suelo, Pat preocupada"
-      },
-      {
-        "src": "/illustrations-sorted/page99_illust003.png",
-        "alt": "Ted sentado en el suelo, luciendo adolorido"
-      },
-      {
-        "src": "/illustrations-sorted/page99_illust004.png",
-        "alt": "Pat intentando ayudar a Ted a levantarse"
-      },
-      {
-        "src": "/illustrations-sorted/page99_illust005.png",
-        "alt": "Ted incapaz de levantarse"
-      },
-      {
-        "src": "/illustrations-sorted/page99_illust006.png",
-        "alt": "Pat al teléfono llamando al doctor"
-      },
-      {
-        "src": "/illustrations-sorted/page99_illust007.png",
-        "alt": "Pat hablando con el doctor por teléfono"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Au!",
+          "speaker": "Ted",
+          "translation": "¡Ay!"
+        },
+        {
+          "text": "Wat is er, Ted?",
+          "speaker": "Pat",
+          "translation": "¿Qué pasa, Ted?"
+        },
+        {
+          "text": "Ik gleed uit en viel van de trap.",
+          "speaker": "Ted",
+          "translation": "Me resbalé y me caí por las escaleras."
+        },
+        {
+          "text": "Heb je jezelf pijn gedaan?",
+          "speaker": "Pat",
+          "translation": "¿Te lastimaste?"
+        },
+        {
+          "text": "Ja, dat heb ik. Ik denk dat ik mijn rug heb bezeerd.",
+          "speaker": "Ted",
+          "translation": "Sí, lo hice. Creo que me lastimé la espalda."
+        },
+        {
+          "text": "Probeer op te staan. Kun je opstaan? Hier. Laat me je helpen.",
+          "speaker": "Pat",
+          "translation": "Intenta levantarte. ¿Puedes levantarte? Aquí. Déjame ayudarte."
+        },
+        {
+          "text": "Het spijt me, Pat. Ik ben bang dat ik niet kan opstaan.",
+          "speaker": "Ted",
+          "translation": "Lo siento, Pat. Me temo que no puedo levantarme."
+        },
+        {
+          "text": "Ik denk dat de dokter je beter kan zien. Ik zal dokter Carter bellen.",
+          "speaker": "Pat",
+          "translation": "Creo que será mejor que te vea el doctor. Llamaré al Dr. Carter."
+        },
+        {
+          "text": "De dokter zegt dat hij meteen komt. Ik weet zeker dat je een röntgenfoto nodig hebt, Ted.",
+          "speaker": "Pat",
+          "translation": "El doctor dice que vendrá de inmediato. Estoy seguro de que necesitas una radiografía, Ted."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page99_illust001.png",
+          "alt": "Ted cayendo por las escaleras"
+        },
+        {
+          "src": "/illustrations-sorted/page99_illust002.png",
+          "alt": "Pat y Ted en el suelo, Pat preocupada"
+        },
+        {
+          "src": "/illustrations-sorted/page99_illust003.png",
+          "alt": "Ted sentado en el suelo, luciendo adolorido"
+        },
+        {
+          "src": "/illustrations-sorted/page99_illust004.png",
+          "alt": "Pat intentando ayudar a Ted a levantarse"
+        },
+        {
+          "src": "/illustrations-sorted/page99_illust005.png",
+          "alt": "Ted incapaz de levantarse"
+        },
+        {
+          "src": "/illustrations-sorted/page99_illust006.png",
+          "alt": "Pat al teléfono llamando al doctor"
+        },
+        {
+          "src": "/illustrations-sorted/page99_illust007.png",
+          "alt": "Pat hablando con el doctor por teléfono"
+        }
+      ]
+    }
+  ]
 }

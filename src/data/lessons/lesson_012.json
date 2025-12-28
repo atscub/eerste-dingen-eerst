@@ -1,91 +1,124 @@
 {
   "id": 12,
   "title": "Les 12",
-  "subtitle": "¿De quién es esto...? / Esto es mi/tu/su...",
-  "type": "vocabulary",
-  "items": [
+  "subtitle": "Van wie is dit...? Dit is mijn/jouw/zijn/haar...",
+  "sections": [
     {
-      "number": 1,
-      "dutch": "de tas",
-      "english": "handbag",
-      "spanish": "el bolso",
-      "illustration": "Illustratie van de tas"
+      "type": "vocabulary",
+      "prompt": "Van wie is dit...? Dit is mijn/jouw/zijn/haar...",
+      "items": [
+        {
+          "number": 22,
+          "dutch": "de tas",
+          "english": "handbag",
+          "spanish": "el bolso",
+          "description": "Het is van Stella.",
+          "illustration": "/illustrations-sorted/page12_illust001.png"
+        },
+        {
+          "number": 23,
+          "dutch": "de auto",
+          "english": "car",
+          "spanish": "el coche",
+          "description": "Het is van Paul.",
+          "illustration": "/illustrations-sorted/page12_illust002.png"
+        },
+        {
+          "number": 24,
+          "dutch": "de jas",
+          "english": "coat",
+          "spanish": "el abrigo",
+          "description": "Het is van juffrouw Dupont.",
+          "illustration": "/illustrations-sorted/page12_illust003.png"
+        },
+        {
+          "number": 25,
+          "dutch": "de paraplu",
+          "english": "umbrella",
+          "spanish": "el paraguas",
+          "description": "Het is van meneer Ford.",
+          "illustration": "/illustrations-sorted/page12_illust004.png"
+        },
+        {
+          "number": 26,
+          "dutch": "de pen",
+          "english": "pen",
+          "spanish": "la pluma",
+          "description": "Het is van mijn zoon.",
+          "illustration": "/illustrations-sorted/page12_illust005.png"
+        },
+        {
+          "number": 27,
+          "dutch": "de jurk",
+          "english": "dress",
+          "spanish": "el vestido",
+          "description": "Het is van mijn dochter.",
+          "illustration": "/illustrations-sorted/page12_illust006.png"
+        },
+        {
+          "number": 28,
+          "dutch": "het pak",
+          "english": "suit",
+          "spanish": "el traje",
+          "description": "Het is van mijn vader.",
+          "illustration": "/illustrations-sorted/page12_illust007.png"
+        },
+        {
+          "number": 29,
+          "dutch": "de rok",
+          "english": "skirt",
+          "spanish": "la falda",
+          "description": "Het is van mijn moeder.",
+          "illustration": "/illustrations-sorted/page12_illust008.png"
+        },
+        {
+          "number": 30,
+          "dutch": "de blouse",
+          "english": "blouse",
+          "spanish": "la blusa",
+          "description": "Het is van mijn zus.",
+          "illustration": "/illustrations-sorted/page12_illust009.png"
+        },
+        {
+          "number": 31,
+          "dutch": "de das",
+          "english": "tie",
+          "spanish": "la corbata",
+          "description": "Het is van mijn broer.",
+          "illustration": "/illustrations-sorted/page12_illust010.png"
+        }
+      ]
     },
     {
-      "number": 2,
-      "dutch": "de auto",
-      "english": "car",
-      "spanish": "el coche",
-      "illustration": "Illustratie van de auto"
-    },
-    {
-      "number": 3,
-      "dutch": "de jas",
-      "english": "coat",
-      "spanish": "el abrigo",
-      "illustration": "Illustratie van de jas"
-    },
-    {
-      "number": 4,
-      "dutch": "de paraplu",
-      "english": "umbrella",
-      "spanish": "el paraguas",
-      "illustration": "Illustratie van de paraplu"
-    },
-    {
-      "number": 5,
-      "dutch": "de pen",
-      "english": "pen",
-      "spanish": "la pluma",
-      "illustration": "Illustratie van de pen"
-    },
-    {
-      "number": 6,
-      "dutch": "de jurk",
-      "english": "dress",
-      "spanish": "el vestido",
-      "illustration": "Illustratie van de jurk"
-    },
-    {
-      "number": 7,
-      "dutch": "het pak",
-      "english": "suit",
-      "spanish": "el traje",
-      "illustration": "Illustratie van het pak"
-    },
-    {
-      "number": 8,
-      "dutch": "de rok",
-      "english": "skirt",
-      "spanish": "la falda",
-      "illustration": "Illustratie van de rok"
-    },
-    {
-      "number": 9,
-      "dutch": "de blouse",
-      "english": "blouse",
-      "spanish": "la blusa",
-      "illustration": "Illustratie van de blouse"
-    },
-    {
-      "number": 10,
-      "dutch": "de das",
-      "english": "tie",
-      "spanish": "la corbata",
-      "illustration": "Illustratie van de das"
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["mijn", "uw", "zijn", "haar"],
+      "example": [
+        {
+          "input": "Hans is hier. Dat is ---- auto.",
+          "output": "Hans is hier. Dat is zijn auto.",
+          "spanish": "Hans está aquí. Ese es su coche."
+        }
+      ],
+      "items": [
+        {
+          "text": "Stella is hier. Dat is ---- auto.",
+          "answer": "Stella is hier. Dat is haar auto."
+        },
+        {
+          "text": "Pardon, meneer Ford. Is dit ---- paraplu?",
+          "answer": "Pardon, meneer Ford. Is dit uw paraplu?"
+        },
+        {
+          "text": "Ik ben een stewardess. ---- naam is Britt.",
+          "answer": "Ik ben een stewardess. Mijn naam is Britt."
+        },
+        {
+          "text": "Paul is hier ook. Dat is ---- jas.",
+          "answer": "Paul is hier ook. Dat is zijn jas."
+        }
+      ]
     }
-  ],
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Hans is hier. Dat is ... auto.",
-        "spanish": "Hans está aquí. Ese es ... coche."
-      },
-      {
-        "dutch": "Hans is hier. Dat is zijn auto.",
-        "spanish": "Hans está aquí. Ese es su coche."
-      }
-    ]
-  }
+  ]
 }

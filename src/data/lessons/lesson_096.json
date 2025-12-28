@@ -1,15 +1,97 @@
 {
   "id": 96,
   "title": "Les 96",
-  "subtitle": "¿Qué hora exacta es?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto: Cambia estas oraciones de la misma manera:",
-    "example": [
-      {
-        "dutch": "Debemos volver a la estación. Será mejor que volvamos a la estación.",
-        "spanish": "Debemos volver a la estación. Será mejor que volvamos a la estación."
-      }
-    ]
-  }
+  "subtitle": "Hoe laat is het precies?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hoe laat is het precies?",
+      "items": [
+        { "number": 1, "dutch": "klok 1", "spanish": "reloj 1", "illustration": "/illustrations-sorted/page96_illust001.png" },
+        { "number": 2, "dutch": "klok 2", "spanish": "reloj 2", "illustration": "/illustrations-sorted/page96_illust002.png" },
+        { "number": 3, "dutch": "klok 3", "spanish": "reloj 3", "illustration": "/illustrations-sorted/page96_illust003.png" },
+        { "number": 4, "dutch": "klok 4", "spanish": "reloj 4", "illustration": "/illustrations-sorted/page96_illust004.png" },
+        { "number": 5, "dutch": "klok 5", "spanish": "reloj 5", "illustration": "/illustrations-sorted/page96_illust005.png" },
+        { "number": 6, "dutch": "klok 6", "spanish": "reloj 6", "illustration": "/illustrations-sorted/page96_illust006.png" },
+        { "number": 7, "dutch": "klok 7", "spanish": "reloj 7", "illustration": "/illustrations-sorted/page96_illust007.png" },
+        { "number": 8, "dutch": "klok 8", "spanish": "reloj 8", "illustration": "/illustrations-sorted/page96_illust008.png" },
+        { "number": 9, "dutch": "klok 9", "spanish": "reloj 9", "illustration": "/illustrations-sorted/page96_illust009.png" },
+        { "number": 10, "dutch": "klok 10", "spanish": "reloj 10", "illustration": "/illustrations-sorted/page96_illust010.png" },
+        { "number": 11, "dutch": "klok 11", "spanish": "reloj 11", "illustration": "/illustrations-sorted/page96_illust011.png" },
+        { "number": 12, "dutch": "klok 12", "spanish": "reloj 12", "illustration": "/illustrations-sorted/page96_illust012.png" }
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "title": "GELEDEN vs. OVER (tijdsuitdrukkingen):",
+      "columns": ["GELEDEN", "OVER"],
+      "rows": [
+        ["een minuut/twee minuten geleden", "over een minuut/twee minuten"],
+        ["een uur/twee uren geleden", "over een uur/twee uren"],
+        ["een dag/twee dagen geleden", "over een dag/twee dagen"],
+        ["een week/twee weken geleden", "over een week/twee weken"],
+        ["een maand/twee maanden geleden", "over een maand/twee maanden"],
+        ["een jaar/twee jaren geleden", "over een jaar/twee jaren"]
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Wanneer ging hij / zal hij gaan naar...?",
+      "items": [
+        { "number": 1, "dutch": "Accra", "spanish": "Accra", "illustration": "/illustrations-sorted/page96_illust013.png" },
+        { "number": 2, "dutch": "Athene", "spanish": "Atenas", "illustration": "/illustrations-sorted/page96_illust014.png" },
+        { "number": 3, "dutch": "Berlijn", "spanish": "Berlín", "illustration": "/illustrations-sorted/page96_illust015.png" },
+        { "number": 4, "dutch": "Bombay", "spanish": "Bombay", "illustration": "/illustrations-sorted/page96_illust016.png" },
+        { "number": 5, "dutch": "Genève", "spanish": "Ginebra", "illustration": "/illustrations-sorted/page96_illust017.png" },
+        { "number": 6, "dutch": "Londen", "spanish": "Londres", "illustration": "/illustrations-sorted/page96_illust018.png" },
+        { "number": 7, "dutch": "Madrid", "spanish": "Madrid", "illustration": "/illustrations-sorted/page96_illust019.png" },
+        { "number": 8, "dutch": "Moskou", "spanish": "Moscú", "illustration": "/illustrations-sorted/page96_illust020.png" },
+        { "number": 9, "dutch": "New York", "spanish": "Nueva York", "illustration": "/illustrations-sorted/page96_illust021.png" },
+        { "number": 10, "dutch": "Parijs", "spanish": "París", "illustration": "/illustrations-sorted/page96_illust022.png" },
+        { "number": 11, "dutch": "Rome", "spanish": "Roma", "illustration": "/illustrations-sorted/page96_illust023.png" },
+        { "number": 12, "dutch": "Stockholm", "spanish": "Estocolmo", "illustration": "/illustrations-sorted/page96_illust024.png" },
+        { "number": 13, "dutch": "Sydney", "spanish": "Sídney", "illustration": "/illustrations-sorted/page96_illust025.png" },
+        { "number": 14, "dutch": "Teheran", "spanish": "Teherán", "illustration": "/illustrations-sorted/page96_illust026.png" },
+        { "number": 15, "dutch": "Tokio", "spanish": "Tokio", "illustration": "/illustrations-sorted/page96_illust027.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Wij moeten teruggaan naar het station.",
+          "output": "Wij kunnen beter teruggaan naar het station.",
+          "spanish": "Debemos volver a la estación. Será mejor que volvamos a la estación."
+        }
+      ],
+      "items": [
+        {
+          "text": "Ik moet hier blijven.",
+          "answer": "Ik kan beter hier blijven."
+        },
+        {
+          "text": "Wij moeten op hem wachten.",
+          "answer": "Wij kunnen beter op hem wachten."
+        },
+        {
+          "text": "Je moet een dokter bellen.",
+          "answer": "Je kunt beter een dokter bellen."
+        },
+        {
+          "text": "Zij moeten naar huis gaan.",
+          "answer": "Zij kunnen beter naar huis gaan."
+        },
+        {
+          "text": "Zij moet zich haasten.",
+          "answer": "Zij kan beter zich haasten."
+        },
+        {
+          "text": "Je moet voorzichtig zijn.",
+          "answer": "Je kunt beter voorzichtig zijn."
+        }
+      ]
+    }
+  ]
 }

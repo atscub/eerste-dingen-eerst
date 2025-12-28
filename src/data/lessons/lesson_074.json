@@ -1,23 +1,55 @@
 {
   "id": 74,
   "title": "Les 74",
-  "subtitle": "¿Qué hicieron?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto: Ahora mira esto:",
-    "example": [
-      {
-        "dutch": "rápido - rápidamente; sediento - sedientemente; cuidadoso - cuidadosamente.",
-        "spanish": "rápido - rápidamente; sediento - sedientemente; cuidadoso - cuidadosamente."
-      },
-      {
-        "dutch": "Ella sonrió... (agradable)",
-        "spanish": "Ella sonrió... (agradable)"
-      },
-      {
-        "dutch": "Zij glimlachte aangenaam.",
-        "spanish": "Ella sonrió agradablemente."
-      }
-    ]
-  }
+  "subtitle": "Wat deden zij?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat deden zij?",
+      "items": [
+        { "number": 101, "dutch": "Hij schoor zich vanmorgen haastig en sneed zich lelijk.", "spanish": "Se afeitó con prisa esta mañana y se cortó feo.", "illustration": "/illustrations-sorted/page74_illust001.png" },
+        { "number": 102, "dutch": "Hij pakte een cake en at hem snel op.", "spanish": "Tomó un pastel y se lo comió rápidamente.", "illustration": "/illustrations-sorted/page74_illust002.png" },
+        { "number": 103, "dutch": "Ik gaf hem een glas water en hij dronk het dorstig op.", "spanish": "Le di un vaso de agua y lo bebió con sed.", "illustration": "/illustrations-sorted/page74_illust003.png" },
+        { "number": 104, "dutch": "Ik ontmoette haar eergisteren op straat en zij groette mij hartelijk.", "spanish": "La conocí en la calle anteayer y me saludó calurosamente.", "illustration": "/illustrations-sorted/page74_illust004.png" },
+        { "number": 105, "dutch": "De bus reed langzaam gistermiddag en wij kwamen laat thuis.", "spanish": "El autobús fue lento ayer por la tarde y llegamos tarde a casa.", "illustration": "/illustrations-sorted/page74_illust005.png" },
+        { "number": 106, "dutch": "Zij werkten vanmorgen heel hard.", "spanish": "Trabajaron muy duro esta mañana.", "illustration": "/illustrations-sorted/page74_illust006.png" },
+        { "number": 107, "dutch": "Wij amuseerden ons gisteravond geweldig.", "spanish": "Nos divertimos mucho anoche.", "illustration": "/illustrations-sorted/page74_illust007.png" },
+        { "number": 108, "dutch": "Hij zwom vanmiddag heel goed.", "spanish": "Nadó muy bien esta tarde.", "illustration": "/illustrations-sorted/page74_illust008.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto: snel - snel; dorstig - dorstig; voorzichtig - voorzichtig. Kijk nu naar dit:",
+      "example": [
+        {
+          "input": "Zij glimlachte... (aangenaam)",
+          "output": "Zij glimlachte aangenaam.",
+          "spanish": "Ella sonrió agradablemente."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij las de zin... (langzaam)",
+          "answer": "Hij las de zin langzaam."
+        },
+        {
+          "text": "Hij werkte... (lui)",
+          "answer": "Hij werkte lui."
+        },
+        {
+          "text": "Hij sneed zich... (lelijk)",
+          "answer": "Hij sneed zich lelijk."
+        },
+        {
+          "text": "Hij werkte... (voorzichtig)",
+          "answer": "Hij werkte voorzichtig."
+        },
+        {
+          "text": "De deur ging open... (plotseling)",
+          "answer": "De deur ging plotseling open."
+        }
+      ]
+    }
+  ]
 }

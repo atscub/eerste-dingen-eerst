@@ -1,75 +1,77 @@
 {
   "id": 23,
   "title": "Les 23",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Geef me wat glazen, alsjeblieft, Jane.",
-        "speaker": "Tom",
-        "translation": "Dame unos vasos, por favor, Jane."
-      },
-      {
-        "text": "Welke glazen?",
-        "speaker": "Jane",
-        "translation": "¿Qué vasos?"
-      },
-      {
-        "text": "Deze?",
-        "speaker": "Tom",
-        "translation": "¿Éstos?"
-      },
-      {
-        "text": "Nee, niet die. Die op de plank.",
-        "speaker": "Jane",
-        "translation": "No, no ésos. Los que están en el estante."
-      },
-      {
-        "text": "Deze?",
-        "speaker": "Tom",
-        "translation": "¿Éstos?"
-      },
-      {
-        "text": "Ja, alsjeblieft.",
-        "speaker": "Jane",
-        "translation": "Sí, por favor."
-      },
-      {
-        "text": "Alsjeblieft.",
-        "speaker": "Tom",
-        "translation": "Aquí tienes."
-      },
-      {
-        "text": "Dank je.",
-        "speaker": "Jane",
-        "translation": "Gracias."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page23_illust001.png",
-        "alt": "Hombre y mujer en un bar/cocina con muchos vasos"
-      },
-      {
-        "src": "/illustrations-sorted/page23_illust002.png",
-        "alt": "Mujer mirando los vasos en diferentes lugares con expresión confusa"
-      },
-      {
-        "src": "/illustrations-sorted/page23_illust003.png",
-        "alt": "Mujer señalando algunos vasos en una mesa"
-      },
-      {
-        "src": "/illustrations-sorted/page23_illust004.png",
-        "alt": "Hombre señalando específicamente hacia el estante de la pared"
-      },
-      {
-        "src": "/illustrations-sorted/page23_illust005.png",
-        "alt": "Mujer alcanzando los vasos correctos en el estante"
-      },
-      {
-        "src": "/illustrations-sorted/page23_illust006.png",
-        "alt": "Mujer entregando los vasos al hombre satisfecho"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Geef me wat glazen, alsjeblieft, Jane.",
+          "speaker": "Tom",
+          "translation": "Dame unos vasos, por favor, Jane."
+        },
+        {
+          "text": "Welke glazen?",
+          "speaker": "Jane",
+          "translation": "¿Qué vasos?"
+        },
+        {
+          "text": "Deze?",
+          "speaker": "Tom",
+          "translation": "¿Éstos?"
+        },
+        {
+          "text": "Nee, niet die. Die op de plank.",
+          "speaker": "Jane",
+          "translation": "No, no ésos. Los que están en el estante."
+        },
+        {
+          "text": "Deze?",
+          "speaker": "Tom",
+          "translation": "¿Éstos?"
+        },
+        {
+          "text": "Ja, alsjeblieft.",
+          "speaker": "Jane",
+          "translation": "Sí, por favor."
+        },
+        {
+          "text": "Alsjeblieft.",
+          "speaker": "Tom",
+          "translation": "Aquí tienes."
+        },
+        {
+          "text": "Dank je.",
+          "speaker": "Jane",
+          "translation": "Gracias."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page23_illust001.png",
+          "alt": "Hombre y mujer en un bar/cocina con muchos vasos"
+        },
+        {
+          "src": "/illustrations-sorted/page23_illust002.png",
+          "alt": "Mujer mirando los vasos en diferentes lugares con expresión confusa"
+        },
+        {
+          "src": "/illustrations-sorted/page23_illust003.png",
+          "alt": "Mujer señalando algunos vasos en una mesa"
+        },
+        {
+          "src": "/illustrations-sorted/page23_illust004.png",
+          "alt": "Hombre señalando específicamente hacia el estante de la pared"
+        },
+        {
+          "src": "/illustrations-sorted/page23_illust005.png",
+          "alt": "Mujer alcanzando los vasos correctos en el estante"
+        },
+        {
+          "src": "/illustrations-sorted/page23_illust006.png",
+          "alt": "Mujer entregando los vasos al hombre satisfecho"
+        }
+      ]
+    }
+  ]
 }

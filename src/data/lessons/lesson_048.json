@@ -1,15 +1,68 @@
 {
   "id": 48,
   "title": "Les 48",
-  "subtitle": "¿Te gusta...? / ¿Quieres...?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "",
-    "example": [
-      {
-        "dutch": "Completa con: in, uit, over, tussen, langs, voor van, achter, onder, over.",
-        "spanish": "Completa con: in, uit, over, tussen, langs, voor van, achter, onder, over."
-      }
-    ]
-  }
+  "subtitle": "Hou je van...? Wil je...?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hou je van...? Wil je...?",
+      "items": [
+        { "number": 1, "dutch": "verse eieren", "spanish": "huevos frescos", "illustration": "/illustrations-sorted/page48_illust002.png" },
+        { "number": 2, "dutch": "boter", "spanish": "mantequilla", "illustration": "/illustrations-sorted/page48_illust001.png" },
+        { "number": 3, "dutch": "pure honing", "spanish": "miel pura", "illustration": "/illustrations-sorted/page48_illust003.png" },
+        { "number": 4, "dutch": "rijpe bananen", "spanish": "plátanos maduros", "illustration": "/illustrations-sorted/page48_illust006.png" },
+        { "number": 5, "dutch": "jam", "spanish": "mermelada", "illustration": "/illustrations-sorted/page48_illust004.png" },
+        { "number": 6, "dutch": "zoete sinaasappels", "spanish": "naranjas dulces", "illustration": "/illustrations-sorted/page48_illust005.png" },
+        { "number": 7, "dutch": "ijs", "spanish": "helado", "illustration": "/illustrations-sorted/page48_illust007.png" },
+        { "number": 8, "dutch": "Schotse whisky", "spanish": "whisky escocés", "illustration": "/illustrations-sorted/page48_illust009.png" },
+        { "number": 9, "dutch": "lekkere appels", "spanish": "manzanas selectas", "illustration": "/illustrations-sorted/page48_illust008.png" },
+        { "number": 10, "dutch": "kaas", "spanish": "queso", "illustration": "/illustrations-sorted/page48_illust011.png" },
+        { "number": 11, "dutch": "koekjes", "spanish": "galletas", "illustration": "/illustrations-sorted/page48_illust010.png" },
+        { "number": 12, "dutch": "bier", "spanish": "cerveza", "illustration": "/illustrations-sorted/page48_illust012.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Vul in: af, over, tussen, langs, voor, achter, onder, door.",
+      "wordsToUse": ["over", "onder", "door", "langs", "over", "tussen", "voor", "achter"],
+      "example": [
+        {
+          "input": "Het vliegtuig vliegt ---- het dorp.",
+          "output": "Het vliegtuig vliegt over het dorp.",
+          "spanish": "El avión está volando sobre el pueblo."
+        }
+      ],
+      "items": [
+        {
+          "text": "Het schip vaart ---- de brug.",
+          "answer": "Het schip vaart onder de brug."
+        },
+        {
+          "text": "De kinderen zwemmen ---- de rivier.",
+          "answer": "De kinderen zwemmen door de rivier."
+        },
+        {
+          "text": "Twee katten rennen ---- de muur.",
+          "answer": "Twee katten rennen langs de muur."
+        },
+        {
+          "text": "De jongen springt ---- de boom.",
+          "answer": "De jongen springt over de boom."
+        },
+        {
+          "text": "Het meisje zit ---- haar moeder en haar vader.",
+          "answer": "Het meisje zit tussen haar moeder en haar vader."
+        },
+        {
+          "text": "De leraar staat ---- het schoolbord.",
+          "answer": "De leraar staat voor het schoolbord."
+        },
+        {
+          "text": "Het schoolbord is ---- de leraar.",
+          "answer": "Het schoolbord is achter de leraar."
+        }
+      ]
+    }
+  ]
 }

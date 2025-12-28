@@ -1,104 +1,106 @@
 {
   "id": 79,
   "title": "Les 79",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Wat ben je aan het doen, Peggy?",
-        "speaker": "Tom",
-        "translation": "¿Qué estás haciendo, Peggy?"
-      },
-      {
-        "text": "Ik maak een boodschappenlijstje, Tom.",
-        "speaker": "Peggy",
-        "translation": "Estoy haciendo una lista de compras, Tom."
-      },
-      {
-        "text": "Wat hebben we nodig?",
-        "speaker": "Tom",
-        "translation": "¿Qué necesitamos?"
-      },
-      {
-        "text": "We hebben deze week veel dingen nodig.",
-        "speaker": "Peggy",
-        "translation": "Necesitamos muchas cosas esta semana."
-      },
-      {
-        "text": "Ik moet naar de kruidenier. We hebben niet veel thee of koffie, en we hebben geen suiker of jam.",
-        "speaker": "Peggy",
-        "translation": "Debo ir a la tienda de comestibles. No tenemos mucho té ni café, y no tenemos azúcar ni mermelada."
-      },
-      {
-        "text": "Hoe zit het met groenten?",
-        "speaker": "Tom",
-        "translation": "¿Qué hay de vegetales?"
-      },
-      {
-        "text": "Ik moet naar de groenteboer. We hebben niet veel tomaten, maar we hebben veel aardappelen.",
-        "speaker": "Peggy",
-        "translation": "Debo ir a la verdulería. No tenemos muchos tomates, pero tenemos muchas papas."
-      },
-      {
-        "text": "Ik moet ook naar de slager. We hebben wat vlees nodig. We hebben helemaal geen vlees.",
-        "speaker": "Peggy",
-        "translation": "También debo ir a la carnicería. Necesitamos algo de carne. No tenemos nada de carne."
-      },
-      {
-        "text": "Hebben we bier en wijn?",
-        "speaker": "Tom",
-        "translation": "¿Tenemos cerveza y vino?"
-      },
-      {
-        "text": "Nee, die hebben we niet. En ik ga niets halen!",
-        "speaker": "Peggy",
-        "translation": "No, no tenemos. ¡Y no voy a conseguir nada!"
-      },
-      {
-        "text": "Ik hoop dat je wat geld hebt.",
-        "speaker": "Tom",
-        "translation": "Espero que tengas algo de dinero."
-      },
-      {
-        "text": "Ik heb niet veel.",
-        "speaker": "Peggy",
-        "translation": "No tengo mucho."
-      },
-      {
-        "text": "Nou, ik heb ook niet veel!",
-        "speaker": "Tom",
-        "translation": "Bueno, ¡yo tampoco tengo mucho!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page79_illust001.png",
-        "alt": "Tom y Peggy en casa, Peggy escribiendo lista"
-      },
-      {
-        "src": "/illustrations-sorted/page79_illust002.png",
-        "alt": "Peggy mirando los estantes de la cocina vacíos"
-      },
-      {
-        "src": "/illustrations-sorted/page79_illust003.png",
-        "alt": "Peggy revisando el área de verduras de la cocina"
-      },
-      {
-        "src": "/illustrations-sorted/page79_illust004.png",
-        "alt": "Peggy mirando el refrigerador vacío"
-      },
-      {
-        "src": "/illustrations-sorted/page79_illust005.png",
-        "alt": "Peggy mirando la despensa de bebidas vacía"
-      },
-      {
-        "src": "/illustrations-sorted/page79_illust006.png",
-        "alt": "Tom y Peggy mirando sus billeteras casi vacías"
-      },
-      {
-        "src": "/illustrations-sorted/page79_illust007.png",
-        "alt": "Tom y Peggy preocupados por el dinero"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Wat ben je aan het doen, Peggy?",
+          "speaker": "Tom",
+          "translation": "¿Qué estás haciendo, Peggy?"
+        },
+        {
+          "text": "Ik maak een boodschappenlijstje, Tom.",
+          "speaker": "Peggy",
+          "translation": "Estoy haciendo una lista de compras, Tom."
+        },
+        {
+          "text": "Wat hebben we nodig?",
+          "speaker": "Tom",
+          "translation": "¿Qué necesitamos?"
+        },
+        {
+          "text": "We hebben deze week veel dingen nodig.",
+          "speaker": "Peggy",
+          "translation": "Necesitamos muchas cosas esta semana."
+        },
+        {
+          "text": "Ik moet naar de kruidenier. We hebben niet veel thee of koffie, en we hebben geen suiker of jam.",
+          "speaker": "Peggy",
+          "translation": "Debo ir a la tienda de comestibles. No tenemos mucho té ni café, y no tenemos azúcar ni mermelada."
+        },
+        {
+          "text": "Hoe zit het met groenten?",
+          "speaker": "Tom",
+          "translation": "¿Qué hay de vegetales?"
+        },
+        {
+          "text": "Ik moet naar de groenteboer. We hebben niet veel tomaten, maar we hebben veel aardappelen.",
+          "speaker": "Peggy",
+          "translation": "Debo ir a la verdulería. No tenemos muchos tomates, pero tenemos muchas papas."
+        },
+        {
+          "text": "Ik moet ook naar de slager. We hebben wat vlees nodig. We hebben helemaal geen vlees.",
+          "speaker": "Peggy",
+          "translation": "También debo ir a la carnicería. Necesitamos algo de carne. No tenemos nada de carne."
+        },
+        {
+          "text": "Hebben we bier en wijn?",
+          "speaker": "Tom",
+          "translation": "¿Tenemos cerveza y vino?"
+        },
+        {
+          "text": "Nee, die hebben we niet. En ik ga niets halen!",
+          "speaker": "Peggy",
+          "translation": "No, no tenemos. ¡Y no voy a conseguir nada!"
+        },
+        {
+          "text": "Ik hoop dat je wat geld hebt.",
+          "speaker": "Tom",
+          "translation": "Espero que tengas algo de dinero."
+        },
+        {
+          "text": "Ik heb niet veel.",
+          "speaker": "Peggy",
+          "translation": "No tengo mucho."
+        },
+        {
+          "text": "Nou, ik heb ook niet veel!",
+          "speaker": "Tom",
+          "translation": "Bueno, ¡yo tampoco tengo mucho!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page79_illust001.png",
+          "alt": "Tom y Peggy en casa, Peggy escribiendo lista"
+        },
+        {
+          "src": "/illustrations-sorted/page79_illust002.png",
+          "alt": "Peggy mirando los estantes de la cocina vacíos"
+        },
+        {
+          "src": "/illustrations-sorted/page79_illust003.png",
+          "alt": "Peggy revisando el área de verduras de la cocina"
+        },
+        {
+          "src": "/illustrations-sorted/page79_illust004.png",
+          "alt": "Peggy mirando el refrigerador vacío"
+        },
+        {
+          "src": "/illustrations-sorted/page79_illust005.png",
+          "alt": "Peggy mirando la despensa de bebidas vacía"
+        },
+        {
+          "src": "/illustrations-sorted/page79_illust006.png",
+          "alt": "Tom y Peggy mirando sus billeteras casi vacías"
+        },
+        {
+          "src": "/illustrations-sorted/page79_illust007.png",
+          "alt": "Tom y Peggy preocupados por el dinero"
+        }
+      ]
+    }
+  ]
 }

@@ -1,15 +1,119 @@
 {
   "id": 40,
   "title": "Les 40",
-  "subtitle": "¿Qué vas a hacer? / Voy a...",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto: Cambia estos de la misma manera:",
-    "example": [
-      {
-        "dutch": "Geef me die vaas. Geef die vaas aan mij.",
-        "spanish": "Dame ese jarrón. Dame ese jarrón a mí."
-      }
-    ]
-  }
+  "subtitle": "Wat ga je doen? Ik ga...",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat ga je ermee doen? Ik ga het geven/laten zien/sturen/brengen...",
+      "items": [
+        {
+          "number": 13,
+          "dutch": "zet het...!",
+          "spanish": "¡ponlo...!",
+          "illustration": "/illustrations-sorted/page40_illust001.png"
+        },
+        {
+          "number": 14,
+          "dutch": "neem het...!",
+          "spanish": "¡tómalo...!",
+          "illustration": "/illustrations-sorted/page40_illust002.png"
+        },
+        {
+          "number": 15,
+          "dutch": "draai het...!",
+          "spanish": "¡gíralo...!",
+          "illustration": "/illustrations-sorted/page40_illust003.png"
+        },
+        {
+          "number": 16,
+          "dutch": "draai het...!",
+          "spanish": "¡gíralo...!",
+          "illustration": "/illustrations-sorted/page40_illust004.png"
+        },
+        {
+          "number": 17,
+          "dutch": "aan mijn dochter",
+          "spanish": "a mi hija",
+          "illustration": "/illustrations-sorted/page40_illust005.png"
+        },
+        {
+          "number": 18,
+          "dutch": "aan mijn grootmoeder",
+          "spanish": "a mi abuela",
+          "illustration": "/illustrations-sorted/page40_illust006.png"
+        },
+        {
+          "number": 19,
+          "dutch": "aan mijn vader",
+          "spanish": "a mi padre",
+          "illustration": "/illustrations-sorted/page40_illust007.png"
+        },
+        {
+          "number": 20,
+          "dutch": "aan mijn moeder",
+          "spanish": "a mi madre",
+          "illustration": "/illustrations-sorted/page40_illust008.png"
+        },
+        {
+          "number": 30,
+          "dutch": "aan de kinderen",
+          "spanish": "a los niños",
+          "illustration": "/illustrations-sorted/page40_illust009.png"
+        },
+        {
+          "number": 40,
+          "dutch": "aan mijn vrouw",
+          "spanish": "a mi esposa",
+          "illustration": "/illustrations-sorted/page40_illust010.png"
+        },
+        {
+          "number": 50,
+          "dutch": "aan mijn grootvader",
+          "spanish": "a mi abuelo",
+          "illustration": "/illustrations-sorted/page40_illust011.png"
+        },
+        {
+          "number": 60,
+          "dutch": "aan mijn zus",
+          "spanish": "a mi hermana",
+          "illustration": "/illustrations-sorted/page40_illust012.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "rewrite",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Geef me die vaas.",
+          "output": "Geef die vaas aan mij.",
+          "spanish": "Dame ese jarrón. → Da ese jarrón a mí."
+        }
+      ],
+      "items": [
+        {
+          "text": "Stuur George die brief.",
+          "answer": "Stuur die brief aan George."
+        },
+        {
+          "text": "Breng haar die bloemen.",
+          "answer": "Breng die bloemen aan haar."
+        },
+        {
+          "text": "Laat me die foto zien.",
+          "answer": "Laat die foto aan mij zien."
+        },
+        {
+          "text": "Geef mevrouw Jones deze boeken.",
+          "answer": "Geef deze boeken aan mevrouw Jones."
+        },
+        {
+          "text": "Geef de kinderen deze ijsjes.",
+          "answer": "Geef deze ijsjes aan de kinderen."
+        }
+      ]
+    }
+  ]
 }

@@ -1,54 +1,78 @@
 {
   "id": 122,
   "title": "Les 122",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Who/Whom, Which en That**\n\n**Afbeeldingen 1-9 tonen verschillende situaties:**\n\n1-3. **Personen als onderwerp (who/that):**\n- Wie bediende je? De man die/dat achter de balie staat.\n- Wie bediende je? De vrouw die/dat achter de balie staat.\n- Wie maakt al dat lawaai? De mannen die/dat de weg aan het repareren zijn.\n\n4-6. **Personen als lijdend voorwerp (whom/that):**\n- Ik bediende hem gisteren. Hij is de man die/dat ik gisteren bediende.\n- Ik bediende haar gisteren. Ze is de vrouw die/dat ik gisteren bediende.\n- Ik zag ze gisteren. Ze zijn de mannen die/dat ik gisteren zag.\n\n7-9. **Dingen (which/that):**\n- Welk boek kocht je? Het boek dat/die op de balie ligt.\n- Welke boeken kocht je? De boeken die/dat op de balie liggen.\n- Welke hond is van jou? De hond die/dat die mand draagt.",
-    "examples": [
-      "die",
-      "haar",
-      "het",
-      "dat",
-      "hem",
-      "ze",
-      "Hij",
-      "Zij",
-      "Ik",
-      "Grammatica: Who/Whom, Which en That",
-      "Afbeeldingen 1-9 tonen verschillende situaties:",
-      "Personen als onderwerp (who/that):",
-      "Personen als lijdend voorwerp (whom/that):",
-      "Dingen (which/that):",
-      "Bekijk deze zinnen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Zij is het meisje. Zij ontmoette mij gisteren. → Zij is het meisje *die* mij gisteren ontmoette.",
-    "example": [
-      {
-        "dutch": "die",
-        "spanish": "ese"
-      },
-      {
-        "dutch": "haar",
-        "spanish": "su"
-      },
-      {
-        "dutch": "die",
-        "spanish": "ese"
-      },
-      {
-        "dutch": "",
-        "spanish": "Zij is het meisje die mij gisteren ontmoette."
-      },
-      {
-        "dutch": "",
-        "spanish": "Zij is het meisje die ik gisteren ontmoette."
-      },
-      {
-        "dutch": "",
-        "spanish": "Dit is het boek dat ik gisteren kocht."
-      }
-    ]
-  }
+  "subtitle": "Die/Dat, Wie/Welke",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Die/Dat, Wie/Welke (Betrekkelijke voornaamwoorden)",
+      "items": [
+        { "number": 1, "dutch": "Wie bediende je? De man die achter de balie staat.", "spanish": "¿Quién te atendió? El hombre que está detrás del mostrador.", "illustration": "/illustrations-sorted/page122_illust001.png" },
+        { "number": 2, "dutch": "Wie bediende je? De vrouw die achter de balie staat.", "spanish": "¿Quién te atendió? La mujer que está detrás del mostrador.", "illustration": "/illustrations-sorted/page122_illust002.png" },
+        { "number": 3, "dutch": "Wie maakt al dat lawaai? De mannen die de weg aan het repareren zijn.", "spanish": "¿Quién hace todo ese ruido? Los hombres que están reparando la calle.", "illustration": "/illustrations-sorted/page122_illust003.png" },
+        { "number": 4, "dutch": "Ik bediende hem gisteren. Hij is de man die ik gisteren bediende.", "spanish": "Lo atendí ayer. Él es el hombre al que atendí ayer.", "illustration": "/illustrations-sorted/page122_illust004.png" },
+        { "number": 5, "dutch": "Ik bediende haar gisteren. Ze is de vrouw die ik gisteren bediende.", "spanish": "La atendí ayer. Ella es la mujer a la que atendí ayer.", "illustration": "/illustrations-sorted/page122_illust005.png" },
+        { "number": 6, "dutch": "Ik zag ze gisteren. Ze zijn de mannen die ik gisteren zag.", "spanish": "Los vi ayer. Son los hombres a los que vi ayer.", "illustration": "/illustrations-sorted/page122_illust006.png" },
+        { "number": 7, "dutch": "Welk boek kocht je? Het boek dat op de balie ligt.", "spanish": "¿Qué libro compraste? El libro que está en el mostrador.", "illustration": "/illustrations-sorted/page122_illust007.png" },
+        { "number": 8, "dutch": "Welke boeken kocht je? De boeken die op de balie liggen.", "spanish": "¿Qué libros compraste? Los libros que están en el mostrador.", "illustration": "/illustrations-sorted/page122_illust008.png" },
+        { "number": 9, "dutch": "Welke hond is van jou? De hond die die mand draagt.", "spanish": "¿Cuál perro es tuyo? El perro que lleva esa canasta.", "illustration": "/illustrations-sorted/page122_illust009.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Voeg deze zinnen samen. Gebruik: die, dat, of wie.",
+      "example": [
+        {
+          "input": "Zij is het meisje. Zij ontmoette mij gisteren.",
+          "output": "Zij is het meisje die mij gisteren ontmoette.",
+          "spanish": "Ella es la chica que me conoció ayer."
+        },
+        {
+          "input": "Zij is het meisje. Ik ontmoette haar gisteren.",
+          "output": "Zij is het meisje die ik gisteren ontmoette.",
+          "spanish": "Ella es la chica a la que conocí ayer."
+        },
+        {
+          "input": "Dit is het boek. Ik kocht het gisteren.",
+          "output": "Dit is het boek dat ik gisteren kocht.",
+          "spanish": "Este es el libro que compré ayer."
+        }
+      ],
+      "items": [
+        {
+          "text": "Dit is de auto. De monteur repareerde hem gisteren.",
+          "answer": "Dit is de auto die de monteur gisteren repareerde."
+        },
+        {
+          "text": "Hij is de man. Ik nodigde hem uit op het feestje.",
+          "answer": "Hij is de man die ik uitnodigde op het feestje."
+        },
+        {
+          "text": "Dit zijn de dingen. Ik kocht ze gisteren.",
+          "answer": "Dit zijn de dingen die ik gisteren kocht."
+        },
+        {
+          "text": "Hij is de man. Hij kwam hier vorige week.",
+          "answer": "Hij is de man die hier vorige week kwam."
+        },
+        {
+          "text": "Hij is de politieagent. Hij ving de dieven.",
+          "answer": "Hij is de politieagent die de dieven ving."
+        },
+        {
+          "text": "Zij is de verpleegster. Ze zorgde voor mij.",
+          "answer": "Zij is de verpleegster die voor mij zorgde."
+        },
+        {
+          "text": "Zij is de vrouw. Ik ontmoette haar op het feestje.",
+          "answer": "Zij is de vrouw die ik op het feestje ontmoette."
+        },
+        {
+          "text": "Ik ben de persoon. Ik schreef naar je.",
+          "answer": "Ik ben de persoon die naar je schreef."
+        }
+      ]
+    }
+  ]
 }

@@ -1,19 +1,176 @@
 {
   "id": 16,
   "title": "Les 16",
-  "subtitle": "Nacionalidades y colores plurales",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Het is ... Zweedse auto.",
-        "spanish": "Es ... coche sueco."
-      },
-      {
-        "dutch": "Het is een Zweedse auto.",
-        "spanish": "Es un coche sueco."
-      }
-    ]
-  }
+  "subtitle": "Bent u...? Zijn dit uw...?",
+  "sections": [
+    {
+      "type": "practice",
+      "prompt": "Bent u...?",
+      "items": [
+        {
+          "number": 20,
+          "dutch": "Russisch?",
+          "spanish": "¿Ruso?",
+          "illustration": "/illustrations-sorted/page16_illust001.png"
+        },
+        {
+          "number": 30,
+          "dutch": "Engels?",
+          "spanish": "¿Inglés?",
+          "illustration": "/illustrations-sorted/page16_illust002.png"
+        },
+        {
+          "number": 40,
+          "dutch": "Amerikaans?",
+          "spanish": "¿Americano?",
+          "illustration": "/illustrations-sorted/page16_illust003.png"
+        },
+        {
+          "number": 50,
+          "dutch": "Nederlands?",
+          "spanish": "¿Holandés?",
+          "illustration": "/illustrations-sorted/page16_illust004.png"
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Zijn dit uw...? Welke kleur hebben uw...?",
+      "items": [
+        {
+          "number": 60,
+          "dutch": "rode boeken",
+          "spanish": "libros rojos",
+          "illustration": "/illustrations-sorted/page16_illust005.png"
+        },
+        {
+          "number": 70,
+          "dutch": "witte overhemden",
+          "spanish": "camisas blancas",
+          "illustration": "/illustrations-sorted/page16_illust006.png"
+        },
+        {
+          "number": 80,
+          "dutch": "grijze jassen",
+          "spanish": "abrigos grises",
+          "illustration": "/illustrations-sorted/page16_illust007.png"
+        },
+        {
+          "number": 90,
+          "dutch": "gele kaartjes",
+          "spanish": "billetes amarillos",
+          "illustration": "/illustrations-sorted/page16_illust008.png"
+        },
+        {
+          "number": 100,
+          "dutch": "blauwe pakken",
+          "spanish": "trajes azules",
+          "illustration": "/illustrations-sorted/page16_illust009.png"
+        },
+        {
+          "number": 101,
+          "dutch": "zwarte en grijze hoeden",
+          "spanish": "sombreros negros y grises",
+          "illustration": "/illustrations-sorted/page16_illust010.png"
+        },
+        {
+          "number": 102,
+          "dutch": "groene paspoorten",
+          "spanish": "pasaportes verdes",
+          "illustration": "/illustrations-sorted/page16_illust011.png"
+        },
+        {
+          "number": 103,
+          "dutch": "zwarte paraplu's",
+          "spanish": "paraguas negros",
+          "illustration": "/illustrations-sorted/page16_illust012.png"
+        },
+        {
+          "number": 104,
+          "dutch": "witte tassen",
+          "spanish": "bolsos blancos",
+          "illustration": "/illustrations-sorted/page16_illust013.png"
+        },
+        {
+          "number": 105,
+          "dutch": "oranje dassen",
+          "spanish": "corbatas naranjas",
+          "illustration": "/illustrations-sorted/page16_illust014.png"
+        },
+        {
+          "number": 106,
+          "dutch": "bruine en witte honden",
+          "spanish": "perros marrones y blancos",
+          "illustration": "/illustrations-sorted/page16_illust015.png"
+        },
+        {
+          "number": 107,
+          "dutch": "blauwe pennen",
+          "spanish": "plumas azules",
+          "illustration": "/illustrations-sorted/page16_illust016.png"
+        },
+        {
+          "number": 108,
+          "dutch": "rode auto's",
+          "spanish": "coches rojos",
+          "illustration": "/illustrations-sorted/page16_illust017.png"
+        },
+        {
+          "number": 109,
+          "dutch": "groene jurken",
+          "spanish": "vestidos verdes",
+          "illustration": "/illustrations-sorted/page16_illust018.png"
+        },
+        {
+          "number": 110,
+          "dutch": "gele blouses",
+          "spanish": "blusas amarillas",
+          "illustration": "/illustrations-sorted/page16_illust019.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["een"],
+      "example": [
+        {
+          "input": "Het is ---- Zweedse auto. Zij is ---- stewardess.",
+          "output": "Het is een Zweedse auto. Zij is een stewardess.",
+          "spanish": "Es un coche sueco. Ella es una azafata."
+        }
+      ],
+      "items": [
+        {
+          "text": "Het is ---- Engelse auto.",
+          "answer": "Het is een Engelse auto."
+        },
+        {
+          "text": "Het is ---- Russische auto.",
+          "answer": "Het is een Russische auto."
+        },
+        {
+          "text": "Het is ---- Italiaanse auto.",
+          "answer": "Het is een Italiaanse auto."
+        },
+        {
+          "text": "Het is ---- Franse auto.",
+          "answer": "Het is een Franse auto."
+        },
+        {
+          "text": "Het is ---- Amerikaanse auto.",
+          "answer": "Het is een Amerikaanse auto."
+        },
+        {
+          "text": "Robert is niet ---- leraar.",
+          "answer": "Robert is niet een leraar."
+        },
+        {
+          "text": "Hij is ---- ingenieur.",
+          "answer": "Hij is een ingenieur."
+        }
+      ]
+    }
+  ]
 }

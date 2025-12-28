@@ -8,21 +8,25 @@ const lessons: Lesson[] = [
   {
     id: 1,
     title: 'Intro',
-    type: 'dialogue',
-    dialogue: {
-      lines: [],
-      images: [],
-    },
+    sections: [
+      {
+        type: 'dialogue',
+        lines: [],
+        images: [],
+      },
+    ],
   },
   {
     id: 2,
     title: 'Saludos',
     subtitle: 'Basico',
-    type: 'dialogue',
-    dialogue: {
-      lines: [],
-      images: [],
-    },
+    sections: [
+      {
+        type: 'dialogue',
+        lines: [],
+        images: [],
+      },
+    ],
   },
 ];
 

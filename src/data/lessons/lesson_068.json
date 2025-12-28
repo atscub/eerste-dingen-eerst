@@ -1,10 +1,78 @@
 {
   "id": 68,
   "title": "Les 68",
-  "subtitle": "¿Qué hora es?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Copia estos. Pon in donde sea necesario:",
-    "example": []
-  }
+  "subtitle": "Hoe laat is het?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hoe laat is het?",
+      "items": [
+        { "number": 1, "dutch": "vijf over twaalf", "spanish": "las doce y cinco", "illustration": "/illustrations-sorted/page68_illust001.png" },
+        { "number": 2, "dutch": "tien over elf", "spanish": "las once y diez", "illustration": "/illustrations-sorted/page68_illust002.png" },
+        { "number": 3, "dutch": "kwart over tien", "spanish": "las diez y cuarto", "illustration": "/illustrations-sorted/page68_illust003.png" },
+        { "number": 4, "dutch": "twintig over negen", "spanish": "las nueve y veinte", "illustration": "/illustrations-sorted/page68_illust004.png" },
+        { "number": 5, "dutch": "vijfentwintig over acht", "spanish": "las ocho y veinticinco", "illustration": "/illustrations-sorted/page68_illust005.png" },
+        { "number": 6, "dutch": "half acht", "spanish": "las siete y media", "illustration": "/illustrations-sorted/page68_illust006.png" },
+        { "number": 7, "dutch": "vijfentwintig voor zeven", "spanish": "las seis y treinta y cinco", "illustration": "/illustrations-sorted/page68_illust007.png" },
+        { "number": 8, "dutch": "twintig voor zes", "spanish": "las cinco y cuarenta", "illustration": "/illustrations-sorted/page68_illust008.png" },
+        { "number": 9, "dutch": "kwart voor vijf", "spanish": "las cuatro y cuarenta y cinco", "illustration": "/illustrations-sorted/page68_illust009.png" },
+        { "number": 10, "dutch": "tien voor vier", "spanish": "las tres y cincuenta", "illustration": "/illustrations-sorted/page68_illust010.png" },
+        { "number": 11, "dutch": "vijf voor drie", "spanish": "las dos y cincuenta y cinco", "illustration": "/illustrations-sorted/page68_illust011.png" },
+        { "number": 12, "dutch": "twee uur", "spanish": "las dos", "illustration": "/illustrations-sorted/page68_illust012.png" }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Waar was je op...? Wanneer was je bij...?",
+      "items": [
+        { "number": 13, "dutch": "zondag 1 januari - kerk", "spanish": "domingo 1 de enero - iglesia", "illustration": "/illustrations-sorted/page68_illust013.png" },
+        { "number": 14, "dutch": "maandag 2 februari - school", "spanish": "lunes 2 de febrero - escuela", "illustration": "/illustrations-sorted/page68_illust014.png" },
+        { "number": 15, "dutch": "dinsdag 3 maart - kantoor", "spanish": "martes 3 de marzo - oficina", "illustration": "/illustrations-sorted/page68_illust015.png" },
+        { "number": 16, "dutch": "woensdag 4 april - slager", "spanish": "miércoles 4 de abril - carnicería", "illustration": "/illustrations-sorted/page68_illust016.png" },
+        { "number": 17, "dutch": "donderdag 5 mei - kapper", "spanish": "jueves 5 de mayo - peluquería", "illustration": "/illustrations-sorted/page68_illust017.png" },
+        { "number": 18, "dutch": "vrijdag 6 juni - bakker", "spanish": "viernes 6 de junio - panadería", "illustration": "/illustrations-sorted/page68_illust018.png" },
+        { "number": 19, "dutch": "zaterdag 7 juli - zuivelwinkel", "spanish": "sábado 7 de julio - lechería", "illustration": "/illustrations-sorted/page68_illust019.png" },
+        { "number": 20, "dutch": "zondag 8 augustus - thuis", "spanish": "domingo 8 de agosto - casa", "illustration": "/illustrations-sorted/page68_illust020.png" },
+        { "number": 21, "dutch": "maandag 9 september - kruidenier", "spanish": "lunes 9 de septiembre - tienda de comestibles", "illustration": "/illustrations-sorted/page68_illust021.png" },
+        { "number": 22, "dutch": "dinsdag 10 oktober - groenteboer", "spanish": "martes 10 de octubre - verdulería", "illustration": "/illustrations-sorted/page68_illust022.png" },
+        { "number": 23, "dutch": "woensdag 11 november - sigarenwinkel", "spanish": "miércoles 11 de noviembre - estanco", "illustration": "/illustrations-sorted/page68_illust023.png" },
+        { "number": 24, "dutch": "donderdag 12 december - kantoorboekhandel", "spanish": "jueves 12 de diciembre - papelería", "illustration": "/illustrations-sorted/page68_illust024.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Kopieer deze. Vul de in waar nodig.",
+      "items": [
+        {
+          "text": "Ik was zondag in ... kerk.",
+          "answer": "Ik was zondag in de kerk."
+        },
+        {
+          "text": "Ik was maandag op ... kantoor.",
+          "answer": "Ik was maandag op het kantoor."
+        },
+        {
+          "text": "Mijn zoon was dinsdag op ... school.",
+          "answer": "Mijn zoon was dinsdag op school."
+        },
+        {
+          "text": "Mijn vrouw was woensdag bij ... slager.",
+          "answer": "Mijn vrouw was woensdag bij de slager."
+        },
+        {
+          "text": "Zij was donderdag bij ... kruidenier.",
+          "answer": "Zij was donderdag bij de kruidenier."
+        },
+        {
+          "text": "Mijn dochter was vrijdag op ... platteland.",
+          "answer": "Mijn dochter was vrijdag op het platteland."
+        },
+        {
+          "text": "Ik was zaterdag ... thuis.",
+          "answer": "Ik was zaterdag thuis."
+        }
+      ]
+    }
+  ]
 }

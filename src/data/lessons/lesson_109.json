@@ -1,124 +1,126 @@
 {
   "id": 109,
   "title": "Les 109",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Betty biedt Jane koffie aan en ze praten over suiker, melk en sigaretten.",
-        "speaker": "Situatie",
-        "translation": "¿Qué te parece el nuevo jefe, Bob?"
-      },
-      {
-        "text": "Zal ik wat koffie zetten, Jane?",
-        "speaker": "Betty",
-        "translation": "Bueno, aún no lo sé. Solo he estado trabajando aquí durante dos semanas. Pero parece ser muy agradable."
-      },
-      {
-        "text": "Dat is een goed idee, Betty.",
-        "speaker": "Jane",
-        "translation": "¿Es fácil trabajar con él?"
-      },
-      {
-        "text": "Het is klaar. Wil je melk?",
-        "speaker": "Betty",
-        "translation": "Sí, lo es. Siempre está dispuesto a escuchar."
-      },
-      {
-        "text": "Alleen een beetje alsjeblieft.",
-        "speaker": "Jane",
-        "translation": "¿Es muy estricto?"
-      },
-      {
-        "text": "Wat suiker? Twee theelepels?",
-        "speaker": "Betty",
-        "translation": "No, en absoluto. Es muy justo."
-      },
-      {
-        "text": "Nee, minder dan dat. Anderhalf theelepel alsjeblieft. Dat is genoeg voor mij.",
-        "speaker": "Jane",
-        "translation": "¿Crees que le gusto?"
-      },
-      {
-        "text": "Dat was heel lekker.",
-        "speaker": "Jane",
-        "translation": "Sí, creo que sí. Te he oído hablar de ti muy favorablemente."
-      },
-      {
-        "text": "Wil je nog wat meer?",
-        "speaker": "Betty",
-        "translation": "¿De verdad? Eso es bueno saberlo."
-      },
-      {
-        "text": "Ja, alsjeblieft.",
-        "speaker": "Jane",
-        "translation": ""
-      },
-      {
-        "text": "Ik zou ook graag een sigaret willen. Mag ik er een?",
-        "speaker": "Jane",
-        "translation": ""
-      },
-      {
-        "text": "Natuurlijk. Ik denk dat er een paar in die doos zitten.",
-        "speaker": "Betty",
-        "translation": ""
-      },
-      {
-        "text": "Ik ben bang dat hij leeg is.",
-        "speaker": "Jane",
-        "translation": ""
-      },
-      {
-        "text": "Wat jammer!",
-        "speaker": "Betty",
-        "translation": ""
-      },
-      {
-        "text": "Het maakt niet uit.",
-        "speaker": "Jane",
-        "translation": ""
-      },
-      {
-        "text": "Neem in plaats daarvan een koekje. Eet meer en rook minder!",
-        "speaker": "Betty",
-        "translation": ""
-      },
-      {
-        "text": "Dat is heel goed advies!",
-        "speaker": "Jane",
-        "translation": ""
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page109_illust001.png",
-        "alt": "Betty zit in een fauteuil en roept naar Jane in een andere kamer, een telefoon staat op een tafeltje"
-      },
-      {
-        "src": "/illustrations-sorted/page109_illust002.png",
-        "alt": "Betty schenkt koffie in terwijl Jane toekijkt bij een kleine tafel"
-      },
-      {
-        "src": "/illustrations-sorted/page109_illust003.png",
-        "alt": "Betty houdt een suikerpot omhoog terwijl Jane haar hand opsteekt om aan te geven hoeveel"
-      },
-      {
-        "src": "/illustrations-sorted/page109_illust004.png",
-        "alt": "Jane drinkt van haar koffie, Betty vraagt of ze nog meer wil"
-      },
-      {
-        "src": "/illustrations-sorted/page109_illust005.png",
-        "alt": "Jane vraagt om een sigaret, Betty wijst naar een doos op tafel"
-      },
-      {
-        "src": "/illustrations-sorted/page109_illust006.png",
-        "alt": "Betty kijkt in de lege sigarettendoos terwijl Jane teleurgesteld kijkt"
-      },
-      {
-        "src": "/illustrations-sorted/page109_illust007.png",
-        "alt": "Betty biedt Jane een bord met koekjes aan, Jane glimlacht dankbaar"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Betty biedt Jane koffie aan en ze praten over suiker, melk en sigaretten.",
+          "speaker": "Situatie",
+          "translation": "¿Qué te parece el nuevo jefe, Bob?"
+        },
+        {
+          "text": "Zal ik wat koffie zetten, Jane?",
+          "speaker": "Betty",
+          "translation": "Bueno, aún no lo sé. Solo he estado trabajando aquí durante dos semanas. Pero parece ser muy agradable."
+        },
+        {
+          "text": "Dat is een goed idee, Betty.",
+          "speaker": "Jane",
+          "translation": "¿Es fácil trabajar con él?"
+        },
+        {
+          "text": "Het is klaar. Wil je melk?",
+          "speaker": "Betty",
+          "translation": "Sí, lo es. Siempre está dispuesto a escuchar."
+        },
+        {
+          "text": "Alleen een beetje alsjeblieft.",
+          "speaker": "Jane",
+          "translation": "¿Es muy estricto?"
+        },
+        {
+          "text": "Wat suiker? Twee theelepels?",
+          "speaker": "Betty",
+          "translation": "No, en absoluto. Es muy justo."
+        },
+        {
+          "text": "Nee, minder dan dat. Anderhalf theelepel alsjeblieft. Dat is genoeg voor mij.",
+          "speaker": "Jane",
+          "translation": "¿Crees que le gusto?"
+        },
+        {
+          "text": "Dat was heel lekker.",
+          "speaker": "Jane",
+          "translation": "Sí, creo que sí. Te he oído hablar de ti muy favorablemente."
+        },
+        {
+          "text": "Wil je nog wat meer?",
+          "speaker": "Betty",
+          "translation": "¿De verdad? Eso es bueno saberlo."
+        },
+        {
+          "text": "Ja, alsjeblieft.",
+          "speaker": "Jane",
+          "translation": ""
+        },
+        {
+          "text": "Ik zou ook graag een sigaret willen. Mag ik er een?",
+          "speaker": "Jane",
+          "translation": ""
+        },
+        {
+          "text": "Natuurlijk. Ik denk dat er een paar in die doos zitten.",
+          "speaker": "Betty",
+          "translation": ""
+        },
+        {
+          "text": "Ik ben bang dat hij leeg is.",
+          "speaker": "Jane",
+          "translation": ""
+        },
+        {
+          "text": "Wat jammer!",
+          "speaker": "Betty",
+          "translation": ""
+        },
+        {
+          "text": "Het maakt niet uit.",
+          "speaker": "Jane",
+          "translation": ""
+        },
+        {
+          "text": "Neem in plaats daarvan een koekje. Eet meer en rook minder!",
+          "speaker": "Betty",
+          "translation": ""
+        },
+        {
+          "text": "Dat is heel goed advies!",
+          "speaker": "Jane",
+          "translation": ""
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page109_illust001.png",
+          "alt": "Betty zit in een fauteuil en roept naar Jane in een andere kamer, een telefoon staat op een tafeltje"
+        },
+        {
+          "src": "/illustrations-sorted/page109_illust002.png",
+          "alt": "Betty schenkt koffie in terwijl Jane toekijkt bij een kleine tafel"
+        },
+        {
+          "src": "/illustrations-sorted/page109_illust003.png",
+          "alt": "Betty houdt een suikerpot omhoog terwijl Jane haar hand opsteekt om aan te geven hoeveel"
+        },
+        {
+          "src": "/illustrations-sorted/page109_illust004.png",
+          "alt": "Jane drinkt van haar koffie, Betty vraagt of ze nog meer wil"
+        },
+        {
+          "src": "/illustrations-sorted/page109_illust005.png",
+          "alt": "Jane vraagt om een sigaret, Betty wijst naar een doos op tafel"
+        },
+        {
+          "src": "/illustrations-sorted/page109_illust006.png",
+          "alt": "Betty kijkt in de lege sigarettendoos terwijl Jane teleurgesteld kijkt"
+        },
+        {
+          "src": "/illustrations-sorted/page109_illust007.png",
+          "alt": "Betty biedt Jane een bord met koekjes aan, Jane glimlacht dankbaar"
+        }
+      ]
+    }
+  ]
 }

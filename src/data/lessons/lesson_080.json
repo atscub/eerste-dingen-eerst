@@ -1,27 +1,120 @@
 {
   "id": 80,
   "title": "Les 80",
-  "subtitle": "Debo ir a...",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "No tengo huevos. / No tengo muchos huevos.",
-        "spanish": "No tengo huevos. / No tengo muchos huevos."
-      },
-      {
-        "dutch": "Ik heb geen eieren. / Ik heb niet veel eieren.",
-        "spanish": "No tengo huevos. / No tengo muchos huevos."
-      },
-      {
-        "dutch": "Él no tiene café. / Él no tiene mucho café.",
-        "spanish": "Él no tiene café. / Él no tiene mucho café."
-      },
-      {
-        "dutch": "Hij heeft geen koffie. / Hij heeft niet veel koffie.",
-        "spanish": "Él no tiene café. / Él no tiene mucho café."
-      }
-    ]
-  }
+  "subtitle": "Ik moet naar de...",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "groups": [
+        {
+          "prompt": "KRUIDENIER voor KRUIDENIERSWAREN:",
+          "items": [
+            { "number": 120, "dutch": "kaas", "spanish": "queso", "illustration": "/illustrations-sorted/page80_illust001.png" },
+            { "number": 121, "dutch": "eieren", "spanish": "huevos", "illustration": "/illustrations-sorted/page80_illust002.png" },
+            { "number": 122, "dutch": "boter", "spanish": "mantequilla", "illustration": "/illustrations-sorted/page80_illust003.png" },
+            { "number": 123, "dutch": "honing", "spanish": "miel", "illustration": "/illustrations-sorted/page80_illust004.png" },
+            { "number": 124, "dutch": "jam", "spanish": "mermelada", "illustration": "/illustrations-sorted/page80_illust005.png" },
+            { "number": 125, "dutch": "koekjes", "spanish": "galletas", "illustration": "/illustrations-sorted/page80_illust006.png" }
+          ]
+        },
+        {
+          "prompt": "GROENTEBOER voor GROENTEN en FRUIT:",
+          "items": [
+            { "number": 226, "dutch": "peren", "spanish": "peras", "illustration": "/illustrations-sorted/page80_illust007.png" },
+            { "number": 227, "dutch": "sinaasappels", "spanish": "naranjas", "illustration": "/illustrations-sorted/page80_illust008.png" },
+            { "number": 228, "dutch": "bananen", "spanish": "plátanos", "illustration": "/illustrations-sorted/page80_illust009.png" },
+            { "number": 229, "dutch": "bonen", "spanish": "judías", "illustration": "/illustrations-sorted/page80_illust010.png" },
+            { "number": 230, "dutch": "erwten", "spanish": "guisantes", "illustration": "/illustrations-sorted/page80_illust011.png" },
+            { "number": 231, "dutch": "kool", "spanish": "col", "illustration": "/illustrations-sorted/page80_illust012.png" }
+          ]
+        },
+        {
+          "prompt": "SLAGER voor VLEES:",
+          "items": [
+            { "number": 332, "dutch": "lam", "spanish": "cordero", "illustration": "/illustrations-sorted/page80_illust013.png" },
+            { "number": 333, "dutch": "rundvlees", "spanish": "carne de res", "illustration": "/illustrations-sorted/page80_illust014.png" },
+            { "number": 334, "dutch": "biefstuk", "spanish": "bistec", "illustration": "/illustrations-sorted/page80_illust015.png" },
+            { "number": 335, "dutch": "gehakt", "spanish": "carne picada", "illustration": "/illustrations-sorted/page80_illust016.png" },
+            { "number": 336, "dutch": "kip", "spanish": "pollo", "illustration": "/illustrations-sorted/page80_illust017.png" }
+          ]
+        },
+        {
+          "prompt": "KANTOORBOEKHANDEL voor KANTOORARTIKELEN:",
+          "items": [
+            { "number": 437, "dutch": "inkt", "spanish": "tinta", "illustration": "/illustrations-sorted/page80_illust018.png" },
+            { "number": 438, "dutch": "lijm", "spanish": "pegamento", "illustration": "/illustrations-sorted/page80_illust019.png" },
+            { "number": 439, "dutch": "enveloppen", "spanish": "sobres", "illustration": "/illustrations-sorted/page80_illust020.png" },
+            { "number": 440, "dutch": "schrijfpapier", "spanish": "papel de escribir", "illustration": "/illustrations-sorted/page80_illust021.png" }
+          ]
+        },
+        {
+          "prompt": "KRANTENKIOSK voor KRANTEN en TIJDSCHRIFTEN:",
+          "items": [
+            { "number": 541, "dutch": "kranten", "spanish": "periódicos", "illustration": "/illustrations-sorted/page80_illust022.png" },
+            { "number": 542, "dutch": "tijdschriften", "spanish": "revistas", "illustration": "/illustrations-sorted/page80_illust023.png" }
+          ]
+        },
+        {
+          "prompt": "BAKKER voor BROOD en GEBAK:",
+          "items": [
+            { "number": 543, "dutch": "brood", "spanish": "pan", "illustration": "/illustrations-sorted/page80_illust024.png" },
+            { "number": 544, "dutch": "gebak", "spanish": "pasteles", "illustration": "/illustrations-sorted/page80_illust025.png" }
+          ]
+        },
+        {
+          "prompt": "SIGARENWINKEL voor ROOKWAREN:",
+          "items": [
+            { "number": 645, "dutch": "sigaretten", "spanish": "cigarrillos", "illustration": "/illustrations-sorted/page80_illust026.png" },
+            { "number": 646, "dutch": "tabak", "spanish": "tabaco", "illustration": "/illustrations-sorted/page80_illust027.png" }
+          ]
+        },
+        {
+          "prompt": "APOTHEEK voor MEDICIJNEN:",
+          "items": [
+            { "number": 647, "dutch": "aspirines", "spanish": "aspirinas", "illustration": "/illustrations-sorted/page80_illust028.png" },
+            { "number": 648, "dutch": "medicijn", "spanish": "medicina", "illustration": "/illustrations-sorted/page80_illust029.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Ik heb geen eieren.",
+          "output": "Ik heb niet veel eieren.",
+          "spanish": "No tengo huevos. No tengo muchos huevos."
+        },
+        {
+          "input": "Hij heeft geen koffie.",
+          "output": "Hij heeft niet veel koffie.",
+          "spanish": "Él no tiene café. Él no tiene mucho café."
+        }
+      ],
+      "items": [
+        {
+          "text": "Ik heb geen boter.",
+          "answer": "Ik heb niet veel boter."
+        },
+        {
+          "text": "Jij hebt geen sigaretten.",
+          "answer": "Jij hebt niet veel sigaretten."
+        },
+        {
+          "text": "Wij hebben geen melk.",
+          "answer": "Wij hebben niet veel melk."
+        },
+        {
+          "text": "Zij heeft geen koekjes.",
+          "answer": "Zij heeft niet veel koekjes."
+        },
+        {
+          "text": "Zij hebben geen kantoorartikelen.",
+          "answer": "Zij hebben niet veel kantoorartikelen."
+        }
+      ]
+    }
+  ]
 }

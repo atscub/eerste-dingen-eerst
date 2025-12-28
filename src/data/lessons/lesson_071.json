@@ -1,99 +1,101 @@
 {
   "id": 71,
   "title": "Les 71",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Hoe is Ron Marston, Pauline?",
-        "speaker": "Jane",
-        "translation": "¿Cómo es Ron Marston, Pauline?"
-      },
-      {
-        "text": "Hij is verschrikkelijk! Hij belde me gisteren vier keer op, en drie keer eergisteren.",
-        "speaker": "Pauline",
-        "translation": "¡Es horrible! Me llamó por teléfono cuatro veces ayer, y tres veces el día antes de ayer."
-      },
-      {
-        "text": "Hij belde gisterochtend en gistermiddag naar kantoor. Mijn baas nam de telefoon op.",
-        "speaker": "Pauline",
-        "translation": "Llamó a la oficina ayer por la mañana y ayer por la tarde. Mi jefe contestó el teléfono."
-      },
-      {
-        "text": "Wat zei je baas tegen hem?",
-        "speaker": "Jane",
-        "translation": "¿Qué le dijo tu jefe?"
-      },
-      {
-        "text": "Hij zei: \"Juffrouw White is brieven aan het typen. Ze kan nu niet met je praten.\"",
-        "speaker": "Pauline",
-        "translation": "Dijo: \"La Srta. White está escribiendo cartas. No puede hablar contigo ahora.\""
-      },
-      {
-        "text": "Toen kwam ik gisteravond om zes uur thuis. Hij belde weer. Maar ik nam de telefoon niet op!",
-        "speaker": "Pauline",
-        "translation": "Luego llegué a casa a las seis en punto ayer por la noche. Llamó de nuevo. ¡Pero no contesté el teléfono!"
-      },
-      {
-        "text": "Belde hij gisteravond weer?",
-        "speaker": "Jane",
-        "translation": "¿Llamó de nuevo anoche?"
-      },
-      {
-        "text": "Ja, dat deed hij. Hij belde om negen uur.",
-        "speaker": "Pauline",
-        "translation": "Sí, lo hizo. Llamó a las nueve en punto."
-      },
-      {
-        "text": "Wat zei je tegen hem?",
-        "speaker": "Jane",
-        "translation": "¿Qué le dijiste?"
-      },
-      {
-        "text": "Ik zei: \"Dit is de moeder van Pauline. Bel mijn dochter alsjeblieft niet meer.\"",
-        "speaker": "Pauline",
-        "translation": "Dije: \"Esta es la madre de Pauline. Por favor, no llames a mi hija de nuevo.\""
-      },
-      {
-        "text": "Belde hij weer?",
-        "speaker": "Jane",
-        "translation": "¿Llamó de nuevo?"
-      },
-      {
-        "text": "Nee, dat deed hij niet.",
-        "speaker": "Pauline",
-        "translation": "No, no lo hizo."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page71_illust001.png",
-        "alt": "Jane y Pauline conversando sobre Ron"
-      },
-      {
-        "src": "/illustrations-sorted/page71_illust002.png",
-        "alt": "Pauline en la oficina, el jefe contestando el teléfono"
-      },
-      {
-        "src": "/illustrations-sorted/page71_illust003.png",
-        "alt": "El jefe hablando por teléfono mientras Pauline escribe"
-      },
-      {
-        "src": "/illustrations-sorted/page71_illust004.png",
-        "alt": "Teléfono sonando en casa de Pauline a las 6 PM"
-      },
-      {
-        "src": "/illustrations-sorted/page71_illust005.png",
-        "alt": "Teléfono sonando de nuevo a las 9 PM"
-      },
-      {
-        "src": "/illustrations-sorted/page71_illust006.png",
-        "alt": "Pauline fingiendo ser su madre por teléfono"
-      },
-      {
-        "src": "/illustrations-sorted/page71_illust007.png",
-        "alt": "Teléfono silencioso, Pauline aliviada"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Hoe is Ron Marston, Pauline?",
+          "speaker": "Jane",
+          "translation": "¿Cómo es Ron Marston, Pauline?"
+        },
+        {
+          "text": "Hij is verschrikkelijk! Hij belde me gisteren vier keer op, en drie keer eergisteren.",
+          "speaker": "Pauline",
+          "translation": "¡Es horrible! Me llamó por teléfono cuatro veces ayer, y tres veces el día antes de ayer."
+        },
+        {
+          "text": "Hij belde gisterochtend en gistermiddag naar kantoor. Mijn baas nam de telefoon op.",
+          "speaker": "Pauline",
+          "translation": "Llamó a la oficina ayer por la mañana y ayer por la tarde. Mi jefe contestó el teléfono."
+        },
+        {
+          "text": "Wat zei je baas tegen hem?",
+          "speaker": "Jane",
+          "translation": "¿Qué le dijo tu jefe?"
+        },
+        {
+          "text": "Hij zei: \"Juffrouw White is brieven aan het typen. Ze kan nu niet met je praten.\"",
+          "speaker": "Pauline",
+          "translation": "Dijo: \"La Srta. White está escribiendo cartas. No puede hablar contigo ahora.\""
+        },
+        {
+          "text": "Toen kwam ik gisteravond om zes uur thuis. Hij belde weer. Maar ik nam de telefoon niet op!",
+          "speaker": "Pauline",
+          "translation": "Luego llegué a casa a las seis en punto ayer por la noche. Llamó de nuevo. ¡Pero no contesté el teléfono!"
+        },
+        {
+          "text": "Belde hij gisteravond weer?",
+          "speaker": "Jane",
+          "translation": "¿Llamó de nuevo anoche?"
+        },
+        {
+          "text": "Ja, dat deed hij. Hij belde om negen uur.",
+          "speaker": "Pauline",
+          "translation": "Sí, lo hizo. Llamó a las nueve en punto."
+        },
+        {
+          "text": "Wat zei je tegen hem?",
+          "speaker": "Jane",
+          "translation": "¿Qué le dijiste?"
+        },
+        {
+          "text": "Ik zei: \"Dit is de moeder van Pauline. Bel mijn dochter alsjeblieft niet meer.\"",
+          "speaker": "Pauline",
+          "translation": "Dije: \"Esta es la madre de Pauline. Por favor, no llames a mi hija de nuevo.\""
+        },
+        {
+          "text": "Belde hij weer?",
+          "speaker": "Jane",
+          "translation": "¿Llamó de nuevo?"
+        },
+        {
+          "text": "Nee, dat deed hij niet.",
+          "speaker": "Pauline",
+          "translation": "No, no lo hizo."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page71_illust001.png",
+          "alt": "Jane y Pauline conversando sobre Ron"
+        },
+        {
+          "src": "/illustrations-sorted/page71_illust002.png",
+          "alt": "Pauline en la oficina, el jefe contestando el teléfono"
+        },
+        {
+          "src": "/illustrations-sorted/page71_illust003.png",
+          "alt": "El jefe hablando por teléfono mientras Pauline escribe"
+        },
+        {
+          "src": "/illustrations-sorted/page71_illust004.png",
+          "alt": "Teléfono sonando en casa de Pauline a las 6 PM"
+        },
+        {
+          "src": "/illustrations-sorted/page71_illust005.png",
+          "alt": "Teléfono sonando de nuevo a las 9 PM"
+        },
+        {
+          "src": "/illustrations-sorted/page71_illust006.png",
+          "alt": "Pauline fingiendo ser su madre por teléfono"
+        },
+        {
+          "src": "/illustrations-sorted/page71_illust007.png",
+          "alt": "Teléfono silencioso, Pauline aliviada"
+        }
+      ]
+    }
+  ]
 }

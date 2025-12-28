@@ -1,79 +1,77 @@
 {
   "id": 127,
   "title": "Les 127",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Kate en Millie bespreken een beroemde actrice in een restaurant.",
-        "speaker": "Situatie",
-        "translation": "Kate y Millie discuten sobre una actriz famosa en un restaurante."
-      },
-      {
-        "text": "Kun je die vrouw herkennen, Millie?",
-        "speaker": "Kate",
-        "translation": "¿Puedes reconocer a esa mujer, Millie?"
-      },
-      {
-        "text": "Ik denk van wel, Kate. Het moet Karen Marsh zijn, de actrice.",
-        "speaker": "Millie",
-        "translation": "Creo que sí, Kate. Debe ser Karen Marsh, la actriz."
-      },
-      {
-        "text": "Dat dacht ik ook. Wie is die naast haar?",
-        "speaker": "Kate",
-        "translation": "Eso pensé también. ¿Quién es ese junto a ella?"
-      },
-      {
-        "text": "Dat moet Conrad Reeves zijn.",
-        "speaker": "Millie",
-        "translation": "Debe ser Conrad Reeves."
-      },
-      {
-        "text": "Conrad Reeves, de acteur? Dat kan niet. Laat me nog een keer kijken. Ik denk dat je gelijk hebt! Is hij niet haar derde echtgenoot?",
-        "speaker": "Kate",
-        "translation": "¿Conrad Reeves, el actor? No puede ser. Déjame mirar de nuevo. ¡Creo que tienes razón! ¿No es él su tercer esposo?"
-      },
-      {
-        "text": "Nee. Hij moet haar vierde of vijfde zijn.",
-        "speaker": "Millie",
-        "translation": "No. Debe ser su cuarto o quinto."
-      },
-      {
-        "text": "Ziet Karen Marsh er niet oud uit!",
-        "speaker": "Kate",
-        "translation": "¡Karen Marsh no se ve vieja!"
-      },
-      {
-        "text": "Dat doet ze, niet waar! Ik las dat ze negenentwintig is, maar ze moet minstens veertig zijn.",
-        "speaker": "Millie",
-        "translation": "Sí que lo hace, ¿verdad? Leí que tiene veintinueve años, pero debe tener al menos cuarenta."
-      },
-      {
-        "text": "Dat weet ik zeker.",
-        "speaker": "Kate",
-        "translation": "Estoy segura de eso."
-      },
-      {
-        "text": "Ze was een beroemde actrice toen ik nog een schoolmeisje was.",
-        "speaker": "Millie",
-        "translation": "Era una actriz famosa cuando yo aún era una colegiala."
-      },
-      {
-        "text": "Dat was lang geleden, nietwaar?",
-        "speaker": "Kate",
-        "translation": "Eso fue hace mucho tiempo, ¿no?"
-      },
-      {
-        "text": "Niet *zo* lang geleden! Ik ben zelf niet ouder dan negenentwintig.",
-        "speaker": "Millie",
-        "translation": "¡No *tan* hace mucho! Yo misma no tengo más de veintinueve años."
-      }
-    ],
-    "headerImage": {
-      "src": "/illustrations-sorted/page127_illust001.png",
-      "alt": "Ilustración 1 del diálogo"
-    },
-    "images": []
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Kate en Millie bespreken een beroemde actrice in een restaurant.",
+          "speaker": "Situatie",
+          "translation": "Kate y Millie discuten sobre una actriz famosa en un restaurante."
+        },
+        {
+          "text": "Kun je die vrouw herkennen, Millie?",
+          "speaker": "Kate",
+          "translation": "¿Puedes reconocer a esa mujer, Millie?"
+        },
+        {
+          "text": "Ik denk van wel, Kate. Het moet Karen Marsh zijn, de actrice.",
+          "speaker": "Millie",
+          "translation": "Creo que sí, Kate. Debe ser Karen Marsh, la actriz."
+        },
+        {
+          "text": "Dat dacht ik ook. Wie is die naast haar?",
+          "speaker": "Kate",
+          "translation": "Eso pensé también. ¿Quién es ese junto a ella?"
+        },
+        {
+          "text": "Dat moet Conrad Reeves zijn.",
+          "speaker": "Millie",
+          "translation": "Debe ser Conrad Reeves."
+        },
+        {
+          "text": "Conrad Reeves, de acteur? Dat kan niet. Laat me nog een keer kijken. Ik denk dat je gelijk hebt! Is hij niet haar derde echtgenoot?",
+          "speaker": "Kate",
+          "translation": "¿Conrad Reeves, el actor? No puede ser. Déjame mirar de nuevo. ¡Creo que tienes razón! ¿No es él su tercer esposo?"
+        },
+        {
+          "text": "Nee. Hij moet haar vierde of vijfde zijn.",
+          "speaker": "Millie",
+          "translation": "No. Debe ser su cuarto o quinto."
+        },
+        {
+          "text": "Ziet Karen Marsh er niet oud uit!",
+          "speaker": "Kate",
+          "translation": "¡Karen Marsh no se ve vieja!"
+        },
+        {
+          "text": "Dat doet ze, niet waar! Ik las dat ze negenentwintig is, maar ze moet minstens veertig zijn.",
+          "speaker": "Millie",
+          "translation": "Sí que lo hace, ¿verdad? Leí que tiene veintinueve años, pero debe tener al menos cuarenta."
+        },
+        {
+          "text": "Dat weet ik zeker.",
+          "speaker": "Kate",
+          "translation": "Estoy segura de eso."
+        },
+        {
+          "text": "Ze was een beroemde actrice toen ik nog een schoolmeisje was.",
+          "speaker": "Millie",
+          "translation": "Era una actriz famosa cuando yo aún era una colegiala."
+        },
+        {
+          "text": "Dat was lang geleden, nietwaar?",
+          "speaker": "Kate",
+          "translation": "Eso fue hace mucho tiempo, ¿no?"
+        },
+        {
+          "text": "Niet *zo* lang geleden! Ik ben zelf niet ouder dan negenentwintig.",
+          "speaker": "Millie",
+          "translation": "¡No *tan* hace mucho! Yo misma no tengo más de veintinueve años."
+        }
+      ],
+      "images": []
+    }
+  ]
 }

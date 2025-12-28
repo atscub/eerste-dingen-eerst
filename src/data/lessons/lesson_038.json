@@ -1,19 +1,116 @@
 {
   "id": 38,
   "title": "Les 38",
-  "subtitle": "¿Qué vas a hacer? / ¿Qué estás haciendo ahora?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Wat ... je aan het doen?",
-        "spanish": "¿Qué ... estás haciendo?"
-      },
-      {
-        "dutch": "Wat ben je aan het doen?",
-        "spanish": "¿Qué estás haciendo?"
-      }
-    ]
-  }
+  "subtitle": "Wat ga je doen? Wat ben je nu aan het doen?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat ga je doen? / Wat ben je nu aan het doen?",
+      "items": [
+        {
+          "number": 1,
+          "dutch": "Ik ga me scheren.",
+          "spanish": "Voy a afeitarme.",
+          "illustration": "/illustrations-sorted/page38_illust001.png"
+        },
+        {
+          "number": 2,
+          "dutch": "Nu ben ik me aan het scheren.",
+          "spanish": "Ahora me estoy afeitando.",
+          "illustration": "/illustrations-sorted/page38_illust002.png"
+        },
+        {
+          "number": 3,
+          "dutch": "Ik ga op de bus wachten.",
+          "spanish": "Voy a esperar el autobús.",
+          "illustration": "/illustrations-sorted/page38_illust003.png"
+        },
+        {
+          "number": 4,
+          "dutch": "Nu wacht ik op de bus.",
+          "spanish": "Ahora estoy esperando el autobús.",
+          "illustration": "/illustrations-sorted/page38_illust004.png"
+        },
+        {
+          "number": 5,
+          "dutch": "We gaan ons huiswerk maken.",
+          "spanish": "Vamos a hacer nuestra tarea.",
+          "illustration": "/illustrations-sorted/page38_illust005.png"
+        },
+        {
+          "number": 6,
+          "dutch": "Nu maken we ons huiswerk.",
+          "spanish": "Ahora estamos haciendo nuestra tarea.",
+          "illustration": "/illustrations-sorted/page38_illust006.png"
+        },
+        {
+          "number": 7,
+          "dutch": "Ik ga deze boekenkast verven.",
+          "spanish": "Voy a pintar esta estantería.",
+          "illustration": "/illustrations-sorted/page38_illust007.png"
+        },
+        {
+          "number": 8,
+          "dutch": "Nu ben ik deze boekenkast aan het verven.",
+          "spanish": "Ahora estoy pintando esta estantería.",
+          "illustration": "/illustrations-sorted/page38_illust008.png"
+        },
+        {
+          "number": 9,
+          "dutch": "We gaan naar de radio luisteren.",
+          "spanish": "Vamos a escuchar la radio.",
+          "illustration": "/illustrations-sorted/page38_illust009.png"
+        },
+        {
+          "number": 10,
+          "dutch": "Nu luisteren we naar de radio.",
+          "spanish": "Ahora estamos escuchando la radio.",
+          "illustration": "/illustrations-sorted/page38_illust010.png"
+        },
+        {
+          "number": 11,
+          "dutch": "Ik ga de afwas doen.",
+          "spanish": "Voy a lavar los platos.",
+          "illustration": "/illustrations-sorted/page38_illust011.png"
+        },
+        {
+          "number": 12,
+          "dutch": "Nu ben ik de afwas aan het doen.",
+          "spanish": "Ahora estoy lavando los platos.",
+          "illustration": "/illustrations-sorted/page38_illust012.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["ben", "is", "zijn"],
+      "example": [
+        {
+          "input": "Wat ---- je aan het doen? We ---- aan het lezen.",
+          "output": "Wat ben je aan het doen? We zijn aan het lezen.",
+          "spanish": "¿Qué estás haciendo? Estamos leyendo."
+        }
+      ],
+      "items": [
+        {
+          "text": "Wat ---- je aan het doen? We ---- aan het lezen.",
+          "answer": "Wat ben je aan het doen? We zijn aan het lezen."
+        },
+        {
+          "text": "Wat ---- ze aan het doen? Ze ---- hun huiswerk aan het maken.",
+          "answer": "Wat zijn ze aan het doen? Ze zijn hun huiswerk aan het maken."
+        },
+        {
+          "text": "Wat ---- hij aan het doen? Hij ---- hard aan het werken.",
+          "answer": "Wat is hij aan het doen? Hij is hard aan het werken."
+        },
+        {
+          "text": "Wat ---- je aan het doen? Ik ---- de afwas aan het doen.",
+          "answer": "Wat ben je aan het doen? Ik ben de afwas aan het doen."
+        }
+      ]
+    }
+  ]
 }

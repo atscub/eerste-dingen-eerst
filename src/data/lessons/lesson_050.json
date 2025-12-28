@@ -1,19 +1,64 @@
 {
   "id": 50,
   "title": "Les 50",
-  "subtitle": "Le gusta... pero no le gusta...",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Completa con: **ben**, **ben niet**, **zijn niet**, **is niet**, **kan niet**, **hou niet van**, **doet niet**.",
-    "example": [
-      {
-        "dutch": "Ze houdt van aardappelen, maar ik ...",
-        "spanish": "A ella le gustan las patatas, pero yo ..."
-      },
-      {
-        "dutch": "Ze houdt van aardappelen, maar ik niet.",
-        "spanish": "A ella le gustan las patatas, pero a mí no."
-      }
-    ]
-  }
+  "subtitle": "Hij houdt van... maar hij houdt niet van...",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hij houdt van... maar hij houdt niet van...",
+      "items": [
+        { "number": 13, "dutch": "lekkere tomaten", "spanish": "tomates selectos", "illustration": "/illustrations-sorted/page50_illust001.png" },
+        { "number": 14, "dutch": "nieuwe aardappels", "spanish": "patatas nuevas", "illustration": "/illustrations-sorted/page50_illust002.png" },
+        { "number": 15, "dutch": "verse kolen", "spanish": "coles frescas", "illustration": "/illustrations-sorted/page50_illust003.png" },
+        { "number": 16, "dutch": "verse sla", "spanish": "lechugas frescas", "illustration": "/illustrations-sorted/page50_illust004.png" },
+        { "number": 17, "dutch": "tuinerwten", "spanish": "guisantes", "illustration": "/illustrations-sorted/page50_illust005.png" },
+        { "number": 18, "dutch": "tuinbonen", "spanish": "judías", "illustration": "/illustrations-sorted/page50_illust006.png" },
+        { "number": 19, "dutch": "rijpe bananen", "spanish": "plátanos maduros", "illustration": "/illustrations-sorted/page50_illust007.png" },
+        { "number": 20, "dutch": "zoete sinaasappels", "spanish": "naranjas dulces", "illustration": "/illustrations-sorted/page50_illust008.png" },
+        { "number": 21, "dutch": "lekkere appels", "spanish": "manzanas selectas", "illustration": "/illustrations-sorted/page50_illust009.png" },
+        { "number": 22, "dutch": "lekkere peren", "spanish": "peras selectas", "illustration": "/illustrations-sorted/page50_illust010.png" },
+        { "number": 23, "dutch": "lekkere druiven", "spanish": "uvas selectas", "illustration": "/illustrations-sorted/page50_illust011.png" },
+        { "number": 24, "dutch": "lekkere perziken", "spanish": "melocotones selectos", "illustration": "/illustrations-sorted/page50_illust012.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto: Zij houdt van aardappels, maar ik niet.",
+      "wordsToUse": ["niet", "ben niet", "zijn niet", "is niet", "kan niet", "doe niet"],
+      "example": [
+        {
+          "input": "Zij houdt van aardappels, maar ik ----.",
+          "output": "Zij houdt van aardappels, maar ik niet.",
+          "spanish": "A ella le gustan las patatas, pero a mí no."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij houdt van koffie, maar ik ----.",
+          "answer": "Hij houdt van koffie, maar ik niet."
+        },
+        {
+          "text": "Zij houdt van thee, maar hij ----.",
+          "answer": "Zij houdt van thee, maar hij niet."
+        },
+        {
+          "text": "Hij eet wat brood, maar zij ----.",
+          "answer": "Hij eet wat brood, maar zij niet."
+        },
+        {
+          "text": "Zij kan heel goed typen, maar hij ----.",
+          "answer": "Zij kan heel goed typen, maar hij niet."
+        },
+        {
+          "text": "Zij werken hard, maar wij ----.",
+          "answer": "Zij werken hard, maar wij niet."
+        },
+        {
+          "text": "Hij leest een tijdschrift, maar ik ----.",
+          "answer": "Hij leest een tijdschrift, maar ik niet."
+        }
+      ]
+    }
+  ]
 }

@@ -1,84 +1,86 @@
 {
   "id": 87,
   "title": "Les 87",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Is mijn auto al klaar?",
-        "speaker": "Meneer Wood",
-        "translation": "¿Está listo mi coche todavía?"
-      },
-      {
-        "text": "Dat weet ik niet, meneer. Wat is het kenteken van uw auto?",
-        "speaker": "Garagemedewerker",
-        "translation": "No lo sé, señor. ¿Cuál es el número de matrícula de su coche?"
-      },
-      {
-        "text": "Het is LFZ 312 G.",
-        "speaker": "Meneer Wood",
-        "translation": "Es LFZ 312 G."
-      },
-      {
-        "text": "Wanneer bracht u hem hier?",
-        "speaker": "Garagemedewerker",
-        "translation": "¿Cuándo lo trajo aquí?"
-      },
-      {
-        "text": "Ik bracht hem drie dagen geleden hier.",
-        "speaker": "Meneer Wood",
-        "translation": "Lo traje aquí hace tres días."
-      },
-      {
-        "text": "Ah ja, ik herinner het me nu.",
-        "speaker": "Garagemedewerker",
-        "translation": "Ah sí, ahora lo recuerdo."
-      },
-      {
-        "text": "Zijn uw monteurs al klaar?",
-        "speaker": "Meneer Wood",
-        "translation": "¿Han terminado sus mecánicos todavía?"
-      },
-      {
-        "text": "Nee, ze werken er nog aan. Laten we naar de garage gaan en kijken.",
-        "speaker": "Garagemedewerker",
-        "translation": "No, todavía están trabajando en él. Vamos al garaje y echemos un vistazo."
-      },
-      {
-        "text": "Is dat niet uw auto?",
-        "speaker": "Meneer Wood",
-        "translation": "¿No es ese su coche?"
-      },
-      {
-        "text": "Nou, het was mijn auto.",
-        "speaker": "Garagemedewerker",
-        "translation": "Bueno, era mi coche."
-      },
-      {
-        "text": "Heeft uw vrouw geen ongeluk gehad?",
-        "speaker": "Meneer Wood",
-        "translation": "¿No tuvo su esposa un accidente?"
-      },
-      {
-        "text": "Dat klopt. Ze reed hem tegen een lantaarnpaal. Kunnen uw monteurs hem repareren?",
-        "speaker": "Garagemedewerker",
-        "translation": "Así es. Lo chocó contra un poste de luz. ¿Pueden repararlo sus mecánicos?"
-      },
-      {
-        "text": "Nou, ze proberen hem te repareren, meneer. Maar om u de waarheid te zeggen, u heeft een nieuwe auto nodig!",
-        "speaker": "Garagemedewerker",
-        "translation": "Bueno, están intentando repararlo, señor. Pero para decirle la verdad, ¡necesita un coche nuevo!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page87_illust001.png",
-        "alt": "Sr. Wood en la recepción del taller hablando con el encargado"
-      },
-      {
-        "src": "/illustrations-sorted/page87_illust002.png",
-        "alt": "Sr. Wood, encargado y mecánicos mirando el coche muy dañado"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Is mijn auto al klaar?",
+          "speaker": "Meneer Wood",
+          "translation": "¿Está listo mi coche todavía?"
+        },
+        {
+          "text": "Dat weet ik niet, meneer. Wat is het kenteken van uw auto?",
+          "speaker": "Garagemedewerker",
+          "translation": "No lo sé, señor. ¿Cuál es el número de matrícula de su coche?"
+        },
+        {
+          "text": "Het is LFZ 312 G.",
+          "speaker": "Meneer Wood",
+          "translation": "Es LFZ 312 G."
+        },
+        {
+          "text": "Wanneer bracht u hem hier?",
+          "speaker": "Garagemedewerker",
+          "translation": "¿Cuándo lo trajo aquí?"
+        },
+        {
+          "text": "Ik bracht hem drie dagen geleden hier.",
+          "speaker": "Meneer Wood",
+          "translation": "Lo traje aquí hace tres días."
+        },
+        {
+          "text": "Ah ja, ik herinner het me nu.",
+          "speaker": "Garagemedewerker",
+          "translation": "Ah sí, ahora lo recuerdo."
+        },
+        {
+          "text": "Zijn uw monteurs al klaar?",
+          "speaker": "Meneer Wood",
+          "translation": "¿Han terminado sus mecánicos todavía?"
+        },
+        {
+          "text": "Nee, ze werken er nog aan. Laten we naar de garage gaan en kijken.",
+          "speaker": "Garagemedewerker",
+          "translation": "No, todavía están trabajando en él. Vamos al garaje y echemos un vistazo."
+        },
+        {
+          "text": "Is dat niet uw auto?",
+          "speaker": "Meneer Wood",
+          "translation": "¿No es ese su coche?"
+        },
+        {
+          "text": "Nou, het was mijn auto.",
+          "speaker": "Garagemedewerker",
+          "translation": "Bueno, era mi coche."
+        },
+        {
+          "text": "Heeft uw vrouw geen ongeluk gehad?",
+          "speaker": "Meneer Wood",
+          "translation": "¿No tuvo su esposa un accidente?"
+        },
+        {
+          "text": "Dat klopt. Ze reed hem tegen een lantaarnpaal. Kunnen uw monteurs hem repareren?",
+          "speaker": "Garagemedewerker",
+          "translation": "Así es. Lo chocó contra un poste de luz. ¿Pueden repararlo sus mecánicos?"
+        },
+        {
+          "text": "Nou, ze proberen hem te repareren, meneer. Maar om u de waarheid te zeggen, u heeft een nieuwe auto nodig!",
+          "speaker": "Garagemedewerker",
+          "translation": "Bueno, están intentando repararlo, señor. Pero para decirle la verdad, ¡necesita un coche nuevo!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page87_illust001.png",
+          "alt": "Sr. Wood en la recepción del taller hablando con el encargado"
+        },
+        {
+          "src": "/illustrations-sorted/page87_illust002.png",
+          "alt": "Sr. Wood, encargado y mecánicos mirando el coche muy dañado"
+        }
+      ]
+    }
+  ]
 }

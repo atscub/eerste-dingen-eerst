@@ -1,15 +1,118 @@
 {
   "id": 30,
   "title": "Les 30",
-  "subtitle": "¿Qué debo hacer?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto: Cambia estos de la misma manera:",
-    "example": [
-      {
-        "dutch": "Het kopje is niet leeg. Maak het leeg!",
-        "spanish": "La taza no está vacía. ¡Vacíala!"
-      }
-    ]
-  }
+  "subtitle": "Wat moet ik doen?",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "groups": [
+        {
+          "prompt": "Open/Sluit uw",
+          "items": [
+            { "number": 1, "dutch": "boek", "spanish": "libro", "illustration": "/illustrations-sorted/page30_illust001.png" },
+            { "number": 2, "dutch": "deur", "spanish": "puerta", "illustration": "/illustrations-sorted/page30_illust002.png" },
+            { "number": 3, "dutch": "raam", "spanish": "ventana", "illustration": "/illustrations-sorted/page30_illust003.png" },
+            { "number": 4, "dutch": "tas", "spanish": "bolso", "illustration": "/illustrations-sorted/page30_illust004.png" }
+          ]
+        },
+        {
+          "prompt": "Trek aan/Trek uit uw",
+          "items": [
+            { "number": 5, "dutch": "jas", "spanish": "abrigo", "illustration": "/illustrations-sorted/page30_illust005.png" },
+            { "number": 6, "dutch": "hoed", "spanish": "sombrero", "illustration": "/illustrations-sorted/page30_illust006.png" },
+            { "number": 7, "dutch": "schoenen", "spanish": "zapatos", "illustration": "/illustrations-sorted/page30_illust007.png" },
+            { "number": 8, "dutch": "das", "spanish": "corbata", "illustration": "/illustrations-sorted/page30_illust008.png" },
+            { "number": 9, "dutch": "overhemd", "spanish": "camisa", "illustration": "/illustrations-sorted/page30_illust009.png" },
+            { "number": 10, "dutch": "jasje", "spanish": "chaqueta", "illustration": "/illustrations-sorted/page30_illust010.png" }
+          ]
+        },
+        {
+          "prompt": "Zet aan/Zet uit de",
+          "items": [
+            { "number": 11, "dutch": "ventilator", "spanish": "ventilador", "illustration": "/illustrations-sorted/page30_illust011.png" },
+            { "number": 12, "dutch": "televisie", "spanish": "televisión", "illustration": "/illustrations-sorted/page30_illust012.png" },
+            { "number": 13, "dutch": "lamp", "spanish": "lámpara", "illustration": "/illustrations-sorted/page30_illust013.png" },
+            { "number": 14, "dutch": "kraan", "spanish": "grifo", "illustration": "/illustrations-sorted/page30_illust014.png" },
+            { "number": 15, "dutch": "radio", "spanish": "radio", "illustration": "/illustrations-sorted/page30_illust015.png" }
+          ]
+        },
+        {
+          "prompt": "Veeg de",
+          "items": [
+            { "number": 16, "dutch": "vloer", "spanish": "suelo", "illustration": "/illustrations-sorted/page30_illust016.png" },
+            { "number": 17, "dutch": "tapijt", "spanish": "alfombra", "illustration": "/illustrations-sorted/page30_illust017.png" },
+            { "number": 18, "dutch": "tuin", "spanish": "jardín", "illustration": "/illustrations-sorted/page30_illust018.png" },
+            { "number": 19, "dutch": "kamer", "spanish": "habitación", "illustration": "/illustrations-sorted/page30_illust019.png" }
+          ]
+        },
+        {
+          "prompt": "Maak schoon de",
+          "items": [
+            { "number": 20, "dutch": "tanden", "spanish": "dientes", "illustration": "/illustrations-sorted/page30_illust020.png" },
+            { "number": 21, "dutch": "auto", "spanish": "coche", "illustration": "/illustrations-sorted/page30_illust021.png" },
+            { "number": 22, "dutch": "ramen", "spanish": "ventanas", "illustration": "/illustrations-sorted/page30_illust022.png" },
+            { "number": 23, "dutch": "kast", "spanish": "armario", "illustration": "/illustrations-sorted/page30_illust023.png" }
+          ]
+        },
+        {
+          "prompt": "Stof af de",
+          "items": [
+            { "number": 24, "dutch": "bureau", "spanish": "escritorio", "illustration": "/illustrations-sorted/page30_illust024.png" },
+            { "number": 25, "dutch": "kaptafel", "spanish": "tocador", "illustration": "/illustrations-sorted/page30_illust025.png" },
+            { "number": 26, "dutch": "dressoir", "spanish": "aparador", "illustration": "/illustrations-sorted/page30_illust026.png" }
+          ]
+        },
+        {
+          "prompt": "Leeg de",
+          "items": [
+            { "number": 27, "dutch": "mand", "spanish": "cesta", "illustration": "/illustrations-sorted/page30_illust027.png" },
+            { "number": 28, "dutch": "la", "spanish": "cajón", "illustration": "/illustrations-sorted/page30_illust028.png" },
+            { "number": 29, "dutch": "tas", "spanish": "bolso", "illustration": "/illustrations-sorted/page30_illust029.png" },
+            { "number": 30, "dutch": "doos", "spanish": "caja", "illustration": "/illustrations-sorted/page30_illust030.png" }
+          ]
+        },
+        {
+          "prompt": "Lees dit",
+          "items": [
+            { "number": 31, "dutch": "boek", "spanish": "libro", "illustration": "/illustrations-sorted/page30_illust031.png" },
+            { "number": 32, "dutch": "tijdschrift", "spanish": "revista", "illustration": "/illustrations-sorted/page30_illust032.png" },
+            { "number": 33, "dutch": "krant", "spanish": "periódico", "illustration": "/illustrations-sorted/page30_illust033.png" }
+          ]
+        },
+        {
+          "prompt": "Slijp deze",
+          "items": [
+            { "number": 34, "dutch": "potloden", "spanish": "lápices", "illustration": "/illustrations-sorted/page30_illust034.png" },
+            { "number": 35, "dutch": "schaar", "spanish": "tijeras", "illustration": "/illustrations-sorted/page30_illust035.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "rewrite",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Het kopje is niet leeg.",
+          "output": "Maak het leeg!",
+          "spanish": "La taza no está vacía. ¡Vacíala!"
+        }
+      ],
+      "items": [
+        {
+          "text": "Het raam is niet schoon.",
+          "answer": "Maak het schoon!"
+        },
+        {
+          "text": "De deur is niet dicht.",
+          "answer": "Doe hem dicht!"
+        },
+        {
+          "text": "De kledingkast is niet open.",
+          "answer": "Doe hem open!"
+        }
+      ]
+    }
+  ]
 }

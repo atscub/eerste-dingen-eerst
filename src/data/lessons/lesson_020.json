@@ -1,19 +1,172 @@
 {
   "id": 20,
   "title": "Les 20",
-  "subtitle": "¡Míralos!",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Die kinderen ... dorstig.",
-        "spanish": "Esos niños ... sedientos."
-      },
-      {
-        "dutch": "Die kinderen zijn dorstig.",
-        "spanish": "Esos niños están sedientos."
-      }
-    ]
-  }
+  "subtitle": "Kijk naar ze!",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Kijk naar ze!",
+      "items": [
+        {
+          "number": 105,
+          "dutch": "Ze zijn schoon.",
+          "spanish": "Están limpios.",
+          "illustration": "/illustrations-sorted/page20_illust001.png"
+        },
+        {
+          "number": 106,
+          "dutch": "Ze zijn vies.",
+          "spanish": "Están sucios.",
+          "illustration": "/illustrations-sorted/page20_illust002.png"
+        },
+        {
+          "number": 217,
+          "dutch": "Ze hebben het warm.",
+          "spanish": "Tienen calor.",
+          "illustration": "/illustrations-sorted/page20_illust003.png"
+        },
+        {
+          "number": 218,
+          "dutch": "Ze hebben het koud.",
+          "spanish": "Tienen frío.",
+          "illustration": "/illustrations-sorted/page20_illust004.png"
+        },
+        {
+          "number": 321,
+          "dutch": "Ze zijn dik.",
+          "spanish": "Están gordos.",
+          "illustration": "/illustrations-sorted/page20_illust005.png"
+        },
+        {
+          "number": 322,
+          "dutch": "Ze zijn dun.",
+          "spanish": "Están delgados.",
+          "illustration": "/illustrations-sorted/page20_illust006.png"
+        },
+        {
+          "number": 433,
+          "dutch": "Ze zijn groot.",
+          "spanish": "Son grandes.",
+          "illustration": "/illustrations-sorted/page20_illust007.png"
+        },
+        {
+          "number": 434,
+          "dutch": "Ze zijn klein.",
+          "spanish": "Son pequeños.",
+          "illustration": "/illustrations-sorted/page20_illust008.png"
+        },
+        {
+          "number": 545,
+          "dutch": "Ze zijn open.",
+          "spanish": "Están abiertos.",
+          "illustration": "/illustrations-sorted/page20_illust009.png"
+        },
+        {
+          "number": 546,
+          "dutch": "Ze zijn dicht.",
+          "spanish": "Están cerrados.",
+          "illustration": "/illustrations-sorted/page20_illust010.png"
+        },
+        {
+          "number": 657,
+          "dutch": "Ze zijn licht.",
+          "spanish": "Son ligeros.",
+          "illustration": "/illustrations-sorted/page20_illust011.png"
+        },
+        {
+          "number": 658,
+          "dutch": "Ze zijn zwaar.",
+          "spanish": "Son pesados.",
+          "illustration": "/illustrations-sorted/page20_illust012.png"
+        },
+        {
+          "number": 769,
+          "dutch": "Ze zijn oud.",
+          "spanish": "Son viejos.",
+          "illustration": "/illustrations-sorted/page20_illust013.png"
+        },
+        {
+          "number": 770,
+          "dutch": "Ze zijn jong.",
+          "spanish": "Son jóvenes.",
+          "illustration": "/illustrations-sorted/page20_illust014.png"
+        },
+        {
+          "number": 881,
+          "dutch": "Ze zijn oud.",
+          "spanish": "Son viejos.",
+          "illustration": "/illustrations-sorted/page20_illust015.png"
+        },
+        {
+          "number": 882,
+          "dutch": "Ze zijn nieuw.",
+          "spanish": "Son nuevos.",
+          "illustration": "/illustrations-sorted/page20_illust016.png"
+        },
+        {
+          "number": 998,
+          "dutch": "Ze zijn kort.",
+          "spanish": "Son bajos.",
+          "illustration": "/illustrations-sorted/page20_illust017.png"
+        },
+        {
+          "number": 999,
+          "dutch": "Ze zijn lang.",
+          "spanish": "Son altos.",
+          "illustration": "/illustrations-sorted/page20_illust018.png"
+        },
+        {
+          "number": 1000,
+          "dutch": "Ze zijn kort.",
+          "spanish": "Son cortos.",
+          "illustration": "/illustrations-sorted/page20_illust019.png"
+        },
+        {
+          "number": 1001,
+          "dutch": "Ze zijn lang.",
+          "spanish": "Son largos.",
+          "illustration": "/illustrations-sorted/page20_illust020.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["zijn", "is", "ben"],
+      "example": [
+        {
+          "input": "Die kinderen ---- dorstig.",
+          "output": "Die kinderen zijn dorstig.",
+          "spanish": "Esos niños tienen sed."
+        }
+      ],
+      "items": [
+        {
+          "text": "Die kinderen ---- moe.",
+          "answer": "Die kinderen zijn moe."
+        },
+        {
+          "text": "Hun moeder ---- ook moe.",
+          "answer": "Hun moeder is ook moe."
+        },
+        {
+          "text": "Die ijscoman ---- erg druk.",
+          "answer": "Die ijscoman is erg druk."
+        },
+        {
+          "text": "Zijn ijsjes ---- erg lekker.",
+          "answer": "Zijn ijsjes zijn erg lekker."
+        },
+        {
+          "text": "Wat is er aan de hand, kinderen? Wij ---- dorstig.",
+          "answer": "Wat is er aan de hand, kinderen? Wij zijn dorstig."
+        },
+        {
+          "text": "Wat is er aan de hand, Tim? Ik ---- moe.",
+          "answer": "Wat is er aan de hand, Tim? Ik ben moe."
+        }
+      ]
+    }
+  ]
 }

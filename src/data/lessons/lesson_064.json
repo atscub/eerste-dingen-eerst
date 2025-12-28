@@ -1,19 +1,60 @@
 {
   "id": 64,
   "title": "Les 64",
-  "subtitle": "¡No...! ¡No debes...!",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "No debo tomar aspirinas.",
-        "spanish": "No debo tomar aspirinas."
-      },
-      {
-        "dutch": "Jimmy no debe tomar aspirinas.",
-        "spanish": "Jimmy no debe tomar aspirinas."
-      }
-    ]
-  }
+  "subtitle": "Doe niet...! Je mag niet...!",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Doe niet...! Je mag niet...!",
+      "items": [
+        { "number": 110, "dutch": "... neem geen aspirines!", "spanish": "... ¡no tomes aspirinas!", "illustration": "/illustrations-sorted/page64_illust001.png" },
+        { "number": 221, "dutch": "... drink dit medicijn niet!", "spanish": "... ¡no bebas esta medicina!", "illustration": "/illustrations-sorted/page64_illust002.png" },
+        { "number": 332, "dutch": "... bel de dokter!", "spanish": "... ¡llama al médico!", "illustration": "/illustrations-sorted/page64_illust003.png" },
+        { "number": 443, "dutch": "... speel niet met lucifers!", "spanish": "... ¡no juegues con cerillas!", "illustration": "/illustrations-sorted/page64_illust004.png" },
+        { "number": 554, "dutch": "... praat niet in de bibliotheek!", "spanish": "... ¡no hables en la biblioteca!", "illustration": "/illustrations-sorted/page64_illust005.png" },
+        { "number": 665, "dutch": "... maak geen lawaai!", "spanish": "... ¡no hagas ruido!", "illustration": "/illustrations-sorted/page64_illust006.png" },
+        { "number": 776, "dutch": "... rij niet zo snel!", "spanish": "... ¡no conduzcas tan rápido!", "illustration": "/illustrations-sorted/page64_illust007.png" },
+        { "number": 887, "dutch": "... leun niet uit het raam!", "spanish": "... ¡no te asomes por la ventana!", "illustration": "/illustrations-sorted/page64_illust008.png" },
+        { "number": 998, "dutch": "... breek die vaas niet!", "spanish": "... ¡no rompas ese jarrón!", "illustration": "/illustrations-sorted/page64_illust009.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto: Schrijf dit opnieuw. Begin elke zin met Jimmy.",
+      "example": [
+        {
+          "input": "Ik mag geen aspirines nemen.",
+          "output": "Jimmy mag geen aspirines nemen.",
+          "spanish": "No debo tomar aspirinas. -> Jimmy no debe tomar aspirinas."
+        }
+      ],
+      "items": [
+        {
+          "text": "Het gaat nu beter met mij, maar ik mag nog niet opstaan.",
+          "answer": "Het gaat nu beter met Jimmy, maar hij mag nog niet opstaan."
+        },
+        {
+          "text": "Ik ben verkouden en ik moet in bed blijven.",
+          "answer": "Jimmy is verkouden en hij moet in bed blijven."
+        },
+        {
+          "text": "Ik kan elke dag twee uur opstaan.",
+          "answer": "Jimmy kan elke dag twee uur opstaan."
+        },
+        {
+          "text": "Ik lees vaak in bed.",
+          "answer": "Jimmy leest vaak in bed."
+        },
+        {
+          "text": "Ik luister ook naar de radio.",
+          "answer": "Jimmy luistert ook naar de radio."
+        },
+        {
+          "text": "Ik voel me nu niet ziek.",
+          "answer": "Jimmy voelt zich nu niet ziek."
+        }
+      ]
+    }
+  ]
 }

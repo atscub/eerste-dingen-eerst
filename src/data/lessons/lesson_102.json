@@ -1,31 +1,98 @@
 {
   "id": 102,
   "title": "Les 102",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij zegt... zij denkt... zij geloven...**\n\n| Hij | hij |\n|-----|-----|\n| zegt | is... |\n| denkt | voelt zich... |\n| gelooft | heeft... |\n| weet | heeft nodig... |\n| hoopt | wil... |\n| is bang | kan... |\n| is sorry | moet... |\n| is zeker | zal... |",
-    "examples": [
-      "Hij zegt dat hij zijn melk heeft gedronken.",
-      "Grammatica: Hij zegt... zij denkt... zij geloven...",
-      "Gevoelens/toestanden:",
-      "Klachten:",
-      "Behoeften:",
-      "Handelingen:",
-      "Bekijk dit:",
-      "Doe deze op dezelfde manier:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Hij drinkt zijn melk. → *Hij zegt dat hij zijn melk heeft gedronken.*",
-    "example": [
-      {
-        "dutch": "Hij zegt dat hij zijn melk heeft gedronken.",
-        "spanish": "Él dice que ha bebido su leche."
-      },
-      {
-        "dutch": "Hij drinkt zijn melk.",
-        "spanish": "Hij zegt dat hij zijn melk heeft gedronken."
-      }
-    ]
-  }
+  "subtitle": "Hij zegt dat hij... Zij zegt dat zij... Ze zeggen dat ze...",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "title": "Indirecte rede:",
+      "columns": ["Hij", "dat hij"],
+      "rows": [
+        ["zegt", "is..."],
+        ["denkt", "voelt..."],
+        ["gelooft", "heeft (gekregen)..."],
+        ["weet", "nodig heeft..."],
+        ["hoopt", "wil..."],
+        ["is bang", "kan..."],
+        ["vindt het jammer", "moet..."],
+        ["is zeker", "zal..."]
+      ]
+    },
+    {
+      "type": "vocabularyGroup",
+      "prompt": "Hij zegt dat hij... Zij zegt dat zij... Ze zeggen dat ze...",
+      "groups": [
+        {
+          "prompt": "is/zijn - voelt/voelen",
+          "items": [
+            { "number": 1, "dutch": "moe", "spanish": "cansado", "illustration": "/illustrations-sorted/page102_illust001.png" },
+            { "number": 2, "dutch": "dorstig", "spanish": "sediento", "illustration": "/illustrations-sorted/page102_illust002.png" },
+            { "number": 3, "dutch": "koud", "spanish": "frío", "illustration": "/illustrations-sorted/page102_illust003.png" },
+            { "number": 4, "dutch": "ziek", "spanish": "enfermo", "illustration": "/illustrations-sorted/page102_illust004.png" }
+          ]
+        },
+        {
+          "prompt": "heeft/hebben (gekregen)",
+          "items": [
+            { "number": 5, "dutch": "een verkoudheid", "spanish": "un resfriado", "illustration": "/illustrations-sorted/page102_illust005.png" },
+            { "number": 6, "dutch": "hoofdpijn", "spanish": "un dolor de cabeza", "illustration": "/illustrations-sorted/page102_illust006.png" },
+            { "number": 7, "dutch": "oorpijn", "spanish": "un dolor de oído", "illustration": "/illustrations-sorted/page102_illust007.png" },
+            { "number": 8, "dutch": "kiespijn", "spanish": "un dolor de muelas", "illustration": "/illustrations-sorted/page102_illust008.png" }
+          ]
+        },
+        {
+          "prompt": "heeft/hebben nodig - wil/willen",
+          "items": [
+            { "number": 9, "dutch": "een knipbeurt", "spanish": "un corte de pelo", "illustration": "/illustrations-sorted/page102_illust009.png" },
+            { "number": 10, "dutch": "een rijbewijs", "spanish": "una licencia", "illustration": "/illustrations-sorted/page102_illust010.png" },
+            { "number": 11, "dutch": "een röntgenfoto", "spanish": "una radiografía", "illustration": "/illustrations-sorted/page102_illust011.png" },
+            { "number": 12, "dutch": "wat geld", "spanish": "algo de dinero", "illustration": "/illustrations-sorted/page102_illust012.png" }
+          ]
+        },
+        {
+          "prompt": "kan - moet - zal",
+          "items": [
+            { "number": 13, "dutch": "wachten", "spanish": "esperar", "illustration": "/illustrations-sorted/page102_illust013.png" },
+            { "number": 14, "dutch": "de bus halen", "spanish": "tomar el autobús", "illustration": "/illustrations-sorted/page102_illust014.png" },
+            { "number": 15, "dutch": "repareren", "spanish": "reparar", "illustration": "/illustrations-sorted/page102_illust015.png" },
+            { "number": 16, "dutch": "verkopen", "spanish": "vender", "illustration": "/illustrations-sorted/page102_illust016.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Hij drinkt zijn melk.",
+          "output": "Hij zegt dat hij zijn melk heeft gedronken.",
+          "spanish": "Él está bebiendo su leche. Él dice que ha bebido su leche."
+        }
+      ],
+      "items": [
+        {
+          "text": "Zij sluit de deur.",
+          "answer": "Zij zegt dat zij de deur heeft gesloten."
+        },
+        {
+          "text": "Hij trekt zijn jas aan.",
+          "answer": "Hij zegt dat hij zijn jas heeft aangetrokken."
+        },
+        {
+          "text": "Hij leest dit tijdschrift.",
+          "answer": "Hij zegt dat hij dit tijdschrift heeft gelezen."
+        },
+        {
+          "text": "Zij spreken met de baas.",
+          "answer": "Zij zeggen dat zij met de baas hebben gesproken."
+        },
+        {
+          "text": "De zon komt op.",
+          "answer": "Hij zegt dat de zon is opgekomen."
+        }
+      ]
+    }
+  ]
 }

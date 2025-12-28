@@ -1,31 +1,59 @@
 {
   "id": 114,
   "title": "Les 114",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Ik heb niets**",
-    "examples": [
-      "Er is geen melk in die fles.",
-      "Grammatica: Ik heb niets",
-      "o-q",
-      "r-t",
-      "u-w",
-      "x-z",
-      "Bekijk dit:",
-      "Verander deze zinnen op dezelfde manier:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Er is geen melk in die fles. → *Er is geen melk in die fles.*",
-    "example": [
-      {
-        "dutch": "Er is geen melk in die fles.",
-        "spanish": "No hay leche en esa botella."
-      },
-      {
-        "dutch": "Er is geen melk in die fles.",
-        "spanish": "Er is geen melk in die fles."
-      }
-    ]
-  }
+  "subtitle": "Ik heb niets",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Heb je...? Ik heb geen... / Ik heb wat...",
+      "items": [
+        { "number": 1, "dutch": "Heb je chocolade? Ik heb geen.", "spanish": "¿Tienes chocolate? No tengo ninguno.", "illustration": "/illustrations-sorted/page114_illust001.png" },
+        { "number": 2, "dutch": "Ik heb geen chocolade. Ik heb niets.", "spanish": "No tengo chocolate. No tengo nada.", "illustration": "/illustrations-sorted/page114_illust002.png" },
+        { "number": 3, "dutch": "Ik heb ook niets. Ik ook niet.", "spanish": "Yo tampoco tengo. Ni yo.", "illustration": "/illustrations-sorted/page114_illust003.png" },
+        { "number": 4, "dutch": "Heb je enveloppen?", "spanish": "¿Tienes sobres?", "illustration": "/illustrations-sorted/page114_illust004.png" },
+        { "number": 5, "dutch": "Ik heb geen. Ik heb geen enveloppen. Ik heb niets.", "spanish": "No tengo ninguno. No tengo sobres. No tengo nada.", "illustration": "/illustrations-sorted/page114_illust005.png" },
+        { "number": 6, "dutch": "Ik heb ook niets. Ik ook niet.", "spanish": "Yo tampoco tengo. Ni yo.", "illustration": "/illustrations-sorted/page114_illust006.png" },
+        { "number": 7, "dutch": "Heb je taart?", "spanish": "¿Tienes pastel?", "illustration": "/illustrations-sorted/page114_illust007.png" },
+        { "number": 8, "dutch": "Ik heb wat.", "spanish": "Tengo algo.", "illustration": "/illustrations-sorted/page114_illust008.png" },
+        { "number": 9, "dutch": "Ik ook.", "spanish": "Yo también.", "illustration": "/illustrations-sorted/page114_illust009.png" },
+        { "number": 10, "dutch": "Heb je koekjes?", "spanish": "¿Tienes galletas?", "illustration": "/illustrations-sorted/page114_illust010.png" },
+        { "number": 11, "dutch": "Ik heb wat.", "spanish": "Tengo algunas.", "illustration": "/illustrations-sorted/page114_illust011.png" },
+        { "number": 12, "dutch": "Ik ook.", "spanish": "Yo también.", "illustration": "/illustrations-sorted/page114_illust012.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Er is geen melk in die fles.",
+          "output": "Er zit geen melk in die fles.",
+          "spanish": "No hay leche en esa botella."
+        }
+      ],
+      "items": [
+        {
+          "text": "Er zijn geen boeken op die plank.",
+          "answer": "Er liggen geen boeken op die plank."
+        },
+        {
+          "text": "Ik heb geen geld.",
+          "answer": "Ik heb geen geld."
+        },
+        {
+          "text": "Er is geen koffie in dit blik.",
+          "answer": "Er zit geen koffie in dit blik."
+        },
+        {
+          "text": "Ik zag geen auto's in de straat.",
+          "answer": "Ik zag geen auto's in de straat."
+        },
+        {
+          "text": "Ik heb geen enveloppen.",
+          "answer": "Ik heb geen enveloppen."
+        }
+      ]
+    }
+  ]
 }

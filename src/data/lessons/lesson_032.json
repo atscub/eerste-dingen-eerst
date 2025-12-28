@@ -1,15 +1,155 @@
 {
   "id": 32,
   "title": "Les 32",
-  "subtitle": "¿Qué está haciendo él/ella?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Haz estos de la misma manera:",
-    "example": [
-      {
-        "dutch": "Veeg de vloer! Ze veegt het.",
-        "spanish": "¡Barre el suelo! Ella lo barre."
-      }
-    ]
-  }
+  "subtitle": "Wat doet hij/zij/het?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat doet hij/zij/het?",
+      "items": [
+        {
+          "number": 20000,
+          "dutch": "Juffrouw Grey typt een brief.",
+          "spanish": "La señorita Grey está escribiendo una carta.",
+          "illustration": "/illustrations-sorted/page32_illust001.png"
+        },
+        {
+          "number": 30000,
+          "dutch": "Ze leegt een mand.",
+          "spanish": "Ella está vaciando una cesta.",
+          "illustration": "/illustrations-sorted/page32_illust002.png"
+        },
+        {
+          "number": 40000,
+          "dutch": "Meneer Richards opent het raam.",
+          "spanish": "El señor Richards está abriendo la ventana.",
+          "illustration": "/illustrations-sorted/page32_illust003.png"
+        },
+        {
+          "number": 50000,
+          "dutch": "Mijn moeder maakt het bed op.",
+          "spanish": "Mi madre está haciendo la cama.",
+          "illustration": "/illustrations-sorted/page32_illust004.png"
+        },
+        {
+          "number": 60000,
+          "dutch": "Sally sluit de deur.",
+          "spanish": "Sally está cerrando la puerta.",
+          "illustration": "/illustrations-sorted/page32_illust005.png"
+        },
+        {
+          "number": 70000,
+          "dutch": "Het eet een bot.",
+          "spanish": "Está comiendo un hueso.",
+          "illustration": "/illustrations-sorted/page32_illust006.png"
+        },
+        {
+          "number": 80000,
+          "dutch": "Mijn zus kijkt naar een foto.",
+          "spanish": "Mi hermana está mirando una foto.",
+          "illustration": "/illustrations-sorted/page32_illust007.png"
+        },
+        {
+          "number": 90000,
+          "dutch": "Jack leest een tijdschrift.",
+          "spanish": "Jack está leyendo una revista.",
+          "illustration": "/illustrations-sorted/page32_illust008.png"
+        },
+        {
+          "number": 100000,
+          "dutch": "Hij poetst zijn tanden.",
+          "spanish": "Él está limpiando sus dientes.",
+          "illustration": "/illustrations-sorted/page32_illust009.png"
+        },
+        {
+          "number": 200000,
+          "dutch": "Ze stoft de kaptafel af.",
+          "spanish": "Ella está sacudiendo el tocador.",
+          "illustration": "/illustrations-sorted/page32_illust010.png"
+        },
+        {
+          "number": 300000,
+          "dutch": "Mevrouw Ford kookt een maaltijd.",
+          "spanish": "La señora Ford está cocinando una comida.",
+          "illustration": "/illustrations-sorted/page32_illust011.png"
+        },
+        {
+          "number": 400000,
+          "dutch": "De kat drinkt zijn melk.",
+          "spanish": "El gato está bebiendo su leche.",
+          "illustration": "/illustrations-sorted/page32_illust012.png"
+        },
+        {
+          "number": 500000,
+          "dutch": "Bessie veegt de vloer.",
+          "spanish": "Bessie está barriendo el suelo.",
+          "illustration": "/illustrations-sorted/page32_illust013.png"
+        },
+        {
+          "number": 600000,
+          "dutch": "Tim slijpt een potlood.",
+          "spanish": "Tim está afilando un lápiz.",
+          "illustration": "/illustrations-sorted/page32_illust014.png"
+        },
+        {
+          "number": 700000,
+          "dutch": "Hij zet het licht aan.",
+          "spanish": "Él está encendiendo la luz.",
+          "illustration": "/illustrations-sorted/page32_illust015.png"
+        },
+        {
+          "number": 800000,
+          "dutch": "Het meisje zet de kraan uit.",
+          "spanish": "La chica está cerrando el grifo.",
+          "illustration": "/illustrations-sorted/page32_illust016.png"
+        },
+        {
+          "number": 900000,
+          "dutch": "De jongen trekt zijn overhemd aan.",
+          "spanish": "El chico se está poniendo su camisa.",
+          "illustration": "/illustrations-sorted/page32_illust017.png"
+        },
+        {
+          "number": 1000000,
+          "dutch": "Mevrouw Jones trekt haar jas uit.",
+          "spanish": "La señora Jones se está quitando su abrigo.",
+          "illustration": "/illustrations-sorted/page32_illust018.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "rewrite",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Veeg de vloer!",
+          "output": "Ze veegt het.",
+          "spanish": "¡Barre el suelo! Ella lo barre."
+        }
+      ],
+      "items": [
+        {
+          "text": "Open het raam! Hij ...",
+          "answer": "Open het raam! Hij opent het."
+        },
+        {
+          "text": "Slijp dit potlood! Zij ...",
+          "answer": "Slijp dit potlood! Zij slijpt het."
+        },
+        {
+          "text": "Stof het dressoir af! Zij ...",
+          "answer": "Stof het dressoir af! Zij stoft het af."
+        },
+        {
+          "text": "Leeg de mand! Zij ...",
+          "answer": "Leeg de mand! Zij leegt het."
+        },
+        {
+          "text": "Kijk naar de foto! Hij ...",
+          "answer": "Kijk naar de foto! Hij kijkt ernaar."
+        }
+      ]
+    }
+  ]
 }

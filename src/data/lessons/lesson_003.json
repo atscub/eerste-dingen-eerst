@@ -1,74 +1,76 @@
 {
   "id": 3,
   "title": "Les 3",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Mijn jas en mijn paraplu, alstublieft.",
-        "speaker": "Jan",
-        "translation": "Mi abrigo y mi paraguas, por favor."
-      },
-      {
-        "text": "Hier is mijn kaartje.",
-        "speaker": "Bediende",
-        "translation": "Aquí está mi boleto."
-      },
-      {
-        "text": "Dank u, meneer. Nummer vijf.",
-        "speaker": "Jan",
-        "translation": "Gracias, señor. Número cinco."
-      },
-      {
-        "text": "Hier is uw paraplu en uw jas.",
-        "speaker": "Bediende",
-        "translation": "Aquí está su paraguas y su abrigo."
-      },
-      {
-        "text": "Dit is niet mijn paraplu. Sorry, meneer.",
-        "speaker": "Jan",
-        "translation": "Éste no es mi paraguas. Lo siento, señor."
-      },
-      {
-        "text": "Is dit uw paraplu? Nee, dat is het niet!",
-        "speaker": "Bediende",
-        "translation": "¿Es éste su paraguas? ¡No, no lo es!"
-      },
-      {
-        "text": "Is dit hem? Ja, dat is hem. Hartelijk dank.",
-        "speaker": "Jan",
-        "translation": "¿Es éste? Sí, lo es. Muchas gracias."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page3_illust001.png",
-        "alt": "Un guardarropa con un empleado y un cliente en el mostrador, letrero \"CLOAKROOM\""
-      },
-      {
-        "src": "/illustrations-sorted/page3_illust002.png",
-        "alt": "Primer plano de una mano entregando un boleto numerado"
-      },
-      {
-        "src": "/illustrations-sorted/page3_illust003.png",
-        "alt": "El empleado mirando el boleto con el número 5"
-      },
-      {
-        "src": "/illustrations-sorted/page3_illust004.png",
-        "alt": "El empleado alcanzando paraguas y abrigo en el perchero"
-      },
-      {
-        "src": "/illustrations-sorted/page3_illust005.png",
-        "alt": "Ilustración 5 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page3_illust006.png",
-        "alt": "El empleado verificando otro paraguas con expresión interrogativa"
-      },
-      {
-        "src": "/illustrations-sorted/page3_illust007.png",
-        "alt": "Cliente y empleado sonriendo, el cliente recibiendo el paraguas correcto"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Mijn jas en mijn paraplu, alstublieft.",
+          "speaker": "Jan",
+          "translation": "Mi abrigo y mi paraguas, por favor."
+        },
+        {
+          "text": "Hier is mijn kaartje.",
+          "speaker": "Bediende",
+          "translation": "Aquí está mi boleto."
+        },
+        {
+          "text": "Dank u, meneer. Nummer vijf.",
+          "speaker": "Jan",
+          "translation": "Gracias, señor. Número cinco."
+        },
+        {
+          "text": "Hier is uw paraplu en uw jas.",
+          "speaker": "Bediende",
+          "translation": "Aquí está su paraguas y su abrigo."
+        },
+        {
+          "text": "Dit is niet mijn paraplu. Sorry, meneer.",
+          "speaker": "Jan",
+          "translation": "Éste no es mi paraguas. Lo siento, señor."
+        },
+        {
+          "text": "Is dit uw paraplu? Nee, dat is het niet!",
+          "speaker": "Bediende",
+          "translation": "¿Es éste su paraguas? ¡No, no lo es!"
+        },
+        {
+          "text": "Is dit hem? Ja, dat is hem. Hartelijk dank.",
+          "speaker": "Jan",
+          "translation": "¿Es éste? Sí, lo es. Muchas gracias."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page3_illust001.png",
+          "alt": "Un guardarropa con un empleado y un cliente en el mostrador, letrero \"CLOAKROOM\""
+        },
+        {
+          "src": "/illustrations-sorted/page3_illust002.png",
+          "alt": "Primer plano de una mano entregando un boleto numerado"
+        },
+        {
+          "src": "/illustrations-sorted/page3_illust003.png",
+          "alt": "El empleado mirando el boleto con el número 5"
+        },
+        {
+          "src": "/illustrations-sorted/page3_illust004.png",
+          "alt": "El empleado alcanzando paraguas y abrigo en el perchero"
+        },
+        {
+          "src": "/illustrations-sorted/page3_illust005.png",
+          "alt": "Ilustración 5 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page3_illust006.png",
+          "alt": "El empleado verificando otro paraguas con expresión interrogativa"
+        },
+        {
+          "src": "/illustrations-sorted/page3_illust007.png",
+          "alt": "Cliente y empleado sonriendo, el cliente recibiendo el paraguas correcto"
+        }
+      ]
+    }
+  ]
 }

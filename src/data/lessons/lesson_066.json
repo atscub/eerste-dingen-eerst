@@ -1,10 +1,67 @@
 {
   "id": 66,
   "title": "Les 66",
-  "subtitle": "¿Qué hora es?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Copia esto. Pon in, at o from:",
-    "example": []
-  }
+  "subtitle": "Hoe laat is het?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hoe laat is het?",
+      "items": [
+        { "number": 1, "dutch": "één uur", "spanish": "la una", "illustration": "/illustrations-sorted/page66_illust001.png" },
+        { "number": 2, "dutch": "vijf over twee", "spanish": "las dos y cinco", "illustration": "/illustrations-sorted/page66_illust002.png" },
+        { "number": 3, "dutch": "tien over drie", "spanish": "las tres y diez", "illustration": "/illustrations-sorted/page66_illust003.png" },
+        { "number": 4, "dutch": "kwart over vier", "spanish": "las cuatro y cuarto", "illustration": "/illustrations-sorted/page66_illust004.png" },
+        { "number": 5, "dutch": "twintig over vijf", "spanish": "las cinco y veinte", "illustration": "/illustrations-sorted/page66_illust005.png" },
+        { "number": 6, "dutch": "vijfentwintig over zes", "spanish": "las seis y veinticinco", "illustration": "/illustrations-sorted/page66_illust006.png" },
+        { "number": 7, "dutch": "half acht", "spanish": "las siete y media", "illustration": "/illustrations-sorted/page66_illust007.png" },
+        { "number": 8, "dutch": "vijf voor half negen", "spanish": "las ocho y veinticinco", "illustration": "/illustrations-sorted/page66_illust008.png" },
+        { "number": 9, "dutch": "tien voor half tien", "spanish": "las nueve y veinte", "illustration": "/illustrations-sorted/page66_illust009.png" },
+        { "number": 10, "dutch": "kwart voor elf", "spanish": "las once menos cuarto", "illustration": "/illustrations-sorted/page66_illust010.png" },
+        { "number": 11, "dutch": "tien voor twaalf", "spanish": "las doce menos diez", "illustration": "/illustrations-sorted/page66_illust011.png" },
+        { "number": 12, "dutch": "vijf voor één", "spanish": "la una menos cinco", "illustration": "/illustrations-sorted/page66_illust012.png" }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Veel plezier!",
+      "items": [
+        { "number": 13, "dutch": "Veel plezier! Ik amuseer me altijd.", "spanish": "¡Diviértete! Siempre me divierto.", "illustration": "/illustrations-sorted/page66_illust013.png" },
+        { "number": 14, "dutch": "Wij amuseren ons. Zij amuseren zich.", "spanish": "Nos divertimos. Ellos se divierten.", "illustration": "/illustrations-sorted/page66_illust014.png" },
+        { "number": 15, "dutch": "Hij amuseert zich.", "spanish": "Él se divierte.", "illustration": "/illustrations-sorted/page66_illust015.png" },
+        { "number": 16, "dutch": "Zij amuseert zich.", "spanish": "Ella se divierte.", "illustration": "/illustrations-sorted/page66_illust016.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Kopieer dit. Vul in: in, at of from.",
+      "wordsToUse": ["in", "at", "from"],
+      "items": [
+        {
+          "text": "Ik ga hem ... tien uur bezoeken.",
+          "answer": "Ik ga hem om tien uur bezoeken."
+        },
+        {
+          "text": "Het regent vaak ... november.",
+          "answer": "Het regent vaak in november."
+        },
+        {
+          "text": "Waar kom je vandaan? Ik kom ... Frankrijk.",
+          "answer": "Waar kom je vandaan? Ik kom uit Frankrijk."
+        },
+        {
+          "text": "Ik ga altijd ... de ochtend naar mijn werk.",
+          "answer": "Ik ga altijd 's ochtends naar mijn werk."
+        },
+        {
+          "text": "Hoe is het klimaat ... jouw land?",
+          "answer": "Hoe is het klimaat in jouw land?"
+        },
+        {
+          "text": "Het is koud ... de winter en warm ... de zomer.",
+          "answer": "Het is koud in de winter en warm in de zomer."
+        }
+      ]
+    }
+  ]
 }

@@ -1,17 +1,54 @@
 {
   "id": 136,
   "title": "Les 136",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij zei (dat) hij... / Hij vertelde me (dat) hij...**\n\n**Afbeeldingen 1-9 tonen meer voorbeelden van indirecte rede:**\n1-3. Ik zal morgen vertrekken. → Wat zei hij? Hij zei (dat) hij morgen zou vertrekken.\n4-6. Ik kan dit wiskundeprobleem niet doen. → Wat zei hij? Hij zei (dat) hij dit wiskundeprobleem niet kon doen.\n7-9. Ik kan om zes uur terugkomen. → Wat zei ze? Ze zei (dat) ze om zes uur kon terugkomen.",
-    "examples": [
-      "Grammatica: Hij zei (dat) hij... / Hij vertelde me (dat) hij...",
-      "Afbeeldingen 1-9 tonen meer voorbeelden van indirecte rede:",
-      "Lees het gesprek in Les 135 opnieuw. Schrijf dan antwoorden op deze vragen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "1. Gaat Miss Marsh echt met pensioen, of is ze nog steeds niet zeker? 2. Ze kan zich niet beslissen, kan ze? 3. Hoe heet haar toekomstige echtgenoot? 4. Wanneer zullen ze trouwen?",
-    "example": []
-  }
+  "subtitle": "Hij zei (dat) hij... / Hij vertelde me (dat) hij...",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "groups": [
+        {
+          "prompt": "Indirecte rede - Toekomende tijd",
+          "items": [
+            { "number": 1, "dutch": "Ik zal morgen vertrekken.", "spanish": "Saldré mañana.", "illustration": "/illustrations-sorted/page136_illust001.png" },
+            { "number": 2, "dutch": "Wat zei hij?", "spanish": "¿Qué dijo?", "illustration": "/illustrations-sorted/page136_illust002.png" },
+            { "number": 3, "dutch": "Hij zei (dat) hij morgen zou vertrekken.", "spanish": "Dijo que saldría mañana.", "illustration": "/illustrations-sorted/page136_illust003.png" }
+          ]
+        },
+        {
+          "prompt": "Indirecte rede - Kunnen (can/could)",
+          "items": [
+            { "number": 4, "dutch": "Ik kan dit wiskundeprobleem niet doen.", "spanish": "No puedo hacer este problema de matemáticas.", "illustration": "/illustrations-sorted/page136_illust004.png" },
+            { "number": 5, "dutch": "Wat zei hij?", "spanish": "¿Qué dijo?", "illustration": "/illustrations-sorted/page136_illust005.png" },
+            { "number": 6, "dutch": "Hij zei (dat) hij dit wiskundeprobleem niet kon doen.", "spanish": "Dijo que no podía hacer este problema de matemáticas.", "illustration": "/illustrations-sorted/page136_illust006.png" },
+            { "number": 7, "dutch": "Ik kan om zes uur terugkomen.", "spanish": "Puedo volver a las seis.", "illustration": "/illustrations-sorted/page136_illust007.png" },
+            { "number": 8, "dutch": "Wat zei ze?", "spanish": "¿Qué dijo ella?", "illustration": "/illustrations-sorted/page136_illust008.png" },
+            { "number": 9, "dutch": "Ze zei (dat) ze om zes uur kon terugkomen.", "spanish": "Dijo que podía volver a las seis.", "illustration": "/illustrations-sorted/page136_illust009.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "comprehension",
+      "instruction": "Lees het gesprek in Les 135 opnieuw. Schrijf dan antwoorden op deze vragen:",
+      "items": [
+        {
+          "text": "Gaat Miss Marsh echt met pensioen, of is ze nog steeds niet zeker?",
+          "answer": "Ja, ze gaat echt met pensioen."
+        },
+        {
+          "text": "Ze kan zich niet beslissen, kan ze?",
+          "answer": "Jawel, ze heeft zich beslist. Ze gaat met pensioen."
+        },
+        {
+          "text": "Hoe heet haar toekomstige echtgenoot?",
+          "answer": "Haar toekomstige echtgenoot heet Gary Doolittle."
+        },
+        {
+          "text": "Wanneer zullen ze trouwen?",
+          "answer": "Ze zullen volgende maand trouwen."
+        }
+      ]
+    }
+  ]
 }

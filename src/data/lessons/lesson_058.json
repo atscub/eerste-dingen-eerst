@@ -1,19 +1,67 @@
 {
   "id": 58,
   "title": "Les 58",
-  "subtitle": "¿Qué hora es?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Él suele afeitarse a las 7:00, pero hoy, él... a las 8:00.",
-        "spanish": "Él suele afeitarse a las 7:00, pero hoy, él... a las 8:00."
-      },
-      {
-        "dutch": "Hij scheert zich meestal om 7 uur, maar vandaag scheert hij zich om 8 uur.",
-        "spanish": "Él suele afeitarse a las 7:00, pero hoy se afeita a las 8:00."
-      }
-    ]
-  }
+  "subtitle": "Hoe laat is het?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hoe laat is het?",
+      "items": [
+        { "number": 1, "dutch": "één uur", "spanish": "la una", "illustration": "/illustrations-sorted/page58_illust001.png" },
+        { "number": 2, "dutch": "twee uur", "spanish": "las dos", "illustration": "/illustrations-sorted/page58_illust002.png" },
+        { "number": 3, "dutch": "drie uur", "spanish": "las tres", "illustration": "/illustrations-sorted/page58_illust003.png" },
+        { "number": 4, "dutch": "vier uur", "spanish": "las cuatro", "illustration": "/illustrations-sorted/page58_illust004.png" },
+        { "number": 5, "dutch": "vijf uur", "spanish": "las cinco", "illustration": "/illustrations-sorted/page58_illust005.png" },
+        { "number": 6, "dutch": "zes uur", "spanish": "las seis", "illustration": "/illustrations-sorted/page58_illust006.png" },
+        { "number": 7, "dutch": "zeven uur", "spanish": "las siete", "illustration": "/illustrations-sorted/page58_illust007.png" },
+        { "number": 8, "dutch": "acht uur", "spanish": "las ocho", "illustration": "/illustrations-sorted/page58_illust008.png" },
+        { "number": 9, "dutch": "negen uur", "spanish": "las nueve", "illustration": "/illustrations-sorted/page58_illust009.png" },
+        { "number": 10, "dutch": "tien uur", "spanish": "las diez", "illustration": "/illustrations-sorted/page58_illust010.png" },
+        { "number": 11, "dutch": "elf uur", "spanish": "las once", "illustration": "/illustrations-sorted/page58_illust011.png" },
+        { "number": 12, "dutch": "twaalf uur", "spanish": "las doce", "illustration": "/illustrations-sorted/page58_illust012.png" }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Zij doen gewoonlijk... maar vandaag...",
+      "items": [
+        { "number": 13, "dutch": "Hij scheert zich gewoonlijk om 7 uur 's ochtends,", "spanish": "Él suele afeitarse a las 7 de la mañana,", "illustration": "/illustrations-sorted/page58_illust013.png" },
+        { "number": 14, "dutch": "maar vandaag scheert hij zich...", "spanish": "pero hoy se afeita...", "illustration": "/illustrations-sorted/page58_illust014.png" },
+        { "number": 15, "dutch": "Zij drinkt gewoonlijk 's ochtends thee,", "spanish": "Ella suele beber té por la mañana,", "illustration": "/illustrations-sorted/page58_illust015.png" },
+        { "number": 16, "dutch": "maar vanmorgen drinkt zij...", "spanish": "pero esta mañana bebe...", "illustration": "/illustrations-sorted/page58_illust016.png" },
+        { "number": 17, "dutch": "Zij spelen gewoonlijk 's middags in de tuin,", "spanish": "Ellos suelen jugar en el jardín por la tarde,", "illustration": "/illustrations-sorted/page58_illust017.png" },
+        { "number": 18, "dutch": "maar vanmiddag spelen zij...", "spanish": "pero esta tarde juegan...", "illustration": "/illustrations-sorted/page58_illust018.png" },
+        { "number": 19, "dutch": "Ik kook gewoonlijk 's avonds een maaltijd,", "spanish": "Yo suelo cocinar una comida por la noche,", "illustration": "/illustrations-sorted/page58_illust019.png" },
+        { "number": 20, "dutch": "maar vanavond kook ik...", "spanish": "pero esta noche cocino...", "illustration": "/illustrations-sorted/page58_illust020.png" },
+        { "number": 21, "dutch": "Wij kijken gewoonlijk 's nachts televisie,", "spanish": "Nosotros solemos ver televisión por la noche,", "illustration": "/illustrations-sorted/page58_illust021.png" },
+        { "number": 22, "dutch": "maar vannacht kijken wij...", "spanish": "pero esta noche vemos...", "illustration": "/illustrations-sorted/page58_illust022.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Hij scheert zich gewoonlijk om 7 uur, maar vandaag scheert hij zich om 8 uur.",
+          "output": "Hij scheert zich gewoonlijk om 7 uur, maar vandaag is hij zich aan het scheren om 8 uur.",
+          "spanish": "Él suele afeitarse a las 7:00, pero hoy se está afeitando a las 8:00."
+        }
+      ],
+      "items": [
+        {
+          "text": "Zij drinkt gewoonlijk 's ochtends thee, maar vanmorgen drinkt zij koffie.",
+          "answer": "Zij drinkt gewoonlijk 's ochtends thee, maar vanmorgen is zij koffie aan het drinken."
+        },
+        {
+          "text": "Zij spelen gewoonlijk 's middags in de tuin, maar vanmiddag spelen zij in het park.",
+          "answer": "Zij spelen gewoonlijk 's middags in de tuin, maar vanmiddag zijn zij in het park aan het spelen."
+        },
+        {
+          "text": "Zij wast gewoonlijk 's nachts de afwas, maar vannacht wast zij kleren.",
+          "answer": "Zij wast gewoonlijk 's nachts de afwas, maar vannacht is zij kleren aan het wassen."
+        }
+      ]
+    }
+  ]
 }

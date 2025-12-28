@@ -1,19 +1,92 @@
 {
   "id": 26,
   "title": "Les 26",
-  "subtitle": "¿Dónde está?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Geef me ... boek. Welk boek? ... boek op de tafel.",
-        "spanish": "Dame ... libro. ¿Cuál libro? ... libro en la mesa."
-      },
-      {
-        "dutch": "Geef me een boek. Welk boek? Het boek op de tafel.",
-        "spanish": "Dame un libro. ¿Cuál libro? El libro de la mesa."
-      }
-    ]
-  }
+  "subtitle": "Waar is het?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Waar is het?",
+      "items": [
+        {
+          "number": 3000,
+          "dutch": "Er is een kopje op de tafel. Het kopje is schoon.",
+          "spanish": "Hay una taza en la mesa. La taza está limpia.",
+          "illustration": "/illustrations-sorted/page26_illust001.png"
+        },
+        {
+          "number": 4000,
+          "dutch": "Er is een doos op de vloer. De doos is groot.",
+          "spanish": "Hay una caja en el suelo. La caja es grande.",
+          "illustration": "/illustrations-sorted/page26_illust002.png"
+        },
+        {
+          "number": 5000,
+          "dutch": "Er is een glas in de kast. Het glas is leeg.",
+          "spanish": "Hay un vaso en el aparador. El vaso está vacío.",
+          "illustration": "/illustrations-sorted/page26_illust003.png"
+        },
+        {
+          "number": 6000,
+          "dutch": "Er is een mes op het bord. Het mes is scherp.",
+          "spanish": "Hay un cuchillo en el plato. El cuchillo está afilado.",
+          "illustration": "/illustrations-sorted/page26_illust004.png"
+        },
+        {
+          "number": 7000,
+          "dutch": "Er is een vork op het blik. De vork is vies.",
+          "spanish": "Hay un tenedor en la lata. El tenedor está sucio.",
+          "illustration": "/illustrations-sorted/page26_illust005.png"
+        },
+        {
+          "number": 8000,
+          "dutch": "Er is een fles in de koelkast. De fles is vol.",
+          "spanish": "Hay una botella en el refrigerador. La botella está llena.",
+          "illustration": "/illustrations-sorted/page26_illust006.png"
+        },
+        {
+          "number": 9000,
+          "dutch": "Er is een potlood op het bureau. Het potlood is stomp.",
+          "spanish": "Hay un lápiz en el escritorio. El lápiz está romo.",
+          "illustration": "/illustrations-sorted/page26_illust007.png"
+        },
+        {
+          "number": 10000,
+          "dutch": "Er is een lepel in het kopje. De lepel is klein.",
+          "spanish": "Hay una cuchara en la taza. La cuchara es pequeña.",
+          "illustration": "/illustrations-sorted/page26_illust008.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["een", "het", "de"],
+      "example": [
+        {
+          "input": "Geef me ---- boek. Welk boek? ---- boek op de tafel.",
+          "output": "Geef me een boek. Welk boek? Het boek op de tafel.",
+          "spanish": "Dame un libro. ¿Cuál libro? El libro de la mesa."
+        }
+      ],
+      "items": [
+        {
+          "text": "Geef me ---- glas. Welk glas? ---- lege.",
+          "answer": "Geef me een glas. Welk glas? Het lege."
+        },
+        {
+          "text": "Geef me wat kopjes. Welke kopjes? ---- kopjes op de tafel.",
+          "answer": "Geef me wat kopjes. Welke kopjes? De kopjes op de tafel."
+        },
+        {
+          "text": "Is er ---- boek op ---- tafel? Ja. Is ---- boek rood?",
+          "answer": "Is er een boek op de tafel? Ja. Is het boek rood?"
+        },
+        {
+          "text": "Is er ---- mes in die doos? Ja. Is ---- mes scherp?",
+          "answer": "Is er een mes in die doos? Ja. Is het mes scherp?"
+        }
+      ]
+    }
+  ]
 }

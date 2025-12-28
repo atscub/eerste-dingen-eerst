@@ -1,19 +1,112 @@
 {
   "id": 24,
   "title": "Les 24",
-  "subtitle": "Dame/le/nos/les unos...",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Geef Tim dit overhemd. Geef ... dit, ook.",
-        "spanish": "Dale a Tim esta camisa. Dale ... esto también."
-      },
-      {
-        "dutch": "Geef Tim dit overhemd. Geef hem dit ook.",
-        "spanish": "Dale a Tim esta camisa. Dale esto también."
-      }
-    ]
-  }
+  "subtitle": "Geef mij/hem/haar/ons/hun wat... Welke?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Geef mij/hem/haar/ons/hun wat... Welke?",
+      "items": [
+        {
+          "number": 1117,
+          "dutch": "sigaretten",
+          "spanish": "cigarrillos",
+          "illustration": "/illustrations-sorted/page24_illust001.png"
+        },
+        {
+          "number": 1218,
+          "dutch": "meubels",
+          "spanish": "muebles",
+          "illustration": "/illustrations-sorted/page24_illust002.png"
+        },
+        {
+          "number": 1319,
+          "dutch": "kranten",
+          "spanish": "periódicos",
+          "illustration": "/illustrations-sorted/page24_illust003.png"
+        },
+        {
+          "number": 1420,
+          "dutch": "dozen",
+          "spanish": "cajas",
+          "illustration": "/illustrations-sorted/page24_illust004.png"
+        },
+        {
+          "number": 1521,
+          "dutch": "tijdschriften",
+          "spanish": "revistas",
+          "illustration": "/illustrations-sorted/page24_illust005.png"
+        },
+        {
+          "number": 1622,
+          "dutch": "pakjes",
+          "spanish": "paquetes",
+          "illustration": "/illustrations-sorted/page24_illust006.png"
+        },
+        {
+          "number": 1723,
+          "dutch": "snoepjes",
+          "spanish": "dulces",
+          "illustration": "/illustrations-sorted/page24_illust007.png"
+        },
+        {
+          "number": 1824,
+          "dutch": "blokken",
+          "spanish": "bloques",
+          "illustration": "/illustrations-sorted/page24_illust008.png"
+        },
+        {
+          "number": 1925,
+          "dutch": "blikjes",
+          "spanish": "latas",
+          "illustration": "/illustrations-sorted/page24_illust009.png"
+        },
+        {
+          "number": 2000,
+          "dutch": "flessen",
+          "spanish": "botellas",
+          "illustration": "/illustrations-sorted/page24_illust010.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["mij", "hem", "haar", "ons", "hun"],
+      "example": [
+        {
+          "input": "Geef Tim dit overhemd. Geef ---- dit ook.",
+          "output": "Geef Tim dit overhemd. Geef hem dit ook.",
+          "spanish": "Dale a Tim esta camisa. Dale esto también."
+        }
+      ],
+      "items": [
+        {
+          "text": "Geef Jane dit horloge. Geef ---- dit ook.",
+          "answer": "Geef Jane dit horloge. Geef haar dit ook."
+        },
+        {
+          "text": "Geef de kinderen deze ijsjes. Geef ---- deze ook.",
+          "answer": "Geef de kinderen deze ijsjes. Geef hun deze ook."
+        },
+        {
+          "text": "Geef Tom dit boek. Geef ---- dit ook.",
+          "answer": "Geef Tom dit boek. Geef hem dit ook."
+        },
+        {
+          "text": "Dat is mijn paspoort. Geef ---- mijn paspoort alstublieft.",
+          "answer": "Dat is mijn paspoort. Geef mij mijn paspoort alstublieft."
+        },
+        {
+          "text": "Dat is mijn jas. Geef ---- mijn jas alstublieft.",
+          "answer": "Dat is mijn jas. Geef mij mijn jas alstublieft."
+        },
+        {
+          "text": "Dat zijn onze paraplu's. Geef ---- onze paraplu's alstublieft.",
+          "answer": "Dat zijn onze paraplu's. Geef ons onze paraplu's alstublieft."
+        }
+      ]
+    }
+  ]
 }

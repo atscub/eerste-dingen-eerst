@@ -1,75 +1,77 @@
 {
   "id": 21,
   "title": "Les 21",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Geef me een boek, alsjeblieft, Jane.",
-        "speaker": "Man",
-        "translation": "Dame un libro, por favor, Jane."
-      },
-      {
-        "text": "Welk boek?",
-        "speaker": "Jane",
-        "translation": "¿Qué libro?"
-      },
-      {
-        "text": "Deze?",
-        "speaker": "Man",
-        "translation": "¿Éste?"
-      },
-      {
-        "text": "Nee, niet die. De rode.",
-        "speaker": "Jane",
-        "translation": "No, no ese. El rojo."
-      },
-      {
-        "text": "Deze?",
-        "speaker": "Man",
-        "translation": "¿Éste?"
-      },
-      {
-        "text": "Ja, alsjeblieft.",
-        "speaker": "Jane",
-        "translation": "Sí, por favor."
-      },
-      {
-        "text": "Alsjeblieft.",
-        "speaker": "Man",
-        "translation": "Aquí tienes."
-      },
-      {
-        "text": "Dank je.",
-        "speaker": "Jane",
-        "translation": "Gracias."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page21_illust001.png",
-        "alt": "Hombre sentado en un sillón pidiendo un libro a una mujer de pie junto a un estante"
-      },
-      {
-        "src": "/illustrations-sorted/page21_illust002.png",
-        "alt": "Mujer volteando hacia el estante con expresión interrogativa"
-      },
-      {
-        "src": "/illustrations-sorted/page21_illust003.png",
-        "alt": "Mujer señalando un libro en el estante"
-      },
-      {
-        "src": "/illustrations-sorted/page21_illust004.png",
-        "alt": "Hombre señalando hacia un libro rojo diferente"
-      },
-      {
-        "src": "/illustrations-sorted/page21_illust005.png",
-        "alt": "Mujer tomando el libro rojo correcto del estante"
-      },
-      {
-        "src": "/illustrations-sorted/page21_illust006.png",
-        "alt": "Mujer entregando el libro rojo al hombre"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Geef me een boek, alsjeblieft, Jane.",
+          "speaker": "Man",
+          "translation": "Dame un libro, por favor, Jane."
+        },
+        {
+          "text": "Welk boek?",
+          "speaker": "Jane",
+          "translation": "¿Qué libro?"
+        },
+        {
+          "text": "Deze?",
+          "speaker": "Man",
+          "translation": "¿Éste?"
+        },
+        {
+          "text": "Nee, niet die. De rode.",
+          "speaker": "Jane",
+          "translation": "No, no ese. El rojo."
+        },
+        {
+          "text": "Deze?",
+          "speaker": "Man",
+          "translation": "¿Éste?"
+        },
+        {
+          "text": "Ja, alsjeblieft.",
+          "speaker": "Jane",
+          "translation": "Sí, por favor."
+        },
+        {
+          "text": "Alsjeblieft.",
+          "speaker": "Man",
+          "translation": "Aquí tienes."
+        },
+        {
+          "text": "Dank je.",
+          "speaker": "Jane",
+          "translation": "Gracias."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page21_illust001.png",
+          "alt": "Hombre sentado en un sillón pidiendo un libro a una mujer de pie junto a un estante"
+        },
+        {
+          "src": "/illustrations-sorted/page21_illust002.png",
+          "alt": "Mujer volteando hacia el estante con expresión interrogativa"
+        },
+        {
+          "src": "/illustrations-sorted/page21_illust003.png",
+          "alt": "Mujer señalando un libro en el estante"
+        },
+        {
+          "src": "/illustrations-sorted/page21_illust004.png",
+          "alt": "Hombre señalando hacia un libro rojo diferente"
+        },
+        {
+          "src": "/illustrations-sorted/page21_illust005.png",
+          "alt": "Mujer tomando el libro rojo correcto del estante"
+        },
+        {
+          "src": "/illustrations-sorted/page21_illust006.png",
+          "alt": "Mujer entregando el libro rojo al hombre"
+        }
+      ]
+    }
+  ]
 }

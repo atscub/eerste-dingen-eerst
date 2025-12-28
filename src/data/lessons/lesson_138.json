@@ -1,17 +1,58 @@
 {
   "id": 138,
   "title": "Les 138",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Als...**\n\n**Afbeeldingen 1-6 tonen voorwaardelijke situaties:**\n1. Als je dat raam breekt, moet je ervoor betalen!\n2. Als je niet opschiet, missen we de trein.\n3. Als hij valt, zal hij zichzelf pijn doen.\n4. Als het morgen regent, gaan we niet naar de kust.\n5. Als je je beter voelt, kun je opstaan.\n6. Als hij die auto verkoopt, kan hij een nieuwe kopen.",
-    "examples": [
-      "Grammatica: Als...",
-      "Afbeeldingen 1-6 tonen voorwaardelijke situaties:",
-      "Lees het gesprek in Les 137 opnieuw. Schrijf dan antwoorden op deze vragen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "1. Wat doet Brian? 2. Heeft Brian ooit iets gewonnen op de voetbalpools? 3. Wat zal Brian zijn vrouw kopen als hij veel geld wint? 4. Wil ze geen nertsen jas?",
-    "example": []
-  }
+  "subtitle": "Als...",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Als... (Voorwaardelijke zinnen)",
+      "items": [
+        { "number": 1, "dutch": "Als je dat raam breekt, moet je ervoor betalen!", "spanish": "Si rompes esa ventana, tendrás que pagar por ella!", "illustration": "/illustrations-sorted/page138_illust002.png" },
+        { "number": 2, "dutch": "Als je niet opschiet, missen we de trein.", "spanish": "Si no te apuras, perderemos el tren.", "illustration": "/illustrations-sorted/page138_illust001.png" },
+        { "number": 3, "dutch": "Als hij valt, zal hij zichzelf pijn doen.", "spanish": "Si se cae, se lastimará.", "illustration": "/illustrations-sorted/page138_illust003.png" },
+        { "number": 4, "dutch": "Als het morgen regent, gaan we niet naar de kust.", "spanish": "Si llueve mañana, no iremos a la playa.", "illustration": "/illustrations-sorted/page138_illust004.png" },
+        { "number": 5, "dutch": "Als je je beter voelt, kun je opstaan.", "spanish": "Si te sientes mejor, puedes levantarte.", "illustration": "/illustrations-sorted/page138_illust005.png" },
+        { "number": 6, "dutch": "Als hij die auto verkoopt, kan hij een nieuwe kopen.", "spanish": "Si vende ese coche, puede comprar uno nuevo.", "illustration": "/illustrations-sorted/page138_illust006.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "comprehension",
+      "instruction": "Lees het gesprek in Les 137 opnieuw. Schrijf dan antwoorden op deze vragen:",
+      "items": [
+        {
+          "text": "Wat doet Brian?",
+          "answer": "Brian vult de voetbalpools in."
+        },
+        {
+          "text": "Heeft Brian ooit iets gewonnen op de voetbalpools?",
+          "answer": "Nee, hij heeft nooit iets gewonnen."
+        },
+        {
+          "text": "Wat zal Brian zijn vrouw kopen als hij veel geld wint?",
+          "answer": "Hij zal haar een nertsen jas kopen."
+        },
+        {
+          "text": "Ze wil geen nertsen jas, toch?",
+          "answer": "Nee, ze wil geen nertsen jas."
+        },
+        {
+          "text": "Wat wil June in plaats van een nertsen jas?",
+          "answer": "Ze wil een mooie nieuwe jurk."
+        },
+        {
+          "text": "Wat zal Brian doen als hij al het geld uitgeeft?",
+          "answer": "Hij zal opnieuw moeten beginnen."
+        },
+        {
+          "text": "Het is maar een droom, nietwaar?",
+          "answer": "Ja, het is maar een droom."
+        },
+        {
+          "text": "Waarvan hangt het allemaal af?",
+          "answer": "Het hangt allemaal af van 'als'."
+        }
+      ]
+    }
+  ]
 }

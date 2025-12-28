@@ -1,27 +1,68 @@
 {
   "id": 42,
   "title": "Les 42",
-  "subtitle": "¿Hay un/algún... en/sobre...?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa estos:",
-    "example": [
-      {
-        "dutch": "Er is een foto op het bureau.",
-        "spanish": "Hay una foto sobre el escritorio."
-      },
-      {
-        "dutch": "Is er melk in de fles?",
-        "spanish": "¿Hay leche en la botella?"
-      },
-      {
-        "dutch": "Er is geen melk in de fles.",
-        "spanish": "No hay leche en la botella."
-      },
-      {
-        "dutch": "Er is wat melk in dat kopje.",
-        "spanish": "Hay un poco de leche en esa taza."
-      }
-    ]
-  }
+  "subtitle": "Is er een... in/op dat...? Is er... in/op dat...?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Is er een... in/op dat...?",
+      "items": [
+        { "number": 13, "dutch": "dertien", "spanish": "trece", "illustration": "/illustrations-sorted/page42_illust001.png" },
+        { "number": 14, "dutch": "veertien", "spanish": "catorce", "illustration": "/illustrations-sorted/page42_illust002.png" },
+        { "number": 15, "dutch": "vijftien", "spanish": "quince", "illustration": "/illustrations-sorted/page42_illust003.png" },
+        { "number": 16, "dutch": "zestien", "spanish": "dieciséis", "illustration": "/illustrations-sorted/page42_illust004.png" },
+        { "number": 17, "dutch": "zeventien", "spanish": "diecisiete", "illustration": "/illustrations-sorted/page42_illust005.png" },
+        { "number": 18, "dutch": "achttien", "spanish": "dieciocho", "illustration": "/illustrations-sorted/page42_illust006.png" },
+        { "number": 19, "dutch": "negentien", "spanish": "diecinueve", "illustration": "/illustrations-sorted/page42_illust007.png" },
+        { "number": 20, "dutch": "twintig", "spanish": "veinte", "illustration": "/illustrations-sorted/page42_illust008.png" },
+        { "number": 30, "dutch": "dertig", "spanish": "treinta", "illustration": "/illustrations-sorted/page42_illust009.png" },
+        { "number": 40, "dutch": "veertig", "spanish": "cuarenta", "illustration": "/illustrations-sorted/page42_illust010.png" },
+        { "number": 50, "dutch": "vijftig", "spanish": "cincuenta", "illustration": "/illustrations-sorted/page42_illust011.png" },
+        { "number": 60, "dutch": "zestig", "spanish": "sesenta", "illustration": "/illustrations-sorted/page42_illust012.png" },
+        { "number": 70, "dutch": "zeventig", "spanish": "setenta", "illustration": "/illustrations-sorted/page42_illust013.png" },
+        { "number": 80, "dutch": "tachtig", "spanish": "ochenta", "illustration": "/illustrations-sorted/page42_illust014.png" },
+        { "number": 90, "dutch": "negentig", "spanish": "noventa", "illustration": "/illustrations-sorted/page42_illust015.png" },
+        { "number": 100, "dutch": "honderd", "spanish": "cien", "illustration": "/illustrations-sorted/page42_illust016.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa estos: Er is een foto op het bureau. Is er melk in de fles? Er is geen melk in de fles. Er is wat melk in dat kopje.",
+      "wordsToUse": ["een", "wat", "geen"],
+      "example": [
+        {
+          "input": "Er is ---- foto op het bureau.",
+          "output": "Er is een foto op het bureau.",
+          "spanish": "Hay una foto sobre el escritorio."
+        }
+      ],
+      "items": [
+        {
+          "text": "Is er ---- brood in de keuken?",
+          "answer": "Is er wat brood in de keuken?"
+        },
+        {
+          "text": "Er is ---- brood op de tafel.",
+          "answer": "Er is een brood op de tafel."
+        },
+        {
+          "text": "Er is ---- koffie op de tafel ook.",
+          "answer": "Er is wat koffie op de tafel ook."
+        },
+        {
+          "text": "Er is ---- chocola op de tafel.",
+          "answer": "Er is geen chocola op de tafel."
+        },
+        {
+          "text": "Er is ---- lepel op dat bord.",
+          "answer": "Er is een lepel op dat bord."
+        },
+        {
+          "text": "Is er ---- zeep op de kaptafel?",
+          "answer": "Is er wat zeep op de kaptafel?"
+        }
+      ]
+    }
+  ]
 }

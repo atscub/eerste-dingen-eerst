@@ -1,91 +1,93 @@
 {
   "id": 51,
   "title": "Les 51",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Waar kom je vandaan?",
-        "speaker": "Hans",
-        "translation": "¿De dónde vienes?"
-      },
-      {
-        "text": "Ik kom uit Griekenland.",
-        "speaker": "Dimitri",
-        "translation": "Vengo de Grecia."
-      },
-      {
-        "text": "Hoe is het klimaat in jouw land?",
-        "speaker": "Hans",
-        "translation": "¿Cómo es el clima en tu país?"
-      },
-      {
-        "text": "Het is erg aangenaam.",
-        "speaker": "Dimitri",
-        "translation": "Es muy agradable."
-      },
-      {
-        "text": "Hoe is het weer in de lente?",
-        "speaker": "Hans",
-        "translation": "¿Cómo es el clima en primavera?"
-      },
-      {
-        "text": "Het waait vaak in maart. Het is altijd warm in april en mei, maar het regent soms.",
-        "speaker": "Dimitri",
-        "translation": "A menudo hace viento en marzo. Siempre hace calor en abril y mayo, pero a veces llueve."
-      },
-      {
-        "text": "Hoe is het in de zomer?",
-        "speaker": "Hans",
-        "translation": "¿Cómo es en verano?"
-      },
-      {
-        "text": "Het is altijd heet in juni, juli en augustus. De zon schijnt elke dag.",
-        "speaker": "Dimitri",
-        "translation": "Siempre hace calor en junio, julio y agosto. El sol brilla todos los días."
-      },
-      {
-        "text": "Is het koud of warm in de herfst?",
-        "speaker": "Hans",
-        "translation": "¿Hace frío o calor en otoño?"
-      },
-      {
-        "text": "Het is altijd warm in september en oktober. Het is vaak koud in november en het regent soms.",
-        "speaker": "Dimitri",
-        "translation": "Siempre hace calor en septiembre y octubre. A menudo hace frío en noviembre y a veces llueve."
-      },
-      {
-        "text": "Is het erg koud in de winter?",
-        "speaker": "Hans",
-        "translation": "¿Hace mucho frío en invierno?"
-      },
-      {
-        "text": "Het is vaak koud in december, januari en februari. Het sneeuwt soms.",
-        "speaker": "Dimitri",
-        "translation": "A menudo hace frío en diciembre, enero y febrero. A veces nieva."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page51_illust001.png",
-        "alt": "Hans y Dimitri conversando, con un mapa de Grecia visible"
-      },
-      {
-        "src": "/illustrations-sorted/page51_illust002.png",
-        "alt": "Escena de primavera con flores, viento, lluvia y sol"
-      },
-      {
-        "src": "/illustrations-sorted/page51_illust003.png",
-        "alt": "Escena de verano con sol brillante, árbol, playa"
-      },
-      {
-        "src": "/illustrations-sorted/page51_illust004.png",
-        "alt": "Escena de otoño con hojas cayendo, lluvia, nubes"
-      },
-      {
-        "src": "/illustrations-sorted/page51_illust005.png",
-        "alt": "Escena de invierno con nieve cayendo, árbol desnudo, casas nevadas"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Waar kom je vandaan?",
+          "speaker": "Hans",
+          "translation": "¿De dónde vienes?"
+        },
+        {
+          "text": "Ik kom uit Griekenland.",
+          "speaker": "Dimitri",
+          "translation": "Vengo de Grecia."
+        },
+        {
+          "text": "Hoe is het klimaat in jouw land?",
+          "speaker": "Hans",
+          "translation": "¿Cómo es el clima en tu país?"
+        },
+        {
+          "text": "Het is erg aangenaam.",
+          "speaker": "Dimitri",
+          "translation": "Es muy agradable."
+        },
+        {
+          "text": "Hoe is het weer in de lente?",
+          "speaker": "Hans",
+          "translation": "¿Cómo es el clima en primavera?"
+        },
+        {
+          "text": "Het waait vaak in maart. Het is altijd warm in april en mei, maar het regent soms.",
+          "speaker": "Dimitri",
+          "translation": "A menudo hace viento en marzo. Siempre hace calor en abril y mayo, pero a veces llueve."
+        },
+        {
+          "text": "Hoe is het in de zomer?",
+          "speaker": "Hans",
+          "translation": "¿Cómo es en verano?"
+        },
+        {
+          "text": "Het is altijd heet in juni, juli en augustus. De zon schijnt elke dag.",
+          "speaker": "Dimitri",
+          "translation": "Siempre hace calor en junio, julio y agosto. El sol brilla todos los días."
+        },
+        {
+          "text": "Is het koud of warm in de herfst?",
+          "speaker": "Hans",
+          "translation": "¿Hace frío o calor en otoño?"
+        },
+        {
+          "text": "Het is altijd warm in september en oktober. Het is vaak koud in november en het regent soms.",
+          "speaker": "Dimitri",
+          "translation": "Siempre hace calor en septiembre y octubre. A menudo hace frío en noviembre y a veces llueve."
+        },
+        {
+          "text": "Is het erg koud in de winter?",
+          "speaker": "Hans",
+          "translation": "¿Hace mucho frío en invierno?"
+        },
+        {
+          "text": "Het is vaak koud in december, januari en februari. Het sneeuwt soms.",
+          "speaker": "Dimitri",
+          "translation": "A menudo hace frío en diciembre, enero y febrero. A veces nieva."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page51_illust001.png",
+          "alt": "Hans y Dimitri conversando, con un mapa de Grecia visible"
+        },
+        {
+          "src": "/illustrations-sorted/page51_illust002.png",
+          "alt": "Escena de primavera con flores, viento, lluvia y sol"
+        },
+        {
+          "src": "/illustrations-sorted/page51_illust003.png",
+          "alt": "Escena de verano con sol brillante, árbol, playa"
+        },
+        {
+          "src": "/illustrations-sorted/page51_illust004.png",
+          "alt": "Escena de otoño con hojas cayendo, lluvia, nubes"
+        },
+        {
+          "src": "/illustrations-sorted/page51_illust005.png",
+          "alt": "Escena de invierno con nieve cayendo, árbol desnudo, casas nevadas"
+        }
+      ]
+    }
+  ]
 }

@@ -1,95 +1,97 @@
 {
   "id": 17,
   "title": "Les 17",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Kom en ontmoet onze medewerkers, meneer Richards.",
-        "speaker": "Meneer Jackson",
-        "translation": "Venga y conozca a nuestros empleados, Sr. Richards."
-      },
-      {
-        "text": "Dank u, meneer Jackson.",
-        "speaker": "Meneer Richards",
-        "translation": "Gracias, Sr. Jackson."
-      },
-      {
-        "text": "Dit is juffrouw Grey en dit is juffrouw Taylor.",
-        "speaker": "Meneer Jackson",
-        "translation": "Ésta es la Srta. Grey y ésta es la Srta. Taylor."
-      },
-      {
-        "text": "Hoe maakt u het?",
-        "speaker": "Meneer Richards",
-        "translation": "¿Cómo están?"
-      },
-      {
-        "text": "Die meisjes zijn erg mooi. Wat zijn hun banen?",
-        "speaker": "Meneer Jackson",
-        "translation": "Esas chicas son muy bonitas. ¿Cuáles son sus trabajos?"
-      },
-      {
-        "text": "Ze zijn typistes.",
-        "speaker": "Meneer Richards",
-        "translation": "Son mecanógrafas."
-      },
-      {
-        "text": "Dit is meneer Baker en dit is meneer Short.",
-        "speaker": "Meneer Jackson",
-        "translation": "Éste es el Sr. Baker y éste es el Sr. Short."
-      },
-      {
-        "text": "Hoe maakt u het?",
-        "speaker": "Meneer Richards",
-        "translation": "¿Cómo están?"
-      },
-      {
-        "text": "Ze zijn niet erg druk. Wat zijn hun banen?",
-        "speaker": "Meneer Jackson",
-        "translation": "No están muy ocupados. ¿Cuáles son sus trabajos?"
-      },
-      {
-        "text": "Ze zijn klerken. Ze zijn erg lui.",
-        "speaker": "Meneer Richards",
-        "translation": "Son oficinistas. Son muy perezosos."
-      },
-      {
-        "text": "Wie is deze jonge man?",
-        "speaker": "Meneer Jackson",
-        "translation": "¿Quién es este joven?"
-      },
-      {
-        "text": "Dit is Jim. Hij is onze kantoorjongen!",
-        "speaker": "Meneer Richards",
-        "translation": "Éste es Jim. ¡Él es nuestro chico de oficina!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page17_illust001.png",
-        "alt": "Sr. Jackson y Sr. Richards en la entrada de la oficina"
-      },
-      {
-        "src": "/illustrations-sorted/page17_illust002.png",
-        "alt": "Dos mujeres (Srta. Grey y Srta. Taylor) trabajando en sus escritorios"
-      },
-      {
-        "src": "/illustrations-sorted/page17_illust003.png",
-        "alt": "Sr. Richards observando a las dos mecanógrafas con admiración"
-      },
-      {
-        "src": "/illustrations-sorted/page17_illust004.png",
-        "alt": "Sr. Baker y Sr. Short en sus escritorios, con aspecto relajado"
-      },
-      {
-        "src": "/illustrations-sorted/page17_illust005.png",
-        "alt": "Los dos empleados claramente sin hacer mucho, Sr. Richards notándolo"
-      },
-      {
-        "src": "/illustrations-sorted/page17_illust006.png",
-        "alt": "Ilustración 6 del diálogo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Kom en ontmoet onze medewerkers, meneer Richards.",
+          "speaker": "Meneer Jackson",
+          "translation": "Venga y conozca a nuestros empleados, Sr. Richards."
+        },
+        {
+          "text": "Dank u, meneer Jackson.",
+          "speaker": "Meneer Richards",
+          "translation": "Gracias, Sr. Jackson."
+        },
+        {
+          "text": "Dit is juffrouw Grey en dit is juffrouw Taylor.",
+          "speaker": "Meneer Jackson",
+          "translation": "Ésta es la Srta. Grey y ésta es la Srta. Taylor."
+        },
+        {
+          "text": "Hoe maakt u het?",
+          "speaker": "Meneer Richards",
+          "translation": "¿Cómo están?"
+        },
+        {
+          "text": "Die meisjes zijn erg mooi. Wat zijn hun banen?",
+          "speaker": "Meneer Jackson",
+          "translation": "Esas chicas son muy bonitas. ¿Cuáles son sus trabajos?"
+        },
+        {
+          "text": "Ze zijn typistes.",
+          "speaker": "Meneer Richards",
+          "translation": "Son mecanógrafas."
+        },
+        {
+          "text": "Dit is meneer Baker en dit is meneer Short.",
+          "speaker": "Meneer Jackson",
+          "translation": "Éste es el Sr. Baker y éste es el Sr. Short."
+        },
+        {
+          "text": "Hoe maakt u het?",
+          "speaker": "Meneer Richards",
+          "translation": "¿Cómo están?"
+        },
+        {
+          "text": "Ze zijn niet erg druk. Wat zijn hun banen?",
+          "speaker": "Meneer Jackson",
+          "translation": "No están muy ocupados. ¿Cuáles son sus trabajos?"
+        },
+        {
+          "text": "Ze zijn klerken. Ze zijn erg lui.",
+          "speaker": "Meneer Richards",
+          "translation": "Son oficinistas. Son muy perezosos."
+        },
+        {
+          "text": "Wie is deze jonge man?",
+          "speaker": "Meneer Jackson",
+          "translation": "¿Quién es este joven?"
+        },
+        {
+          "text": "Dit is Jim. Hij is onze kantoorjongen!",
+          "speaker": "Meneer Richards",
+          "translation": "Éste es Jim. ¡Él es nuestro chico de oficina!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page17_illust001.png",
+          "alt": "Sr. Jackson y Sr. Richards en la entrada de la oficina"
+        },
+        {
+          "src": "/illustrations-sorted/page17_illust002.png",
+          "alt": "Dos mujeres (Srta. Grey y Srta. Taylor) trabajando en sus escritorios"
+        },
+        {
+          "src": "/illustrations-sorted/page17_illust003.png",
+          "alt": "Sr. Richards observando a las dos mecanógrafas con admiración"
+        },
+        {
+          "src": "/illustrations-sorted/page17_illust004.png",
+          "alt": "Sr. Baker y Sr. Short en sus escritorios, con aspecto relajado"
+        },
+        {
+          "src": "/illustrations-sorted/page17_illust005.png",
+          "alt": "Los dos empleados claramente sin hacer mucho, Sr. Richards notándolo"
+        },
+        {
+          "src": "/illustrations-sorted/page17_illust006.png",
+          "alt": "Ilustración 6 del diálogo"
+        }
+      ]
+    }
+  ]
 }

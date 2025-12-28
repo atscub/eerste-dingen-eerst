@@ -1,17 +1,75 @@
 {
   "id": 140,
   "title": "Les 140",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij wil weten of/waarom/wat/wanneer...**\n\n**Afbeeldingen 1-9 tonen indirecte vragen:**\n1-3. Ben je moe? / Waarom ben je moe? → Hij wil weten of je moe bent. / Hij wil weten waarom je moe bent.\n4-6. Lees je? / Wat ben je aan het lezen? → Hij wil weten of je aan het lezen bent. / Hij wil weten wat je aan het lezen bent.\n7-9. Doet Tom altijd zijn huiswerk? / Wanneer doet Tom zijn huiswerk? → Hij wil weten of Tom altijd zijn huiswerk doet. / Hij wil weten wanneer Tom zijn huiswerk doet.",
-    "examples": [
-      "Grammatica: Hij wil weten of/waarom/wat/wanneer...",
-      "Afbeeldingen 1-9 tonen indirecte vragen:",
-      "Lees het gesprek in Les 139 opnieuw. Schrijf dan antwoorden op deze vragen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "1. Spreekt meneer Grimes niet met John Smith? 2. Wie nodigde meneer en mevrouw Grimes voor het avondeten uit? 3. Hoe laat zei meneer Grimes dat hij er zou zijn? 4. Waarom kan hij niet om zes uur daar zijn?",
-    "example": []
-  }
+  "subtitle": "Hij wil weten of/waarom/wat/wanneer...",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "groups": [
+        {
+          "prompt": "Indirecte vragen - Of en Waarom",
+          "items": [
+            { "number": 1, "dutch": "Ben je moe? Waarom ben je moe?", "spanish": "¿Estás cansado? ¿Por qué estás cansado?", "illustration": "/illustrations-sorted/page140_illust003.png" },
+            { "number": 2, "dutch": "Wat wil hij weten? Wat wil hij weten?", "spanish": "¿Qué quiere saber? ¿Qué quiere saber?", "illustration": "/illustrations-sorted/page140_illust001.png" },
+            { "number": 3, "dutch": "Hij wil weten of je moe bent. Hij wil weten waarom je moe bent.", "spanish": "Quiere saber si estás cansado. Quiere saber por qué estás cansado.", "illustration": "/illustrations-sorted/page140_illust002.png" }
+          ]
+        },
+        {
+          "prompt": "Indirecte vragen - Of en Wat",
+          "items": [
+            { "number": 4, "dutch": "Ben je aan het lezen? Wat ben je aan het lezen?", "spanish": "¿Estás leyendo? ¿Qué estás leyendo?", "illustration": "/illustrations-sorted/page140_illust005.png" },
+            { "number": 5, "dutch": "Wat wil hij weten? Wat wil hij weten?", "spanish": "¿Qué quiere saber? ¿Qué quiere saber?", "illustration": "/illustrations-sorted/page140_illust004.png" },
+            { "number": 6, "dutch": "Hij wil weten of je aan het lezen bent. Hij wil weten wat je aan het lezen bent.", "spanish": "Quiere saber si estás leyendo. Quiere saber qué estás leyendo.", "illustration": "/illustrations-sorted/page140_illust006.png" }
+          ]
+        },
+        {
+          "prompt": "Indirecte vragen - Of en Wanneer",
+          "items": [
+            { "number": 7, "dutch": "Doet Tom altijd zijn huiswerk? Wanneer doet Tom zijn huiswerk?", "spanish": "¿Tom siempre hace su tarea? ¿Cuándo hace Tom su tarea?", "illustration": "/illustrations-sorted/page140_illust007.png" },
+            { "number": 8, "dutch": "Wat wil hij weten? Wat wil hij weten?", "spanish": "¿Qué quiere saber? ¿Qué quiere saber?", "illustration": "/illustrations-sorted/page140_illust008.png" },
+            { "number": 9, "dutch": "Hij wil weten of Tom altijd zijn huiswerk doet. Hij wil weten wanneer Tom zijn huiswerk doet.", "spanish": "Quiere saber si Tom siempre hace su tarea. Quiere saber cuándo Tom hace su tarea.", "illustration": "/illustrations-sorted/page140_illust009.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "comprehension",
+      "instruction": "Lees het gesprek in Les 139 opnieuw. Schrijf dan antwoorden op deze vragen:",
+      "items": [
+        {
+          "text": "Spreekt meneer Grimes niet met John Smith?",
+          "answer": "Jawel, meneer Grimes spreekt met John Smith."
+        },
+        {
+          "text": "Wie nodigde meneer en mevrouw Grimes voor het avondeten uit?",
+          "answer": "John Smith nodigde ze uit."
+        },
+        {
+          "text": "Hoe laat zei meneer Grimes dat hij er zou zijn?",
+          "answer": "Hij zei dat hij er om zes uur zou zijn."
+        },
+        {
+          "text": "Waarom kan hij niet om zes uur daar zijn?",
+          "answer": "Omdat hij niet weet wanneer hij klaar is met zijn werk."
+        },
+        {
+          "text": "Meneer Grimes weet niet wanneer hij klaar is met zijn werk, toch?",
+          "answer": "Nee, hij weet het niet."
+        },
+        {
+          "text": "Wat wil mevrouw Grimes weten?",
+          "answer": "Ze wil weten hoe laat haar man thuiskomt."
+        },
+        {
+          "text": "Wat is het beroep van John Smith?",
+          "answer": "John Smith is chirurg."
+        },
+        {
+          "text": "Wat doet John Smith?",
+          "answer": "Hij opereert patiënten."
+        }
+      ]
+    }
+  ]
 }

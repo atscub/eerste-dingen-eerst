@@ -1,85 +1,87 @@
 {
   "id": 13,
   "title": "Les 13",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Welke kleur heeft je nieuwe jurk?",
-        "speaker": "Mevrouw Brown",
-        "translation": "¿De qué color es tu vestido nuevo?"
-      },
-      {
-        "text": "Hij is groen.",
-        "speaker": "Mevrouw White",
-        "translation": "Es verde."
-      },
-      {
-        "text": "Kom naar boven en kijk hem.",
-        "speaker": "Mevrouw Brown",
-        "translation": "Sube las escaleras y míralo."
-      },
-      {
-        "text": "Dank je.",
-        "speaker": "Mevrouw White",
-        "translation": "Gracias."
-      },
-      {
-        "text": "Kijk! Hier is hij!",
-        "speaker": "Mevrouw Brown",
-        "translation": "¡Mira! ¡Aquí está!"
-      },
-      {
-        "text": "Dat is een mooie jurk. Hij is erg slim.",
-        "speaker": "Mevrouw White",
-        "translation": "Ese es un vestido bonito. Es muy elegante."
-      },
-      {
-        "text": "Mijn hoed is ook nieuw.",
-        "speaker": "Mevrouw Brown",
-        "translation": "Mi sombrero también es nuevo."
-      },
-      {
-        "text": "Welke kleur is hij?",
-        "speaker": "Mevrouw White",
-        "translation": "¿De qué color es?"
-      },
-      {
-        "text": "Het is dezelfde kleur. Hij is ook groen.",
-        "speaker": "Mevrouw Brown",
-        "translation": "Es del mismo color. También es verde."
-      },
-      {
-        "text": "Dat is een prachtige hoed!",
-        "speaker": "Mevrouw White",
-        "translation": "¡Ese es un sombrero precioso!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page13_illust001.png",
-        "alt": "Dos mujeres conversando en la sala, una preguntando sobre el vestido"
-      },
-      {
-        "src": "/illustrations-sorted/page13_illust002.png",
-        "alt": "Mevrouw White invitando a subir las escaleras"
-      },
-      {
-        "src": "/illustrations-sorted/page13_illust003.png",
-        "alt": "Ilustración 3 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page13_illust004.png",
-        "alt": "Primer plano del vestido verde en el armario"
-      },
-      {
-        "src": "/illustrations-sorted/page13_illust005.png",
-        "alt": "Mevrouw White mostrando su sombrero verde nuevo"
-      },
-      {
-        "src": "/illustrations-sorted/page13_illust006.png",
-        "alt": "Ambas mujeres admirando el conjunto de vestido y sombrero verde"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Welke kleur heeft je nieuwe jurk?",
+          "speaker": "Mevrouw Brown",
+          "translation": "¿De qué color es tu vestido nuevo?"
+        },
+        {
+          "text": "Hij is groen.",
+          "speaker": "Mevrouw White",
+          "translation": "Es verde."
+        },
+        {
+          "text": "Kom naar boven en kijk hem.",
+          "speaker": "Mevrouw Brown",
+          "translation": "Sube las escaleras y míralo."
+        },
+        {
+          "text": "Dank je.",
+          "speaker": "Mevrouw White",
+          "translation": "Gracias."
+        },
+        {
+          "text": "Kijk! Hier is hij!",
+          "speaker": "Mevrouw Brown",
+          "translation": "¡Mira! ¡Aquí está!"
+        },
+        {
+          "text": "Dat is een mooie jurk. Hij is erg slim.",
+          "speaker": "Mevrouw White",
+          "translation": "Ese es un vestido bonito. Es muy elegante."
+        },
+        {
+          "text": "Mijn hoed is ook nieuw.",
+          "speaker": "Mevrouw Brown",
+          "translation": "Mi sombrero también es nuevo."
+        },
+        {
+          "text": "Welke kleur is hij?",
+          "speaker": "Mevrouw White",
+          "translation": "¿De qué color es?"
+        },
+        {
+          "text": "Het is dezelfde kleur. Hij is ook groen.",
+          "speaker": "Mevrouw Brown",
+          "translation": "Es del mismo color. También es verde."
+        },
+        {
+          "text": "Dat is een prachtige hoed!",
+          "speaker": "Mevrouw White",
+          "translation": "¡Ese es un sombrero precioso!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page13_illust001.png",
+          "alt": "Dos mujeres conversando en la sala, una preguntando sobre el vestido"
+        },
+        {
+          "src": "/illustrations-sorted/page13_illust002.png",
+          "alt": "Mevrouw White invitando a subir las escaleras"
+        },
+        {
+          "src": "/illustrations-sorted/page13_illust003.png",
+          "alt": "Ilustración 3 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page13_illust004.png",
+          "alt": "Primer plano del vestido verde en el armario"
+        },
+        {
+          "src": "/illustrations-sorted/page13_illust005.png",
+          "alt": "Mevrouw White mostrando su sombrero verde nuevo"
+        },
+        {
+          "src": "/illustrations-sorted/page13_illust006.png",
+          "alt": "Ambas mujeres admirando el conjunto de vestido y sombrero verde"
+        }
+      ]
+    }
+  ]
 }

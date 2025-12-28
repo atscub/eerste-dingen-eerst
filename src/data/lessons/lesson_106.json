@@ -1,27 +1,77 @@
 {
   "id": 106,
   "title": "Les 106",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Ik wil dat je... Zeg (hem) dat hij...**",
-    "examples": [
-      "Ik wil dat je het repareert.",
-      "Grammatica: Ik wil dat je... Zeg (hem) dat hij...",
-      "Bekijk dit:",
-      "Doe deze op dezelfde manier:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Repareer het alsjeblieft. → *Ik wil dat je het repareert.*",
-    "example": [
-      {
-        "dutch": "Ik wil dat je het repareert.",
-        "spanish": "Quiero que lo repares."
-      },
-      {
-        "dutch": "Repareer het alsjeblieft.",
-        "spanish": "Ik wil dat je het repareert."
-      }
-    ]
-  }
+  "subtitle": "Ik wil dat je... Zeg (hem) dat hij...",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "prompt": "Ik wil dat je... Zeg (hem) dat hij...",
+      "groups": [
+        {
+          "prompt": "Ik wil dat je...",
+          "items": [
+            { "number": 1, "dutch": "het draagt", "spanish": "lo lleves", "illustration": "/illustrations-sorted/page106_illust001.png" },
+            { "number": 2, "dutch": "het corrigeert", "spanish": "lo corrijas", "illustration": "/illustrations-sorted/page106_illust002.png" },
+            { "number": 3, "dutch": "ernaar luistert", "spanish": "lo escuches", "illustration": "/illustrations-sorted/page106_illust003.png" },
+            { "number": 4, "dutch": "het beschrijft", "spanish": "lo describas", "illustration": "/illustrations-sorted/page106_illust004.png" },
+            { "number": 5, "dutch": "het verplaatst", "spanish": "lo muevas", "illustration": "/illustrations-sorted/page106_illust005.png" },
+            { "number": 6, "dutch": "het probeert", "spanish": "lo intentes", "illustration": "/illustrations-sorted/page106_illust006.png" },
+            { "number": 7, "dutch": "het afmaakt", "spanish": "lo termines", "illustration": "/illustrations-sorted/page106_illust007.png" },
+            { "number": 8, "dutch": "het houdt", "spanish": "lo guardes", "illustration": "/illustrations-sorted/page106_illust008.png" }
+          ]
+        },
+        {
+          "prompt": "Ik wil niet dat je... Zeg (hem) dat hij niet...",
+          "items": [
+            { "number": 9, "dutch": "jezelf pijn doet", "spanish": "te lastimes", "illustration": "/illustrations-sorted/page106_illust009.png" },
+            { "number": 10, "dutch": "uitglijdt", "spanish": "resbales", "illustration": "/illustrations-sorted/page106_illust010.png" },
+            { "number": 11, "dutch": "valt", "spanish": "caigas", "illustration": "/illustrations-sorted/page106_illust011.png" },
+            { "number": 12, "dutch": "het mist", "spanish": "lo pierdas", "illustration": "/illustrations-sorted/page106_illust012.png" },
+            { "number": 13, "dutch": "het breekt", "spanish": "lo rompas", "illustration": "/illustrations-sorted/page106_illust013.png" },
+            { "number": 14, "dutch": "het rijdt", "spanish": "lo conduzcas", "illustration": "/illustrations-sorted/page106_illust014.png" },
+            { "number": 15, "dutch": "het verliest", "spanish": "lo pierdas", "illustration": "/illustrations-sorted/page106_illust015.png" },
+            { "number": 16, "dutch": "je snijdt", "spanish": "te cortes", "illustration": "/illustrations-sorted/page106_illust016.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Repareer het alsjeblieft.",
+          "output": "Ik wil dat je het repareert.",
+          "spanish": "Por favor, repáralo. Quiero que lo repares."
+        }
+      ],
+      "items": [
+        {
+          "text": "Spel het alsjeblieft.",
+          "answer": "Ik wil dat je het spelt."
+        },
+        {
+          "text": "Bel hem alsjeblieft.",
+          "answer": "Ik wil dat je hem belt."
+        },
+        {
+          "text": "Draag het alsjeblieft.",
+          "answer": "Ik wil dat je het draagt."
+        },
+        {
+          "text": "Vraag haar alsjeblieft.",
+          "answer": "Ik wil dat je haar vraagt."
+        },
+        {
+          "text": "Vertel het hen alsjeblieft.",
+          "answer": "Ik wil dat je het hen vertelt."
+        },
+        {
+          "text": "Help ons alsjeblieft.",
+          "answer": "Ik wil dat je ons helpt."
+        }
+      ]
+    }
+  ]
 }

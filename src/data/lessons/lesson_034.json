@@ -1,19 +1,120 @@
 {
   "id": 34,
   "title": "Les 34",
-  "subtitle": "¿Qué están haciendo?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "nemen – nemend",
-        "spanish": "tomar – tomando"
-      },
-      {
-        "dutch": "Neem ... Hij neemt zijn boek.",
-        "spanish": "Toma ... Él toma su libro."
-      }
-    ]
-  }
+  "subtitle": "Wat doen ze?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat doen ze?",
+      "items": [
+        {
+          "number": 220231,
+          "dutch": "De kinderen spelen.",
+          "spanish": "Los niños están jugando.",
+          "illustration": "/illustrations-sorted/page34_illust001.png"
+        },
+        {
+          "number": 331342,
+          "dutch": "Ze slapen.",
+          "spanish": "Están durmiendo.",
+          "illustration": "/illustrations-sorted/page34_illust002.png"
+        },
+        {
+          "number": 442453,
+          "dutch": "Ze koken.",
+          "spanish": "Están cocinando.",
+          "illustration": "/illustrations-sorted/page34_illust003.png"
+        },
+        {
+          "number": 553564,
+          "dutch": "Ze tellen.",
+          "spanish": "Están contando.",
+          "illustration": "/illustrations-sorted/page34_illust004.png"
+        },
+        {
+          "number": 664675,
+          "dutch": "Ze eten.",
+          "spanish": "Están comiendo.",
+          "illustration": "/illustrations-sorted/page34_illust005.png"
+        },
+        {
+          "number": 775786,
+          "dutch": "Ze rijden.",
+          "spanish": "Están conduciendo.",
+          "illustration": "/illustrations-sorted/page34_illust006.png"
+        },
+        {
+          "number": 886897,
+          "dutch": "Ze winkelen.",
+          "spanish": "Están comprando.",
+          "illustration": "/illustrations-sorted/page34_illust007.png"
+        },
+        {
+          "number": 997998,
+          "dutch": "Ze rennen.",
+          "spanish": "Están corriendo.",
+          "illustration": "/illustrations-sorted/page34_illust008.png"
+        },
+        {
+          "number": 1000001,
+          "dutch": "Ze zwemmen.",
+          "spanish": "Están nadando.",
+          "illustration": "/illustrations-sorted/page34_illust009.png"
+        },
+        {
+          "number": 1100000,
+          "dutch": "Ze wachten.",
+          "spanish": "Están esperando.",
+          "illustration": "/illustrations-sorted/page34_illust010.png"
+        },
+        {
+          "number": 1500000,
+          "dutch": "Ze staan bij de bushalte.",
+          "spanish": "Están en la parada del autobús.",
+          "illustration": "/illustrations-sorted/page34_illust011.png"
+        },
+        {
+          "number": 2000000,
+          "dutch": "Ze bouwen.",
+          "spanish": "Están construyendo.",
+          "illustration": "/illustrations-sorted/page34_illust012.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto: nemen - nemend",
+      "wordsToUse": ["typt", "maakt", "komt", "schijnt", "geeft"],
+      "example": [
+        {
+          "input": "Neem... Hij ---- zijn boek.",
+          "output": "Neem... Hij neemt zijn boek.",
+          "spanish": "Toma... Él toma su libro."
+        }
+      ],
+      "items": [
+        {
+          "text": "Typ... Zij ---- een brief.",
+          "answer": "Typ... Zij typt een brief."
+        },
+        {
+          "text": "Maak... Zij ---- het bed op.",
+          "answer": "Maak... Zij maakt het bed op."
+        },
+        {
+          "text": "Kom... Hij ----.",
+          "answer": "Kom... Hij komt."
+        },
+        {
+          "text": "Schijn... De zon ----.",
+          "answer": "Schijn... De zon schijnt."
+        },
+        {
+          "text": "Geef... Hij ---- me wat tijdschriften.",
+          "answer": "Geef... Hij geeft me wat tijdschriften."
+        }
+      ]
+    }
+  ]
 }

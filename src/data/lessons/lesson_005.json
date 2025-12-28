@@ -1,104 +1,106 @@
 {
   "id": 5,
   "title": "Les 5",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Goedemorgen.",
-        "speaker": "Meneer Blake",
-        "translation": "Buenos días."
-      },
-      {
-        "text": "Goedemorgen, meneer Blake.",
-        "speaker": "Studenten",
-        "translation": "Buenos días, Sr. Blake."
-      },
-      {
-        "text": "Dit is juffrouw Alice Dupont. Alice is een nieuwe studente. Zij is Frans.",
-        "speaker": "Meneer Blake",
-        "translation": "Ésta es la Srta. Alice Dupont. Alice es una estudiante nueva. Ella es francesa."
-      },
-      {
-        "text": "Alice, dit is Hans. Hij is Duits.",
-        "speaker": "Meneer Blake",
-        "translation": "Alice, éste es Hans. Él es alemán."
-      },
-      {
-        "text": "Hoe maakt u het?",
-        "speaker": "Hans",
-        "translation": "¿Cómo está usted?"
-      },
-      {
-        "text": "En dit is Britt. Zij is Zweeds.",
-        "speaker": "Meneer Blake",
-        "translation": "Y ésta es Britt. Ella es sueca."
-      },
-      {
-        "text": "Hoe maakt u het?",
-        "speaker": "Britt",
-        "translation": "¿Cómo está usted?"
-      },
-      {
-        "text": "En dit is Dimitri. Hij is Grieks.",
-        "speaker": "Meneer Blake",
-        "translation": "Y éste es Dimitri. Él es griego."
-      },
-      {
-        "text": "Hoe maakt u het?",
-        "speaker": "Dimitri",
-        "translation": "¿Cómo está usted?"
-      },
-      {
-        "text": "En dit is Paul. Hij is Braziliaans.",
-        "speaker": "Meneer Blake",
-        "translation": "Y éste es Paul. Él es brasileño."
-      },
-      {
-        "text": "Hoe maakt u het?",
-        "speaker": "Paul",
-        "translation": "¿Cómo está usted?"
-      },
-      {
-        "text": "En dit is Stella. Zij is Spaans.",
-        "speaker": "Meneer Blake",
-        "translation": "Y ésta es Stella. Ella es española."
-      },
-      {
-        "text": "Hoe maakt u het?",
-        "speaker": "Stella",
-        "translation": "¿Cómo está usted?"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page5_illust001.png",
-        "alt": "Un aula con el profesor Blake saludando a los estudiantes sentados"
-      },
-      {
-        "src": "/illustrations-sorted/page5_illust002.png",
-        "alt": "Ilustración 2 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page5_illust003.png",
-        "alt": "Hans, un estudiante con aspecto alemán, saludando con la mano"
-      },
-      {
-        "src": "/illustrations-sorted/page5_illust004.png",
-        "alt": "Britt, una estudiante rubia, representando Suecia"
-      },
-      {
-        "src": "/illustrations-sorted/page5_illust005.png",
-        "alt": "Dimitri con rizos oscuros, con mapa de Grecia al fondo"
-      },
-      {
-        "src": "/illustrations-sorted/page5_illust006.png",
-        "alt": "Paul, de apariencia brasileña, saludando amistosamente"
-      },
-      {
-        "src": "/illustrations-sorted/page5_illust007.png",
-        "alt": "Stella con cabello oscuro, con referencia a España en el fondo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Goedemorgen.",
+          "speaker": "Meneer Blake",
+          "translation": "Buenos días."
+        },
+        {
+          "text": "Goedemorgen, meneer Blake.",
+          "speaker": "Studenten",
+          "translation": "Buenos días, Sr. Blake."
+        },
+        {
+          "text": "Dit is juffrouw Alice Dupont. Alice is een nieuwe studente. Zij is Frans.",
+          "speaker": "Meneer Blake",
+          "translation": "Ésta es la Srta. Alice Dupont. Alice es una estudiante nueva. Ella es francesa."
+        },
+        {
+          "text": "Alice, dit is Hans. Hij is Duits.",
+          "speaker": "Meneer Blake",
+          "translation": "Alice, éste es Hans. Él es alemán."
+        },
+        {
+          "text": "Hoe maakt u het?",
+          "speaker": "Hans",
+          "translation": "¿Cómo está usted?"
+        },
+        {
+          "text": "En dit is Britt. Zij is Zweeds.",
+          "speaker": "Meneer Blake",
+          "translation": "Y ésta es Britt. Ella es sueca."
+        },
+        {
+          "text": "Hoe maakt u het?",
+          "speaker": "Britt",
+          "translation": "¿Cómo está usted?"
+        },
+        {
+          "text": "En dit is Dimitri. Hij is Grieks.",
+          "speaker": "Meneer Blake",
+          "translation": "Y éste es Dimitri. Él es griego."
+        },
+        {
+          "text": "Hoe maakt u het?",
+          "speaker": "Dimitri",
+          "translation": "¿Cómo está usted?"
+        },
+        {
+          "text": "En dit is Paul. Hij is Braziliaans.",
+          "speaker": "Meneer Blake",
+          "translation": "Y éste es Paul. Él es brasileño."
+        },
+        {
+          "text": "Hoe maakt u het?",
+          "speaker": "Paul",
+          "translation": "¿Cómo está usted?"
+        },
+        {
+          "text": "En dit is Stella. Zij is Spaans.",
+          "speaker": "Meneer Blake",
+          "translation": "Y ésta es Stella. Ella es española."
+        },
+        {
+          "text": "Hoe maakt u het?",
+          "speaker": "Stella",
+          "translation": "¿Cómo está usted?"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page5_illust001.png",
+          "alt": "Un aula con el profesor Blake saludando a los estudiantes sentados"
+        },
+        {
+          "src": "/illustrations-sorted/page5_illust002.png",
+          "alt": "Ilustración 2 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page5_illust003.png",
+          "alt": "Hans, un estudiante con aspecto alemán, saludando con la mano"
+        },
+        {
+          "src": "/illustrations-sorted/page5_illust004.png",
+          "alt": "Britt, una estudiante rubia, representando Suecia"
+        },
+        {
+          "src": "/illustrations-sorted/page5_illust005.png",
+          "alt": "Dimitri con rizos oscuros, con mapa de Grecia al fondo"
+        },
+        {
+          "src": "/illustrations-sorted/page5_illust006.png",
+          "alt": "Paul, de apariencia brasileña, saludando amistosamente"
+        },
+        {
+          "src": "/illustrations-sorted/page5_illust007.png",
+          "alt": "Stella con cabello oscuro, con referencia a España en el fondo"
+        }
+      ]
+    }
+  ]
 }

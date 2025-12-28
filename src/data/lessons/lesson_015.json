@@ -1,113 +1,115 @@
 {
   "id": 15,
   "title": "Les 15",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Zijn jullie Zweeds?",
-        "speaker": "Douanebeambte",
-        "translation": "¿Son ustedes suecas?"
-      },
-      {
-        "text": "Nee, dat zijn we niet. We zijn Deens.",
-        "speaker": "Meisjes",
-        "translation": "No, no lo somos. Somos danesas."
-      },
-      {
-        "text": "Zijn jullie vriendinnen ook Deens?",
-        "speaker": "Douanebeambte",
-        "translation": "¿Son sus amigas danesas, también?"
-      },
-      {
-        "text": "Nee, dat zijn ze niet. Zij zijn Noors.",
-        "speaker": "Meisjes",
-        "translation": "No, no lo son. Ellas son noruegas."
-      },
-      {
-        "text": "Jullie paspoorten, alstublieft.",
-        "speaker": "Douanebeambte",
-        "translation": "Sus pasaportes, por favor."
-      },
-      {
-        "text": "Alstublieft.",
-        "speaker": "Meisjes",
-        "translation": "Aquí están."
-      },
-      {
-        "text": "Zijn dit jullie koffers?",
-        "speaker": "Douanebeambte",
-        "translation": "¿Son éstas sus maletas?"
-      },
-      {
-        "text": "Nee, dat zijn ze niet.",
-        "speaker": "Meisjes",
-        "translation": "No, no lo son."
-      },
-      {
-        "text": "Onze koffers zijn bruin. Hier zijn ze.",
-        "speaker": "Meisjes",
-        "translation": "Nuestras maletas son marrones. Aquí están."
-      },
-      {
-        "text": "Zijn jullie toeristen?",
-        "speaker": "Douanebeambte",
-        "translation": "¿Son ustedes turistas?"
-      },
-      {
-        "text": "Ja, dat zijn we.",
-        "speaker": "Meisjes",
-        "translation": "Sí, lo somos."
-      },
-      {
-        "text": "Zijn jullie vriendinnen ook toeristen?",
-        "speaker": "Douanebeambte",
-        "translation": "¿Son sus amigas turistas también?"
-      },
-      {
-        "text": "Ja, dat zijn ze.",
-        "speaker": "Meisjes",
-        "translation": "Sí, lo son."
-      },
-      {
-        "text": "Dat is prima. Hartelijk dank.",
-        "speaker": "Douanebeambte",
-        "translation": "Está bien. Muchas gracias."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page15_illust001.png",
-        "alt": "Ilustración 1 del diálogo"
-      },
-      {
-        "src": "/illustrations-sorted/page15_illust002.png",
-        "alt": "Las chicas mostrando que no son suecas, señalando hacia Dinamarca"
-      },
-      {
-        "src": "/illustrations-sorted/page15_illust003.png",
-        "alt": "Las chicas entregando sus pasaportes al funcionario"
-      },
-      {
-        "src": "/illustrations-sorted/page15_illust004.png",
-        "alt": "Funcionario señalando unas maletas grises mientras las chicas niegan con la cabeza"
-      },
-      {
-        "src": "/illustrations-sorted/page15_illust005.png",
-        "alt": "Las chicas señalando sus propias maletas marrones"
-      },
-      {
-        "src": "/illustrations-sorted/page15_illust006.png",
-        "alt": "Funcionario preguntando si son turistas, las chicas asintiendo"
-      },
-      {
-        "src": "/illustrations-sorted/page15_illust007.png",
-        "alt": "Grupo completo de chicas con todo su equipaje"
-      },
-      {
-        "src": "/illustrations-sorted/page15_illust008.png",
-        "alt": "Funcionario despidiendo al grupo, gesto de aprobación"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Zijn jullie Zweeds?",
+          "speaker": "Douanebeambte",
+          "translation": "¿Son ustedes suecas?"
+        },
+        {
+          "text": "Nee, dat zijn we niet. We zijn Deens.",
+          "speaker": "Meisjes",
+          "translation": "No, no lo somos. Somos danesas."
+        },
+        {
+          "text": "Zijn jullie vriendinnen ook Deens?",
+          "speaker": "Douanebeambte",
+          "translation": "¿Son sus amigas danesas, también?"
+        },
+        {
+          "text": "Nee, dat zijn ze niet. Zij zijn Noors.",
+          "speaker": "Meisjes",
+          "translation": "No, no lo son. Ellas son noruegas."
+        },
+        {
+          "text": "Jullie paspoorten, alstublieft.",
+          "speaker": "Douanebeambte",
+          "translation": "Sus pasaportes, por favor."
+        },
+        {
+          "text": "Alstublieft.",
+          "speaker": "Meisjes",
+          "translation": "Aquí están."
+        },
+        {
+          "text": "Zijn dit jullie koffers?",
+          "speaker": "Douanebeambte",
+          "translation": "¿Son éstas sus maletas?"
+        },
+        {
+          "text": "Nee, dat zijn ze niet.",
+          "speaker": "Meisjes",
+          "translation": "No, no lo son."
+        },
+        {
+          "text": "Onze koffers zijn bruin. Hier zijn ze.",
+          "speaker": "Meisjes",
+          "translation": "Nuestras maletas son marrones. Aquí están."
+        },
+        {
+          "text": "Zijn jullie toeristen?",
+          "speaker": "Douanebeambte",
+          "translation": "¿Son ustedes turistas?"
+        },
+        {
+          "text": "Ja, dat zijn we.",
+          "speaker": "Meisjes",
+          "translation": "Sí, lo somos."
+        },
+        {
+          "text": "Zijn jullie vriendinnen ook toeristen?",
+          "speaker": "Douanebeambte",
+          "translation": "¿Son sus amigas turistas también?"
+        },
+        {
+          "text": "Ja, dat zijn ze.",
+          "speaker": "Meisjes",
+          "translation": "Sí, lo son."
+        },
+        {
+          "text": "Dat is prima. Hartelijk dank.",
+          "speaker": "Douanebeambte",
+          "translation": "Está bien. Muchas gracias."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page15_illust001.png",
+          "alt": "Ilustración 1 del diálogo"
+        },
+        {
+          "src": "/illustrations-sorted/page15_illust002.png",
+          "alt": "Las chicas mostrando que no son suecas, señalando hacia Dinamarca"
+        },
+        {
+          "src": "/illustrations-sorted/page15_illust003.png",
+          "alt": "Las chicas entregando sus pasaportes al funcionario"
+        },
+        {
+          "src": "/illustrations-sorted/page15_illust004.png",
+          "alt": "Funcionario señalando unas maletas grises mientras las chicas niegan con la cabeza"
+        },
+        {
+          "src": "/illustrations-sorted/page15_illust005.png",
+          "alt": "Las chicas señalando sus propias maletas marrones"
+        },
+        {
+          "src": "/illustrations-sorted/page15_illust006.png",
+          "alt": "Funcionario preguntando si son turistas, las chicas asintiendo"
+        },
+        {
+          "src": "/illustrations-sorted/page15_illust007.png",
+          "alt": "Grupo completo de chicas con todo su equipaje"
+        },
+        {
+          "src": "/illustrations-sorted/page15_illust008.png",
+          "alt": "Funcionario despidiendo al grupo, gesto de aprobación"
+        }
+      ]
+    }
+  ]
 }

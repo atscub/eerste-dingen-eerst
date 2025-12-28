@@ -1,28 +1,74 @@
 {
   "id": 108,
   "title": "Les 108",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hoe vergelijken ze?**",
-    "examples": [
-      "Het is vandaag warm, maar het was warmer gisteren.",
-      "Grammatica: Hoe vergelijken ze?",
-      "Bekijk deze woorden:",
-      "Bekijk nu dit:",
-      "Doe deze op dezelfde manier:"
-    ]
-  },
-  "exercise": {
-    "instruction": "koud - kouder; aardig - aardiger; heet - heter; zwaar - zwaarder.",
-    "example": [
-      {
-        "dutch": "Het is vandaag warm, maar het was warmer gisteren.",
-        "spanish": "Hace calor hoy, pero ayer hacía más calor."
-      },
-      {
-        "dutch": "",
-        "spanish": "Het is vandaag warm, maar het was warmer gisteren."
-      }
-    ]
-  }
+  "subtitle": "Hoe vergelijken ze?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hoe vergelijken ze? (Vergrotende trap)",
+      "items": [
+        { "number": 1, "dutch": "Alice is lang.", "spanish": "Alice es alta.", "illustration": "/illustrations-sorted/page108_illust001.png" },
+        { "number": 2, "dutch": "Paul is langer dan Alice.", "spanish": "Paul es más alto que Alice.", "illustration": "/illustrations-sorted/page108_illust002.png" },
+        { "number": 3, "dutch": "Hans is de langste leerling in onze klas.", "spanish": "Hans es el estudiante más alto de nuestra clase.", "illustration": "/illustrations-sorted/page108_illust003.png" },
+        { "number": 4, "dutch": "Het is vandaag heet.", "spanish": "Hoy hace calor.", "illustration": "/illustrations-sorted/page108_illust004.png" },
+        { "number": 5, "dutch": "Het was gisteren heter.", "spanish": "Ayer hacía más calor.", "illustration": "/illustrations-sorted/page108_illust005.png" },
+        { "number": 6, "dutch": "Eergisteren was de heetste dag van het jaar.", "spanish": "Anteayer fue el día más caluroso del año.", "illustration": "/illustrations-sorted/page108_illust006.png" },
+        { "number": 7, "dutch": "Er was vorig jaar een grote menigte bij de race.", "spanish": "Había una gran multitud en la carrera el año pasado.", "illustration": "/illustrations-sorted/page108_illust007.png" },
+        { "number": 8, "dutch": "Dit jaar is de menigte groter.", "spanish": "Este año la multitud es más grande.", "illustration": "/illustrations-sorted/page108_illust008.png" },
+        { "number": 9, "dutch": "Het is de grootste menigte die ik ooit heb gezien.", "spanish": "Es la multitud más grande que he visto.", "illustration": "/illustrations-sorted/page108_illust009.png" },
+        { "number": 10, "dutch": "De bruine koffer is zwaar.", "spanish": "La maleta marrón es pesada.", "illustration": "/illustrations-sorted/page108_illust010.png" },
+        { "number": 11, "dutch": "De blauwe koffer is zwaarder dan de bruine.", "spanish": "La maleta azul es más pesada que la marrón.", "illustration": "/illustrations-sorted/page108_illust011.png" },
+        { "number": 12, "dutch": "De groene koffer is de zwaarste van allemaal.", "spanish": "La maleta verde es la más pesada de todas.", "illustration": "/illustrations-sorted/page108_illust012.png" }
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "title": "Bekijk deze woorden:",
+      "columns": ["Basis", "Vergrotende trap"],
+      "rows": [
+        ["koud", "kouder"],
+        ["aardig", "aardiger"],
+        ["heet", "heter"],
+        ["zwaar", "zwaarder"]
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto: Het is vandaag warm, maar het was ... gisteren. → Het is vandaag warm, maar het was warmer gisteren.",
+      "example": [
+        {
+          "input": "Het is vandaag warm, maar het was ... gisteren.",
+          "output": "Het is vandaag warm, maar het was warmer gisteren.",
+          "spanish": "Hoy hace calor, pero ayer hacía más calor."
+        }
+      ],
+      "items": [
+        {
+          "text": "Het is vandaag koel, maar het was ... gisteren.",
+          "answer": "Het is vandaag koel, maar het was koeler gisteren."
+        },
+        {
+          "text": "Het is vandaag nat, maar het was ... gisteren.",
+          "answer": "Het is vandaag nat, maar het was natter gisteren."
+        },
+        {
+          "text": "Hij is vandaag weer laat, maar hij was ... gisteren.",
+          "answer": "Hij is vandaag weer laat, maar hij was later gisteren."
+        },
+        {
+          "text": "Deze test is makkelijk, maar die is ...",
+          "answer": "Deze test is makkelijk, maar die is makkelijker."
+        },
+        {
+          "text": "Deze boekenkast is groot, maar die is ...",
+          "answer": "Deze boekenkast is groot, maar die is groter."
+        },
+        {
+          "text": "Betty is mooi, maar Jane is ...",
+          "answer": "Betty is mooi, maar Jane is mooier."
+        }
+      ]
+    }
+  ]
 }

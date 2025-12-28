@@ -1,17 +1,42 @@
 {
   "id": 132,
   "title": "Les 132",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij kan... zijn / Hij kan... zijn geweest / Ik weet het niet zeker**\n\n**Afbeeldingen 1-6 tonen onzekerheid:**\n1. Waar is Harry? Hij kan in zijn kamer zijn. Ik weet het niet zeker.\n2. Waar gaat hij heen? Hij kan naar de bioscoop gaan. Ik weet het niet zeker.\n3. Waarom is hij te laat? Hij kan druk zijn. Ik weet het niet zeker.\n4. Wat doet hij? Hij kan aan het lezen zijn. Ik weet het niet zeker.\n5. Waarom was hij te laat? Hij kan druk zijn geweest. Ik weet het niet zeker.\n6. Wat was hij aan het doen? Hij kan aan het lezen zijn geweest. Ik weet het niet zeker.",
-    "examples": [
-      "Grammatica: Hij kan... zijn / Hij kan... zijn geweest / Ik weet het niet zeker",
-      "Afbeeldingen 1-6 tonen onzekerheid:",
-      "Lees het gesprek in Les 131 opnieuw. Schrijf dan antwoorden op deze vragen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "1. Praat Roy met Harry? 2. Waar kunnen Harry en zijn vrouw dit jaar heen gaan? 3. Wie wil naar Egypte gaan? 4. Hoe zullen ze reizen?",
-    "example": []
-  }
+  "subtitle": "Hij is misschien... / Hij was misschien...",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hij is misschien... / Hij was misschien... / Ik weet het niet zeker",
+      "items": [
+        { "number": 1, "dutch": "Waar is Harry? Hij is misschien in zijn kamer. Ik weet het niet zeker.", "spanish": "¿Dónde está Harry? Quizás esté en su habitación. No estoy seguro.", "illustration": "/illustrations-sorted/page132_illust001.png" },
+        { "number": 2, "dutch": "Waar gaat hij heen? Hij gaat misschien naar de bioscoop. Ik weet het niet zeker.", "spanish": "¿Adónde va? Quizás vaya al cine. No estoy seguro.", "illustration": "/illustrations-sorted/page132_illust002.png" },
+        { "number": 3, "dutch": "Waarom is hij te laat? Hij is misschien druk. Ik weet het niet zeker.", "spanish": "¿Por qué llega tarde? Quizás esté ocupado. No estoy seguro.", "illustration": "/illustrations-sorted/page132_illust003.png" },
+        { "number": 4, "dutch": "Wat doet hij? Hij is misschien aan het lezen. Ik weet het niet zeker.", "spanish": "¿Qué está haciendo? Quizás esté leyendo. No estoy seguro.", "illustration": "/illustrations-sorted/page132_illust004.png" },
+        { "number": 5, "dutch": "Waarom was hij te laat? Hij was misschien druk. Ik weet het niet zeker.", "spanish": "¿Por qué llegó tarde? Quizás estaba ocupado. No estoy seguro.", "illustration": "/illustrations-sorted/page132_illust005.png" },
+        { "number": 6, "dutch": "Wat was hij aan het doen? Hij was misschien aan het lezen. Ik weet het niet zeker.", "spanish": "¿Qué estaba haciendo? Quizás estaba leyendo. No estoy seguro.", "illustration": "/illustrations-sorted/page132_illust006.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "comprehension",
+      "instruction": "Lees het gesprek in Les 131 opnieuw. Schrijf dan antwoorden op deze vragen:",
+      "items": [
+        {
+          "text": "Praat Roy met Harry?",
+          "answer": "Ja, Roy praat met Harry."
+        },
+        {
+          "text": "Waar kunnen Harry en zijn vrouw dit jaar heen gaan?",
+          "answer": "Ze kunnen naar Egypte gaan."
+        },
+        {
+          "text": "Wie wil naar Egypte gaan?",
+          "answer": "Harry's vrouw wil naar Egypte gaan."
+        },
+        {
+          "text": "Hoe zullen ze reizen?",
+          "answer": "Ze zullen met het vliegtuig reizen."
+        }
+      ]
+    }
+  ]
 }

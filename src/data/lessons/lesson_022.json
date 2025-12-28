@@ -1,19 +1,148 @@
 {
   "id": 22,
   "title": "Les 22",
-  "subtitle": "Dame/le/nos/les un...",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Is dit het overhemd van Tim? Nee, het is het niet. ... overhemd is wit.",
-        "spanish": "¿Es esta la camisa de Tim? No, no lo es. ... camisa es blanca."
-      },
-      {
-        "dutch": "Is dit het overhemd van Tim? Nee, het is het niet. Zijn overhemd is wit.",
-        "spanish": "¿Es esta la camisa de Tim? No, no lo es. Su camisa es blanca."
-      }
-    ]
-  }
+  "subtitle": "Geef mij/hem/haar/ons/hun een... Welke?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Geef mij/hem/haar/ons/hun een... Welke?",
+      "items": [
+        {
+          "number": 1,
+          "dutch": "een kopje",
+          "spanish": "una taza",
+          "illustration": "/illustrations-sorted/page22_illust001.png"
+        },
+        {
+          "number": 2,
+          "dutch": "een vaas",
+          "spanish": "un jarrón",
+          "illustration": "/illustrations-sorted/page22_illust002.png"
+        },
+        {
+          "number": 3,
+          "dutch": "een glas",
+          "spanish": "un vaso",
+          "illustration": "/illustrations-sorted/page22_illust003.png"
+        },
+        {
+          "number": 4,
+          "dutch": "een fles",
+          "spanish": "una botella",
+          "illustration": "/illustrations-sorted/page22_illust004.png"
+        },
+        {
+          "number": 5,
+          "dutch": "een blikje",
+          "spanish": "una lata",
+          "illustration": "/illustrations-sorted/page22_illust005.png"
+        },
+        {
+          "number": 6,
+          "dutch": "een mes",
+          "spanish": "un cuchillo",
+          "illustration": "/illustrations-sorted/page22_illust006.png"
+        },
+        {
+          "number": 7,
+          "dutch": "een vork",
+          "spanish": "un tenedor",
+          "illustration": "/illustrations-sorted/page22_illust007.png"
+        },
+        {
+          "number": 8,
+          "dutch": "een lepel",
+          "spanish": "una cuchara",
+          "illustration": "/illustrations-sorted/page22_illust008.png"
+        },
+        {
+          "number": 9,
+          "dutch": "een bord",
+          "spanish": "un plato",
+          "illustration": "/illustrations-sorted/page22_illust009.png"
+        },
+        {
+          "number": 10,
+          "dutch": "een schotel",
+          "spanish": "un platito",
+          "illustration": "/illustrations-sorted/page22_illust010.png"
+        },
+        {
+          "number": 11,
+          "dutch": "een kast",
+          "spanish": "un armario",
+          "illustration": "/illustrations-sorted/page22_illust011.png"
+        },
+        {
+          "number": 12,
+          "dutch": "een tafel",
+          "spanish": "una mesa",
+          "illustration": "/illustrations-sorted/page22_illust012.png"
+        },
+        {
+          "number": 13,
+          "dutch": "een plank",
+          "spanish": "un estante",
+          "illustration": "/illustrations-sorted/page22_illust013.png"
+        },
+        {
+          "number": 14,
+          "dutch": "een koekenpan",
+          "spanish": "una sartén",
+          "illustration": "/illustrations-sorted/page22_illust014.png"
+        },
+        {
+          "number": 15,
+          "dutch": "een pot",
+          "spanish": "una olla",
+          "illustration": "/illustrations-sorted/page22_illust015.png"
+        },
+        {
+          "number": 16,
+          "dutch": "een ketel",
+          "spanish": "una tetera",
+          "illustration": "/illustrations-sorted/page22_illust016.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["Zijn", "Haar", "Onze", "Hun"],
+      "example": [
+        {
+          "input": "Is dit het overhemd van Tim? Nee, het is het niet. ---- overhemd is wit.",
+          "output": "Is dit het overhemd van Tim? Nee, het is het niet. Zijn overhemd is wit.",
+          "spanish": "¿Es esta la camisa de Tim? No, no lo es. Su camisa es blanca."
+        }
+      ],
+      "items": [
+        {
+          "text": "Is dit de jas van juffrouw Grey? Nee, het is het niet. ---- jas is grijs.",
+          "answer": "Is dit de jas van juffrouw Grey? Nee, het is het niet. Haar jas is grijs."
+        },
+        {
+          "text": "Zijn dit uw pennen? Nee, dat zijn ze niet. ---- pennen zijn blauw.",
+          "answer": "Zijn dit uw pennen? Nee, dat zijn ze niet. Onze pennen zijn blauw."
+        },
+        {
+          "text": "Is dit de hoed van meneer Jackson? Nee, het is het niet. ---- hoed is zwart.",
+          "answer": "Is dit de hoed van meneer Jackson? Nee, het is het niet. Zijn hoed is zwart."
+        },
+        {
+          "text": "Zijn dit de boeken van de kinderen? Nee, dat zijn ze niet. ---- boeken zijn rood.",
+          "answer": "Zijn dit de boeken van de kinderen? Nee, dat zijn ze niet. Hun boeken zijn rood."
+        },
+        {
+          "text": "Is dit de hond van mevrouw Davis? Nee, het is het niet. ---- hond is bruin en wit.",
+          "answer": "Is dit de hond van mevrouw Davis? Nee, het is het niet. Haar hond is bruin en wit."
+        },
+        {
+          "text": "Is dit de das van uw vader? Nee, het is het niet. ---- das is oranje.",
+          "answer": "Is dit de das van uw vader? Nee, het is het niet. Zijn das is oranje."
+        }
+      ]
+    }
+  ]
 }

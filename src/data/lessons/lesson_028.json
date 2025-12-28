@@ -1,23 +1,107 @@
 {
   "id": 28,
   "title": "Les 28",
-  "subtitle": "¿Dónde están?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa estos: Ahora mira esto:",
-    "example": [
-      {
-        "dutch": "een boek – wat boeken; een man – wat mannen; een huisvrouw – wat huisvrouwen.",
-        "spanish": "un libro – algunos libros; un hombre – algunos hombres; un ama de casa – algunas amas de casa."
-      },
-      {
-        "dutch": "Er is een boek op het bureau.",
-        "spanish": "Hay un libro sobre el escritorio."
-      },
-      {
-        "dutch": "Er zijn wat boeken op het bureau.",
-        "spanish": "Hay algunos libros sobre el escritorio."
-      }
-    ]
-  }
+  "subtitle": "Waar zijn ze?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Waar zijn ze?",
+      "items": [
+        {
+          "number": 1120,
+          "dutch": "Er zijn wat sigaretten op de kaptafel. Ze zijn dichtbij die doos.",
+          "spanish": "Hay unos cigarrillos en el tocador. Están cerca de esa caja.",
+          "illustration": "/illustrations-sorted/page28_illust001.png"
+        },
+        {
+          "number": 2230,
+          "dutch": "Er zijn wat borden op het fornuis. Ze zijn schoon.",
+          "spanish": "Hay unos platos en la cocina. Están limpios.",
+          "illustration": "/illustrations-sorted/page28_illust002.png"
+        },
+        {
+          "number": 3340,
+          "dutch": "Er zijn wat broeken bij de deur. Ze liggen op die stoel.",
+          "spanish": "Hay unos pantalones cerca de la puerta. Están en esa silla.",
+          "illustration": "/illustrations-sorted/page28_illust003.png"
+        },
+        {
+          "number": 4450,
+          "dutch": "Er zijn wat flessen in de koelkast. Ze zijn leeg.",
+          "spanish": "Hay unas botellas en el refrigerador. Están vacías.",
+          "illustration": "/illustrations-sorted/page28_illust004.png"
+        },
+        {
+          "number": 5560,
+          "dutch": "Er zijn wat schoenen op de vloer. Ze zijn dichtbij het bed.",
+          "spanish": "Hay unos zapatos en el suelo. Están cerca de la cama.",
+          "illustration": "/illustrations-sorted/page28_illust005.png"
+        },
+        {
+          "number": 6670,
+          "dutch": "Er zijn wat messen op de tafel. Ze zitten in die doos.",
+          "spanish": "Hay unos cuchillos en la mesa. Están en esa caja.",
+          "illustration": "/illustrations-sorted/page28_illust006.png"
+        },
+        {
+          "number": 7780,
+          "dutch": "Er zijn wat vorken op de plank. Ze zijn dichtbij die lepels.",
+          "spanish": "Hay unos tenedores en el estante. Están cerca de esas cucharas.",
+          "illustration": "/illustrations-sorted/page28_illust007.png"
+        },
+        {
+          "number": 8890,
+          "dutch": "Er zijn wat flessen op de kast. Ze zijn dichtbij die blikken.",
+          "spanish": "Hay unas botellas en el aparador. Están cerca de esas latas.",
+          "illustration": "/illustrations-sorted/page28_illust008.png"
+        },
+        {
+          "number": 9999,
+          "dutch": "Er zijn wat kaartjes op de plank. Ze zitten in die tas.",
+          "spanish": "Hay unos billetes en el estante. Están en ese bolso.",
+          "illustration": "/illustrations-sorted/page28_illust009.png"
+        },
+        {
+          "number": 10001,
+          "dutch": "Er zijn wat glazen op de radio. Ze zijn dichtbij die flessen.",
+          "spanish": "Hay unos vasos en la radio. Están cerca de esas botellas.",
+          "illustration": "/illustrations-sorted/page28_illust010.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "rewrite",
+      "instruction": "Observa estos: een boek - wat boeken; een man - wat mannen; een huisvrouw - wat huisvrouwen.",
+      "example": [
+        {
+          "input": "Er is een boek op het bureau.",
+          "output": "Er zijn wat boeken op het bureau.",
+          "spanish": "Hay algunos libros sobre el escritorio."
+        }
+      ],
+      "items": [
+        {
+          "text": "Er is een potlood op het bureau.",
+          "answer": "Er zijn wat potloden op het bureau."
+        },
+        {
+          "text": "Er is een mes bij dat blik.",
+          "answer": "Er zijn wat messen bij dat blik."
+        },
+        {
+          "text": "Er is een politieagent in de keuken.",
+          "answer": "Er zijn wat politieagenten in de keuken."
+        },
+        {
+          "text": "Er is een krant in de woonkamer.",
+          "answer": "Er zijn wat kranten in de woonkamer."
+        },
+        {
+          "text": "Er is een typiste op kantoor.",
+          "answer": "Er zijn wat typistes op kantoor."
+        }
+      ]
+    }
+  ]
 }

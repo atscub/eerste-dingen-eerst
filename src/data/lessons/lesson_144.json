@@ -1,17 +1,69 @@
 {
   "id": 144,
   "title": "Les 144",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij is nog niet bediend / Hij zal binnenkort worden bediend**\n\n**Afbeeldingen 1-8 tonen lijdende vorm in verschillende tijden:**\n1-2. Heeft iemand deze auto al gerepareerd? / Hij is al gerepareerd!\n3-4. Heeft iemand deze schriften al gecorrigeerd? / Ze zijn al gecorrigeerd!\n5-6. Heeft iemand de dief al gevangen? / Hij is nog niet gevangen. Hij zal binnenkort worden gevangen!\n7-8. Heeft iemand de dieven al gevangen? / Ze zijn nog niet gevangen. Ze zullen binnenkort worden gevangen!",
-    "examples": [
-      "Grammatica: Hij is nog niet bediend / Hij zal binnenkort worden bediend",
-      "Afbeeldingen 1-8 tonen lijdende vorm in verschillende tijden:",
-      "Lees het stuk in Les 143 opnieuw. Schrijf dan antwoorden op deze vragen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "1. Waar woont de schrijver? 2. Waarom komen bezoekers vaak uit de stad? 3. Wat is bezoekers gevraagd om te doen? 4. Waar zijn afvalbakken geplaatst?",
-    "example": []
-  }
+  "subtitle": "Hij is nog niet bediend / Hij zal binnenkort worden bediend",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "groups": [
+        {
+          "prompt": "Lijdende vorm - Voltooid tegenwoordige tijd",
+          "items": [
+            { "number": 1, "dutch": "Heeft iemand deze auto al gerepareerd?", "spanish": "¿Alguien ya ha reparado este coche?", "illustration": "/illustrations-sorted/page144_illust001.png" },
+            { "number": 2, "dutch": "Hij is al gerepareerd!", "spanish": "¡Ya ha sido reparado!", "illustration": "/illustrations-sorted/page144_illust002.png" },
+            { "number": 3, "dutch": "Heeft iemand deze schriften al gecorrigeerd?", "spanish": "¿Alguien ya ha corregido estos cuadernos?", "illustration": "/illustrations-sorted/page144_illust003.png" },
+            { "number": 4, "dutch": "Ze zijn al gecorrigeerd!", "spanish": "¡Ya han sido corregidos!", "illustration": "/illustrations-sorted/page144_illust004.png" }
+          ]
+        },
+        {
+          "prompt": "Lijdende vorm - Nog niet... / Zal... worden",
+          "items": [
+            { "number": 5, "dutch": "Heeft iemand de dief al gevangen?", "spanish": "¿Alguien ya ha atrapado al ladrón?", "illustration": "/illustrations-sorted/page144_illust005.png" },
+            { "number": 6, "dutch": "Hij is nog niet gevangen. Hij zal binnenkort worden gevangen!", "spanish": "Todavía no ha sido atrapado. ¡Será atrapado pronto!", "illustration": "/illustrations-sorted/page144_illust006.png" },
+            { "number": 7, "dutch": "Heeft iemand de dieven al gevangen?", "spanish": "¿Alguien ya ha atrapado a los ladrones?", "illustration": "/illustrations-sorted/page144_illust008.png" },
+            { "number": 8, "dutch": "Ze zijn nog niet gevangen. Ze zullen binnenkort worden gevangen!", "spanish": "Todavía no han sido atrapados. ¡Serán atrapados pronto!", "illustration": "/illustrations-sorted/page144_illust007.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "comprehension",
+      "instruction": "Lees het stuk in Les 143 opnieuw. Schrijf dan antwoorden op deze vragen:",
+      "items": [
+        {
+          "text": "Waar woont de schrijver?",
+          "answer": "De schrijver woont in een klein dorp."
+        },
+        {
+          "text": "Waarom komen bezoekers vaak uit de stad?",
+          "answer": "Ze komen om van de rust te genieten."
+        },
+        {
+          "text": "Wat is bezoekers gevraagd om te doen?",
+          "answer": "Ze zijn gevraagd om geen afval achter te laten."
+        },
+        {
+          "text": "Waar zijn afvalbakken geplaatst?",
+          "answer": "Afvalbakken zijn overal geplaatst."
+        },
+        {
+          "text": "Waar ging de schrijver afgelopen woensdag heen?",
+          "answer": "De schrijver ging naar het bos."
+        },
+        {
+          "text": "Hij zag veel afval, nietwaar?",
+          "answer": "Ja, hij zag veel afval."
+        },
+        {
+          "text": "Wat zag hij tussen het afval?",
+          "answer": "Hij zag een bord tussen het afval."
+        },
+        {
+          "text": "Wat stond er op het bord?",
+          "answer": "Op het bord stond: 'Houd het platteland schoon.'"
+        }
+      ]
+    }
+  ]
 }

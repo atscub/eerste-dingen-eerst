@@ -1,126 +1,157 @@
 {
   "id": 18,
   "title": "Les 18",
-  "subtitle": "¿Cuáles son sus trabajos?",
-  "type": "vocabulary",
-  "items": [
+  "subtitle": "Wat zijn hun beroepen?",
+  "sections": [
     {
-      "number": 1,
-      "dutch": "de klerken",
-      "english": "clerks",
-      "spanish": "los oficinistas",
-      "illustration": "Illustratie van de klerken"
+      "type": "vocabulary",
+      "prompt": "Wat zijn hun beroepen?",
+      "items": [
+        {
+          "number": 1,
+          "dutch": "de klerken",
+          "english": "clerks",
+          "spanish": "los oficinistas",
+          "illustration": "/illustrations-sorted/page18_illust001.png"
+        },
+        {
+          "number": 2,
+          "dutch": "de typistes",
+          "english": "typists",
+          "spanish": "las mecanógrafas",
+          "illustration": "/illustrations-sorted/page18_illust002.png"
+        },
+        {
+          "number": 3,
+          "dutch": "de monteurs",
+          "english": "mechanics",
+          "spanish": "los mecánicos",
+          "illustration": "/illustrations-sorted/page18_illust003.png"
+        },
+        {
+          "number": 4,
+          "dutch": "de ingenieurs",
+          "english": "engineers",
+          "spanish": "los ingenieros",
+          "illustration": "/illustrations-sorted/page18_illust004.png"
+        },
+        {
+          "number": 5,
+          "dutch": "de kappers",
+          "english": "barbers",
+          "spanish": "los barberos",
+          "illustration": "/illustrations-sorted/page18_illust005.png"
+        },
+        {
+          "number": 6,
+          "dutch": "de leraren",
+          "english": "teachers",
+          "spanish": "los profesores",
+          "illustration": "/illustrations-sorted/page18_illust006.png"
+        },
+        {
+          "number": 7,
+          "dutch": "de douanebeambten",
+          "english": "customs officers",
+          "spanish": "los funcionarios de aduanas",
+          "illustration": "/illustrations-sorted/page18_illust007.png"
+        },
+        {
+          "number": 8,
+          "dutch": "de taxichauffeurs",
+          "english": "taxi-drivers",
+          "spanish": "los taxistas",
+          "illustration": "/illustrations-sorted/page18_illust008.png"
+        },
+        {
+          "number": 9,
+          "dutch": "de verpleegsters",
+          "english": "nurses",
+          "spanish": "las enfermeras",
+          "illustration": "/illustrations-sorted/page18_illust009.png"
+        },
+        {
+          "number": 10,
+          "dutch": "de stewardessen",
+          "english": "air-hostesses",
+          "spanish": "las azafatas",
+          "illustration": "/illustrations-sorted/page18_illust010.png"
+        },
+        {
+          "number": 11,
+          "dutch": "de huisvrouwen",
+          "english": "housewives",
+          "spanish": "las amas de casa",
+          "illustration": "/illustrations-sorted/page18_illust011.png"
+        },
+        {
+          "number": 12,
+          "dutch": "de melkboeren",
+          "english": "milkmen",
+          "spanish": "los lecheros",
+          "illustration": "/illustrations-sorted/page18_illust012.png"
+        },
+        {
+          "number": 13,
+          "dutch": "de postbodes",
+          "english": "postmen",
+          "spanish": "los carteros",
+          "illustration": "/illustrations-sorted/page18_illust013.png"
+        },
+        {
+          "number": 14,
+          "dutch": "de politieagenten",
+          "english": "policemen",
+          "spanish": "los policías",
+          "illustration": "/illustrations-sorted/page18_illust014.png"
+        },
+        {
+          "number": 15,
+          "dutch": "de politieagentes",
+          "english": "policewomen",
+          "spanish": "las mujeres policía",
+          "illustration": "/illustrations-sorted/page18_illust015.png"
+        }
+      ]
     },
     {
-      "number": 2,
-      "dutch": "de typistes",
-      "english": "typists",
-      "spanish": "las mecanógrafas",
-      "illustration": "Illustratie van de typistes"
-    },
-    {
-      "number": 3,
-      "dutch": "de monteurs",
-      "english": "mechanics",
-      "spanish": "los mecánicos",
-      "illustration": "Illustratie van de monteurs"
-    },
-    {
-      "number": 4,
-      "dutch": "de ingenieurs",
-      "english": "engineers",
-      "spanish": "los ingenieros",
-      "illustration": "Illustratie van de ingenieurs"
-    },
-    {
-      "number": 5,
-      "dutch": "de kappers",
-      "english": "barbers",
-      "spanish": "los barberos",
-      "illustration": "Illustratie van de kappers"
-    },
-    {
-      "number": 6,
-      "dutch": "de leraren",
-      "english": "teachers",
-      "spanish": "los profesores",
-      "illustration": "Illustratie van de leraren"
-    },
-    {
-      "number": 7,
-      "dutch": "de douanebeambten",
-      "english": "customs officers",
-      "spanish": "los funcionarios de aduanas",
-      "illustration": "Illustratie van de douanebeambten"
-    },
-    {
-      "number": 8,
-      "dutch": "de taxichauffeurs",
-      "english": "taxi-drivers",
-      "spanish": "los taxistas",
-      "illustration": "Illustratie van de taxichauffeurs"
-    },
-    {
-      "number": 9,
-      "dutch": "de verpleegsters",
-      "english": "nurses",
-      "spanish": "las enfermeras",
-      "illustration": "Illustratie van de verpleegsters"
-    },
-    {
-      "number": 10,
-      "dutch": "de stewardessen",
-      "english": "air-hostesses",
-      "spanish": "las azafatas",
-      "illustration": "Illustratie van de stewardessen"
-    },
-    {
-      "number": 11,
-      "dutch": "de huisvrouwen",
-      "english": "housewives",
-      "spanish": "las amas de casa",
-      "illustration": "Illustratie van de huisvrouwen"
-    },
-    {
-      "number": 12,
-      "dutch": "de melkboeren",
-      "english": "milkmen",
-      "spanish": "los lecheros",
-      "illustration": "Illustratie van de melkboeren"
-    },
-    {
-      "number": 13,
-      "dutch": "de postbodes",
-      "english": "postmen",
-      "spanish": "los carteros",
-      "illustration": "Illustratie van de postbodes"
-    },
-    {
-      "number": 14,
-      "dutch": "de politieagenten",
-      "english": "policemen",
-      "spanish": "los policías",
-      "illustration": "Illustratie van de politieagenten"
-    },
-    {
-      "number": 15,
-      "dutch": "de politieagentes",
-      "english": "policewomen",
-      "spanish": "las mujeres policía",
-      "illustration": "Illustratie van de politieagentes"
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto:",
+      "wordsToUse": ["Hij", "Zij", "Wij", "Zij (meervoud)"],
+      "example": [
+        {
+          "input": "Die mannen zijn lui. ---- zijn klerken.",
+          "output": "Die mannen zijn lui. Zij zijn klerken.",
+          "spanish": "Esos hombres son perezosos. Ellos son oficinistas."
+        }
+      ],
+      "items": [
+        {
+          "text": "Die man is lang. ---- is een politieagent.",
+          "answer": "Die man is lang. Hij is een politieagent."
+        },
+        {
+          "text": "Die meisjes zijn druk. ---- zijn typistes.",
+          "answer": "Die meisjes zijn druk. Zij zijn typistes."
+        },
+        {
+          "text": "Onze namen zijn Britt en Inge. ---- zijn Zweeds.",
+          "answer": "Onze namen zijn Britt en Inge. Wij zijn Zweeds."
+        },
+        {
+          "text": "Kijk naar onze loopjongen. ---- is erg druk.",
+          "answer": "Kijk naar onze loopjongen. Hij is erg druk."
+        },
+        {
+          "text": "Kijk naar juffrouw Grey. ---- is erg mooi.",
+          "answer": "Kijk naar juffrouw Grey. Zij is erg mooi."
+        },
+        {
+          "text": "Meneer Baker en meneer Short zijn werknemers. ---- zijn klerken.",
+          "answer": "Meneer Baker en meneer Short zijn werknemers. Zij zijn klerken."
+        }
+      ]
     }
-  ],
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Mijn naam .... Stella. | .... Spaans.",
-        "spanish": "Mi nombre .... Stella. | .... española."
-      },
-      {
-        "dutch": "Mijn naam is Stella. | Ik ben Spaans.",
-        "spanish": "Mi nombre es Stella. | Soy española."
-      }
-    ]
-  }
+  ]
 }

@@ -1,94 +1,96 @@
 {
   "id": 75,
   "title": "Les 75",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Heeft u schoenen zoals deze?",
-        "speaker": "Klant",
-        "translation": "¿Tiene zapatos como estos?"
-      },
-      {
-        "text": "Welke maat?",
-        "speaker": "Verkoper",
-        "translation": "¿Qué talla?"
-      },
-      {
-        "text": "Maat vijf.",
-        "speaker": "Klant",
-        "translation": "Talla cinco."
-      },
-      {
-        "text": "Welke kleur?",
-        "speaker": "Verkoper",
-        "translation": "¿De qué color?"
-      },
-      {
-        "text": "Zwart.",
-        "speaker": "Klant",
-        "translation": "Negro."
-      },
-      {
-        "text": "Het spijt me. Die hebben we niet.",
-        "speaker": "Verkoper",
-        "translation": "Lo siento. No tenemos."
-      },
-      {
-        "text": "Maar mijn zus kocht vorige maand dit paar.",
-        "speaker": "Klant",
-        "translation": "Pero mi hermana compró este par el mes pasado."
-      },
-      {
-        "text": "Kocht ze ze hier?",
-        "speaker": "Verkoper",
-        "translation": "¿Los compró aquí?"
-      },
-      {
-        "text": "Nee, ze kocht ze in de Verenigde Staten.",
-        "speaker": "Klant",
-        "translation": "No, los compró en Estados Unidos."
-      },
-      {
-        "text": "We hadden een maand geleden zulke schoenen, maar we hebben ze nu niet meer.",
-        "speaker": "Verkoper",
-        "translation": "Teníamos zapatos como esos hace un mes, pero no tenemos ahora."
-      },
-      {
-        "text": "Kunt u een paar voor me krijgen, alstublieft?",
-        "speaker": "Klant",
-        "translation": "¿Puede conseguirme un par, por favor?"
-      },
-      {
-        "text": "Ik ben bang van niet. Ze waren vorig jaar en het jaar daarvoor in de mode. Maar ze zijn dit jaar niet in de mode.",
-        "speaker": "Verkoper",
-        "translation": "Me temo que no puedo. Estuvieron de moda el año pasado y el año anterior. Pero no están de moda este año."
-      },
-      {
-        "text": "Deze schoenen zijn nu in de mode.",
-        "speaker": "Verkoper",
-        "translation": "Estos zapatos están de moda ahora."
-      },
-      {
-        "text": "Ze zien er erg oncomfortabel uit.",
-        "speaker": "Klant",
-        "translation": "Se ven muy incómodos."
-      },
-      {
-        "text": "Ze zijn erg oncomfortabel. Maar vrouwen dragen altijd oncomfortabele schoenen!",
-        "speaker": "Verkoper",
-        "translation": "Son muy incómodos. ¡Pero las mujeres siempre usan zapatos incómodos!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page75_illust001.png",
-        "alt": "Dama y vendedor en zapatería, dama mostrando zapato"
-      },
-      {
-        "src": "/illustrations-sorted/page75_illust002.png",
-        "alt": "Vendedor mostrando zapatos modernos a la dama, ambos mirando escépticos"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Heeft u schoenen zoals deze?",
+          "speaker": "Klant",
+          "translation": "¿Tiene zapatos como estos?"
+        },
+        {
+          "text": "Welke maat?",
+          "speaker": "Verkoper",
+          "translation": "¿Qué talla?"
+        },
+        {
+          "text": "Maat vijf.",
+          "speaker": "Klant",
+          "translation": "Talla cinco."
+        },
+        {
+          "text": "Welke kleur?",
+          "speaker": "Verkoper",
+          "translation": "¿De qué color?"
+        },
+        {
+          "text": "Zwart.",
+          "speaker": "Klant",
+          "translation": "Negro."
+        },
+        {
+          "text": "Het spijt me. Die hebben we niet.",
+          "speaker": "Verkoper",
+          "translation": "Lo siento. No tenemos."
+        },
+        {
+          "text": "Maar mijn zus kocht vorige maand dit paar.",
+          "speaker": "Klant",
+          "translation": "Pero mi hermana compró este par el mes pasado."
+        },
+        {
+          "text": "Kocht ze ze hier?",
+          "speaker": "Verkoper",
+          "translation": "¿Los compró aquí?"
+        },
+        {
+          "text": "Nee, ze kocht ze in de Verenigde Staten.",
+          "speaker": "Klant",
+          "translation": "No, los compró en Estados Unidos."
+        },
+        {
+          "text": "We hadden een maand geleden zulke schoenen, maar we hebben ze nu niet meer.",
+          "speaker": "Verkoper",
+          "translation": "Teníamos zapatos como esos hace un mes, pero no tenemos ahora."
+        },
+        {
+          "text": "Kunt u een paar voor me krijgen, alstublieft?",
+          "speaker": "Klant",
+          "translation": "¿Puede conseguirme un par, por favor?"
+        },
+        {
+          "text": "Ik ben bang van niet. Ze waren vorig jaar en het jaar daarvoor in de mode. Maar ze zijn dit jaar niet in de mode.",
+          "speaker": "Verkoper",
+          "translation": "Me temo que no puedo. Estuvieron de moda el año pasado y el año anterior. Pero no están de moda este año."
+        },
+        {
+          "text": "Deze schoenen zijn nu in de mode.",
+          "speaker": "Verkoper",
+          "translation": "Estos zapatos están de moda ahora."
+        },
+        {
+          "text": "Ze zien er erg oncomfortabel uit.",
+          "speaker": "Klant",
+          "translation": "Se ven muy incómodos."
+        },
+        {
+          "text": "Ze zijn erg oncomfortabel. Maar vrouwen dragen altijd oncomfortabele schoenen!",
+          "speaker": "Verkoper",
+          "translation": "Son muy incómodos. ¡Pero las mujeres siempre usan zapatos incómodos!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page75_illust001.png",
+          "alt": "Dama y vendedor en zapatería, dama mostrando zapato"
+        },
+        {
+          "src": "/illustrations-sorted/page75_illust002.png",
+          "alt": "Vendedor mostrando zapatos modernos a la dama, ambos mirando escépticos"
+        }
+      ]
+    }
+  ]
 }

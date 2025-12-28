@@ -1,12 +1,54 @@
 {
   "id": 110,
   "title": "Les 110",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hoe vergelijken ze?**",
-    "examples": [
-      "Grammatica: Hoe vergelijken ze?",
-      "Kopieer deze zinnen. Vul in: much, many, less of fewer."
-    ]
-  }
+  "subtitle": "Hoe vergelijken ze?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hoe vergelijken ze? (veel/weinig - meer/minder - meest/minst)",
+      "items": [
+        { "number": 1, "dutch": "Heb je chocolade? Ik heb niet veel.", "spanish": "¿Tienes chocolate? No tengo mucho.", "illustration": "/illustrations-sorted/page110_illust001.png" },
+        { "number": 2, "dutch": "Ik heb meer dan jij.", "spanish": "Tengo más que tú.", "illustration": "/illustrations-sorted/page110_illust002.png" },
+        { "number": 3, "dutch": "Ik heb het meest.", "spanish": "Tengo más (el máximo).", "illustration": "/illustrations-sorted/page110_illust003.png" },
+        { "number": 4, "dutch": "Heb je chocolade? Ik heb heel weinig.", "spanish": "¿Tienes chocolate? Tengo muy poco.", "illustration": "/illustrations-sorted/page110_illust004.png" },
+        { "number": 5, "dutch": "Ik heb minder dan jij.", "spanish": "Tengo menos que tú.", "illustration": "/illustrations-sorted/page110_illust005.png" },
+        { "number": 6, "dutch": "Ik heb het minst.", "spanish": "Tengo menos (el mínimo).", "illustration": "/illustrations-sorted/page110_illust006.png" },
+        { "number": 7, "dutch": "Heb je fouten gemaakt? Ik heb er niet veel gemaakt.", "spanish": "¿Has cometido errores? No he cometido muchos.", "illustration": "/illustrations-sorted/page110_illust007.png" },
+        { "number": 8, "dutch": "Ik heb er meer gemaakt dan jij.", "spanish": "He cometido más que tú.", "illustration": "/illustrations-sorted/page110_illust008.png" },
+        { "number": 9, "dutch": "Ik heb de meeste gemaakt.", "spanish": "He cometido más (el máximo).", "illustration": "/illustrations-sorted/page110_illust009.png" },
+        { "number": 10, "dutch": "Heb je fouten gemaakt? Ik heb er heel weinig gemaakt.", "spanish": "¿Has cometido errores? He cometido muy pocos.", "illustration": "/illustrations-sorted/page110_illust010.png" },
+        { "number": 11, "dutch": "Ik heb er minder gemaakt dan jij.", "spanish": "He cometido menos que tú.", "illustration": "/illustrations-sorted/page110_illust011.png" },
+        { "number": 12, "dutch": "Ik heb de minste gemaakt.", "spanish": "He cometido menos (el mínimo).", "illustration": "/illustrations-sorted/page110_illust012.png" },
+        { "number": 13, "dutch": "Je moet mijn nieuwe auto zien. Hij is heel goed.", "spanish": "Debes ver mi coche nuevo. Es muy bueno.", "illustration": "/illustrations-sorted/page110_illust013.png" },
+        { "number": 14, "dutch": "Deze is beter.", "spanish": "Este es mejor.", "illustration": "/illustrations-sorted/page110_illust014.png" },
+        { "number": 15, "dutch": "Dit is de beste die ik ooit heb gezien.", "spanish": "Este es el mejor que he visto.", "illustration": "/illustrations-sorted/page110_illust015.png" },
+        { "number": 16, "dutch": "Je mag niet naar dat restaurant gaan. Het is heel slecht.", "spanish": "No debes ir a ese restaurante. Es muy malo.", "illustration": "/illustrations-sorted/page110_illust016.png" },
+        { "number": 17, "dutch": "Deze is slechter.", "spanish": "Este es peor.", "illustration": "/illustrations-sorted/page110_illust017.png" },
+        { "number": 18, "dutch": "Dit is de slechtste die ik ooit heb gezien.", "spanish": "Este es el peor que he visto.", "illustration": "/illustrations-sorted/page110_illust018.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Kopieer deze zinnen. Vul in: much, many, less of fewer.",
+      "items": [
+        {
+          "text": "Ik heb geen sigaretten. Ik heb er ook geen ...",
+          "answer": "Ik heb geen sigaretten. Ik heb er ook geen."
+        },
+        {
+          "text": "Ik heb wat geld. Ik heb ... dan jij.",
+          "answer": "Ik heb wat geld. Ik heb meer dan jij."
+        },
+        {
+          "text": "Ik heb geen geld. Ik heb er ook geen ...",
+          "answer": "Ik heb geen geld. Ik heb er ook geen."
+        },
+        {
+          "text": "Ik heb wat boeken. Ik heb ... dan jij.",
+          "answer": "Ik heb wat boeken. Ik heb meer dan jij."
+        }
+      ]
+    }
+  ]
 }

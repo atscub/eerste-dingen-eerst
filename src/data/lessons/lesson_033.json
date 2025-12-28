@@ -2,54 +2,55 @@
   "id": 33,
   "title": "Les 33",
   "subtitle": "Een mooie dag",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Het is een mooie dag vandaag.",
-        "translation": "Es un hermoso día hoy."
+  "sections": [
+    {
+      "type": "reading",
+      "headerImage": {
+        "src": "/illustrations-sorted/page33_illust001.png",
+        "alt": "Familie Jansen op een brug, met boten op de rivier en een vliegtuig in de lucht"
       },
-      {
-        "text": "Er zijn enkele wolken in de lucht, maar de zon schijnt.",
-        "translation": "Hay algunas nubes en el cielo, pero el sol brilla."
-      },
-      {
-        "text": "Meneer Jansen is met zijn gezin.",
-        "translation": "El señor Jansen está con su familia."
-      },
-      {
-        "text": "Ze lopen over de brug.",
-        "translation": "Están caminando sobre el puente."
-      },
-      {
-        "text": "Er liggen enkele boten op de rivier.",
-        "translation": "Hay algunos barcos en el río."
-      },
-      {
-        "text": "Meneer Jansen en zijn vrouw kijken ernaar.",
-        "translation": "El señor Jansen y su esposa los están mirando."
-      },
-      {
-        "text": "Sally kijkt naar een groot schip.",
-        "translation": "Sally está mirando un gran barco."
-      },
-      {
-        "text": "Het schip gaat onder de brug door.",
-        "translation": "El barco está pasando bajo el puente."
-      },
-      {
-        "text": "Tim kijkt naar een vliegtuig.",
-        "translation": "Tim está mirando un avión."
-      },
-      {
-        "text": "Het vliegtuig vliegt over de rivier.",
-        "translation": "El avión está volando sobre el río."
-      }
-    ],
-    "headerImage": {
-      "src": "/illustrations-sorted/page33_illust001.png",
-      "alt": "Familie Jansen op een brug, met boten op de rivier en een vliegtuig in de lucht"
-    },
-    "images": []
-  }
+      "paragraphs": [
+        {
+          "text": "Het is een mooie dag vandaag.",
+          "translation": "Es un hermoso día hoy."
+        },
+        {
+          "text": "Er zijn enkele wolken in de lucht, maar de zon schijnt.",
+          "translation": "Hay algunas nubes en el cielo, pero el sol brilla."
+        },
+        {
+          "text": "Meneer Jansen is met zijn gezin.",
+          "translation": "El señor Jansen está con su familia."
+        },
+        {
+          "text": "Ze lopen over de brug.",
+          "translation": "Están caminando sobre el puente."
+        },
+        {
+          "text": "Er liggen enkele boten op de rivier.",
+          "translation": "Hay algunos barcos en el río."
+        },
+        {
+          "text": "Meneer Jansen en zijn vrouw kijken ernaar.",
+          "translation": "El señor Jansen y su esposa los están mirando."
+        },
+        {
+          "text": "Sally kijkt naar een groot schip.",
+          "translation": "Sally está mirando un gran barco."
+        },
+        {
+          "text": "Het schip gaat onder de brug door.",
+          "translation": "El barco está pasando bajo el puente."
+        },
+        {
+          "text": "Tim kijkt naar een vliegtuig.",
+          "translation": "Tim está mirando un avión."
+        },
+        {
+          "text": "Het vliegtuig vliegt over de rivier.",
+          "translation": "El avión está volando sobre el río."
+        }
+      ]
+    }
+  ]
 }

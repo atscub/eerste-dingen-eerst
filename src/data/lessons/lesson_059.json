@@ -1,119 +1,121 @@
 {
   "id": 59,
   "title": "Les 59",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Ik wil wat enveloppen, alstublieft.",
-        "speaker": "Klant",
-        "translation": "Quiero unos sobres, por favor."
-      },
-      {
-        "text": "Wilt u de grote maat, of de kleine maat?",
-        "speaker": "Winkelier",
-        "translation": "¿Quiere el tamaño grande, o el tamaño pequeño?"
-      },
-      {
-        "text": "De grote maat, alstublieft.",
-        "speaker": "Klant",
-        "translation": "El tamaño grande, por favor."
-      },
-      {
-        "text": "Heeft u schrijfpapier?",
-        "speaker": "Klant",
-        "translation": "¿Tiene papel de escribir?"
-      },
-      {
-        "text": "Ja, dat hebben we.",
-        "speaker": "Winkelier",
-        "translation": "Sí, tenemos."
-      },
-      {
-        "text": "Ik heb geen kleine blokken. Ik heb alleen grote. Wilt u een blok?",
-        "speaker": "Winkelier",
-        "translation": "No tengo almohadillas pequeñas. Solo tengo grandes. ¿Quiere una almohadilla?"
-      },
-      {
-        "text": "Ja, alstublieft.",
-        "speaker": "Klant",
-        "translation": "Sí, por favor."
-      },
-      {
-        "text": "En ik wil wat zwarte inkt en wat lijm.",
-        "speaker": "Klant",
-        "translation": "Y quiero algo de tinta negra y algo de pegamento."
-      },
-      {
-        "text": "Een fles inkt en een fles lijm.",
-        "speaker": "Winkelier",
-        "translation": "Una botella de tinta y una botella de pegamento."
-      },
-      {
-        "text": "En ik wil ook een grote doos krijt.",
-        "speaker": "Klant",
-        "translation": "Y quiero una caja grande de tiza, también."
-      },
-      {
-        "text": "Ik heb alleen kleine dozen. Wilt u er een?",
-        "speaker": "Winkelier",
-        "translation": "Solo tengo cajas pequeñas. ¿Quiere una?"
-      },
-      {
-        "text": "Nee, dank u.",
-        "speaker": "Klant",
-        "translation": "No, gracias."
-      },
-      {
-        "text": "Is dat alles?",
-        "speaker": "Winkelier",
-        "translation": "¿Es eso todo?"
-      },
-      {
-        "text": "Dat is alles, dank u.",
-        "speaker": "Klant",
-        "translation": "Eso es todo, gracias."
-      },
-      {
-        "text": "Wat wilt u nog meer?",
-        "speaker": "Winkelier",
-        "translation": "¿Qué más quiere?"
-      },
-      {
-        "text": "Ik wil mijn wisselgeld.",
-        "speaker": "Klant",
-        "translation": "Quiero mi cambio."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page59_illust001.png",
-        "alt": "Dama en el mostrador de la papelería hablando con el empleado"
-      },
-      {
-        "src": "/illustrations-sorted/page59_illust002.png",
-        "alt": "Empleado mostrando papel de escribir"
-      },
-      {
-        "src": "/illustrations-sorted/page59_illust003.png",
-        "alt": "Empleado mostrando almohadillas grandes"
-      },
-      {
-        "src": "/illustrations-sorted/page59_illust004.png",
-        "alt": "Botellas de tinta y pegamento en el mostrador"
-      },
-      {
-        "src": "/illustrations-sorted/page59_illust005.png",
-        "alt": "Empleado mostrando cajas de tiza"
-      },
-      {
-        "src": "/illustrations-sorted/page59_illust006.png",
-        "alt": "Dama esperando su cambio"
-      },
-      {
-        "src": "/illustrations-sorted/page59_illust007.png",
-        "alt": "Dama recibiendo su cambio del empleado"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Ik wil wat enveloppen, alstublieft.",
+          "speaker": "Klant",
+          "translation": "Quiero unos sobres, por favor."
+        },
+        {
+          "text": "Wilt u de grote maat, of de kleine maat?",
+          "speaker": "Winkelier",
+          "translation": "¿Quiere el tamaño grande, o el tamaño pequeño?"
+        },
+        {
+          "text": "De grote maat, alstublieft.",
+          "speaker": "Klant",
+          "translation": "El tamaño grande, por favor."
+        },
+        {
+          "text": "Heeft u schrijfpapier?",
+          "speaker": "Klant",
+          "translation": "¿Tiene papel de escribir?"
+        },
+        {
+          "text": "Ja, dat hebben we.",
+          "speaker": "Winkelier",
+          "translation": "Sí, tenemos."
+        },
+        {
+          "text": "Ik heb geen kleine blokken. Ik heb alleen grote. Wilt u een blok?",
+          "speaker": "Winkelier",
+          "translation": "No tengo almohadillas pequeñas. Solo tengo grandes. ¿Quiere una almohadilla?"
+        },
+        {
+          "text": "Ja, alstublieft.",
+          "speaker": "Klant",
+          "translation": "Sí, por favor."
+        },
+        {
+          "text": "En ik wil wat zwarte inkt en wat lijm.",
+          "speaker": "Klant",
+          "translation": "Y quiero algo de tinta negra y algo de pegamento."
+        },
+        {
+          "text": "Een fles inkt en een fles lijm.",
+          "speaker": "Winkelier",
+          "translation": "Una botella de tinta y una botella de pegamento."
+        },
+        {
+          "text": "En ik wil ook een grote doos krijt.",
+          "speaker": "Klant",
+          "translation": "Y quiero una caja grande de tiza, también."
+        },
+        {
+          "text": "Ik heb alleen kleine dozen. Wilt u er een?",
+          "speaker": "Winkelier",
+          "translation": "Solo tengo cajas pequeñas. ¿Quiere una?"
+        },
+        {
+          "text": "Nee, dank u.",
+          "speaker": "Klant",
+          "translation": "No, gracias."
+        },
+        {
+          "text": "Is dat alles?",
+          "speaker": "Winkelier",
+          "translation": "¿Es eso todo?"
+        },
+        {
+          "text": "Dat is alles, dank u.",
+          "speaker": "Klant",
+          "translation": "Eso es todo, gracias."
+        },
+        {
+          "text": "Wat wilt u nog meer?",
+          "speaker": "Winkelier",
+          "translation": "¿Qué más quiere?"
+        },
+        {
+          "text": "Ik wil mijn wisselgeld.",
+          "speaker": "Klant",
+          "translation": "Quiero mi cambio."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page59_illust001.png",
+          "alt": "Dama en el mostrador de la papelería hablando con el empleado"
+        },
+        {
+          "src": "/illustrations-sorted/page59_illust002.png",
+          "alt": "Empleado mostrando papel de escribir"
+        },
+        {
+          "src": "/illustrations-sorted/page59_illust003.png",
+          "alt": "Empleado mostrando almohadillas grandes"
+        },
+        {
+          "src": "/illustrations-sorted/page59_illust004.png",
+          "alt": "Botellas de tinta y pegamento en el mostrador"
+        },
+        {
+          "src": "/illustrations-sorted/page59_illust005.png",
+          "alt": "Empleado mostrando cajas de tiza"
+        },
+        {
+          "src": "/illustrations-sorted/page59_illust006.png",
+          "alt": "Dama esperando su cambio"
+        },
+        {
+          "src": "/illustrations-sorted/page59_illust007.png",
+          "alt": "Dama recibiendo su cambio del empleado"
+        }
+      ]
+    }
+  ]
 }

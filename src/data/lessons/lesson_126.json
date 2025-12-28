@@ -1,18 +1,53 @@
 {
   "id": 126,
   "title": "Les 126",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Must, Have to en Needn't**\n\n**Afbeeldingen 1-6 tonen verschillende situaties:**\n1. Moet je nu gaan? Ja, ik moet meteen vertrekken.\n2. Moet je morgenochtend vroeg opstaan? Ja, ik moet om zes uur opstaan.\n3. Moest je een taxi nemen? Ik was bang van wel. Ik kon geen bus krijgen.\n4. Is je vriendin nog niet aangekomen? Hoe lang heb je moeten wachten? Ik heb twee uur moeten wachten!\n5. Moet je de tuin sproeien? Nee, dat hoef ik nu niet. Het gaat regenen.\n6. Moeten we naar het station lopen? Nee, dat hoeft niet. We kunnen een bus pakken.",
-    "examples": [
-      "Grammatica: Must, Have to en Needn't",
-      "Afbeeldingen 1-6 tonen verschillende situaties:",
-      "Bekijk deze zinnen:",
-      "Kopieer elk van deze zinnen. Schrijf dan een vraag en een ontkenning:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Je moet vroeg vertrekken. Moet je vroeg vertrekken? Je hoeft niet vroeg te vertrekken.",
-    "example": []
-  }
+  "subtitle": "Moeten, Hebben te en Hoeven niet",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Moeten, Hebben te en Hoeven niet",
+      "items": [
+        { "number": 1, "dutch": "Moet je nu gaan? Ja, ik moet meteen vertrekken.", "spanish": "¿Tienes que irte ahora? Sí, tengo que salir de inmediato.", "illustration": "/illustrations-sorted/page126_illust001.png" },
+        { "number": 2, "dutch": "Moet je morgenochtend vroeg opstaan? Ja, ik moet om zes uur opstaan.", "spanish": "¿Tienes que levantarte temprano mañana? Sí, tengo que levantarme a las seis.", "illustration": "/illustrations-sorted/page126_illust002.png" },
+        { "number": 3, "dutch": "Moest je een taxi nemen? Ik was bang van wel. Ik kon geen bus krijgen.", "spanish": "¿Tuviste que tomar un taxi? Me temo que sí. No pude conseguir un autobús.", "illustration": "/illustrations-sorted/page126_illust003.png" },
+        { "number": 4, "dutch": "Is je vriendin nog niet aangekomen? Hoe lang heb je moeten wachten? Ik heb twee uur moeten wachten!", "spanish": "¿Tu amiga aún no ha llegado? ¿Cuánto tiempo has tenido que esperar? ¡He tenido que esperar dos horas!", "illustration": "/illustrations-sorted/page126_illust004.png" },
+        { "number": 5, "dutch": "Moet je de tuin sproeien? Nee, dat hoef ik nu niet. Het gaat regenen.", "spanish": "¿Tienes que regar el jardín? No, no necesito hacerlo ahora. Va a llover.", "illustration": "/illustrations-sorted/page126_illust005.png" },
+        { "number": 6, "dutch": "Moeten we naar het station lopen? Nee, dat hoeft niet. We kunnen een bus pakken.", "spanish": "¿Tenemos que caminar a la estación? No, no es necesario. Podemos tomar un autobús.", "illustration": "/illustrations-sorted/page126_illust006.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Kopieer elk van deze zinnen. Schrijf dan een vraag en een ontkenning:",
+      "example": [
+        {
+          "input": "Je moet vroeg vertrekken.",
+          "output": "Moet je vroeg vertrekken? Je hoeft niet vroeg te vertrekken.",
+          "spanish": "¿Tienes que salir temprano? No necesitas salir temprano."
+        }
+      ],
+      "items": [
+        {
+          "text": "Je moet om zes uur opstaan.",
+          "answer": "Moet je om zes uur opstaan? Je hoeft niet om zes uur op te staan."
+        },
+        {
+          "text": "Je moet een taxi nemen.",
+          "answer": "Moet je een taxi nemen? Je hoeft geen taxi te nemen."
+        },
+        {
+          "text": "Je moet lang wachten.",
+          "answer": "Moet je lang wachten? Je hoeft niet lang te wachten."
+        },
+        {
+          "text": "Je moet de tuin sproeien.",
+          "answer": "Moet je de tuin sproeien? Je hoeft de tuin niet te sproeien."
+        },
+        {
+          "text": "Je moet naar het station lopen.",
+          "answer": "Moet je naar het station lopen? Je hoeft niet naar het station te lopen."
+        }
+      ]
+    }
+  ]
 }

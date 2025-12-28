@@ -1,40 +1,90 @@
 {
   "id": 112,
   "title": "Les 112",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hoe vergelijken ze?**",
-    "examples": [
-      "Deze jurk is lang, maar die is langer.",
-      "Tom is intelligent, maar Bill is intelligenter.",
-      "Grammatica: Hoe vergelijken ze?",
-      "Positieve vergelijkingen:",
-      "Negatieve vergelijkingen:",
-      "Intelligentietests:",
-      "Boeken:",
-      "Bekijk deze zinnen:",
-      "Doe deze op dezelfde manier:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Deze jurk is lang, maar die is... → *Deze jurk is lang, maar die is langer.*",
-    "example": [
-      {
-        "dutch": "Deze jurk is lang, maar die is langer.",
-        "spanish": "Este vestido es largo, pero ese es más largo."
-      },
-      {
-        "dutch": "Tom is intelligent, maar Bill is intelligenter.",
-        "spanish": "Tom es inteligente, pero Bill es más inteligente."
-      },
-      {
-        "dutch": "",
-        "spanish": "Deze jurk is lang, maar die is langer."
-      },
-      {
-        "dutch": "",
-        "spanish": "Tom is intelligent, maar Bill is intelligenter."
-      }
-    ]
-  }
+  "subtitle": "Hoe vergelijken ze?",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "prompt": "Hoe vergelijken ze?",
+      "groups": [
+        {
+          "prompt": "Even... als",
+          "items": [
+            { "number": 1, "dutch": "zoet", "spanish": "dulce", "illustration": "/illustrations-sorted/page112_illust001.png" },
+            { "number": 2, "dutch": "lang", "spanish": "alto", "illustration": "/illustrations-sorted/page112_illust002.png" },
+            { "number": 3, "dutch": "kort", "spanish": "bajo", "illustration": "/illustrations-sorted/page112_illust003.png" },
+            { "number": 4, "dutch": "oud", "spanish": "viejo", "illustration": "/illustrations-sorted/page112_illust004.png" },
+            { "number": 5, "dutch": "bot", "spanish": "desafilado", "illustration": "/illustrations-sorted/page112_illust005.png" },
+            { "number": 6, "dutch": "scherp", "spanish": "afilado", "illustration": "/illustrations-sorted/page112_illust006.png" }
+          ]
+        },
+        {
+          "prompt": "Niet zo... als",
+          "items": [
+            { "number": 7, "dutch": "schoon", "spanish": "limpio", "illustration": "/illustrations-sorted/page112_illust007.png" },
+            { "number": 8, "dutch": "dik", "spanish": "gordo", "illustration": "/illustrations-sorted/page112_illust008.png" },
+            { "number": 9, "dutch": "netjes", "spanish": "elegante", "illustration": "/illustrations-sorted/page112_illust009.png" },
+            { "number": 10, "dutch": "licht", "spanish": "ligero", "illustration": "/illustrations-sorted/page112_illust010.png" },
+            { "number": 11, "dutch": "nieuw", "spanish": "nuevo", "illustration": "/illustrations-sorted/page112_illust011.png" },
+            { "number": 12, "dutch": "duur", "spanish": "caro", "illustration": "/illustrations-sorted/page112_illust012.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Vergelijkingen met bijvoeglijke naamwoorden",
+      "items": [
+        { "number": 13, "dutch": "Deze test is moeilijk.", "spanish": "Esta prueba es difícil.", "illustration": "/illustrations-sorted/page112_illust013.png" },
+        { "number": 14, "dutch": "Deze test is moeilijker.", "spanish": "Esta prueba es más difícil.", "illustration": "/illustrations-sorted/page112_illust014.png" },
+        { "number": 15, "dutch": "Dit is de moeilijkste test die ik ooit heb gedaan!", "spanish": "¡Esta es la prueba más difícil que he hecho!", "illustration": "/illustrations-sorted/page112_illust015.png" },
+        { "number": 16, "dutch": "Dit boek is interessant.", "spanish": "Este libro es interesante.", "illustration": "/illustrations-sorted/page112_illust016.png" },
+        { "number": 17, "dutch": "Dit boek is minder interessant.", "spanish": "Este libro es menos interesante.", "illustration": "/illustrations-sorted/page112_illust017.png" },
+        { "number": 18, "dutch": "Dit is het minst interessante boek dat ik ooit heb gelezen!", "spanish": "¡Este es el libro menos interesante que he leído!", "illustration": "/illustrations-sorted/page112_illust018.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto: Deze jurk is lang, maar die is... → Deze jurk is lang, maar die is langer.",
+      "example": [
+        {
+          "input": "Deze jurk is lang, maar die is...",
+          "output": "Deze jurk is lang, maar die is langer.",
+          "spanish": "Este vestido es largo, pero ese es más largo."
+        },
+        {
+          "input": "Tom is intelligent, maar Bill is...",
+          "output": "Tom is intelligent, maar Bill is intelligenter.",
+          "spanish": "Tom es inteligente, pero Bill es más inteligente."
+        }
+      ],
+      "items": [
+        {
+          "text": "Dit boek is goedkoop, maar dat is...",
+          "answer": "Dit boek is goedkoop, maar dat is goedkoper."
+        },
+        {
+          "text": "Dit boek is duur, maar dat is...",
+          "answer": "Dit boek is duur, maar dat is duurder."
+        },
+        {
+          "text": "Deze vraag is makkelijk, maar die is...",
+          "answer": "Deze vraag is makkelijk, maar die is makkelijker."
+        },
+        {
+          "text": "Deze vraag is moeilijk, maar die is...",
+          "answer": "Deze vraag is moeilijk, maar die is moeilijker."
+        },
+        {
+          "text": "Juffrouw Jones is mooi, maar juffrouw Brown is...",
+          "answer": "Juffrouw Jones is mooi, maar juffrouw Brown is mooier."
+        },
+        {
+          "text": "Mevrouw Green is prachtig, maar mevrouw White is...",
+          "answer": "Mevrouw Green is prachtig, maar mevrouw White is prachtiger."
+        }
+      ]
+    }
+  ]
 }

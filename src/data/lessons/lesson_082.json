@@ -1,19 +1,64 @@
 {
   "id": 82,
   "title": "Les 82",
-  "subtitle": "Tuve...",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Tomé una taza de café. Bebí una taza de café.",
-        "spanish": "Tomé una taza de café. Bebí una taza de café."
-      },
-      {
-        "dutch": "Ik had een kopje koffie. Ik dronk een kopje koffie.",
-        "spanish": "Tomé una taza de café. Bebí una taza de café."
-      }
-    ]
-  }
+  "subtitle": "Ik had...",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Ik had...",
+      "items": [
+        { "number": 760, "dutch": "ontbijt", "spanish": "desayuno", "illustration": "/illustrations-sorted/page82_illust001.png" },
+        { "number": 870, "dutch": "lunch", "spanish": "almuerzo", "illustration": "/illustrations-sorted/page82_illust002.png" },
+        { "number": 980, "dutch": "thee", "spanish": "té", "illustration": "/illustrations-sorted/page82_illust003.png" },
+        { "number": 1010, "dutch": "diner", "spanish": "cena", "illustration": "/illustrations-sorted/page82_illust004.png" },
+        { "number": 1020, "dutch": "een maaltijd", "spanish": "una comida", "illustration": "/illustrations-sorted/page82_illust005.png" },
+        { "number": 1030, "dutch": "een zwempartij", "spanish": "un baño", "illustration": "/illustrations-sorted/page82_illust006.png" },
+        { "number": 1040, "dutch": "een bad", "spanish": "un baño", "illustration": "/illustrations-sorted/page82_illust007.png" },
+        { "number": 1050, "dutch": "een knipbeurt", "spanish": "un corte de pelo", "illustration": "/illustrations-sorted/page82_illust008.png" },
+        { "number": 1060, "dutch": "een les", "spanish": "una lección", "illustration": "/illustrations-sorted/page82_illust009.png" },
+        { "number": 1070, "dutch": "een feestje", "spanish": "una fiesta", "illustration": "/illustrations-sorted/page82_illust010.png" },
+        { "number": 1080, "dutch": "een vakantie", "spanish": "unas vacaciones", "illustration": "/illustrations-sorted/page82_illust011.png" },
+        { "number": 1090, "dutch": "een leuke tijd", "spanish": "un buen rato", "illustration": "/illustrations-sorted/page82_illust012.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa esto: Vul in: dronk, genoot, eet, ging naar, at, neem.",
+      "wordsToUse": ["dronk", "genoot", "eet", "ging naar", "at", "neem"],
+      "example": [
+        {
+          "input": "Ik had een kopje koffie. Ik ... een kopje koffie.",
+          "output": "Ik had een kopje koffie. Ik dronk een kopje koffie.",
+          "spanish": "Tomé una taza de café. Bebí una taza de café."
+        }
+      ],
+      "items": [
+        {
+          "text": "Zij hadden een maaltijd in een restaurant. Zij ... een maaltijd in een restaurant.",
+          "answer": "Zij aten een maaltijd in een restaurant."
+        },
+        {
+          "text": "Wij hadden vorige maand vakantie. Wij ... vorige maand op vakantie.",
+          "answer": "Wij gingen vorige maand op vakantie."
+        },
+        {
+          "text": "Neem een sigaret. ... een sigaret.",
+          "answer": "Neem een sigaret."
+        },
+        {
+          "text": "Je had een leuke tijd. Je ... van je tijd.",
+          "answer": "Je genoot van je tijd."
+        },
+        {
+          "text": "Zij zijn hun lunch aan het eten. Zij ... hun lunch.",
+          "answer": "Zij eten hun lunch."
+        },
+        {
+          "text": "Ik had een glas melk. Ik ... een glas melk.",
+          "answer": "Ik dronk een glas melk."
+        }
+      ]
+    }
+  ]
 }

@@ -1,13 +1,60 @@
 {
   "id": 104,
   "title": "Les 104",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Bijvoeglijke naamwoorden**\n\nIk kon de vragen beantwoorden. Ze waren heel makkelijk.  \nIk kon de vragen niet beantwoorden. Ze waren te moeilijk.  \nDe vragen waren makkelijk genoeg voor mij om te beantwoorden.  \nDe vragen waren te moeilijk voor mij om te beantwoorden.",
-    "examples": [
-      "Grammatica: Bijvoeglijke naamwoorden",
-      "Afbeeldingen A-P tonen verschillende situaties die deze tegengestelden illustreren",
-      "Kopieer deze zinnen. Vul in: too, very, of enough."
-    ]
-  }
+  "subtitle": "Bijvoeglijke naamwoorden",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Ik kon de vragen beantwoorden. Ze waren heel makkelijk. Ik kon de vragen niet beantwoorden. Ze waren te moeilijk.",
+      "items": [
+        { "number": 1, "dutch": "makkelijk", "spanish": "fácil", "illustration": "/illustrations-sorted/page104_illust001.png" },
+        { "number": 2, "dutch": "moeilijk", "spanish": "difícil", "illustration": "/illustrations-sorted/page104_illust002.png" },
+        { "number": 3, "dutch": "slim", "spanish": "listo", "illustration": "/illustrations-sorted/page104_illust003.png" },
+        { "number": 4, "dutch": "dom", "spanish": "tonto", "illustration": "/illustrations-sorted/page104_illust004.png" },
+        { "number": 5, "dutch": "goedkoop", "spanish": "barato", "illustration": "/illustrations-sorted/page104_illust005.png" },
+        { "number": 6, "dutch": "duur", "spanish": "caro", "illustration": "/illustrations-sorted/page104_illust006.png" },
+        { "number": 7, "dutch": "vers", "spanish": "fresco", "illustration": "/illustrations-sorted/page104_illust007.png" },
+        { "number": 8, "dutch": "oud (brood)", "spanish": "rancio", "illustration": "/illustrations-sorted/page104_illust008.png" },
+        { "number": 9, "dutch": "luid", "spanish": "fuerte (sonido)", "illustration": "/illustrations-sorted/page104_illust009.png" },
+        { "number": 10, "dutch": "laag", "spanish": "bajo", "illustration": "/illustrations-sorted/page104_illust010.png" },
+        { "number": 11, "dutch": "laag", "spanish": "bajo", "illustration": "/illustrations-sorted/page104_illust011.png" },
+        { "number": 12, "dutch": "hoog", "spanish": "alto", "illustration": "/illustrations-sorted/page104_illust012.png" },
+        { "number": 13, "dutch": "zacht", "spanish": "suave", "illustration": "/illustrations-sorted/page104_illust013.png" },
+        { "number": 14, "dutch": "hard", "spanish": "duro", "illustration": "/illustrations-sorted/page104_illust014.png" },
+        { "number": 15, "dutch": "zoet", "spanish": "dulce", "illustration": "/illustrations-sorted/page104_illust015.png" },
+        { "number": 16, "dutch": "zuur", "spanish": "agrio", "illustration": "/illustrations-sorted/page104_illust016.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Kopieer deze zinnen. Vul in: too, very, of enough.",
+      "items": [
+        {
+          "text": "Ik kon niet met de baas spreken. Hij was ... druk.",
+          "answer": "Ik kon niet met de baas spreken. Hij was te druk."
+        },
+        {
+          "text": "Ik kon niet naar buiten gaan. Het was ... koud om naar buiten te gaan.",
+          "answer": "Ik kon niet naar buiten gaan. Het was te koud om naar buiten te gaan."
+        },
+        {
+          "text": "Ik kon alle vragen beantwoorden. Ze waren ... makkelijk.",
+          "answer": "Ik kon alle vragen beantwoorden. Ze waren heel makkelijk."
+        },
+        {
+          "text": "Is die koffer licht ... voor je om te dragen?",
+          "answer": "Is die koffer licht genoeg voor je om te dragen?"
+        },
+        {
+          "text": "Is je broer oud ... om lid te worden van onze vereniging?",
+          "answer": "Is je broer oud genoeg om lid te worden van onze vereniging?"
+        },
+        {
+          "text": "Zij konden die film niet zien. Ze waren ... jong.",
+          "answer": "Zij konden die film niet zien. Ze waren te jong."
+        }
+      ]
+    }
+  ]
 }

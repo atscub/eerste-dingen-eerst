@@ -1,124 +1,126 @@
 {
   "id": 95,
   "title": "Les 95",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Twee retourtjes naar Londen, alstublieft.",
-        "speaker": "George",
-        "translation": "Dos boletos de ida y vuelta a Londres, por favor."
-      },
-      {
-        "text": "Om negentien minuten over acht.",
-        "speaker": "Loketbeambte",
-        "translation": "A las ocho diecinueve."
-      },
-      {
-        "text": "Welk perron?",
-        "speaker": "George",
-        "translation": "¿Qué andén?"
-      },
-      {
-        "text": "Perron twee. Over de brug.",
-        "speaker": "Loketbeambte",
-        "translation": "Andén dos. Sobre el puente."
-      },
-      {
-        "text": "Hoe laat vertrekt de volgende trein?",
-        "speaker": "George",
-        "translation": "¿A qué hora saldrá el próximo tren?"
-      },
-      {
-        "text": "Om negentien over acht.",
-        "speaker": "Loketbeambte",
-        "translation": "A las ocho diecinueve."
-      },
-      {
-        "text": "We hebben genoeg tijd.",
-        "speaker": "George",
-        "translation": "Tenemos mucho tiempo."
-      },
-      {
-        "text": "Het is maar drie minuten voor acht.",
-        "speaker": "George",
-        "translation": "Faltan solo tres minutos para las ocho."
-      },
-      {
-        "text": "Laten we gaan en iets drinken. Er is een bar naast het station.",
-        "speaker": "George",
-        "translation": "Vamos y tomemos algo. Hay un bar junto a la estación."
-      },
-      {
-        "text": "We kunnen beter nu terug naar het station gaan, Ken.",
-        "speaker": "George",
-        "translation": "Será mejor que volvamos a la estación ahora, Ken."
-      },
-      {
-        "text": "Kaartjes alstublieft.",
-        "speaker": "Perronbeambte",
-        "translation": "Boletos, por favor."
-      },
-      {
-        "text": "We willen de trein van negentien over acht naar Londen nemen.",
-        "speaker": "George",
-        "translation": "Queremos tomar el de las ocho diecinueve a Londres."
-      },
-      {
-        "text": "U heeft hem net gemist!",
-        "speaker": "Perronbeambte",
-        "translation": "¡Acaban de perderlo!"
-      },
-      {
-        "text": "Wat! Het is pas kwart over acht.",
-        "speaker": "George",
-        "translation": "¡Qué! ¡Son solo las ocho quince."
-      },
-      {
-        "text": "Het spijt me, meneer. Die klok loopt tien minuten achter.",
-        "speaker": "Perronbeambte",
-        "translation": "Lo siento, señor. Ese reloj va diez minutos lento."
-      },
-      {
-        "text": "Wanneer is de volgende trein?",
-        "speaker": "George",
-        "translation": "¿Cuándo es el próximo tren?"
-      },
-      {
-        "text": "Over vijf uur!",
-        "speaker": "Perronbeambte",
-        "translation": "¡En cinco horas!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page95_illust001.png",
-        "alt": "George comprando boletos en la taquilla"
-      },
-      {
-        "src": "/illustrations-sorted/page95_illust002.png",
-        "alt": "Andén 2 visible, puente sobre las vías"
-      },
-      {
-        "src": "/illustrations-sorted/page95_illust003.png",
-        "alt": "George y Ken mirando el reloj del andén, luciendo relajados"
-      },
-      {
-        "src": "/illustrations-sorted/page95_illust004.png",
-        "alt": "George sugiriendo ir al bar, señalando"
-      },
-      {
-        "src": "/illustrations-sorted/page95_illust005.png",
-        "alt": "George y Ken en el bar tomando algo"
-      },
-      {
-        "src": "/illustrations-sorted/page95_illust006.png",
-        "alt": "George y Ken corriendo de vuelta al andén"
-      },
-      {
-        "src": "/illustrations-sorted/page95_illust007.png",
-        "alt": "Mozo revisando boletos, George y Ken consternados"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Twee retourtjes naar Londen, alstublieft.",
+          "speaker": "George",
+          "translation": "Dos boletos de ida y vuelta a Londres, por favor."
+        },
+        {
+          "text": "Om negentien minuten over acht.",
+          "speaker": "Loketbeambte",
+          "translation": "A las ocho diecinueve."
+        },
+        {
+          "text": "Welk perron?",
+          "speaker": "George",
+          "translation": "¿Qué andén?"
+        },
+        {
+          "text": "Perron twee. Over de brug.",
+          "speaker": "Loketbeambte",
+          "translation": "Andén dos. Sobre el puente."
+        },
+        {
+          "text": "Hoe laat vertrekt de volgende trein?",
+          "speaker": "George",
+          "translation": "¿A qué hora saldrá el próximo tren?"
+        },
+        {
+          "text": "Om negentien over acht.",
+          "speaker": "Loketbeambte",
+          "translation": "A las ocho diecinueve."
+        },
+        {
+          "text": "We hebben genoeg tijd.",
+          "speaker": "George",
+          "translation": "Tenemos mucho tiempo."
+        },
+        {
+          "text": "Het is maar drie minuten voor acht.",
+          "speaker": "George",
+          "translation": "Faltan solo tres minutos para las ocho."
+        },
+        {
+          "text": "Laten we gaan en iets drinken. Er is een bar naast het station.",
+          "speaker": "George",
+          "translation": "Vamos y tomemos algo. Hay un bar junto a la estación."
+        },
+        {
+          "text": "We kunnen beter nu terug naar het station gaan, Ken.",
+          "speaker": "George",
+          "translation": "Será mejor que volvamos a la estación ahora, Ken."
+        },
+        {
+          "text": "Kaartjes alstublieft.",
+          "speaker": "Perronbeambte",
+          "translation": "Boletos, por favor."
+        },
+        {
+          "text": "We willen de trein van negentien over acht naar Londen nemen.",
+          "speaker": "George",
+          "translation": "Queremos tomar el de las ocho diecinueve a Londres."
+        },
+        {
+          "text": "U heeft hem net gemist!",
+          "speaker": "Perronbeambte",
+          "translation": "¡Acaban de perderlo!"
+        },
+        {
+          "text": "Wat! Het is pas kwart over acht.",
+          "speaker": "George",
+          "translation": "¡Qué! ¡Son solo las ocho quince."
+        },
+        {
+          "text": "Het spijt me, meneer. Die klok loopt tien minuten achter.",
+          "speaker": "Perronbeambte",
+          "translation": "Lo siento, señor. Ese reloj va diez minutos lento."
+        },
+        {
+          "text": "Wanneer is de volgende trein?",
+          "speaker": "George",
+          "translation": "¿Cuándo es el próximo tren?"
+        },
+        {
+          "text": "Over vijf uur!",
+          "speaker": "Perronbeambte",
+          "translation": "¡En cinco horas!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page95_illust001.png",
+          "alt": "George comprando boletos en la taquilla"
+        },
+        {
+          "src": "/illustrations-sorted/page95_illust002.png",
+          "alt": "Andén 2 visible, puente sobre las vías"
+        },
+        {
+          "src": "/illustrations-sorted/page95_illust003.png",
+          "alt": "George y Ken mirando el reloj del andén, luciendo relajados"
+        },
+        {
+          "src": "/illustrations-sorted/page95_illust004.png",
+          "alt": "George sugiriendo ir al bar, señalando"
+        },
+        {
+          "src": "/illustrations-sorted/page95_illust005.png",
+          "alt": "George y Ken en el bar tomando algo"
+        },
+        {
+          "src": "/illustrations-sorted/page95_illust006.png",
+          "alt": "George y Ken corriendo de vuelta al andén"
+        },
+        {
+          "src": "/illustrations-sorted/page95_illust007.png",
+          "alt": "Mozo revisando boletos, George y Ken consternados"
+        }
+      ]
+    }
+  ]
 }

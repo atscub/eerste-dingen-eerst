@@ -1,6 +1,15 @@
 {
   "id": 143,
   "title": "Les 143",
-  "type": "practice",
-  "items": []
+  "sections": [
+    {
+      "type": "reading",
+      "paragraphs": [
+        {
+          "text": "Deze les wordt nog toegevoegd.",
+          "translation": "Esta lección se añadirá pronto."
+        }
+      ]
+    }
+  ]
 }

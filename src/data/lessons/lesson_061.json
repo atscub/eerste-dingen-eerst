@@ -1,110 +1,112 @@
 {
   "id": 61,
   "title": "Les 61",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Waar is Jimmy?",
-        "speaker": "Meneer Williams",
-        "translation": "¿Dónde está Jimmy?"
-      },
-      {
-        "text": "Hij ligt in bed.",
-        "speaker": "Mevrouw Williams",
-        "translation": "Está en cama."
-      },
-      {
-        "text": "Wat is er met hem aan de hand?",
-        "speaker": "Meneer Williams",
-        "translation": "¿Qué le pasa?"
-      },
-      {
-        "text": "Hij voelt zich ziek.",
-        "speaker": "Mevrouw Williams",
-        "translation": "Se siente mal."
-      },
-      {
-        "text": "Hij ziet er ziek uit.",
-        "speaker": "Meneer Williams",
-        "translation": "Se ve mal."
-      },
-      {
-        "text": "We moeten de dokter bellen.",
-        "speaker": "Mevrouw Williams",
-        "translation": "Debemos llamar al doctor."
-      },
-      {
-        "text": "Ja, dat moeten we.",
-        "speaker": "Meneer Williams",
-        "translation": "Sí, debemos."
-      },
-      {
-        "text": "Kun je het telefoonnummer van de dokter onthouden?",
-        "speaker": "Mevrouw Williams",
-        "translation": "¿Puedes recordar el número de teléfono del doctor?"
-      },
-      {
-        "text": "Ja. Het is 09754.",
-        "speaker": "Meneer Williams",
-        "translation": "Sí. Es 09754."
-      },
-      {
-        "text": "Open je mond, Jimmy. Laat me je tong zien. Zeg \"Ah\".",
-        "speaker": "Dokter",
-        "translation": "Abre tu boca, Jimmy. Muéstrame tu lengua. Di, \"Ah\"."
-      },
-      {
-        "text": "Wat is er met hem aan de hand, dokter?",
-        "speaker": "Meneer Williams",
-        "translation": "¿Qué le pasa, doctor?"
-      },
-      {
-        "text": "Hij heeft een zware verkoudheid, meneer Williams, dus hij moet een week in bed blijven.",
-        "speaker": "Dokter",
-        "translation": "Tiene un resfriado fuerte, Sr. Williams, así que debe quedarse en cama durante una semana."
-      },
-      {
-        "text": "Dat is goed nieuws voor Jimmy.",
-        "speaker": "Meneer Williams",
-        "translation": "Esas son buenas noticias para Jimmy."
-      },
-      {
-        "text": "Goed nieuws? Waarom?",
-        "speaker": "Dokter",
-        "translation": "¿Buenas noticias? ¿Por qué?"
-      },
-      {
-        "text": "Omdat hij niet van school houdt!",
-        "speaker": "Meneer Williams",
-        "translation": "¡Porque no le gusta la escuela!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page61_illust001.png",
-        "alt": "Sr. y Sra. Williams hablando, teléfono en la mesa"
-      },
-      {
-        "src": "/illustrations-sorted/page61_illust002.png",
-        "alt": "Padres mirando a Jimmy en cama, preocupados"
-      },
-      {
-        "src": "/illustrations-sorted/page61_illust003.png",
-        "alt": "Sra. Williams marcando el teléfono"
-      },
-      {
-        "src": "/illustrations-sorted/page61_illust004.png",
-        "alt": "Doctor examinando la garganta de Jimmy en cama"
-      },
-      {
-        "src": "/illustrations-sorted/page61_illust005.png",
-        "alt": "Doctor hablando con Sr. Williams sobre Jimmy"
-      },
-      {
-        "src": "/illustrations-sorted/page61_illust006.png",
-        "alt": "Sr. y Sra. Williams con Jimmy en cama, Jimmy sonriendo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Waar is Jimmy?",
+          "speaker": "Meneer Williams",
+          "translation": "¿Dónde está Jimmy?"
+        },
+        {
+          "text": "Hij ligt in bed.",
+          "speaker": "Mevrouw Williams",
+          "translation": "Está en cama."
+        },
+        {
+          "text": "Wat is er met hem aan de hand?",
+          "speaker": "Meneer Williams",
+          "translation": "¿Qué le pasa?"
+        },
+        {
+          "text": "Hij voelt zich ziek.",
+          "speaker": "Mevrouw Williams",
+          "translation": "Se siente mal."
+        },
+        {
+          "text": "Hij ziet er ziek uit.",
+          "speaker": "Meneer Williams",
+          "translation": "Se ve mal."
+        },
+        {
+          "text": "We moeten de dokter bellen.",
+          "speaker": "Mevrouw Williams",
+          "translation": "Debemos llamar al doctor."
+        },
+        {
+          "text": "Ja, dat moeten we.",
+          "speaker": "Meneer Williams",
+          "translation": "Sí, debemos."
+        },
+        {
+          "text": "Kun je het telefoonnummer van de dokter onthouden?",
+          "speaker": "Mevrouw Williams",
+          "translation": "¿Puedes recordar el número de teléfono del doctor?"
+        },
+        {
+          "text": "Ja. Het is 09754.",
+          "speaker": "Meneer Williams",
+          "translation": "Sí. Es 09754."
+        },
+        {
+          "text": "Open je mond, Jimmy. Laat me je tong zien. Zeg \"Ah\".",
+          "speaker": "Dokter",
+          "translation": "Abre tu boca, Jimmy. Muéstrame tu lengua. Di, \"Ah\"."
+        },
+        {
+          "text": "Wat is er met hem aan de hand, dokter?",
+          "speaker": "Meneer Williams",
+          "translation": "¿Qué le pasa, doctor?"
+        },
+        {
+          "text": "Hij heeft een zware verkoudheid, meneer Williams, dus hij moet een week in bed blijven.",
+          "speaker": "Dokter",
+          "translation": "Tiene un resfriado fuerte, Sr. Williams, así que debe quedarse en cama durante una semana."
+        },
+        {
+          "text": "Dat is goed nieuws voor Jimmy.",
+          "speaker": "Meneer Williams",
+          "translation": "Esas son buenas noticias para Jimmy."
+        },
+        {
+          "text": "Goed nieuws? Waarom?",
+          "speaker": "Dokter",
+          "translation": "¿Buenas noticias? ¿Por qué?"
+        },
+        {
+          "text": "Omdat hij niet van school houdt!",
+          "speaker": "Meneer Williams",
+          "translation": "¡Porque no le gusta la escuela!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page61_illust001.png",
+          "alt": "Sr. y Sra. Williams hablando, teléfono en la mesa"
+        },
+        {
+          "src": "/illustrations-sorted/page61_illust002.png",
+          "alt": "Padres mirando a Jimmy en cama, preocupados"
+        },
+        {
+          "src": "/illustrations-sorted/page61_illust003.png",
+          "alt": "Sra. Williams marcando el teléfono"
+        },
+        {
+          "src": "/illustrations-sorted/page61_illust004.png",
+          "alt": "Doctor examinando la garganta de Jimmy en cama"
+        },
+        {
+          "src": "/illustrations-sorted/page61_illust005.png",
+          "alt": "Doctor hablando con Sr. Williams sobre Jimmy"
+        },
+        {
+          "src": "/illustrations-sorted/page61_illust006.png",
+          "alt": "Sr. y Sra. Williams con Jimmy en cama, Jimmy sonriendo"
+        }
+      ]
+    }
+  ]
 }

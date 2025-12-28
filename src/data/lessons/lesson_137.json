@@ -1,64 +1,62 @@
 {
   "id": 137,
   "title": "Les 137",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Brian en June bespreken wat ze zouden doen als ze de voetbalpools zouden winnen.",
-        "speaker": "Situatie",
-        "translation": "Brian y June discuten qué harían si ganaran las quinielas de fútbol."
-      },
-      {
-        "text": "Doe je de voetbalpools, Brian?",
-        "speaker": "June",
-        "translation": "¿Estás haciendo las quinielas de fútbol, Brian?"
-      },
-      {
-        "text": "Ja, ik ben bijna klaar, June. Ik weet zeker dat we deze week iets zullen winnen.",
-        "speaker": "Brian",
-        "translation": "Sí, casi termino, June. Estoy seguro de que ganaremos algo esta semana."
-      },
-      {
-        "text": "Dat zeg je altijd, maar we winnen nooit iets! Wat zul je doen als je veel geld wint?",
-        "speaker": "June",
-        "translation": "Siempre dices eso, pero ¡nunca ganamos nada! ¿Qué harás si ganas mucho dinero?"
-      },
-      {
-        "text": "Als ik veel geld win, zal ik je een nertsen jas kopen.",
-        "speaker": "Brian",
-        "translation": "Si gano mucho dinero, te compraré un abrigo de visón."
-      },
-      {
-        "text": "Ik wil geen nertsen jas! Ik wil de wereld zien.",
-        "speaker": "June",
-        "translation": "¡No quiero un abrigo de visón! Quiero ver el mundo."
-      },
-      {
-        "text": "Prima. Als we veel geld winnen, zullen we rond de wereld reizen en zullen we in de beste hotels verblijven. Dan zullen we naar huis terugkeren en een groot huis op het platteland kopen. We zullen een mooie tuin hebben en...",
-        "speaker": "Brian",
-        "translation": "Está bien. Si ganamos mucho dinero, viajaremos alrededor del mundo y nos alojaremos en los mejores hoteles. Luego volveremos a casa y compraremos una casa grande en el campo. Tendremos un jardín hermoso y..."
-      },
-      {
-        "text": "Maar als we al dat geld uitgeven, zullen we weer arm zijn. Wat zullen we dan doen?",
-        "speaker": "June",
-        "translation": "Pero si gastamos todo ese dinero, seremos pobres otra vez. ¿Qué haremos entonces?"
-      },
-      {
-        "text": "Als we al het geld uitgeven, zullen we proberen de voetbalpools opnieuw te winnen.",
-        "speaker": "Brian",
-        "translation": "Si gastamos todo el dinero, intentaremos ganar las quinielas de fútbol de nuevo."
-      },
-      {
-        "text": "Het is een aangename droom maar alles hangt af van \"als\"!",
-        "speaker": "June",
-        "translation": "¡Es un sueño agradable pero todo depende de \"si\"!"
-      }
-    ],
-    "headerImage": {
-      "src": "/illustrations-sorted/page137_illust001.png",
-      "alt": "Ilustración 1 del diálogo"
-    },
-    "images": []
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Brian en June bespreken wat ze zouden doen als ze de voetbalpools zouden winnen.",
+          "speaker": "Situatie",
+          "translation": "Brian y June discuten qué harían si ganaran las quinielas de fútbol."
+        },
+        {
+          "text": "Doe je de voetbalpools, Brian?",
+          "speaker": "June",
+          "translation": "¿Estás haciendo las quinielas de fútbol, Brian?"
+        },
+        {
+          "text": "Ja, ik ben bijna klaar, June. Ik weet zeker dat we deze week iets zullen winnen.",
+          "speaker": "Brian",
+          "translation": "Sí, casi termino, June. Estoy seguro de que ganaremos algo esta semana."
+        },
+        {
+          "text": "Dat zeg je altijd, maar we winnen nooit iets! Wat zul je doen als je veel geld wint?",
+          "speaker": "June",
+          "translation": "Siempre dices eso, pero ¡nunca ganamos nada! ¿Qué harás si ganas mucho dinero?"
+        },
+        {
+          "text": "Als ik veel geld win, zal ik je een nertsen jas kopen.",
+          "speaker": "Brian",
+          "translation": "Si gano mucho dinero, te compraré un abrigo de visón."
+        },
+        {
+          "text": "Ik wil geen nertsen jas! Ik wil de wereld zien.",
+          "speaker": "June",
+          "translation": "¡No quiero un abrigo de visón! Quiero ver el mundo."
+        },
+        {
+          "text": "Prima. Als we veel geld winnen, zullen we rond de wereld reizen en zullen we in de beste hotels verblijven. Dan zullen we naar huis terugkeren en een groot huis op het platteland kopen. We zullen een mooie tuin hebben en...",
+          "speaker": "Brian",
+          "translation": "Está bien. Si ganamos mucho dinero, viajaremos alrededor del mundo y nos alojaremos en los mejores hoteles. Luego volveremos a casa y compraremos una casa grande en el campo. Tendremos un jardín hermoso y..."
+        },
+        {
+          "text": "Maar als we al dat geld uitgeven, zullen we weer arm zijn. Wat zullen we dan doen?",
+          "speaker": "June",
+          "translation": "Pero si gastamos todo ese dinero, seremos pobres otra vez. ¿Qué haremos entonces?"
+        },
+        {
+          "text": "Als we al het geld uitgeven, zullen we proberen de voetbalpools opnieuw te winnen.",
+          "speaker": "Brian",
+          "translation": "Si gastamos todo el dinero, intentaremos ganar las quinielas de fútbol de nuevo."
+        },
+        {
+          "text": "Het is een aangename droom maar alles hangt af van \"als\"!",
+          "speaker": "June",
+          "translation": "¡Es un sueño agradable pero todo depende de \"si\"!"
+        }
+      ],
+      "images": []
+    }
+  ]
 }

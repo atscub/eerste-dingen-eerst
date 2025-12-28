@@ -1,27 +1,94 @@
 {
   "id": 60,
   "title": "Les 60",
-  "subtitle": "¿Qué hora es?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa estos:",
-    "example": [
-      {
-        "dutch": "No tengo plátano, pero tengo durazno.",
-        "spanish": "No tengo plátano, pero tengo durazno."
-      },
-      {
-        "dutch": "Ik heb geen banaan, maar ik heb wel een perzik.",
-        "spanish": "No tengo plátano, pero tengo un durazno."
-      },
-      {
-        "dutch": "No tengo café, pero tengo leche.",
-        "spanish": "No tengo café, pero tengo leche."
-      },
-      {
-        "dutch": "Ik heb geen koffie, maar ik heb wel wat melk.",
-        "spanish": "No tengo café, pero sí tengo un poco de leche."
-      }
-    ]
-  }
+  "subtitle": "Hoe laat is het?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hoe laat is het?",
+      "items": [
+        { "number": 1, "dutch": "één uur", "spanish": "la una", "illustration": "/illustrations-sorted/page60_illust001.png" },
+        { "number": 2, "dutch": "twee uur", "spanish": "las dos", "illustration": "/illustrations-sorted/page60_illust002.png" },
+        { "number": 3, "dutch": "drie uur", "spanish": "las tres", "illustration": "/illustrations-sorted/page60_illust003.png" },
+        { "number": 4, "dutch": "vier uur", "spanish": "las cuatro", "illustration": "/illustrations-sorted/page60_illust004.png" },
+        { "number": 5, "dutch": "vijf uur", "spanish": "las cinco", "illustration": "/illustrations-sorted/page60_illust005.png" },
+        { "number": 6, "dutch": "zes uur", "spanish": "las seis", "illustration": "/illustrations-sorted/page60_illust006.png" },
+        { "number": 7, "dutch": "zeven uur", "spanish": "las siete", "illustration": "/illustrations-sorted/page60_illust007.png" },
+        { "number": 8, "dutch": "acht uur", "spanish": "las ocho", "illustration": "/illustrations-sorted/page60_illust008.png" },
+        { "number": 9, "dutch": "negen uur", "spanish": "las nueve", "illustration": "/illustrations-sorted/page60_illust009.png" },
+        { "number": 10, "dutch": "tien uur", "spanish": "las diez", "illustration": "/illustrations-sorted/page60_illust010.png" },
+        { "number": 11, "dutch": "elf uur", "spanish": "las once", "illustration": "/illustrations-sorted/page60_illust011.png" },
+        { "number": 12, "dutch": "twaalf uur", "spanish": "las doce", "illustration": "/illustrations-sorted/page60_illust012.png" }
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Heb je...?",
+      "items": [
+        { "number": 13, "dutch": "kaas", "spanish": "queso", "illustration": "/illustrations-sorted/page60_illust013.png" },
+        { "number": 14, "dutch": "boter", "spanish": "mantequilla", "illustration": "/illustrations-sorted/page60_illust014.png" },
+        { "number": 15, "dutch": "eieren", "spanish": "huevos", "illustration": "/illustrations-sorted/page60_illust015.png" },
+        { "number": 16, "dutch": "jam", "spanish": "mermelada", "illustration": "/illustrations-sorted/page60_illust016.png" },
+        { "number": 17, "dutch": "honing", "spanish": "miel", "illustration": "/illustrations-sorted/page60_illust017.png" },
+        { "number": 18, "dutch": "brood", "spanish": "pan", "illustration": "/illustrations-sorted/page60_illust018.png" },
+        { "number": 19, "dutch": "koekjes", "spanish": "galletas", "illustration": "/illustrations-sorted/page60_illust019.png" },
+        { "number": 20, "dutch": "aardappels", "spanish": "patatas", "illustration": "/illustrations-sorted/page60_illust020.png" },
+        { "number": 21, "dutch": "tomaten", "spanish": "tomates", "illustration": "/illustrations-sorted/page60_illust021.png" },
+        { "number": 22, "dutch": "erwten", "spanish": "guisantes", "illustration": "/illustrations-sorted/page60_illust022.png" },
+        { "number": 23, "dutch": "bonen", "spanish": "judías", "illustration": "/illustrations-sorted/page60_illust023.png" },
+        { "number": 24, "dutch": "kool", "spanish": "col", "illustration": "/illustrations-sorted/page60_illust024.png" },
+        { "number": 25, "dutch": "sla", "spanish": "lechuga", "illustration": "/illustrations-sorted/page60_illust025.png" },
+        { "number": 26, "dutch": "bananen", "spanish": "plátanos", "illustration": "/illustrations-sorted/page60_illust026.png" },
+        { "number": 27, "dutch": "druiven", "spanish": "uvas", "illustration": "/illustrations-sorted/page60_illust027.png" },
+        { "number": 28, "dutch": "perziken", "spanish": "melocotones", "illustration": "/illustrations-sorted/page60_illust028.png" },
+        { "number": 29, "dutch": "biefstuk", "spanish": "bistec", "illustration": "/illustrations-sorted/page60_illust029.png" },
+        { "number": 30, "dutch": "gehakt", "spanish": "carne picada", "illustration": "/illustrations-sorted/page60_illust030.png" },
+        { "number": 31, "dutch": "kip", "spanish": "pollo", "illustration": "/illustrations-sorted/page60_illust031.png" },
+        { "number": 32, "dutch": "whisky", "spanish": "whisky", "illustration": "/illustrations-sorted/page60_illust032.png" },
+        { "number": 33, "dutch": "bier", "spanish": "cerveza", "illustration": "/illustrations-sorted/page60_illust033.png" },
+        { "number": 34, "dutch": "wijn", "spanish": "vino", "illustration": "/illustrations-sorted/page60_illust034.png" },
+        { "number": 35, "dutch": "tabak", "spanish": "tabaco", "illustration": "/illustrations-sorted/page60_illust035.png" },
+        { "number": 36, "dutch": "zeep", "spanish": "jabón", "illustration": "/illustrations-sorted/page60_illust036.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "fillIn",
+      "instruction": "Observa estos: Voeg s of es toe waar nodig.",
+      "example": [
+        {
+          "input": "Ik heb geen banaan, maar ik heb wat perzik...",
+          "output": "Ik heb geen bananen, maar ik heb wat perziken.",
+          "spanish": "No tengo plátanos, pero tengo algunos melocotones."
+        },
+        {
+          "input": "Ik heb geen koffie, maar ik heb wat melk.",
+          "output": "Ik heb geen koffie, maar ik heb wat melk.",
+          "spanish": "No tengo café, pero tengo un poco de leche."
+        }
+      ],
+      "items": [
+        {
+          "text": "Ik heb geen druif..., maar ik heb wat perzik...",
+          "answer": "Ik heb geen druiven, maar ik heb wat perziken."
+        },
+        {
+          "text": "Ik heb geen tomaat..., maar ik heb wat aardappel...",
+          "answer": "Ik heb geen tomaten, maar ik heb wat aardappels."
+        },
+        {
+          "text": "Ik heb geen gehakt, maar ik heb wat biefstuk.",
+          "answer": "Ik heb geen gehakt, maar ik heb wat biefstuk."
+        },
+        {
+          "text": "Ik heb geen lijm, maar ik heb wat inkt.",
+          "answer": "Ik heb geen lijm, maar ik heb wat inkt."
+        },
+        {
+          "text": "Ik heb geen envelop..., maar ik heb wat schrijfpapier.",
+          "answer": "Ik heb geen enveloppen, maar ik heb wat schrijfpapier."
+        }
+      ]
+    }
+  ]
 }

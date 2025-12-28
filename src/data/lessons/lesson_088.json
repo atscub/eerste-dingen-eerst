@@ -1,23 +1,74 @@
 {
   "id": 88,
   "title": "Les 88",
-  "subtitle": "¿Has... todavía?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Él compró una casa el año pasado.",
-        "spanish": "Él compró una casa el año pasado."
-      },
-      {
-        "dutch": "PREGUNTA: ¿Compró una casa el año pasado?",
-        "spanish": "PREGUNTA: ¿Compró una casa el año pasado?"
-      },
-      {
-        "dutch": "NEGATIVO: No compró una casa el año pasado.",
-        "spanish": "NEGATIVO: No compró una casa el año pasado."
-      }
-    ]
-  }
+  "subtitle": "Heb je al...?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Heb je al...?",
+      "items": [
+        { "number": 1, "dutch": "Heb je mevrouw Jones al ontmoet? Ja. Wanneer heb je haar ontmoet? Ik heb haar twee weken geleden ontmoet.", "spanish": "¿Has conocido a la Sra. Jones? Sí. ¿Cuándo la conociste? La conocí hace dos semanas.", "illustration": "/illustrations-sorted/page88_illust001.png" },
+        { "number": 2, "dutch": "Is de baas al weg? Ja. Wanneer is hij weggegaan? Hij is tien minuten geleden weggegaan.", "spanish": "¿Ya se ha ido el jefe? Sí. ¿Cuándo se fue? Se fue hace diez minutos.", "illustration": "/illustrations-sorted/page88_illust002.png" },
+        { "number": 3, "dutch": "Hebben jullie al ontbeten? Ja. Wanneer hebben jullie ontbeten? Wij hebben om half acht ontbeten.", "spanish": "¿Ya han desayunado? Sí. ¿Cuándo desayunaron? Desayunamos a las siete y media.", "illustration": "/illustrations-sorted/page88_illust003.png" },
+        { "number": 4, "dutch": "Heeft zij haar pen al gevonden? Ja. Wanneer heeft zij hem gevonden? Zij heeft hem een uur geleden gevonden.", "spanish": "¿Ya ha encontrado su pluma? Sí. ¿Cuándo la encontró? La encontró hace una hora.", "illustration": "/illustrations-sorted/page88_illust004.png" }
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "title": "Bestudeer deze werkwoorden:",
+      "columns": ["infinitief", "verleden tijd", "voltooid deelwoord"],
+      "rows": [
+        ["kopen", "kocht", "gekocht"],
+        ["vinden", "vond", "gevonden"],
+        ["krijgen", "kreeg", "gekregen"],
+        ["hebben", "had", "gehad"],
+        ["horen", "hoorde", "gehoord"],
+        ["vertrekken", "vertrok", "vertrokken"],
+        ["verliezen", "verloor", "verloren"],
+        ["maken", "maakte", "gemaakt"],
+        ["ontmoeten", "ontmoette", "ontmoet"],
+        ["sturen", "stuurde", "gestuurd"],
+        ["vegen", "veegde", "geveegd"],
+        ["vertellen", "vertelde", "verteld"]
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Hij kocht vorig jaar een huis.",
+          "output": "VRAAG: Kocht hij vorig jaar een huis? ONTKENNING: Hij kocht vorig jaar geen huis.",
+          "spanish": "Él compró una casa el año pasado. PREGUNTA: ¿Compró él una casa el año pasado? NEGACIÓN: Él no compró una casa el año pasado."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij vond een minuut geleden zijn pen.",
+          "answer": "Vond hij een minuut geleden zijn pen? Hij vond een minuut geleden zijn pen niet."
+        },
+        {
+          "text": "Hij kreeg vorige week een nieuwe televisie.",
+          "answer": "Kreeg hij vorige week een nieuwe televisie? Hij kreeg vorige week geen nieuwe televisie."
+        },
+        {
+          "text": "Wij hoorden het nieuws op de radio.",
+          "answer": "Hoorden wij het nieuws op de radio? Wij hoorden het nieuws niet op de radio."
+        },
+        {
+          "text": "Zij vertrokken vanmorgen.",
+          "answer": "Vertrokken zij vanmorgen? Zij vertrokken vanmorgen niet."
+        },
+        {
+          "text": "Hij verloor gisteren zijn paraplu.",
+          "answer": "Verloor hij gisteren zijn paraplu? Hij verloor gisteren zijn paraplu niet."
+        },
+        {
+          "text": "Ik veegde vanmorgen de vloer.",
+          "answer": "Veegde ik vanmorgen de vloer? Ik veegde vanmorgen de vloer niet."
+        }
+      ]
+    }
+  ]
 }

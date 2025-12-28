@@ -1,67 +1,69 @@
 {
   "id": 53,
   "title": "Les 53",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Waar kom je vandaan?",
-        "speaker": "Hans",
-        "translation": "¿De dónde vienes?"
-      },
-      {
-        "text": "Ik kom uit Engeland.",
-        "speaker": "Jim",
-        "translation": "Vengo de Inglaterra."
-      },
-      {
-        "text": "Hoe is het klimaat in jouw land?",
-        "speaker": "Hans",
-        "translation": "¿Cómo es el clima en tu país?"
-      },
-      {
-        "text": "Het is mild, maar het is niet altijd aangenaam.",
-        "speaker": "Jim",
-        "translation": "Es templado, pero no siempre es agradable."
-      },
-      {
-        "text": "Het weer is vaak koud in het noorden en winderig in het oosten. Het is vaak nat in het westen en soms warm in het zuiden.",
-        "speaker": "Hans",
-        "translation": "El clima a menudo es frío en el norte y ventoso en el este. A menudo está húmedo en el oeste y a veces cálido en el sur."
-      },
-      {
-        "text": "Welke seizoenen vind je het beste?",
-        "speaker": "Jim",
-        "translation": "¿Qué estaciones te gustan más?"
-      },
-      {
-        "text": "Ik hou van de lente en de zomer. De dagen zijn lang en de nachten zijn kort. De zon komt vroeg op en gaat laat onder.",
-        "speaker": "Hans",
-        "translation": "Me gustan la primavera y el verano. Los días son largos y las noches son cortas. El sol sale temprano y se pone tarde."
-      },
-      {
-        "text": "Ik hou niet van de herfst en de winter. De dagen zijn kort en de nachten zijn lang. De zon komt laat op en gaat vroeg onder. Ons klimaat is niet erg goed, maar het is zeker interessant. Het is ons favoriete gespreksonderwerp.",
-        "speaker": "Jim",
-        "translation": "No me gustan el otoño y el invierno. Los días son cortos y las noches son largas. El sol sale tarde y se pone temprano. Nuestro clima no es muy bueno, pero sin duda es interesante. Es nuestro tema de conversación favorito."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page53_illust001.png",
-        "alt": "Hans y Jim conversando sobre el clima"
-      },
-      {
-        "src": "/illustrations-sorted/page53_illust002.png",
-        "alt": "Mapa de Inglaterra con indicadores de clima: Norte (frío/nieve), Este (viento), Oeste (lluvia), Sur (sol)"
-      },
-      {
-        "src": "/illustrations-sorted/page53_illust003.png",
-        "alt": "Escena de primavera/verano con sol saliendo temprano, días largos"
-      },
-      {
-        "src": "/illustrations-sorted/page53_illust004.png",
-        "alt": "Escena de otoño/invierno con sol saliendo tarde, días cortos"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Waar kom je vandaan?",
+          "speaker": "Hans",
+          "translation": "¿De dónde vienes?"
+        },
+        {
+          "text": "Ik kom uit Engeland.",
+          "speaker": "Jim",
+          "translation": "Vengo de Inglaterra."
+        },
+        {
+          "text": "Hoe is het klimaat in jouw land?",
+          "speaker": "Hans",
+          "translation": "¿Cómo es el clima en tu país?"
+        },
+        {
+          "text": "Het is mild, maar het is niet altijd aangenaam.",
+          "speaker": "Jim",
+          "translation": "Es templado, pero no siempre es agradable."
+        },
+        {
+          "text": "Het weer is vaak koud in het noorden en winderig in het oosten. Het is vaak nat in het westen en soms warm in het zuiden.",
+          "speaker": "Hans",
+          "translation": "El clima a menudo es frío en el norte y ventoso en el este. A menudo está húmedo en el oeste y a veces cálido en el sur."
+        },
+        {
+          "text": "Welke seizoenen vind je het beste?",
+          "speaker": "Jim",
+          "translation": "¿Qué estaciones te gustan más?"
+        },
+        {
+          "text": "Ik hou van de lente en de zomer. De dagen zijn lang en de nachten zijn kort. De zon komt vroeg op en gaat laat onder.",
+          "speaker": "Hans",
+          "translation": "Me gustan la primavera y el verano. Los días son largos y las noches son cortas. El sol sale temprano y se pone tarde."
+        },
+        {
+          "text": "Ik hou niet van de herfst en de winter. De dagen zijn kort en de nachten zijn lang. De zon komt laat op en gaat vroeg onder. Ons klimaat is niet erg goed, maar het is zeker interessant. Het is ons favoriete gespreksonderwerp.",
+          "speaker": "Jim",
+          "translation": "No me gustan el otoño y el invierno. Los días son cortos y las noches son largas. El sol sale tarde y se pone temprano. Nuestro clima no es muy bueno, pero sin duda es interesante. Es nuestro tema de conversación favorito."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page53_illust001.png",
+          "alt": "Hans y Jim conversando sobre el clima"
+        },
+        {
+          "src": "/illustrations-sorted/page53_illust002.png",
+          "alt": "Mapa de Inglaterra con indicadores de clima: Norte (frío/nieve), Este (viento), Oeste (lluvia), Sur (sol)"
+        },
+        {
+          "src": "/illustrations-sorted/page53_illust003.png",
+          "alt": "Escena de primavera/verano con sol saliendo temprano, días largos"
+        },
+        {
+          "src": "/illustrations-sorted/page53_illust004.png",
+          "alt": "Escena de otoño/invierno con sol saliendo tarde, días cortos"
+        }
+      ]
+    }
+  ]
 }

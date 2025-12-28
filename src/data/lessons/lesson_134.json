@@ -1,17 +1,57 @@
 {
   "id": 134,
   "title": "Les 134",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij zei (dat) hij... / Hij vertelde me (dat) hij...**\n\n**Afbeeldingen 1-12 tonen indirecte rede:**\n1-3. Ik ben moe. → Wat zei hij? Hij zei (dat) hij moe was.\n4-6. Ik ben aan het lezen. → Wat zei ze? Ze zei (dat) ze aan het lezen was.\n7-9. We willen ons avondeten. → Wat zeiden ze? Ze zeiden (dat) ze hun avondeten wilden.\n10-12. Ik heb mijn huiswerk afgemaakt. → Wat zei hij? Hij zei (dat) hij zijn huiswerk had afgemaakt.",
-    "examples": [
-      "Grammatica: Hij zei (dat) hij... / Hij vertelde me (dat) hij...",
-      "Afbeeldingen 1-12 tonen indirecte rede:",
-      "Lees het gesprek in Les 133 opnieuw. Schrijf dan antwoorden op deze vragen:"
-    ]
-  },
-  "exercise": {
-    "instruction": "1. Heeft Miss Marsh net een nieuwe film gemaakt? 2. Wie stelde haar vragen? 3. Wat gaat Miss Marsh doen? 4. Waarom wil Miss Marsh geen andere film maken?",
-    "example": []
-  }
+  "subtitle": "Hij zei (dat) hij... / Hij vertelde me (dat) hij...",
+  "sections": [
+    {
+      "type": "vocabularyGroup",
+      "groups": [
+        {
+          "prompt": "Indirecte rede - Tegenwoordige tijd naar Verleden tijd",
+          "items": [
+            { "number": 1, "dutch": "Ik ben moe.", "spanish": "Estoy cansado.", "illustration": "/illustrations-sorted/page134_illust001.png" },
+            { "number": 2, "dutch": "Wat zei hij?", "spanish": "¿Qué dijo?", "illustration": "/illustrations-sorted/page134_illust002.png" },
+            { "number": 3, "dutch": "Hij zei (dat) hij moe was.", "spanish": "Dijo que estaba cansado.", "illustration": "/illustrations-sorted/page134_illust003.png" },
+            { "number": 4, "dutch": "Ik ben aan het lezen.", "spanish": "Estoy leyendo.", "illustration": "/illustrations-sorted/page134_illust004.png" },
+            { "number": 5, "dutch": "Wat zei ze?", "spanish": "¿Qué dijo ella?", "illustration": "/illustrations-sorted/page134_illust005.png" },
+            { "number": 6, "dutch": "Ze zei (dat) ze aan het lezen was.", "spanish": "Dijo que estaba leyendo.", "illustration": "/illustrations-sorted/page134_illust006.png" }
+          ]
+        },
+        {
+          "prompt": "Indirecte rede - Meervoud en Voltooid tegenwoordige tijd",
+          "items": [
+            { "number": 7, "dutch": "We willen ons avondeten.", "spanish": "Queremos nuestra cena.", "illustration": "/illustrations-sorted/page134_illust007.png" },
+            { "number": 8, "dutch": "Wat zeiden ze?", "spanish": "¿Qué dijeron?", "illustration": "/illustrations-sorted/page134_illust008.png" },
+            { "number": 9, "dutch": "Ze zeiden (dat) ze hun avondeten wilden.", "spanish": "Dijeron que querían su cena.", "illustration": "/illustrations-sorted/page134_illust009.png" },
+            { "number": 10, "dutch": "Ik heb mijn huiswerk afgemaakt.", "spanish": "He terminado mi tarea.", "illustration": "/illustrations-sorted/page134_illust010.png" },
+            { "number": 11, "dutch": "Wat zei hij?", "spanish": "¿Qué dijo?", "illustration": "/illustrations-sorted/page134_illust011.png" },
+            { "number": 12, "dutch": "Hij zei (dat) hij zijn huiswerk had afgemaakt.", "spanish": "Dijo que había terminado su tarea.", "illustration": "/illustrations-sorted/page134_illust012.png" }
+          ]
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "comprehension",
+      "instruction": "Lees het gesprek in Les 133 opnieuw. Schrijf dan antwoorden op deze vragen:",
+      "items": [
+        {
+          "text": "Heeft Miss Marsh net een nieuwe film gemaakt?",
+          "answer": "Ja, Miss Marsh heeft net een nieuwe film gemaakt."
+        },
+        {
+          "text": "Wie stelde haar vragen?",
+          "answer": "De verslaggevers stelden haar vragen."
+        },
+        {
+          "text": "Wat gaat Miss Marsh doen?",
+          "answer": "Ze gaat met pensioen."
+        },
+        {
+          "text": "Waarom wil Miss Marsh geen andere film maken?",
+          "answer": "Omdat ze gaat trouwen."
+        }
+      ]
+    }
+  ]
 }

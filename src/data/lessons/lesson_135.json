@@ -1,67 +1,69 @@
 {
   "id": 135,
   "title": "Les 135",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Verslaggever blijft Miss Marsh interviewen over haar pensioen en aanstaande huwelijk.",
-        "speaker": "Situatie",
-        "translation": "El reportero sigue entrevistando a Miss Marsh sobre su jubilación y próxima boda."
-      },
-      {
-        "text": "Ga je echt met pensioen, Miss Marsh?",
-        "speaker": "Verslaggever",
-        "translation": "¿Realmente te vas a jubilar, Miss Marsh?"
-      },
-      {
-        "text": "Misschien. Ik kan me niet beslissen. Ik zal het aan mijn toekomstige echtgenoot moeten vragen. Hij zal me geen andere film laten maken.",
-        "speaker": "Miss Marsh",
-        "translation": "Tal vez. No puedo decidirme. Tendré que preguntarle a mi futuro esposo. Él no me dejará hacer otra película."
-      },
-      {
-        "text": "Je toekomstige echtgenoot, Miss Marsh?",
-        "speaker": "Verslaggever",
-        "translation": "¿Tu futuro esposo, Miss Marsh?"
-      },
-      {
-        "text": "Ja. Laat me hem aan jullie voorstellen. Zijn naam is Carlos. We gaan volgende week trouwen.",
-        "speaker": "Miss Marsh",
-        "translation": "Sí. Déjenme presentárselo. Su nombre es Carlos. Nos vamos a casar la próxima semana."
-      },
-      {
-        "text": "Kijk, Millie! Hier is nog een bericht over Karen Marsh. Luister: \"Karen Marsh: Het Laatste. Vandaag in haar Londense Hotel vertelde Miss Marsh verslaggevers dat ze misschien met pensioen zou gaan. Ze zei dat ze zich niet kon beslissen. Ze zei dat ze het aan haar toekomstige echtgenoot zou moeten vragen. Ze zei dat haar toekomstige echtgenoot haar geen andere film zou laten maken. Toen introduceerde ze ons aan Carlos en vertelde ons dat ze volgende week zouden trouwen.\"",
-        "speaker": "Kate",
-        "translation": "¡Mira, Millie! Aquí hay otra noticia sobre Karen Marsh. Escucha: \"Karen Marsh: Lo Último. Hoy en su hotel de Londres, Miss Marsh dijo a los reporteros que tal vez se jubilaría. Dijo que no podía decidirse. Dijo que tendría que preguntarle a su futuro esposo. Dijo que su futuro esposo no la dejaría hacer otra película. Luego nos presentó a Carlos y nos dijo que se casarían la próxima semana.\""
-      },
-      {
-        "text": "Dat is sensationeel nieuws, nietwaar, Kate?",
-        "speaker": "Millie",
-        "translation": "Eso es una noticia sensacional, ¿no es así, Kate?"
-      },
-      {
-        "text": "Het is het zeker. Hij zal haar zesde echtgenoot zijn!",
-        "speaker": "Kate",
-        "translation": "¡Ciertamente lo es! ¡Será su sexto esposo!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page135_illust001.png",
-        "alt": "Miss Marsh wordt omringd door verslaggevers en fotografen"
-      },
-      {
-        "src": "/illustrations-sorted/page135_illust002.png",
-        "alt": "Miss Marsh introduceert een knappe man genaamd Carlos aan de pers"
-      },
-      {
-        "src": "/illustrations-sorted/page135_illust003.png",
-        "alt": "Kate en Millie lezen opnieuw een krant met \"KAREN MARSH LATEST\""
-      },
-      {
-        "src": "/illustrations-sorted/page135_illust004.png",
-        "alt": "Kate en Millie kijken geschokt bij het lezen van het nieuws over het huwelijk"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Verslaggever blijft Miss Marsh interviewen over haar pensioen en aanstaande huwelijk.",
+          "speaker": "Situatie",
+          "translation": "El reportero sigue entrevistando a Miss Marsh sobre su jubilación y próxima boda."
+        },
+        {
+          "text": "Ga je echt met pensioen, Miss Marsh?",
+          "speaker": "Verslaggever",
+          "translation": "¿Realmente te vas a jubilar, Miss Marsh?"
+        },
+        {
+          "text": "Misschien. Ik kan me niet beslissen. Ik zal het aan mijn toekomstige echtgenoot moeten vragen. Hij zal me geen andere film laten maken.",
+          "speaker": "Miss Marsh",
+          "translation": "Tal vez. No puedo decidirme. Tendré que preguntarle a mi futuro esposo. Él no me dejará hacer otra película."
+        },
+        {
+          "text": "Je toekomstige echtgenoot, Miss Marsh?",
+          "speaker": "Verslaggever",
+          "translation": "¿Tu futuro esposo, Miss Marsh?"
+        },
+        {
+          "text": "Ja. Laat me hem aan jullie voorstellen. Zijn naam is Carlos. We gaan volgende week trouwen.",
+          "speaker": "Miss Marsh",
+          "translation": "Sí. Déjenme presentárselo. Su nombre es Carlos. Nos vamos a casar la próxima semana."
+        },
+        {
+          "text": "Kijk, Millie! Hier is nog een bericht over Karen Marsh. Luister: \"Karen Marsh: Het Laatste. Vandaag in haar Londense Hotel vertelde Miss Marsh verslaggevers dat ze misschien met pensioen zou gaan. Ze zei dat ze zich niet kon beslissen. Ze zei dat ze het aan haar toekomstige echtgenoot zou moeten vragen. Ze zei dat haar toekomstige echtgenoot haar geen andere film zou laten maken. Toen introduceerde ze ons aan Carlos en vertelde ons dat ze volgende week zouden trouwen.\"",
+          "speaker": "Kate",
+          "translation": "¡Mira, Millie! Aquí hay otra noticia sobre Karen Marsh. Escucha: \"Karen Marsh: Lo Último. Hoy en su hotel de Londres, Miss Marsh dijo a los reporteros que tal vez se jubilaría. Dijo que no podía decidirse. Dijo que tendría que preguntarle a su futuro esposo. Dijo que su futuro esposo no la dejaría hacer otra película. Luego nos presentó a Carlos y nos dijo que se casarían la próxima semana.\""
+        },
+        {
+          "text": "Dat is sensationeel nieuws, nietwaar, Kate?",
+          "speaker": "Millie",
+          "translation": "Eso es una noticia sensacional, ¿no es así, Kate?"
+        },
+        {
+          "text": "Het is het zeker. Hij zal haar zesde echtgenoot zijn!",
+          "speaker": "Kate",
+          "translation": "¡Ciertamente lo es! ¡Será su sexto esposo!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page135_illust001.png",
+          "alt": "Miss Marsh wordt omringd door verslaggevers en fotografen"
+        },
+        {
+          "src": "/illustrations-sorted/page135_illust002.png",
+          "alt": "Miss Marsh introduceert een knappe man genaamd Carlos aan de pers"
+        },
+        {
+          "src": "/illustrations-sorted/page135_illust003.png",
+          "alt": "Kate en Millie lezen opnieuw een krant met \"KAREN MARSH LATEST\""
+        },
+        {
+          "src": "/illustrations-sorted/page135_illust004.png",
+          "alt": "Kate en Millie kijken geschokt bij het lezen van het nieuws over het huwelijk"
+        }
+      ]
+    }
+  ]
 }

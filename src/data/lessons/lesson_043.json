@@ -1,118 +1,120 @@
 {
   "id": 43,
   "title": "Les 43",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Kun je thee zetten, John?",
-        "speaker": "Mary",
-        "translation": "¿Puedes hacer el té, John?"
-      },
-      {
-        "text": "Ja, natuurlijk kan ik dat, Mary.",
-        "speaker": "John",
-        "translation": "Sí, por supuesto que puedo, Mary."
-      },
-      {
-        "text": "Is er water in deze theepot?",
-        "speaker": "Mary",
-        "translation": "¿Hay algo de agua en esta tetera?"
-      },
-      {
-        "text": "Ja, dat is er.",
-        "speaker": "John",
-        "translation": "Sí, la hay."
-      },
-      {
-        "text": "Waar is de thee, schat?",
-        "speaker": "Mary",
-        "translation": "¿Dónde está el té, querida?"
-      },
-      {
-        "text": "Hij is daar, achter de theepot.",
-        "speaker": "John",
-        "translation": "Está ahí, detrás de la tetera."
-      },
-      {
-        "text": "Kun je hem zien?",
-        "speaker": "Mary",
-        "translation": "¿Puedes verlo?"
-      },
-      {
-        "text": "Ik kan de theepot zien, maar ik kan de thee niet zien.",
-        "speaker": "John",
-        "translation": "Puedo ver la tetera, pero no puedo ver el té."
-      },
-      {
-        "text": "Daar is hij! Hij is vlak voor je!",
-        "speaker": "Mary",
-        "translation": "¡Ahí está! ¡Está frente a ti!"
-      },
-      {
-        "text": "Oh ja, nu kan ik hem zien.",
-        "speaker": "John",
-        "translation": "Ah sí, ahora puedo verlo."
-      },
-      {
-        "text": "Waar zijn de theekopjes?",
-        "speaker": "Mary",
-        "translation": "¿Dónde están las tazas de té?"
-      },
-      {
-        "text": "Er zijn wat in de kast.",
-        "speaker": "John",
-        "translation": "Hay algunas en el armario."
-      },
-      {
-        "text": "Kun je ze vinden?",
-        "speaker": "Mary",
-        "translation": "¿Puedes encontrarlas?"
-      },
-      {
-        "text": "Ja. Hier zijn ze.",
-        "speaker": "John",
-        "translation": "Sí. Aquí están."
-      },
-      {
-        "text": "Schiet op, John! De theepot kookt!",
-        "speaker": "Mary",
-        "translation": "¡Date prisa, John! ¡La tetera está hirviendo!"
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page43_illust001.png",
-        "alt": "Mary preguntando a John en la cocina si puede hacer té"
-      },
-      {
-        "src": "/illustrations-sorted/page43_illust002.png",
-        "alt": "John verificando la tetera"
-      },
-      {
-        "src": "/illustrations-sorted/page43_illust003.png",
-        "alt": "John buscando el té"
-      },
-      {
-        "src": "/illustrations-sorted/page43_illust004.png",
-        "alt": "John sin poder ver el té"
-      },
-      {
-        "src": "/illustrations-sorted/page43_illust005.png",
-        "alt": "Mary señalando justo frente a John"
-      },
-      {
-        "src": "/illustrations-sorted/page43_illust006.png",
-        "alt": "John abriendo el armario"
-      },
-      {
-        "src": "/illustrations-sorted/page43_illust007.png",
-        "alt": "John encontrando las tazas"
-      },
-      {
-        "src": "/illustrations-sorted/page43_illust008.png",
-        "alt": "La tetera hirviendo con vapor"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Kun je thee zetten, John?",
+          "speaker": "Mary",
+          "translation": "¿Puedes hacer el té, John?"
+        },
+        {
+          "text": "Ja, natuurlijk kan ik dat, Mary.",
+          "speaker": "John",
+          "translation": "Sí, por supuesto que puedo, Mary."
+        },
+        {
+          "text": "Is er water in deze theepot?",
+          "speaker": "Mary",
+          "translation": "¿Hay algo de agua en esta tetera?"
+        },
+        {
+          "text": "Ja, dat is er.",
+          "speaker": "John",
+          "translation": "Sí, la hay."
+        },
+        {
+          "text": "Waar is de thee, schat?",
+          "speaker": "Mary",
+          "translation": "¿Dónde está el té, querida?"
+        },
+        {
+          "text": "Hij is daar, achter de theepot.",
+          "speaker": "John",
+          "translation": "Está ahí, detrás de la tetera."
+        },
+        {
+          "text": "Kun je hem zien?",
+          "speaker": "Mary",
+          "translation": "¿Puedes verlo?"
+        },
+        {
+          "text": "Ik kan de theepot zien, maar ik kan de thee niet zien.",
+          "speaker": "John",
+          "translation": "Puedo ver la tetera, pero no puedo ver el té."
+        },
+        {
+          "text": "Daar is hij! Hij is vlak voor je!",
+          "speaker": "Mary",
+          "translation": "¡Ahí está! ¡Está frente a ti!"
+        },
+        {
+          "text": "Oh ja, nu kan ik hem zien.",
+          "speaker": "John",
+          "translation": "Ah sí, ahora puedo verlo."
+        },
+        {
+          "text": "Waar zijn de theekopjes?",
+          "speaker": "Mary",
+          "translation": "¿Dónde están las tazas de té?"
+        },
+        {
+          "text": "Er zijn wat in de kast.",
+          "speaker": "John",
+          "translation": "Hay algunas en el armario."
+        },
+        {
+          "text": "Kun je ze vinden?",
+          "speaker": "Mary",
+          "translation": "¿Puedes encontrarlas?"
+        },
+        {
+          "text": "Ja. Hier zijn ze.",
+          "speaker": "John",
+          "translation": "Sí. Aquí están."
+        },
+        {
+          "text": "Schiet op, John! De theepot kookt!",
+          "speaker": "Mary",
+          "translation": "¡Date prisa, John! ¡La tetera está hirviendo!"
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page43_illust001.png",
+          "alt": "Mary preguntando a John en la cocina si puede hacer té"
+        },
+        {
+          "src": "/illustrations-sorted/page43_illust002.png",
+          "alt": "John verificando la tetera"
+        },
+        {
+          "src": "/illustrations-sorted/page43_illust003.png",
+          "alt": "John buscando el té"
+        },
+        {
+          "src": "/illustrations-sorted/page43_illust004.png",
+          "alt": "John sin poder ver el té"
+        },
+        {
+          "src": "/illustrations-sorted/page43_illust005.png",
+          "alt": "Mary señalando justo frente a John"
+        },
+        {
+          "src": "/illustrations-sorted/page43_illust006.png",
+          "alt": "John abriendo el armario"
+        },
+        {
+          "src": "/illustrations-sorted/page43_illust007.png",
+          "alt": "John encontrando las tazas"
+        },
+        {
+          "src": "/illustrations-sorted/page43_illust008.png",
+          "alt": "La tetera hirviendo con vapor"
+        }
+      ]
+    }
+  ]
 }

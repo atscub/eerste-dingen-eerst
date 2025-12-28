@@ -1,18 +1,77 @@
 {
   "id": 98,
   "title": "Les 98",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Este vestido pertenece a mi hermana. Es de ella.",
-        "spanish": "Este vestido pertenece a mi hermana. Es de ella."
-      },
-      {
-        "dutch": "Deze jurk is van mijn zus. Hij is van haar.",
-        "spanish": "Este vestido es de mi hermana. Es de ella."
-      }
-    ]
-  }
+  "subtitle": "Van wie is het? Van wie zijn ze?",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "title": "Bezittelijke voornaamwoorden:",
+      "columns": ["Vraag", "Antwoord"],
+      "rows": [
+        ["Is dit van mij?", "Is dit de mijne?"],
+        ["Is dit van jou?", "Is dit de jouwe?"],
+        ["Is dit van hem?", "Is dit de zijne?"],
+        ["Is dit van haar?", "Is dit de hare?"],
+        ["Zijn deze van ons?", "Zijn deze de onze?"],
+        ["Zijn deze van jullie?", "Zijn deze de jullie?"],
+        ["Zijn deze van hen?", "Zijn deze de hunne?"]
+      ]
+    },
+    {
+      "type": "vocabulary",
+      "prompt": "Van wie is het? Van wie zijn ze?",
+      "items": [
+        { "number": 1, "dutch": "sleutels", "spanish": "llaves", "illustration": "/illustrations-sorted/page98_illust001.png" },
+        { "number": 2, "dutch": "papieren vliegtuig", "spanish": "avión de papel", "illustration": "/illustrations-sorted/page98_illust002.png" },
+        { "number": 3, "dutch": "kleren", "spanish": "ropa", "illustration": "/illustrations-sorted/page98_illust003.png" },
+        { "number": 4, "dutch": "paspoort", "spanish": "pasaporte", "illustration": "/illustrations-sorted/page98_illust004.png" },
+        { "number": 5, "dutch": "kaartjes en geld", "spanish": "boletos y dinero", "illustration": "/illustrations-sorted/page98_illust005.png" },
+        { "number": 6, "dutch": "meetlint", "spanish": "cinta métrica", "illustration": "/illustrations-sorted/page98_illust006.png" },
+        { "number": 7, "dutch": "bloemen", "spanish": "flores", "illustration": "/illustrations-sorted/page98_illust007.png" },
+        { "number": 8, "dutch": "boot", "spanish": "barco", "illustration": "/illustrations-sorted/page98_illust008.png" },
+        { "number": 9, "dutch": "taalgids", "spanish": "libro de frases", "illustration": "/illustrations-sorted/page98_illust009.png" },
+        { "number": 10, "dutch": "lamp en auto", "spanish": "lámpara y coche", "illustration": "/illustrations-sorted/page98_illust010.png" },
+        { "number": 11, "dutch": "kopjes en schotels", "spanish": "tazas y platillos", "illustration": "/illustrations-sorted/page98_illust011.png" },
+        { "number": 12, "dutch": "pennen", "spanish": "plumas", "illustration": "/illustrations-sorted/page98_illust012.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Deze jurk is van mijn zus.",
+          "output": "Hij is de hare.",
+          "spanish": "Este vestido pertenece a mi hermana. Es de ella."
+        }
+      ],
+      "items": [
+        {
+          "text": "Deze dingen zijn van mijn man. Ze...",
+          "answer": "Ze zijn de zijne."
+        },
+        {
+          "text": "Deze jas is van mij. Hij...",
+          "answer": "Hij is de mijne."
+        },
+        {
+          "text": "Deze schoenen zijn van mijn vrouw. Ze...",
+          "answer": "Ze zijn de hare."
+        },
+        {
+          "text": "Deze boeken zijn van mijn broer en mij. Ze...",
+          "answer": "Ze zijn de onze."
+        },
+        {
+          "text": "Deze pennen zijn van Tom en Betty. De pennen...",
+          "answer": "De pennen zijn de hunne."
+        },
+        {
+          "text": "Deze koffer is van jou. Hij...",
+          "answer": "Hij is de jouwe."
+        }
+      ]
+    }
+  ]
 }

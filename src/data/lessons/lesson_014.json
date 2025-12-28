@@ -1,91 +1,117 @@
 {
   "id": 14,
   "title": "Les 14",
-  "subtitle": "¿De qué color es tu...?",
-  "type": "vocabulary",
-  "items": [
+  "subtitle": "Welke kleur heeft jouw...?",
+  "sections": [
     {
-      "number": 1,
-      "dutch": "de paraplu",
-      "english": "umbrella",
-      "spanish": "el paraguas",
-      "illustration": "Illustratie van de paraplu"
+      "type": "vocabulary",
+      "prompt": "Welke kleur heeft jouw...?",
+      "items": [
+        {
+          "number": 20,
+          "dutch": "de paraplu",
+          "english": "umbrella",
+          "spanish": "el paraguas",
+          "illustration": "/illustrations-sorted/page14_illust001.png"
+        },
+        {
+          "number": 30,
+          "dutch": "de auto",
+          "english": "car",
+          "spanish": "el coche",
+          "illustration": "/illustrations-sorted/page14_illust002.png"
+        },
+        {
+          "number": 40,
+          "dutch": "het overhemd",
+          "english": "shirt",
+          "spanish": "la camisa",
+          "illustration": "/illustrations-sorted/page14_illust003.png"
+        },
+        {
+          "number": 50,
+          "dutch": "de jas",
+          "english": "coat",
+          "spanish": "el abrigo",
+          "illustration": "/illustrations-sorted/page14_illust004.png"
+        },
+        {
+          "number": 60,
+          "dutch": "de koffer",
+          "english": "case",
+          "spanish": "la maleta",
+          "illustration": "/illustrations-sorted/page14_illust005.png"
+        },
+        {
+          "number": 70,
+          "dutch": "het tapijt",
+          "english": "carpet",
+          "spanish": "la alfombra",
+          "illustration": "/illustrations-sorted/page14_illust006.png"
+        },
+        {
+          "number": 80,
+          "dutch": "de blouse",
+          "english": "blouse",
+          "spanish": "la blusa",
+          "illustration": "/illustrations-sorted/page14_illust007.png"
+        },
+        {
+          "number": 90,
+          "dutch": "de das",
+          "english": "tie",
+          "spanish": "la corbata",
+          "illustration": "/illustrations-sorted/page14_illust008.png"
+        },
+        {
+          "number": 100,
+          "dutch": "de hoed",
+          "english": "hat",
+          "spanish": "el sombrero",
+          "illustration": "/illustrations-sorted/page14_illust009.png"
+        },
+        {
+          "number": 101,
+          "dutch": "de hond",
+          "english": "dog",
+          "spanish": "el perro",
+          "illustration": "/illustrations-sorted/page14_illust010.png"
+        }
+      ]
     },
     {
-      "number": 2,
-      "dutch": "de auto",
-      "english": "car",
-      "spanish": "el coche",
-      "illustration": "Illustratie van de auto"
-    },
-    {
-      "number": 3,
-      "dutch": "het overhemd",
-      "english": "shirt",
-      "spanish": "la camisa",
-      "illustration": "Illustratie van het overhemd"
-    },
-    {
-      "number": 4,
-      "dutch": "de jas",
-      "english": "coat",
-      "spanish": "el abrigo",
-      "illustration": "Illustratie van de jas"
-    },
-    {
-      "number": 5,
-      "dutch": "de koffer",
-      "english": "case",
-      "spanish": "la maleta",
-      "illustration": "Illustratie van de koffer"
-    },
-    {
-      "number": 6,
-      "dutch": "het tapijt",
-      "english": "carpet",
-      "spanish": "la alfombra",
-      "illustration": "Illustratie van het tapijt"
-    },
-    {
-      "number": 7,
-      "dutch": "de blouse",
-      "english": "blouse",
-      "spanish": "la blusa",
-      "illustration": "Illustratie van de blouse"
-    },
-    {
-      "number": 8,
-      "dutch": "de das",
-      "english": "tie",
-      "spanish": "la corbata",
-      "illustration": "Illustratie van de das"
-    },
-    {
-      "number": 9,
-      "dutch": "de hoed",
-      "english": "hat",
-      "spanish": "el sombrero",
-      "illustration": "Illustratie van de hoed"
-    },
-    {
-      "number": 10,
-      "dutch": "de hond",
-      "english": "dog",
-      "spanish": "el perro",
-      "illustration": "Illustratie van de hond"
+      "type": "exercise",
+      "exerciseType": "rewrite",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Dit is Stella. Dit is haar tas.",
+          "output": "Dit is Stella's tas.",
+          "spanish": "Este es el bolso de Stella."
+        }
+      ],
+      "items": [
+        {
+          "text": "Dit is Paul. Dit is zijn auto.",
+          "answer": "Dit is Paul's auto."
+        },
+        {
+          "text": "Dit is juffrouw Dupont. Dit is haar jas.",
+          "answer": "Dit is juffrouw Dupont's jas."
+        },
+        {
+          "text": "Dit is mevrouw Davis. Dit is haar hond.",
+          "answer": "Dit is mevrouw Davis' hond."
+        },
+        {
+          "text": "Dit is mijn vader. Dit is zijn pak.",
+          "answer": "Dit is mijn vader's pak."
+        },
+        {
+          "text": "Dit is mijn dochter. Dit is haar jurk.",
+          "answer": "Dit is mijn dochter's jurk."
+        }
+      ]
     }
-  ],
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Dit is Stella. Dit is haar tas.",
-        "spanish": "Esta es Stella. Esta es su bolso."
-      },
-      {
-        "dutch": "Dit is Stella's tas.",
-        "spanish": "Este es el bolso de Stella."
-      }
-    ]
-  }
+  ]
 }

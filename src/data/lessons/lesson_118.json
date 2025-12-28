@@ -1,28 +1,57 @@
 {
   "id": 118,
   "title": "Les 118",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Wat was je aan het doen?**\n\n**Afbeeldingen m-r tonen verschillende acties in het verleden continu:**\n- m. Iemand klopte op de deur toen ik aan het ontbijten was.\n- n. Toen ik het huis aan het verlaten was, kwam de postbode aan.\n- o. Net toen ik de voordeur aan het openen was, ging de telefoon.\n- p. Ze gleed uit en deed zichzelf pijn terwijl ze uit de bus aan het stappen was.\n- q. Hij sneed zichzelf terwijl hij aan het scheren was.\n- r. Mijn vrouw was het avondeten aan het koken terwijl ik in de tuin aan het werken was.",
-    "examples": [
-      "Hij kwam aan toen ik een bad aan het nemen was.",
-      "Grammatica: Wat was je aan het doen?",
-      "Afbeeldingen m-r tonen verschillende acties in het verleden continu:",
-      "Bekijk dit:",
-      "Voeg deze zinnen op dezelfde manier samen. Gebruik: when."
-    ]
-  },
-  "exercise": {
-    "instruction": "Hij kwam aan. Ik nam een bad. → *Hij kwam aan toen ik een bad aan het nemen was.*",
-    "example": [
-      {
-        "dutch": "Hij kwam aan toen ik een bad aan het nemen was.",
-        "spanish": "Él llegó cuando yo estaba tomando un baño."
-      },
-      {
-        "dutch": "Hij kwam aan. Ik nam een bad.",
-        "spanish": "Hij kwam aan toen ik een bad aan het nemen was."
-      }
-    ]
-  }
+  "subtitle": "Wat was je aan het doen?",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Wat was je aan het doen?",
+      "items": [
+        { "number": 1, "dutch": "Iemand klopte op de deur toen ik aan het ontbijten was.", "spanish": "Alguien llamó a la puerta cuando estaba desayunando.", "illustration": "/illustrations-sorted/page118_illust001.png" },
+        { "number": 2, "dutch": "Toen ik het huis aan het verlaten was, kwam de postbode aan.", "spanish": "Cuando estaba saliendo de casa, llegó el cartero.", "illustration": "/illustrations-sorted/page118_illust002.png" },
+        { "number": 3, "dutch": "Net toen ik de voordeur aan het openen was, ging de telefoon.", "spanish": "Justo cuando estaba abriendo la puerta principal, sonó el teléfono.", "illustration": "/illustrations-sorted/page118_illust003.png" },
+        { "number": 4, "dutch": "Ze gleed uit en deed zichzelf pijn terwijl ze uit de bus aan het stappen was.", "spanish": "Se resbaló y se lastimó mientras bajaba del autobús.", "illustration": "/illustrations-sorted/page118_illust004.png" },
+        { "number": 5, "dutch": "Hij sneed zichzelf terwijl hij aan het scheren was.", "spanish": "Se cortó mientras se afeitaba.", "illustration": "/illustrations-sorted/page118_illust005.png" },
+        { "number": 6, "dutch": "Mijn vrouw was het avondeten aan het koken terwijl ik in de tuin aan het werken was.", "spanish": "Mi esposa estaba cocinando la cena mientras yo trabajaba en el jardín.", "illustration": "/illustrations-sorted/page118_illust006.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Voeg deze zinnen samen. Gebruik: when (toen).",
+      "example": [
+        {
+          "input": "Hij kwam aan. Ik nam een bad.",
+          "output": "Hij kwam aan toen ik een bad aan het nemen was.",
+          "spanish": "Él llegó cuando yo estaba tomando un baño."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij klopte op de deur. Ik nam de telefoon op.",
+          "answer": "Hij klopte op de deur toen ik de telefoon aan het opnemen was."
+        },
+        {
+          "text": "Hij kwam beneden. Ik had ontbijt.",
+          "answer": "Hij kwam beneden toen ik aan het ontbijten was."
+        },
+        {
+          "text": "De telefoon ging. Ik waste de afwas.",
+          "answer": "De telefoon ging toen ik de afwas aan het doen was."
+        },
+        {
+          "text": "De baas kwam aan. Zij typte een brief.",
+          "answer": "De baas kwam aan toen zij een brief aan het typen was."
+        },
+        {
+          "text": "De trein vertrok. Ik kocht de kaartjes.",
+          "answer": "De trein vertrok toen ik de kaartjes aan het kopen was."
+        },
+        {
+          "text": "Het regende hard. Ik reed naar Londen.",
+          "answer": "Het regende hard toen ik naar Londen aan het rijden was."
+        }
+      ]
+    }
+  ]
 }

@@ -1,18 +1,55 @@
 {
   "id": 128,
   "title": "Les 128",
-  "type": "grammar",
-  "grammar": {
-    "explanation": "**Grammatica: Hij kan niet... zijn / Hij moet... zijn**\n\n**Afbeeldingen 1-8 tonen logische conclusies:**\n1. Hij kan niet ziek zijn. Hij moet moe zijn.\n2. Het kan niet mijn nieuwe hoed zijn. Het moet mijn oude zijn.\n3. Ze kan niet Deens zijn. Ze moet Zweeds zijn.\n4. Hij kan geen tandarts zijn. Hij moet een dokter zijn.\n5. Ze kan geen veertig zijn. Ze moet vijftig zijn.\n6. Het kan niet de 20e zijn. Het moet de 21e zijn.\n7. Hij kan niet de jongste zijn. Hij moet de oudste zijn.\n8. Hij kan niet aan het lezen zijn. Hij moet aan het slapen zijn.",
-    "examples": [
-      "Grammatica: Hij kan niet... zijn / Hij moet... zijn",
-      "Afbeeldingen 1-8 tonen logische conclusies:",
-      "Bekijk deze zinnen:",
-      "In welke van deze zinnen kunnen we 'has to' in plaats van 'must' gebruiken:"
-    ]
-  },
-  "exercise": {
-    "instruction": "Hij moet voor zes uur thuis zijn. Hij moet voor zes uur thuis zijn. Hij moet moe zijn.",
-    "example": []
-  }
+  "subtitle": "Hij kan niet... zijn / Hij moet... zijn",
+  "sections": [
+    {
+      "type": "vocabulary",
+      "prompt": "Hij kan niet... zijn / Hij moet... zijn (Logische conclusies)",
+      "items": [
+        { "number": 1, "dutch": "Hij kan niet ziek zijn. Hij moet moe zijn.", "spanish": "No puede estar enfermo. Debe estar cansado.", "illustration": "/illustrations-sorted/page128_illust001.png" },
+        { "number": 2, "dutch": "Het kan niet mijn nieuwe hoed zijn. Het moet mijn oude zijn.", "spanish": "No puede ser mi sombrero nuevo. Debe ser el viejo.", "illustration": "/illustrations-sorted/page128_illust002.png" },
+        { "number": 3, "dutch": "Ze kan niet Deens zijn. Ze moet Zweeds zijn.", "spanish": "No puede ser danesa. Debe ser sueca.", "illustration": "/illustrations-sorted/page128_illust003.png" },
+        { "number": 4, "dutch": "Hij kan geen tandarts zijn. Hij moet een dokter zijn.", "spanish": "No puede ser dentista. Debe ser médico.", "illustration": "/illustrations-sorted/page128_illust004.png" },
+        { "number": 5, "dutch": "Ze kan geen veertig zijn. Ze moet vijftig zijn.", "spanish": "No puede tener cuarenta años. Debe tener cincuenta.", "illustration": "/illustrations-sorted/page128_illust005.png" },
+        { "number": 6, "dutch": "Het kan niet de 20e zijn. Het moet de 21e zijn.", "spanish": "No puede ser el 20. Debe ser el 21.", "illustration": "/illustrations-sorted/page128_illust006.png" },
+        { "number": 7, "dutch": "Hij kan niet de jongste zijn. Hij moet de oudste zijn.", "spanish": "No puede ser el menor. Debe ser el mayor.", "illustration": "/illustrations-sorted/page128_illust007.png" },
+        { "number": 8, "dutch": "Hij kan niet aan het lezen zijn. Hij moet aan het slapen zijn.", "spanish": "No puede estar leyendo. Debe estar durmiendo.", "illustration": "/illustrations-sorted/page128_illust008.png" }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Maak logische conclusies. Gebruik: kan niet... zijn / moet... zijn.",
+      "example": [
+        {
+          "input": "Hij is niet ziek. Hij is moe.",
+          "output": "Hij kan niet ziek zijn. Hij moet moe zijn.",
+          "spanish": "No puede estar enfermo. Debe estar cansado."
+        }
+      ],
+      "items": [
+        {
+          "text": "Het is niet mijn nieuwe hoed. Het is mijn oude.",
+          "answer": "Het kan niet mijn nieuwe hoed zijn. Het moet mijn oude zijn."
+        },
+        {
+          "text": "Ze is niet Deens. Ze is Zweeds.",
+          "answer": "Ze kan niet Deens zijn. Ze moet Zweeds zijn."
+        },
+        {
+          "text": "Hij is geen tandarts. Hij is een dokter.",
+          "answer": "Hij kan geen tandarts zijn. Hij moet een dokter zijn."
+        },
+        {
+          "text": "Het is niet de 20e. Het is de 21e.",
+          "answer": "Het kan niet de 20e zijn. Het moet de 21e zijn."
+        },
+        {
+          "text": "Hij is niet de jongste. Hij is de oudste.",
+          "answer": "Hij kan niet de jongste zijn. Hij moet de oudste zijn."
+        }
+      ]
+    }
+  ]
 }

@@ -1,19 +1,81 @@
 {
   "id": 78,
   "title": "Les 78",
-  "subtitle": "¿Cuándo...?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Observa esto:",
-    "example": [
-      {
-        "dutch": "Ella va al pueblo todos los días. Ella fue al pueblo ayer.",
-        "spanish": "Ella va al pueblo todos los días. Ella fue al pueblo ayer."
-      },
-      {
-        "dutch": "Zij gaat elke dag naar de stad. Zij ging gisteren naar de stad.",
-        "spanish": "Ella va a la ciudad todos los días. Ella fue a la ciudad ayer."
-      }
-    ]
-  }
+  "subtitle": "Wanneer heb je...?",
+  "sections": [
+    {
+      "type": "grammarTable",
+      "prompt": "AT - tijden",
+      "columns": ["vraag", "antwoord"],
+      "rows": [
+        ["Hoe laat?", "Om één uur / Om vijf uur / Om zes uur"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "prompt": "ON - dagen",
+      "columns": ["vraag", "antwoord"],
+      "rows": [
+        ["Welke dag?", "Op zondag / Op maandag / Op dinsdag / Op woensdag / Op donderdag / Op vrijdag / Op zaterdag"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "prompt": "IN - maanden",
+      "columns": ["vraag", "antwoord"],
+      "rows": [
+        ["Welke maand?", "In januari / In februari / In maart / In april / In mei / In juni / In juli / In augustus / In september / In oktober / In november / In december"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "prompt": "IN - jaren",
+      "columns": ["vraag", "antwoord"],
+      "rows": [
+        ["Welk jaar?", "In 1959 / In 1960 / In 1961 / In 1962 / In 1963 / In 1964 / In 1965 / In 1966 / In 1967 / In 1968"]
+      ]
+    },
+    {
+      "type": "grammarTable",
+      "prompt": "ON - datums",
+      "columns": ["vraag", "antwoord"],
+      "rows": [
+        ["Welke datum?", "Op 1 juli / Op 2 augustus / Op 3 september / Op 4 oktober / Op 5 november / Op 6 december"]
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "transform",
+      "instruction": "Observa esto:",
+      "example": [
+        {
+          "input": "Zij gaat elke dag naar de stad.",
+          "output": "Zij ging gisteren naar de stad.",
+          "spanish": "Ella va a la ciudad todos los días. Ella fue a la ciudad ayer."
+        }
+      ],
+      "items": [
+        {
+          "text": "Hij koopt elk jaar een nieuwe auto. Hij ... vorig jaar een nieuwe auto.",
+          "answer": "Hij kocht vorig jaar een nieuwe auto."
+        },
+        {
+          "text": "Zij lucht de kamer elke dag. Zij ... het vanmorgen.",
+          "answer": "Zij luchtte het vanmorgen."
+        },
+        {
+          "text": "Hij verliest vaak zijn pen. Hij ... vanmorgen zijn pen.",
+          "answer": "Hij verloor vanmorgen zijn pen."
+        },
+        {
+          "text": "Hij luistert altijd naar het nieuws. Hij ... gisteren naar het nieuws.",
+          "answer": "Hij luisterde gisteren naar het nieuws."
+        },
+        {
+          "text": "Zij leegt deze mand elke dag. Zij ... hem gisteren.",
+          "answer": "Zij leegde hem gisteren."
+        }
+      ]
+    }
+  ]
 }

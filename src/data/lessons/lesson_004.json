@@ -1,27 +1,126 @@
 {
   "id": 4,
   "title": "Les 4",
-  "subtitle": "¿Es éste su...?",
-  "type": "practice",
-  "exercise": {
-    "instruction": "Copia esto:",
-    "example": [
-      {
-        "dutch": "Dit is niet mijn paraplu.",
-        "spanish": "Este no es mi paraguas."
-      },
-      {
-        "dutch": "Sorry, meneer.",
-        "spanish": "Lo siento, señor."
-      },
-      {
-        "dutch": "Is dit uw paraplu?",
-        "spanish": "¿Es este su paraguas?"
-      },
-      {
-        "dutch": "Nee, dat is het niet!",
-        "spanish": "¡No, no lo es!"
-      }
-    ]
-  }
+  "subtitle": "Is dit uw...?",
+  "sections": [
+    {
+      "type": "practice",
+      "prompt": "Is dit uw...?",
+      "items": [
+        {
+          "number": 1,
+          "dutch": "Is dit uw pen?",
+          "spanish": "¿Es ésta su pluma?",
+          "illustration": "/illustrations-sorted/page4_illust001.png"
+        },
+        {
+          "number": 2,
+          "dutch": "Is dit uw potlood?",
+          "spanish": "¿Es éste su lápiz?",
+          "illustration": "/illustrations-sorted/page4_illust002.png"
+        },
+        {
+          "number": 3,
+          "dutch": "Is dit uw boek?",
+          "spanish": "¿Es éste su libro?",
+          "illustration": "/illustrations-sorted/page4_illust003.png"
+        },
+        {
+          "number": 4,
+          "dutch": "Is dit uw horloge?",
+          "spanish": "¿Es éste su reloj?",
+          "illustration": "/illustrations-sorted/page4_illust004.png"
+        },
+        {
+          "number": 5,
+          "dutch": "Is dit uw jas?",
+          "spanish": "¿Es éste su abrigo?",
+          "illustration": "/illustrations-sorted/page4_illust005.png"
+        },
+        {
+          "number": 6,
+          "dutch": "Is dit uw jurk?",
+          "spanish": "¿Es éste su vestido?",
+          "illustration": "/illustrations-sorted/page4_illust006.png"
+        },
+        {
+          "number": 7,
+          "dutch": "Is dit uw rok?",
+          "spanish": "¿Es ésta su falda?",
+          "illustration": "/illustrations-sorted/page4_illust007.png"
+        },
+        {
+          "number": 8,
+          "dutch": "Is dit uw overhemd?",
+          "spanish": "¿Es ésta su camisa?",
+          "illustration": "/illustrations-sorted/page4_illust008.png"
+        },
+        {
+          "number": 9,
+          "dutch": "Is dit uw auto?",
+          "spanish": "¿Es éste su coche?",
+          "illustration": "/illustrations-sorted/page4_illust009.png"
+        },
+        {
+          "number": 10,
+          "dutch": "Is dit uw huis?",
+          "spanish": "¿Es ésta su casa?",
+          "illustration": "/illustrations-sorted/page4_illust010.png"
+        },
+        {
+          "number": 11,
+          "dutch": "Is dit uw...?",
+          "spanish": "¿Es éste su...?",
+          "illustration": "/illustrations-sorted/page4_illust011.png"
+        },
+        {
+          "number": 12,
+          "dutch": "Is dit uw...?",
+          "spanish": "¿Es éste su...?",
+          "illustration": "/illustrations-sorted/page4_illust012.png"
+        },
+        {
+          "number": 13,
+          "dutch": "Is dit uw...?",
+          "spanish": "¿Es éste su...?",
+          "illustration": "/illustrations-sorted/page4_illust013.png"
+        },
+        {
+          "number": 14,
+          "dutch": "Is dit uw...?",
+          "spanish": "¿Es éste su...?",
+          "illustration": "/illustrations-sorted/page4_illust014.png"
+        },
+        {
+          "number": 15,
+          "dutch": "Is dit uw...?",
+          "spanish": "¿Es éste su...?",
+          "illustration": "/illustrations-sorted/page4_illust015.png"
+        }
+      ]
+    },
+    {
+      "type": "exercise",
+      "exerciseType": "copy",
+      "instruction": "Copia esto:",
+      "example": [
+        {
+          "dutch": "Dit is niet mijn paraplu.",
+          "spanish": "Este no es mi paraguas."
+        },
+        {
+          "dutch": "Sorry, meneer.",
+          "spanish": "Lo siento, señor."
+        },
+        {
+          "dutch": "Is dit uw paraplu?",
+          "spanish": "¿Es este su paraguas?"
+        },
+        {
+          "dutch": "Nee, dat is het niet!",
+          "spanish": "¡No, no lo es!"
+        }
+      ]
+    }
+  ]
 }

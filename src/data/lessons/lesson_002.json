@@ -1,98 +1,98 @@
 {
   "id": 2,
   "title": "Les 2",
-  "subtitle": "¿Es éste su...?",
-  "type": "vocabulary",
-  "items": [
+  "subtitle": "Is dit uw...?",
+  "sections": [
     {
-      "number": 1,
-      "dutch": "de pen",
-      "english": "pen",
-      "spanish": "la pluma / el bolígrafo",
-      "illustration": "Illustratie van de pen"
+      "type": "vocabulary",
+      "prompt": "Is dit uw...?",
+      "items": [
+        {
+          "number": 1,
+          "dutch": "de pen",
+          "english": "pen",
+          "spanish": "la pluma / el bolígrafo",
+          "illustration": "/illustrations-sorted/page2_illust001.png"
+        },
+        {
+          "number": 2,
+          "dutch": "het potlood",
+          "english": "pencil",
+          "spanish": "el lápiz",
+          "illustration": "/illustrations-sorted/page2_illust002.png"
+        },
+        {
+          "number": 3,
+          "dutch": "het boek",
+          "english": "book",
+          "spanish": "el libro",
+          "illustration": "/illustrations-sorted/page2_illust003.png"
+        },
+        {
+          "number": 4,
+          "dutch": "het horloge",
+          "english": "watch",
+          "spanish": "el reloj",
+          "illustration": "/illustrations-sorted/page2_illust004.png"
+        },
+        {
+          "number": 5,
+          "dutch": "de jas",
+          "english": "coat",
+          "spanish": "el abrigo",
+          "illustration": "/illustrations-sorted/page2_illust005.png"
+        },
+        {
+          "number": 6,
+          "dutch": "de jurk",
+          "english": "dress",
+          "spanish": "el vestido",
+          "illustration": "/illustrations-sorted/page2_illust006.png"
+        },
+        {
+          "number": 7,
+          "dutch": "het overhemd",
+          "english": "shirt",
+          "spanish": "la camisa",
+          "illustration": "/illustrations-sorted/page2_illust007.png"
+        },
+        {
+          "number": 8,
+          "dutch": "de rok",
+          "english": "skirt",
+          "spanish": "la falda",
+          "illustration": "/illustrations-sorted/page2_illust008.png"
+        },
+        {
+          "number": 9,
+          "dutch": "de auto",
+          "english": "car",
+          "spanish": "el coche / el carro",
+          "illustration": "/illustrations-sorted/page2_illust009.png"
+        },
+        {
+          "number": 10,
+          "dutch": "de school",
+          "english": "school",
+          "spanish": "la escuela",
+          "illustration": "/illustrations-sorted/page2_illust010.png"
+        }
+      ]
     },
     {
-      "number": 2,
-      "dutch": "het potlood",
-      "english": "pencil",
-      "spanish": "el lápiz",
-      "illustration": "Illustratie van het potlood"
-    },
-    {
-      "number": 3,
-      "dutch": "het boek",
-      "english": "book",
-      "spanish": "el libro",
-      "illustration": "Illustratie van het boek"
-    },
-    {
-      "number": 4,
-      "dutch": "het horloge",
-      "english": "watch",
-      "spanish": "el reloj",
-      "illustration": "Illustratie van het horloge"
-    },
-    {
-      "number": 5,
-      "dutch": "de jas",
-      "english": "coat",
-      "spanish": "el abrigo",
-      "illustration": "Illustratie van de jas"
-    },
-    {
-      "number": 6,
-      "dutch": "de jurk",
-      "english": "dress",
-      "spanish": "el vestido",
-      "illustration": "Illustratie van de jurk"
-    },
-    {
-      "number": 7,
-      "dutch": "de rok",
-      "english": "skirt",
-      "spanish": "la falda",
-      "illustration": "Illustratie van de rok"
-    },
-    {
-      "number": 8,
-      "dutch": "het overhemd",
-      "english": "shirt",
-      "spanish": "la camisa",
-      "illustration": "Illustratie van het overhemd"
-    },
-    {
-      "number": 9,
-      "dutch": "de auto",
-      "english": "car",
-      "spanish": "el coche / el carro",
-      "illustration": "Illustratie van de auto"
-    },
-    {
-      "number": 10,
-      "dutch": "het huis",
-      "english": "house",
-      "spanish": "la casa",
-      "illustration": "Illustratie van het huis"
-    },
-    {
-      "number": 11,
-      "dutch": "de school",
-      "english": "school",
-      "spanish": "la escuela",
-      "illustration": "Illustratie van de school"
+      "type": "exercise",
+      "exerciseType": "copy",
+      "instruction": "Copia esto:",
+      "example": [
+        {
+          "dutch": "Pardon. Is dit uw tas?",
+          "spanish": "Perdón. ¿Es esta su bolsa?"
+        },
+        {
+          "dutch": "Ja, dat klopt. Hartelijk dank.",
+          "spanish": "Sí, es correcto. Muchas gracias."
+        }
+      ]
     }
-  ],
-  "exercise": {
-    "instruction": "Copia esto:",
-    "example": [
-      {
-        "dutch": "Pardon. Is dit uw tas?",
-        "spanish": "Perdón. ¿Es esta su bolsa?"
-      },
-      {
-        "dutch": "Ja, dat klopt. Hartelijk dank.",
-        "spanish": "Sí, es correcto. Muchas gracias."
-      }
-    ]
-  }
+  ]
 }

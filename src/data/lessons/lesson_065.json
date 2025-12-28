@@ -1,100 +1,102 @@
 {
   "id": 65,
   "title": "Les 65",
-  "type": "dialogue",
-  "dialogue": {
-    "lines": [
-      {
-        "text": "Wat ga je vanavond doen, Betty?",
-        "speaker": "Tom",
-        "translation": "¿Qué vas a hacer esta noche, Betty?"
-      },
-      {
-        "text": "Ik ga wat vrienden ontmoeten, pap.",
-        "speaker": "Betty",
-        "translation": "Voy a encontrarme con unos amigos, papá."
-      },
-      {
-        "text": "Je mag niet laat thuiskomen. Je moet om half elf thuis zijn.",
-        "speaker": "Tom",
-        "translation": "No debes llegar a casa tarde. Debes estar en casa a las diez y media."
-      },
-      {
-        "text": "Ik kan niet zo vroeg thuiskomen, pap!",
-        "speaker": "Betty",
-        "translation": "¡No puedo llegar a casa tan temprano, papá!"
-      },
-      {
-        "text": "Mag ik de sleutel van de voordeur, alsjeblieft?",
-        "speaker": "Betty",
-        "translation": "¿Puedo tener la llave de la puerta principal, por favor?"
-      },
-      {
-        "text": "Nee, dat mag niet.",
-        "speaker": "Tom",
-        "translation": "No, no puedes."
-      },
-      {
-        "text": "Betty is achttien jaar oud, Tom. Ze is geen baby. Geef haar de sleutel. Ze komt altijd vroeg thuis.",
-        "speaker": "Moeder",
-        "translation": "Betty tiene dieciocho años, Tom. No es una bebé. Dale la llave. Siempre llega a casa temprano."
-      },
-      {
-        "text": "Oh, goed dan!",
-        "speaker": "Tom",
-        "translation": "¡Oh, está bien!"
-      },
-      {
-        "text": "Hier is hij. Maar je mag niet na kwart voor elf thuiskomen. Hoor je me?",
-        "speaker": "Tom",
-        "translation": "Aquí tienes. Pero no debes llegar a casa después de las once menos cuarto. ¿Me oyes?"
-      },
-      {
-        "text": "Ja, pap.",
-        "speaker": "Betty",
-        "translation": "Sí, papá."
-      },
-      {
-        "text": "Dank je, mam.",
-        "speaker": "Betty",
-        "translation": "Gracias, mamá."
-      },
-      {
-        "text": "Dat is prima, lieverd. Tot ziens. Veel plezier!",
-        "speaker": "Moeder",
-        "translation": "Eso está bien, querida. Adiós. ¡Disfruta!"
-      },
-      {
-        "text": "We hebben altijd plezier, mam. Tot ziens.",
-        "speaker": "Betty",
-        "translation": "Siempre disfrutamos, mamá. Adiós."
-      }
-    ],
-    "images": [
-      {
-        "src": "/illustrations-sorted/page65_illust001.png",
-        "alt": "Betty y padre hablando en casa"
-      },
-      {
-        "src": "/illustrations-sorted/page65_illust002.png",
-        "alt": "Padre señalando el reloj, estableciendo hora límite"
-      },
-      {
-        "src": "/illustrations-sorted/page65_illust003.png",
-        "alt": "Betty pidiendo la llave con expresión esperanzada"
-      },
-      {
-        "src": "/illustrations-sorted/page65_illust004.png",
-        "alt": "Madre interviniendo, defendiendo a Betty"
-      },
-      {
-        "src": "/illustrations-sorted/page65_illust005.png",
-        "alt": "Padre entregando la llave a Betty"
-      },
-      {
-        "src": "/illustrations-sorted/page65_illust006.png",
-        "alt": "Betty y madre despidiéndose, sonriendo"
-      }
-    ]
-  }
+  "sections": [
+    {
+      "type": "dialogue",
+      "lines": [
+        {
+          "text": "Wat ga je vanavond doen, Betty?",
+          "speaker": "Tom",
+          "translation": "¿Qué vas a hacer esta noche, Betty?"
+        },
+        {
+          "text": "Ik ga wat vrienden ontmoeten, pap.",
+          "speaker": "Betty",
+          "translation": "Voy a encontrarme con unos amigos, papá."
+        },
+        {
+          "text": "Je mag niet laat thuiskomen. Je moet om half elf thuis zijn.",
+          "speaker": "Tom",
+          "translation": "No debes llegar a casa tarde. Debes estar en casa a las diez y media."
+        },
+        {
+          "text": "Ik kan niet zo vroeg thuiskomen, pap!",
+          "speaker": "Betty",
+          "translation": "¡No puedo llegar a casa tan temprano, papá!"
+        },
+        {
+          "text": "Mag ik de sleutel van de voordeur, alsjeblieft?",
+          "speaker": "Betty",
+          "translation": "¿Puedo tener la llave de la puerta principal, por favor?"
+        },
+        {
+          "text": "Nee, dat mag niet.",
+          "speaker": "Tom",
+          "translation": "No, no puedes."
+        },
+        {
+          "text": "Betty is achttien jaar oud, Tom. Ze is geen baby. Geef haar de sleutel. Ze komt altijd vroeg thuis.",
+          "speaker": "Moeder",
+          "translation": "Betty tiene dieciocho años, Tom. No es una bebé. Dale la llave. Siempre llega a casa temprano."
+        },
+        {
+          "text": "Oh, goed dan!",
+          "speaker": "Tom",
+          "translation": "¡Oh, está bien!"
+        },
+        {
+          "text": "Hier is hij. Maar je mag niet na kwart voor elf thuiskomen. Hoor je me?",
+          "speaker": "Tom",
+          "translation": "Aquí tienes. Pero no debes llegar a casa después de las once menos cuarto. ¿Me oyes?"
+        },
+        {
+          "text": "Ja, pap.",
+          "speaker": "Betty",
+          "translation": "Sí, papá."
+        },
+        {
+          "text": "Dank je, mam.",
+          "speaker": "Betty",
+          "translation": "Gracias, mamá."
+        },
+        {
+          "text": "Dat is prima, lieverd. Tot ziens. Veel plezier!",
+          "speaker": "Moeder",
+          "translation": "Eso está bien, querida. Adiós. ¡Disfruta!"
+        },
+        {
+          "text": "We hebben altijd plezier, mam. Tot ziens.",
+          "speaker": "Betty",
+          "translation": "Siempre disfrutamos, mamá. Adiós."
+        }
+      ],
+      "images": [
+        {
+          "src": "/illustrations-sorted/page65_illust001.png",
+          "alt": "Betty y padre hablando en casa"
+        },
+        {
+          "src": "/illustrations-sorted/page65_illust002.png",
+          "alt": "Padre señalando el reloj, estableciendo hora límite"
+        },
+        {
+          "src": "/illustrations-sorted/page65_illust003.png",
+          "alt": "Betty pidiendo la llave con expresión esperanzada"
+        },
+        {
+          "src": "/illustrations-sorted/page65_illust004.png",
+          "alt": "Madre interviniendo, defendiendo a Betty"
+        },
+        {
+          "src": "/illustrations-sorted/page65_illust005.png",
+          "alt": "Padre entregando la llave a Betty"
+        },
+        {
+          "src": "/illustrations-sorted/page65_illust006.png",
+          "alt": "Betty y madre despidiéndose, sonriendo"
+        }
+      ]
+    }
+  ]
 }
