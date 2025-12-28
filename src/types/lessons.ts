@@ -13,6 +13,7 @@ export interface DialogueImage {
 
 export interface DialogueContent {
   lines: DialogueLine[];
+  headerImage?: DialogueImage;
   images: DialogueImage[];
 }
 

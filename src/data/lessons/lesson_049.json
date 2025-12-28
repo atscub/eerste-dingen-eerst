@@ -6,70 +6,99 @@
     "lines": [
       {
         "text": "Wilt u vandaag vlees, mevrouw Bird?",
-        "speaker": "Speaker 1",
+        "speaker": "Slager",
         "translation": "¿Quiere algo de carne hoy, Sra. Bird?"
       },
       {
         "text": "Ja, graag.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Bird",
         "translation": "Sí, por favor."
       },
       {
         "text": "Wilt u rundvlees of lamsvlees?",
-        "speaker": "Speaker 1",
+        "speaker": "Slager",
         "translation": "¿Quiere carne de res o cordero?"
       },
       {
         "text": "Rundvlees, graag.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Bird",
         "translation": "Carne de res, por favor."
       },
       {
         "text": "Dit lamsvlees is erg goed.",
-        "speaker": "Speaker 1",
+        "speaker": "Slager",
         "translation": "Este cordero es muy bueno."
       },
       {
         "text": "Ik hou van lamsvlees, maar mijn man niet.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Bird",
         "translation": "Me gusta el cordero, pero a mi esposo no."
       },
       {
         "text": "Wat dacht u van biefstuk? Dit is een mooi stuk.",
-        "speaker": "Speaker 1",
+        "speaker": "Slager",
         "translation": "¿Qué tal algo de bistec? Este es un pedazo bonito."
       },
       {
         "text": "Geef me dat stuk, alsjeblieft.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Bird",
         "translation": "Dame ese pedazo, por favor."
       },
       {
         "text": "En ook een pond gehakt.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Bird",
         "translation": "Y una libra de carne molida, también."
       },
       {
         "text": "Wilt u een kip, mevrouw Bird? Ze zijn erg goed.",
-        "speaker": "Speaker 2",
+        "speaker": "Slager",
         "translation": "¿Quiere un pollo, Sra. Bird? Son muy buenos."
       },
       {
         "text": "Nee, dank u.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Bird",
         "translation": "No, gracias."
       },
       {
         "text": "Mijn man houdt van biefstuk, maar hij houdt niet van kip.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Bird",
         "translation": "A mi esposo le gusta el bistec, pero no le gusta el pollo."
       },
       {
         "text": "Om u de waarheid te zeggen, mevrouw Bird, ik hou ook niet van kip!",
-        "speaker": "Speaker 1",
+        "speaker": "Slager",
         "translation": "Para decirte la verdad, Sra. Bird, ¡a mí tampoco me gusta el pollo!"
       }
     ],
-    "images": []
+    "images": [
+      {
+        "src": "/illustrations-sorted/page49_illust001.png",
+        "alt": "Ilustración 1 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page49_illust002.png",
+        "alt": "Ilustración 2 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page49_illust003.png",
+        "alt": "Ilustración 3 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page49_illust004.png",
+        "alt": "Ilustración 4 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page49_illust005.png",
+        "alt": "Ilustración 5 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page49_illust006.png",
+        "alt": "Ilustración 6 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page49_illust007.png",
+        "alt": "Ilustración 7 del diálogo"
+      }
+    ]
   }
 }

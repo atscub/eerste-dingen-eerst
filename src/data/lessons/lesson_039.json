@@ -6,77 +6,77 @@
     "lines": [
       {
         "text": "Wat ga je doen met die vaas, Mary?",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "¿Qué vas a hacer con ese jarrón, Mary?"
       },
       {
         "text": "Ik ga hem op de radio zetten, John.",
-        "speaker": "Speaker 2",
+        "speaker": "Mary",
         "translation": "Voy a ponerlo sobre la radio, John."
       },
       {
         "text": "Doe dat niet. Geef hem aan mij.",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "No hagas eso. Dámelo a mí."
       },
       {
         "text": "Wat ga je ermee doen?",
-        "speaker": "Speaker 2",
+        "speaker": "Mary",
         "translation": "¿Qué vas a hacer con él?"
       },
       {
         "text": "Ik ga hem hier neerzetten, voor het raam.",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "Voy a ponerlo aquí, frente a la ventana."
       },
       {
         "text": "Wees voorzichtig! Laat hem niet vallen!",
-        "speaker": "Speaker 2",
+        "speaker": "Mary",
         "translation": "¡Ten cuidado! ¡No lo dejes caer!"
       },
       {
         "text": "Zet hem daar niet, John. Zet hem hier, op deze plank.",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "No lo pongas ahí, John. Ponlo aquí, sobre este estante."
       },
       {
         "text": "Daar gaat ie! Het is een prachtige vaas.",
-        "speaker": "Speaker 2",
+        "speaker": "Mary",
         "translation": "¡Ya está! Es un jarrón precioso."
       },
       {
         "text": "Die bloemen zijn ook prachtig.",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "Esas flores también son preciosas."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page39_illust001.png",
         "alt": "John preguntando a Mary sobre el jarrón con flores que ella sostiene"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page39_illust002.png",
         "alt": "Mary acercándose a la radio para poner el jarrón"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page39_illust003.png",
         "alt": "John interceptando, pidiendo el jarrón"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page39_illust004.png",
         "alt": "John llevando el jarrón hacia la ventana"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page39_illust005.png",
         "alt": "Mary advirtiendo con gesto de precaución"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page39_illust006.png",
         "alt": "Mary señalando el estante alternativo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page39_illust007.png",
         "alt": "John y Mary admirando el jarrón con flores en el estante"
       }
     ]

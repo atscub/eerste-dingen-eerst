@@ -6,106 +6,106 @@
     "lines": [
       {
         "text": "Zijn jullie Zweeds?",
-        "speaker": "Speaker 1",
+        "speaker": "Douanebeambte",
         "translation": "¿Son ustedes suecas?"
       },
       {
         "text": "Nee, dat zijn we niet. We zijn Deens.",
-        "speaker": "Speaker 2",
+        "speaker": "Meisjes",
         "translation": "No, no lo somos. Somos danesas."
       },
       {
         "text": "Zijn jullie vriendinnen ook Deens?",
-        "speaker": "Speaker 1",
+        "speaker": "Douanebeambte",
         "translation": "¿Son sus amigas danesas, también?"
       },
       {
         "text": "Nee, dat zijn ze niet. Zij zijn Noors.",
-        "speaker": "Speaker 2",
+        "speaker": "Meisjes",
         "translation": "No, no lo son. Ellas son noruegas."
       },
       {
         "text": "Jullie paspoorten, alstublieft.",
-        "speaker": "Speaker 1",
+        "speaker": "Douanebeambte",
         "translation": "Sus pasaportes, por favor."
       },
       {
         "text": "Alstublieft.",
-        "speaker": "Speaker 2",
+        "speaker": "Meisjes",
         "translation": "Aquí están."
       },
       {
         "text": "Zijn dit jullie koffers?",
-        "speaker": "Speaker 1",
+        "speaker": "Douanebeambte",
         "translation": "¿Son éstas sus maletas?"
       },
       {
         "text": "Nee, dat zijn ze niet.",
-        "speaker": "Speaker 2",
+        "speaker": "Meisjes",
         "translation": "No, no lo son."
       },
       {
         "text": "Onze koffers zijn bruin. Hier zijn ze.",
-        "speaker": "Speaker 1",
+        "speaker": "Meisjes",
         "translation": "Nuestras maletas son marrones. Aquí están."
       },
       {
         "text": "Zijn jullie toeristen?",
-        "speaker": "Speaker 2",
+        "speaker": "Douanebeambte",
         "translation": "¿Son ustedes turistas?"
       },
       {
         "text": "Ja, dat zijn we.",
-        "speaker": "Speaker 1",
+        "speaker": "Meisjes",
         "translation": "Sí, lo somos."
       },
       {
         "text": "Zijn jullie vriendinnen ook toeristen?",
-        "speaker": "Speaker 2",
+        "speaker": "Douanebeambte",
         "translation": "¿Son sus amigas turistas también?"
       },
       {
         "text": "Ja, dat zijn ze.",
-        "speaker": "Speaker 1",
+        "speaker": "Meisjes",
         "translation": "Sí, lo son."
       },
       {
         "text": "Dat is prima. Hartelijk dank.",
-        "speaker": "Speaker 2",
+        "speaker": "Douanebeambte",
         "translation": "Está bien. Muchas gracias."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
-        "alt": "Funcionario de aduanas hablando con un grupo de chicas con equipaje"
+        "src": "/illustrations-sorted/page15_illust001.png",
+        "alt": "Ilustración 1 del diálogo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page15_illust002.png",
         "alt": "Las chicas mostrando que no son suecas, señalando hacia Dinamarca"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page15_illust003.png",
         "alt": "Las chicas entregando sus pasaportes al funcionario"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page15_illust004.png",
         "alt": "Funcionario señalando unas maletas grises mientras las chicas niegan con la cabeza"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page15_illust005.png",
         "alt": "Las chicas señalando sus propias maletas marrones"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page15_illust006.png",
         "alt": "Funcionario preguntando si son turistas, las chicas asintiendo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page15_illust007.png",
         "alt": "Grupo completo de chicas con todo su equipaje"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+8",
+        "src": "/illustrations-sorted/page15_illust008.png",
         "alt": "Funcionario despidiendo al grupo, gesto de aprobación"
       }
     ]

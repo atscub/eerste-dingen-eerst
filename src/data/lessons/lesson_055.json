@@ -1,40 +1,102 @@
 {
   "id": 55,
   "title": "Les 55",
+  "subtitle": "De familie De Wit",
   "type": "dialogue",
   "dialogue": {
-    "lines": [],
+    "lines": [
+      {
+        "text": "De familie De Wit woont op Koningstraat 87.",
+        "translation": "La familia De Wit vive en la calle Koningstraat 87."
+      },
+      {
+        "text": "'s Ochtends gaat meneer De Wit naar zijn werk en de kinderen gaan naar school.",
+        "translation": "Por la mañana, el señor De Wit va a trabajar y los niños van a la escuela."
+      },
+      {
+        "text": "Hun vader brengt hen elke dag naar school.",
+        "translation": "Su padre los lleva a la escuela todos los días."
+      },
+      {
+        "text": "Mevrouw De Wit blijft elke dag thuis.",
+        "translation": "La señora De Wit se queda en casa todos los días."
+      },
+      {
+        "text": "Ze doet het huishouden.",
+        "translation": "Ella hace las tareas del hogar."
+      },
+      {
+        "text": "Ze eet altijd haar lunch om twaalf uur.",
+        "translation": "Siempre almuerza al mediodía."
+      },
+      {
+        "text": "'s Middags ziet ze meestal haar vriendinnen.",
+        "translation": "Por la tarde, generalmente ve a sus amigas."
+      },
+      {
+        "text": "Ze drinken vaak samen thee.",
+        "translation": "A menudo toman té juntas."
+      },
+      {
+        "text": "'s Avonds komen de kinderen thuis van school.",
+        "translation": "Por la noche, los niños vuelven a casa de la escuela."
+      },
+      {
+        "text": "Ze komen vroeg thuis.",
+        "translation": "Llegan a casa temprano."
+      },
+      {
+        "text": "Meneer De Wit komt thuis van zijn werk.",
+        "translation": "El señor De Wit vuelve a casa del trabajo."
+      },
+      {
+        "text": "Hij komt laat thuis.",
+        "translation": "Llega a casa tarde."
+      },
+      {
+        "text": "'s Nachts maken de kinderen altijd hun huiswerk.",
+        "translation": "Por la noche, los niños siempre hacen su tarea."
+      },
+      {
+        "text": "Dan gaan ze naar bed.",
+        "translation": "Luego se van a la cama."
+      },
+      {
+        "text": "Meneer De Wit leest meestal zijn krant, maar soms kijken hij en zijn vrouw televisie.",
+        "translation": "El señor De Wit generalmente lee su periódico, pero a veces él y su esposa ven televisión."
+      }
+    ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
-        "alt": "La casa de los Sawyer en King Street 87"
+        "src": "/illustrations-sorted/page55_illust001.png",
+        "alt": "La casa de la familia De Wit en Koningstraat 87"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
-        "alt": "Sr. Sawyer llevando a los niños a la escuela en coche por la mañana"
+        "src": "/illustrations-sorted/page55_illust002.png",
+        "alt": "Sr. De Wit llevando a los niños a la escuela en coche por la mañana"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
-        "alt": "Sra. Sawyer haciendo tareas del hogar"
+        "src": "/illustrations-sorted/page55_illust003.png",
+        "alt": "Sra. De Wit haciendo tareas del hogar"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
-        "alt": "Sra. Sawyer almorzando al mediodía (reloj mostrando las 12)"
+        "src": "/illustrations-sorted/page55_illust004.png",
+        "alt": "Sra. De Wit almorzando al mediodía"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
-        "alt": "Sra. Sawyer tomando té con amigas por la tarde"
+        "src": "/illustrations-sorted/page55_illust005.png",
+        "alt": "Sra. De Wit tomando té con amigas por la tarde"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page55_illust006.png",
         "alt": "Niños llegando a casa de la escuela temprano"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
-        "alt": "Sr. Sawyer llegando a casa tarde del trabajo"
+        "src": "/illustrations-sorted/page55_illust007.png",
+        "alt": "Sr. De Wit llegando a casa tarde del trabajo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+8",
+        "src": "/illustrations-sorted/page55_illust008.png",
         "alt": "Familia en casa por la noche: niños haciendo tarea, padres con periódico y TV"
       }
     ]

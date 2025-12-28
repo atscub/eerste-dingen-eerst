@@ -6,77 +6,77 @@
     "lines": [
       {
         "text": "Au!",
-        "speaker": "Speaker 1",
+        "speaker": "Ted",
         "translation": "¡Ay!"
       },
       {
         "text": "Wat is er, Ted?",
-        "speaker": "Speaker 2",
+        "speaker": "Pat",
         "translation": "¿Qué pasa, Ted?"
       },
       {
         "text": "Ik gleed uit en viel van de trap.",
-        "speaker": "Speaker 1",
+        "speaker": "Ted",
         "translation": "Me resbalé y me caí por las escaleras."
       },
       {
         "text": "Heb je jezelf pijn gedaan?",
-        "speaker": "Speaker 2",
+        "speaker": "Pat",
         "translation": "¿Te lastimaste?"
       },
       {
         "text": "Ja, dat heb ik. Ik denk dat ik mijn rug heb bezeerd.",
-        "speaker": "Speaker 1",
+        "speaker": "Ted",
         "translation": "Sí, lo hice. Creo que me lastimé la espalda."
       },
       {
         "text": "Probeer op te staan. Kun je opstaan? Hier. Laat me je helpen.",
-        "speaker": "Speaker 2",
+        "speaker": "Pat",
         "translation": "Intenta levantarte. ¿Puedes levantarte? Aquí. Déjame ayudarte."
       },
       {
         "text": "Het spijt me, Pat. Ik ben bang dat ik niet kan opstaan.",
-        "speaker": "Speaker 1",
+        "speaker": "Ted",
         "translation": "Lo siento, Pat. Me temo que no puedo levantarme."
       },
       {
         "text": "Ik denk dat de dokter je beter kan zien. Ik zal dokter Carter bellen.",
-        "speaker": "Speaker 2",
+        "speaker": "Pat",
         "translation": "Creo que será mejor que te vea el doctor. Llamaré al Dr. Carter."
       },
       {
         "text": "De dokter zegt dat hij meteen komt. Ik weet zeker dat je een röntgenfoto nodig hebt, Ted.",
-        "speaker": "Speaker 1",
+        "speaker": "Pat",
         "translation": "El doctor dice que vendrá de inmediato. Estoy seguro de que necesitas una radiografía, Ted."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page99_illust001.png",
         "alt": "Ted cayendo por las escaleras"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page99_illust002.png",
         "alt": "Pat y Ted en el suelo, Pat preocupada"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page99_illust003.png",
         "alt": "Ted sentado en el suelo, luciendo adolorido"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page99_illust004.png",
         "alt": "Pat intentando ayudar a Ted a levantarse"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page99_illust005.png",
         "alt": "Ted incapaz de levantarse"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page99_illust006.png",
         "alt": "Pat al teléfono llamando al doctor"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page99_illust007.png",
         "alt": "Pat hablando con el doctor por teléfono"
       }
     ]

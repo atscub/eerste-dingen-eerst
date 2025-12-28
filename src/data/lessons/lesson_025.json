@@ -1,9 +1,63 @@
 {
   "id": 25,
   "title": "Les 25",
+  "subtitle": "De keuken van mevrouw De Vries",
   "type": "dialogue",
   "dialogue": {
-    "lines": [],
+    "lines": [
+      {
+        "text": "De keuken van mevrouw De Vries is klein.",
+        "translation": "La cocina de la señora De Vries es pequeña."
+      },
+      {
+        "text": "Er staat een koelkast in de keuken.",
+        "translation": "Hay un refrigerador en la cocina."
+      },
+      {
+        "text": "De koelkast is wit.",
+        "translation": "El refrigerador es blanco."
+      },
+      {
+        "text": "Hij staat rechts.",
+        "translation": "Está a la derecha."
+      },
+      {
+        "text": "Er staat een elektrisch fornuis in de keuken.",
+        "translation": "Hay una cocina eléctrica en la cocina."
+      },
+      {
+        "text": "Het fornuis is blauw.",
+        "translation": "La cocina es azul."
+      },
+      {
+        "text": "Het staat links.",
+        "translation": "Está a la izquierda."
+      },
+      {
+        "text": "Er staat een tafel in het midden van de kamer.",
+        "translation": "Hay una mesa en el medio de la habitación."
+      },
+      {
+        "text": "Er staat een fles op de tafel.",
+        "translation": "Hay una botella sobre la mesa."
+      },
+      {
+        "text": "De fles is leeg.",
+        "translation": "La botella está vacía."
+      },
+      {
+        "text": "Er staat ook een kopje op de tafel.",
+        "translation": "También hay una taza sobre la mesa."
+      },
+      {
+        "text": "Het kopje is schoon.",
+        "translation": "La taza está limpia."
+      }
+    ],
+    "headerImage": {
+      "src": "/illustrations-sorted/page25_illust001.png",
+      "alt": "De keuken van mevrouw De Vries met een koelkast, fornuis, tafel, fles en kopje"
+    },
     "images": []
   }
 }

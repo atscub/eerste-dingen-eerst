@@ -6,113 +6,118 @@
     "lines": [
       {
         "text": "Hallo, Peggy. Waar is Tom?",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "Hola, Peggy. ¿Dónde está Tom?"
       },
       {
         "text": "Hij is boven. Hij neemt een bad.",
-        "speaker": "Speaker 2",
+        "speaker": "Peggy",
         "translation": "Está arriba. Se está bañando."
       },
       {
         "text": "Tom!",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "¡Tom!"
       },
       {
         "text": "Ja?",
-        "speaker": "Speaker 2",
+        "speaker": "Tom",
         "translation": "¿Sí?"
       },
       {
         "text": "John is hier.",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "John está aquí."
       },
       {
         "text": "Ik ben bijna klaar.",
-        "speaker": "Speaker 2",
+        "speaker": "Tom",
         "translation": "Ya casi estoy listo."
       },
       {
         "text": "Hallo, John. Neem een sigaret.",
-        "speaker": "Speaker 1",
+        "speaker": "Tom",
         "translation": "Hola, John. Ten un cigarrillo."
       },
       {
-        "text": "Nee dank je, Tom. Neem dan een glas whisky.",
-        "speaker": "Speaker 2",
-        "translation": "No gracias, Tom. Ten un vaso de whisky entonces."
+        "text": "Nee dank je, Tom.",
+        "speaker": "John",
+        "translation": "No gracias, Tom."
+      },
+      {
+        "text": "Neem dan een glas whisky.",
+        "speaker": "Tom",
+        "translation": "Ten un vaso de whisky entonces."
       },
       {
         "text": "Oké. Dank je.",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "Está bien. Gracias."
       },
       {
         "text": "Is het eten klaar, Peggy?",
-        "speaker": "Speaker 2",
+        "speaker": "Tom",
         "translation": "¿Está lista la cena, Peggy?"
       },
       {
         "text": "Het is bijna klaar. We kunnen om zeven uur eten.",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "Ya casi está. Podemos cenar a las siete en punto."
       },
       {
         "text": "John en ik hebben vandaag samen geluncht. We gingen naar een restaurant.",
-        "speaker": "Speaker 2",
+        "speaker": "Tom",
         "translation": "John y yo almorzamos juntos hoy. Fuimos a un restaurante."
       },
       {
         "text": "Wat aten jullie?",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "¿Qué comieron?"
       },
       {
         "text": "We aten gebraden rundvlees en aardappelen.",
-        "speaker": "Speaker 2",
+        "speaker": "Tom",
         "translation": "Comimos carne asada de res y papas."
       },
       {
         "text": "Oh!",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "¡Oh!"
       },
       {
         "text": "Wat is er, Peggy?",
-        "speaker": "Speaker 2",
+        "speaker": "Tom",
         "translation": "¿Qué pasa, Peggy?"
       },
       {
         "text": "Nou, jullie gaan vanavond weer gebraden rundvlees en aardappelen eten!",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "Bueno, ¡van a comer carne asada de res y papas de nuevo esta noche!"
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page81_illust001.png",
         "alt": "John llegando, Peggy en la puerta"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page81_illust002.png",
         "alt": "Tom en la bañera arriba"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page81_illust003.png",
         "alt": "Tom y John en la sala, Tom ofreciendo cigarrillo y whisky"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page81_illust004.png",
         "alt": "Peggy en la cocina preparando la cena, reloj mostrando casi las 7"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page81_illust005.png",
         "alt": "Tom y Peggy hablando sobre el almuerzo con John"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page81_illust006.png",
         "alt": "Peggy revelando que la cena es lo mismo que el almuerzo"
       }
     ]

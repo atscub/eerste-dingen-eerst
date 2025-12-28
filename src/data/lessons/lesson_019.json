@@ -6,102 +6,102 @@
     "lines": [
       {
         "text": "Wat is er aan de hand, kinderen?",
-        "speaker": "Speaker 1",
+        "speaker": "Moeder",
         "translation": "¿Qué pasa, niños?"
       },
       {
         "text": "We zijn moe...",
-        "speaker": "Speaker 2",
+        "speaker": "Meisje",
         "translation": "Estamos cansados..."
       },
       {
         "text": "...en we hebben dorst, mama.",
-        "speaker": "Speaker 1",
+        "speaker": "Jongen",
         "translation": "...y tenemos sed, mamá."
       },
       {
         "text": "Ga hier zitten.",
-        "speaker": "Speaker 2",
+        "speaker": "Moeder",
         "translation": "Siéntense aquí."
       },
       {
         "text": "Gaat het nu goed?",
-        "speaker": "Speaker 1",
+        "speaker": "Moeder",
         "translation": "¿Están bien ahora?"
       },
       {
         "text": "Nee, niet echt.",
-        "speaker": "Speaker 2",
+        "speaker": "Jongen",
         "translation": "No, no lo estamos."
       },
       {
         "text": "Kijk! Daar is een ijscoman.",
-        "speaker": "Speaker 1",
+        "speaker": "Moeder",
         "translation": "¡Miren! Hay un heladero."
       },
       {
         "text": "Twee ijsjes, alstublieft.",
-        "speaker": "Speaker 2",
+        "speaker": "Moeder",
         "translation": "Dos helados, por favor."
       },
       {
         "text": "Alsjeblieft, kinderen.",
-        "speaker": "Speaker 1",
+        "speaker": "Moeder",
         "translation": "Aquí tienen, niños."
       },
       {
         "text": "Dank je, mama.",
-        "speaker": "Speaker 2",
+        "speaker": "Kinderen",
         "translation": "Gracias, mamá."
       },
       {
         "text": "Deze ijsjes zijn lekker.",
-        "speaker": "Speaker 1",
+        "speaker": "Meisje",
         "translation": "Estos helados son agradables."
       },
       {
         "text": "Gaat het nu goed?",
-        "speaker": "Speaker 2",
+        "speaker": "Moeder",
         "translation": "¿Están bien ahora?"
       },
       {
         "text": "Ja, het gaat goed, dank je!",
-        "speaker": "Speaker 1",
+        "speaker": "Kinderen",
         "translation": "Sí, lo estamos, ¡gracias!"
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page19_illust001.png",
         "alt": "Madre con dos niños cansados sentados en un banco del parque"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page19_illust002.png",
         "alt": "Los niños sentándose en el banco, luciendo agotados"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page19_illust003.png",
         "alt": "Niños todavía con expresión de incomodidad"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page19_illust004.png",
         "alt": "Madre señalando al heladero a lo lejos"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page19_illust005.png",
         "alt": "Madre comprando helados del carrito de helados"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page19_illust006.png",
         "alt": "Madre entregando los helados a los niños sonrientes"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page19_illust007.png",
         "alt": "Niños disfrutando sus helados, expresiones felices"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+8",
-        "alt": "Familia completa contenta en el banco, niños comiendo helado"
+        "src": "/illustrations-sorted/page19_illust008.png",
+        "alt": "Ilustración 8 del diálogo"
       }
     ]
   }

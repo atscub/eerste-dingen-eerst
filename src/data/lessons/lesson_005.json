@@ -6,97 +6,97 @@
     "lines": [
       {
         "text": "Goedemorgen.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Blake",
         "translation": "Buenos días."
       },
       {
         "text": "Goedemorgen, meneer Blake.",
-        "speaker": "Speaker 2",
+        "speaker": "Studenten",
         "translation": "Buenos días, Sr. Blake."
       },
       {
         "text": "Dit is juffrouw Alice Dupont. Alice is een nieuwe studente. Zij is Frans.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Blake",
         "translation": "Ésta es la Srta. Alice Dupont. Alice es una estudiante nueva. Ella es francesa."
       },
       {
         "text": "Alice, dit is Hans. Hij is Duits.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Blake",
         "translation": "Alice, éste es Hans. Él es alemán."
       },
       {
         "text": "Hoe maakt u het?",
-        "speaker": "Speaker 1",
+        "speaker": "Hans",
         "translation": "¿Cómo está usted?"
       },
       {
         "text": "En dit is Britt. Zij is Zweeds.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Blake",
         "translation": "Y ésta es Britt. Ella es sueca."
       },
       {
         "text": "Hoe maakt u het?",
-        "speaker": "Speaker 1",
+        "speaker": "Britt",
         "translation": "¿Cómo está usted?"
       },
       {
         "text": "En dit is Dimitri. Hij is Grieks.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Blake",
         "translation": "Y éste es Dimitri. Él es griego."
       },
       {
         "text": "Hoe maakt u het?",
-        "speaker": "Speaker 1",
+        "speaker": "Dimitri",
         "translation": "¿Cómo está usted?"
       },
       {
         "text": "En dit is Paul. Hij is Braziliaans.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Blake",
         "translation": "Y éste es Paul. Él es brasileño."
       },
       {
         "text": "Hoe maakt u het?",
-        "speaker": "Speaker 1",
+        "speaker": "Paul",
         "translation": "¿Cómo está usted?"
       },
       {
         "text": "En dit is Stella. Zij is Spaans.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Blake",
         "translation": "Y ésta es Stella. Ella es española."
       },
       {
         "text": "Hoe maakt u het?",
-        "speaker": "Speaker 1",
+        "speaker": "Stella",
         "translation": "¿Cómo está usted?"
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page5_illust001.png",
         "alt": "Un aula con el profesor Blake saludando a los estudiantes sentados"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
-        "alt": "El profesor presentando a Alice, una estudiante nueva, con un mapa de Francia visible"
+        "src": "/illustrations-sorted/page5_illust002.png",
+        "alt": "Ilustración 2 del diálogo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page5_illust003.png",
         "alt": "Hans, un estudiante con aspecto alemán, saludando con la mano"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page5_illust004.png",
         "alt": "Britt, una estudiante rubia, representando Suecia"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page5_illust005.png",
         "alt": "Dimitri con rizos oscuros, con mapa de Grecia al fondo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page5_illust006.png",
         "alt": "Paul, de apariencia brasileña, saludando amistosamente"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page5_illust007.png",
         "alt": "Stella con cabello oscuro, con referencia a España en el fondo"
       }
     ]

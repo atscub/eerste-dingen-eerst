@@ -70,6 +70,10 @@
         "translation": "No, no lo hago. Soy John Smith el ingeniero telefónico y estoy reparando tu línea telefónica."
       }
     ],
+    "headerImage": {
+      "src": "/illustrations-sorted/page139_illust001.png",
+      "alt": "Ilustración 1 del diálogo"
+    },
     "images": []
   }
 }

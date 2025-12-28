@@ -6,92 +6,92 @@
     "lines": [
       {
         "text": "Goedemiddag. Ik geloof dat dit huis te koop is.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "Buenas tardes. Creo que esta casa está en venta."
       },
       {
         "text": "Dat klopt.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "Así es."
       },
       {
         "text": "Mag ik het bekijken, alstublieft?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "¿Puedo echarle un vistazo, por favor?"
       },
       {
         "text": "Ja, natuurlijk. Komt u binnen.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "Sí, por supuesto. Entre."
       },
       {
         "text": "Hoe lang heeft u hier gewoond?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "¿Cuánto tiempo ha vivido aquí?"
       },
       {
         "text": "Ik heb hier twintig jaar gewoond.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "He vivido aquí durante veinte años."
       },
       {
         "text": "Twintig jaar! Dat is lang.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "¡Veinte años! Es mucho tiempo."
       },
       {
         "text": "Ja, ik ben hier sinds 1947.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "Sí, he estado aquí desde 1947."
       },
       {
         "text": "Waarom wilt u het dan verkopen?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "Entonces, ¿por qué quiere venderla?"
       },
       {
         "text": "Omdat ik net met pensioen ben gegaan. Ik wil een klein huis op het platteland kopen.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "Porque acabo de jubilarme. Quiero comprar una casa pequeña en el campo."
       },
       {
         "text": "Hoeveel kost dit huis?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "¿Cuánto cuesta esta casa?"
       },
       {
         "text": "£6850.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "£6850."
       },
       {
         "text": "Dat is veel geld!",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "¡Eso es mucho dinero!"
       },
       {
         "text": "Het is elke cent waard.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "Vale cada centavo."
       },
       {
         "text": "Nou, ik vind het huis mooi, maar ik kan nog niet beslissen. Mijn vrouw moet het eerst zien.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Hill",
         "translation": "Bueno, me gusta la casa, pero no puedo decidir todavía. Mi esposa debe verla primero."
       },
       {
         "text": "Vrouwen hebben altijd het laatste woord.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer West",
         "translation": "Las mujeres siempre tienen la última palabra."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page89_illust001.png",
         "alt": "Sr. Hill frente a casa con letrero \"FOR SALE\""
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page89_illust002.png",
         "alt": "Sr. Hill y Sr. West en el interior de la casa conversando"
       }
     ]

@@ -18,6 +18,7 @@ const dialogueLessonSchema = z.object({
   type: z.literal('dialogue'),
   dialogue: z.object({
     lines: z.array(dialogueLineSchema),
+    headerImage: dialogueImageSchema.optional(),
     images: z.array(dialogueImageSchema),
   }),
 });

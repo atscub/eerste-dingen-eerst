@@ -6,93 +6,93 @@
     "lines": [
       {
         "text": "Je werkt hard, George. Wat ben je aan het doen?",
-        "speaker": "Speaker 1",
+        "speaker": "George",
         "translation": "Estás trabajando duro, George. ¿Qué estás haciendo?"
       },
       {
         "text": "Ik maak een boekenplank.",
-        "speaker": "Speaker 2",
+        "speaker": "Fred",
         "translation": "Estoy haciendo un estante para libros."
       },
       {
         "text": "Geef me die hamer, alsjeblieft, Fred.",
-        "speaker": "Speaker 1",
+        "speaker": "George",
         "translation": "Dame ese martillo, por favor, Fred."
       },
       {
         "text": "Welke hamer? Deze?",
-        "speaker": "Speaker 2",
+        "speaker": "Fred",
         "translation": "¿Qué martillo? ¿Éste?"
       },
       {
         "text": "Nee, niet die. De grote.",
-        "speaker": "Speaker 1",
+        "speaker": "George",
         "translation": "No, no ése. El grande."
       },
       {
         "text": "Alsjeblieft.",
-        "speaker": "Speaker 2",
+        "speaker": "Fred",
         "translation": "Aquí tienes."
       },
       {
         "text": "Dank je, Fred.",
-        "speaker": "Speaker 1",
+        "speaker": "George",
         "translation": "Gracias, Fred."
       },
       {
         "text": "Wat ga je nu doen, George?",
-        "speaker": "Speaker 2",
+        "speaker": "Fred",
         "translation": "¿Qué vas a hacer ahora, George?"
       },
       {
         "text": "Ik ga het schilderen.",
-        "speaker": "Speaker 1",
+        "speaker": "George",
         "translation": "Voy a pintarlo."
       },
       {
         "text": "Welke kleur ga je het schilderen?",
-        "speaker": "Speaker 2",
+        "speaker": "Fred",
         "translation": "¿De qué color vas a pintarlo?"
       },
       {
         "text": "Ik ga het roze schilderen.",
-        "speaker": "Speaker 1",
+        "speaker": "George",
         "translation": "Voy a pintarlo de rosa."
       },
       {
         "text": "Roze!",
-        "speaker": "Speaker 2",
+        "speaker": "Fred",
         "translation": "¡Rosa!"
       },
       {
         "text": "Deze boekenplank is niet voor mij. Het is voor mijn dochter, Susan. Roze is haar favoriete kleur.",
-        "speaker": "Speaker 1",
+        "speaker": "George",
         "translation": "Este estante no es para mí. Es para mi hija, Susan. El rosa es su color favorito."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page37_illust001.png",
         "alt": "George trabajando en un estante de libros en su taller, Fred observando"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page37_illust002.png",
         "alt": "Fred alcanzando herramientas de la pared del taller"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page37_illust003.png",
         "alt": "Fred mostrando un martillo pequeño"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page37_illust004.png",
         "alt": "George señalando el martillo grande correcto"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page37_illust005.png",
         "alt": "George preparándose para pintar el estante"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page37_illust006.png",
         "alt": "George con pintura rosa, Fred sorprendido"
       }
     ]

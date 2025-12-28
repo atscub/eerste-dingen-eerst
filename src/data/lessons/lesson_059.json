@@ -6,112 +6,112 @@
     "lines": [
       {
         "text": "Ik wil wat enveloppen, alstublieft.",
-        "speaker": "Speaker 1",
+        "speaker": "Klant",
         "translation": "Quiero unos sobres, por favor."
       },
       {
         "text": "Wilt u de grote maat, of de kleine maat?",
-        "speaker": "Speaker 2",
+        "speaker": "Winkelier",
         "translation": "¿Quiere el tamaño grande, o el tamaño pequeño?"
       },
       {
         "text": "De grote maat, alstublieft.",
-        "speaker": "Speaker 1",
+        "speaker": "Klant",
         "translation": "El tamaño grande, por favor."
       },
       {
         "text": "Heeft u schrijfpapier?",
-        "speaker": "Speaker 2",
+        "speaker": "Klant",
         "translation": "¿Tiene papel de escribir?"
       },
       {
         "text": "Ja, dat hebben we.",
-        "speaker": "Speaker 1",
+        "speaker": "Winkelier",
         "translation": "Sí, tenemos."
       },
       {
         "text": "Ik heb geen kleine blokken. Ik heb alleen grote. Wilt u een blok?",
-        "speaker": "Speaker 2",
+        "speaker": "Winkelier",
         "translation": "No tengo almohadillas pequeñas. Solo tengo grandes. ¿Quiere una almohadilla?"
       },
       {
         "text": "Ja, alstublieft.",
-        "speaker": "Speaker 1",
+        "speaker": "Klant",
         "translation": "Sí, por favor."
       },
       {
         "text": "En ik wil wat zwarte inkt en wat lijm.",
-        "speaker": "Speaker 2",
+        "speaker": "Klant",
         "translation": "Y quiero algo de tinta negra y algo de pegamento."
       },
       {
         "text": "Een fles inkt en een fles lijm.",
-        "speaker": "Speaker 1",
+        "speaker": "Winkelier",
         "translation": "Una botella de tinta y una botella de pegamento."
       },
       {
         "text": "En ik wil ook een grote doos krijt.",
-        "speaker": "Speaker 2",
+        "speaker": "Klant",
         "translation": "Y quiero una caja grande de tiza, también."
       },
       {
         "text": "Ik heb alleen kleine dozen. Wilt u er een?",
-        "speaker": "Speaker 1",
+        "speaker": "Winkelier",
         "translation": "Solo tengo cajas pequeñas. ¿Quiere una?"
       },
       {
         "text": "Nee, dank u.",
-        "speaker": "Speaker 2",
+        "speaker": "Klant",
         "translation": "No, gracias."
       },
       {
         "text": "Is dat alles?",
-        "speaker": "Speaker 1",
+        "speaker": "Winkelier",
         "translation": "¿Es eso todo?"
       },
       {
         "text": "Dat is alles, dank u.",
-        "speaker": "Speaker 2",
+        "speaker": "Klant",
         "translation": "Eso es todo, gracias."
       },
       {
         "text": "Wat wilt u nog meer?",
-        "speaker": "Speaker 1",
+        "speaker": "Winkelier",
         "translation": "¿Qué más quiere?"
       },
       {
         "text": "Ik wil mijn wisselgeld.",
-        "speaker": "Speaker 2",
+        "speaker": "Klant",
         "translation": "Quiero mi cambio."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page59_illust001.png",
         "alt": "Dama en el mostrador de la papelería hablando con el empleado"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page59_illust002.png",
         "alt": "Empleado mostrando papel de escribir"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page59_illust003.png",
         "alt": "Empleado mostrando almohadillas grandes"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page59_illust004.png",
         "alt": "Botellas de tinta y pegamento en el mostrador"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page59_illust005.png",
         "alt": "Empleado mostrando cajas de tiza"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page59_illust006.png",
         "alt": "Dama esperando su cambio"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page59_illust007.png",
         "alt": "Dama recibiendo su cambio del empleado"
       }
     ]

@@ -8,6 +8,7 @@ type DialogueLessonProps = {
 
 const DialogueLesson = ({ lesson }: DialogueLessonProps) => {
   const dialogue = lesson.dialogue;
+  const headerImage = dialogue.headerImage;
 
   if (!dialogue) return null;
 
@@ -39,6 +40,16 @@ const DialogueLesson = ({ lesson }: DialogueLessonProps) => {
 
       <div className="card bg-base-100 shadow-md border border-base-300">
         <div className="card-body gap-6 lg:p-12">
+          {headerImage && (
+            <div className="w-full">
+              <img
+                src={headerImage.src}
+                alt={headerImage.alt}
+                loading="lazy"
+                className="w-full max-h-[360px] object-cover rounded-lg border border-base-300"
+              />
+            </div>
+          )}
           <div className="flex flex-col gap-12 lg:flex-row lg:justify-between">
             <div className="space-y-6 flex-1">
               <h2 className="text-2xl font-semibold mb-8">Dialogues</h2>
@@ -54,22 +65,24 @@ const DialogueLesson = ({ lesson }: DialogueLessonProps) => {
                 );
               })}
             </div>
-            <div className="space-y-3">
-              <div className="text-xs uppercase tracking-wide text-base-content/60">
-                Ilustraciones
+            {dialogue.images.length > 0 && (
+              <div className="space-y-3">
+                <div className="text-xs uppercase tracking-wide text-base-content/60">
+                  Ilustraciones
+                </div>
+                <div className="grid grid-cols-2 gap-2 divide-x divide-y divide-base-content/30 w-fit bg-base-100">
+                  {dialogue.images.map((image, idx) => (
+                    <img
+                      key={idx}
+                      src={image.src}
+                      alt={image.alt}
+                      loading="lazy"
+                      className="object-contain w-60"
+                    />
+                  ))}
+                </div>
               </div>
-              <div className="grid grid-cols-2 gap-0 border border-base-content/30 divide-x divide-y divide-base-content/30 w-fit bg-base-100">
-                {dialogue.images.map((image, idx) => (
-                  <img
-                    key={idx}
-                    src={image.src}
-                    alt={image.alt}
-                    loading="lazy"
-                    className="w-[240px] h-[240px] object-cover"
-                  />
-                ))}
-              </div>
-            </div>
+            )}
           </div>
         </div>
       </div>

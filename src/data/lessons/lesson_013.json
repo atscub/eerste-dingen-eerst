@@ -6,78 +6,78 @@
     "lines": [
       {
         "text": "Welke kleur heeft je nieuwe jurk?",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "¿De qué color es tu vestido nuevo?"
       },
       {
         "text": "Hij is groen.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw White",
         "translation": "Es verde."
       },
       {
         "text": "Kom naar boven en kijk hem.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "Sube las escaleras y míralo."
       },
       {
         "text": "Dank je.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw White",
         "translation": "Gracias."
       },
       {
         "text": "Kijk! Hier is hij!",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "¡Mira! ¡Aquí está!"
       },
       {
         "text": "Dat is een mooie jurk. Hij is erg slim.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw White",
         "translation": "Ese es un vestido bonito. Es muy elegante."
       },
       {
         "text": "Mijn hoed is ook nieuw.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "Mi sombrero también es nuevo."
       },
       {
         "text": "Welke kleur is hij?",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw White",
         "translation": "¿De qué color es?"
       },
       {
         "text": "Het is dezelfde kleur. Hij is ook groen.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "Es del mismo color. También es verde."
       },
       {
         "text": "Dat is een prachtige hoed!",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw White",
         "translation": "¡Ese es un sombrero precioso!"
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page13_illust001.png",
         "alt": "Dos mujeres conversando en la sala, una preguntando sobre el vestido"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page13_illust002.png",
         "alt": "Mevrouw White invitando a subir las escaleras"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
-        "alt": "Ambas mujeres arriba, mirando el vestido verde colgado"
+        "src": "/illustrations-sorted/page13_illust003.png",
+        "alt": "Ilustración 3 del diálogo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page13_illust004.png",
         "alt": "Primer plano del vestido verde en el armario"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page13_illust005.png",
         "alt": "Mevrouw White mostrando su sombrero verde nuevo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page13_illust006.png",
         "alt": "Ambas mujeres admirando el conjunto de vestido y sombrero verde"
       }
     ]

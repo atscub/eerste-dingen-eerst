@@ -6,81 +6,81 @@
     "lines": [
       {
         "text": "Kom binnen, Bessie.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Jones",
         "translation": "Entra, Bessie."
       },
       {
         "text": "Doe de deur dicht, alsjeblieft.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Jones",
         "translation": "Cierra la puerta, por favor."
       },
       {
         "text": "Deze slaapkamer is erg rommelig.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Jones",
         "translation": "Este dormitorio está muy desordenado."
       },
       {
         "text": "Wat moet ik doen, mevrouw Jones?",
-        "speaker": "Speaker 2",
+        "speaker": "Bessie",
         "translation": "¿Qué debo hacer, Sra. Jones?"
       },
       {
-        "text": "Open het raam en luchten de kamer.",
-        "speaker": "Speaker 1",
+        "text": "Open het raam en lucht de kamer.",
+        "speaker": "Mevrouw Jones",
         "translation": "Abre la ventana y ventila la habitación."
       },
       {
         "text": "Leg dan deze kleren in de kast.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Jones",
         "translation": "Luego pon esta ropa en el armario."
       },
       {
         "text": "Maak dan het bed op.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Jones",
         "translation": "Luego haz la cama."
       },
       {
         "text": "Stof de kaptafel af.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Jones",
         "translation": "Limpia el polvo de la cómoda."
       },
       {
         "text": "Veeg dan de vloer.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Jones",
         "translation": "Luego barre el piso."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page29_illust001.png",
         "alt": "Mevrouw Jones en la puerta de un dormitorio desordenado, invitando a entrar a Bessie"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page29_illust002.png",
         "alt": "Bessie cerrando la puerta del dormitorio"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page29_illust003.png",
         "alt": "Vista del dormitorio desordenado con ropa, cama deshecha, polvo visible"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page29_illust004.png",
         "alt": "Bessie abriendo la ventana para ventilar"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page29_illust005.png",
         "alt": "Bessie guardando ropa en el armario"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page29_illust006.png",
         "alt": "Bessie haciendo/arreglando la cama"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page29_illust007.png",
         "alt": "Bessie quitando el polvo de la cómoda con un trapo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+8",
+        "src": "/illustrations-sorted/page29_illust008.png",
         "alt": "Bessie barriendo el piso con una escoba"
       }
     ]

@@ -6,103 +6,103 @@
     "lines": [
       {
         "text": "Waar is Jimmy?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "¿Dónde está Jimmy?"
       },
       {
         "text": "Hij ligt in bed.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Williams",
         "translation": "Está en cama."
       },
       {
         "text": "Wat is er met hem aan de hand?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "¿Qué le pasa?"
       },
       {
         "text": "Hij voelt zich ziek.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Williams",
         "translation": "Se siente mal."
       },
       {
         "text": "Hij ziet er ziek uit.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "Se ve mal."
       },
       {
         "text": "We moeten de dokter bellen.",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Williams",
         "translation": "Debemos llamar al doctor."
       },
       {
         "text": "Ja, dat moeten we.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "Sí, debemos."
       },
       {
         "text": "Kun je het telefoonnummer van de dokter onthouden?",
-        "speaker": "Speaker 2",
+        "speaker": "Mevrouw Williams",
         "translation": "¿Puedes recordar el número de teléfono del doctor?"
       },
       {
         "text": "Ja. Het is 09754.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "Sí. Es 09754."
       },
       {
         "text": "Open je mond, Jimmy. Laat me je tong zien. Zeg \"Ah\".",
-        "speaker": "Speaker 2",
+        "speaker": "Dokter",
         "translation": "Abre tu boca, Jimmy. Muéstrame tu lengua. Di, \"Ah\"."
       },
       {
         "text": "Wat is er met hem aan de hand, dokter?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "¿Qué le pasa, doctor?"
       },
       {
         "text": "Hij heeft een zware verkoudheid, meneer Williams, dus hij moet een week in bed blijven.",
-        "speaker": "Speaker 2",
+        "speaker": "Dokter",
         "translation": "Tiene un resfriado fuerte, Sr. Williams, así que debe quedarse en cama durante una semana."
       },
       {
         "text": "Dat is goed nieuws voor Jimmy.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "Esas son buenas noticias para Jimmy."
       },
       {
         "text": "Goed nieuws? Waarom?",
-        "speaker": "Speaker 2",
+        "speaker": "Dokter",
         "translation": "¿Buenas noticias? ¿Por qué?"
       },
       {
         "text": "Omdat hij niet van school houdt!",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Williams",
         "translation": "¡Porque no le gusta la escuela!"
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page61_illust001.png",
         "alt": "Sr. y Sra. Williams hablando, teléfono en la mesa"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page61_illust002.png",
         "alt": "Padres mirando a Jimmy en cama, preocupados"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page61_illust003.png",
         "alt": "Sra. Williams marcando el teléfono"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page61_illust004.png",
         "alt": "Doctor examinando la garganta de Jimmy en cama"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page61_illust005.png",
         "alt": "Doctor hablando con Sr. Williams sobre Jimmy"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page61_illust006.png",
         "alt": "Sr. y Sra. Williams con Jimmy en cama, Jimmy sonriendo"
       }
     ]

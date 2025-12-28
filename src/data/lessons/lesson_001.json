@@ -6,67 +6,67 @@
     "lines": [
       {
         "text": "Pardon!",
-        "speaker": "Speaker 1",
+        "speaker": "Anna",
         "translation": "¡Perdón!"
       },
       {
         "text": "Ja?",
-        "speaker": "Speaker 2",
+        "speaker": "Maria",
         "translation": "¿Sí?"
       },
       {
         "text": "Is dit uw tas?",
-        "speaker": "Speaker 1",
+        "speaker": "Anna",
         "translation": "¿Es éste su bolso?"
       },
       {
         "text": "Pardon?",
-        "speaker": "Speaker 2",
+        "speaker": "Maria",
         "translation": "¿Perdón?"
       },
       {
         "text": "Is dit uw tas?",
-        "speaker": "Speaker 1",
+        "speaker": "Anna",
         "translation": "¿Es éste su bolso?"
       },
       {
         "text": "Ja, dat klopt.",
-        "speaker": "Speaker 2",
+        "speaker": "Maria",
         "translation": "Sí, lo es."
       },
       {
         "text": "Hartelijk dank.",
-        "speaker": "Speaker 1",
+        "speaker": "Anna",
         "translation": "Muchas gracias."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page1_illust001.png",
         "alt": "Una mujer caminando por un pasillo de tren, mirando hacia atrás a otra persona"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
-        "alt": "Una mujer de pie junto a una ventana del tren, volteando para mirar"
+        "src": "/illustrations-sorted/page1_illust002.png",
+        "alt": "Ilustración 2 del diálogo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page1_illust003.png",
         "alt": "Una mujer sosteniendo un bolso rayado, mostrándolo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page1_illust004.png",
         "alt": "Una mujer con expresión confusa, con signo de interrogación en el aire"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page1_illust005.png",
         "alt": "Una mujer dentro del compartimento del tren mirando hacia afuera"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page1_illust006.png",
         "alt": "Dos mujeres interactuando, una entregando el bolso a la otra"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
+        "src": "/illustrations-sorted/page1_illust007.png",
         "alt": "Dos mujeres sonriendo, una agradeciendo a la otra por el bolso devuelto"
       }
     ]

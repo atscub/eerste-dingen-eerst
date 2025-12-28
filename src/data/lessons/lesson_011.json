@@ -6,93 +6,93 @@
     "lines": [
       {
         "text": "Van wie is dit overhemd?",
-        "speaker": "Speaker 1",
+        "speaker": "Leraar",
         "translation": "¿De quién es esta camisa?"
       },
       {
         "text": "Is dit jouw overhemd, Frank?",
-        "speaker": "Speaker 2",
+        "speaker": "Leraar",
         "translation": "¿Es ésta tu camisa, Frank?"
       },
       {
         "text": "Nee, meneer. Het is niet mijn overhemd.",
-        "speaker": "Speaker 1",
+        "speaker": "Frank",
         "translation": "No, señor. No es mi camisa."
       },
       {
         "text": "Dit is mijn overhemd. Mijn overhemd is blauw.",
-        "speaker": "Speaker 2",
+        "speaker": "Frank",
         "translation": "Ésta es mi camisa. Mi camisa es azul."
       },
       {
         "text": "Is dit het overhemd van Tim?",
-        "speaker": "Speaker 1",
+        "speaker": "Leraar",
         "translation": "¿Es ésta la camisa de Tim?"
       },
       {
         "text": "Misschien, meneer. Het overhemd van Tim is wit.",
-        "speaker": "Speaker 2",
+        "speaker": "Frank",
         "translation": "Quizás lo sea, señor. La camisa de Tim es blanca."
       },
       {
         "text": "Tim!",
-        "speaker": "Speaker 1",
+        "speaker": "Leraar",
         "translation": "¡Tim!"
       },
       {
         "text": "Ja, meneer?",
-        "speaker": "Speaker 2",
+        "speaker": "Tim",
         "translation": "¿Sí, señor?"
       },
       {
         "text": "Is dit jouw overhemd?",
-        "speaker": "Speaker 1",
+        "speaker": "Leraar",
         "translation": "¿Es ésta tu camisa?"
       },
       {
         "text": "Ja, meneer.",
-        "speaker": "Speaker 2",
+        "speaker": "Tim",
         "translation": "Sí, señor."
       },
       {
         "text": "Alsjeblieft. Vang!",
-        "speaker": "Speaker 1",
+        "speaker": "Leraar",
         "translation": "Aquí tienes. ¡Agárrala!"
       },
       {
         "text": "Dank u, meneer.",
-        "speaker": "Speaker 2",
+        "speaker": "Tim",
         "translation": "Gracias, señor."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page11_illust001.png",
         "alt": "Aula con camisas colgadas en ganchos, profesor sosteniendo una camisa"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page11_illust002.png",
         "alt": "Profesor mostrando la camisa a Frank, quien está sentado en su pupitre"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page11_illust003.png",
         "alt": "Frank señalando su propia camisa azul que lleva puesta"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page11_illust004.png",
         "alt": "Profesor mostrando la camisa blanca, preguntando si es de Tim"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page11_illust005.png",
         "alt": "Tim levantando la mano para responder"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page11_illust006.png",
         "alt": "Tim confirmando que la camisa es suya"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
-        "alt": "Profesor lanzando la camisa a Tim, quien la atrapa"
+        "src": "/illustrations-sorted/page11_illust007.png",
+        "alt": "Ilustración 7 del diálogo"
       }
     ]
   }

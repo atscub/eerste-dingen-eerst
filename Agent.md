@@ -19,4 +19,5 @@ Project: Vite + React + Tailwind app for Dutch lessons.
 ## Notes
 - Text-to-speech uses the Web Speech API in the browser.
 - UI copy is in Spanish and Dutch; keep language consistency when editing.
+- Illustrations are stored in `public/illustrations` and referenced as `/illustrations/...` in lesson data.
 - All changes should be tested by running `npm run checks`.

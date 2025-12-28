@@ -1,21 +1,83 @@
 {
   "id": 35,
   "title": "Les 35",
+  "subtitle": "Foto's van ons dorp",
   "type": "dialogue",
   "dialogue": {
-    "lines": [],
+    "lines": [
+      {
+        "text": "Dit is een foto van ons dorp.",
+        "translation": "Esta es una foto de nuestro pueblo."
+      },
+      {
+        "text": "Ons dorp ligt in een vallei.",
+        "translation": "Nuestro pueblo está en un valle."
+      },
+      {
+        "text": "Het ligt tussen twee heuvels.",
+        "translation": "Está entre dos colinas."
+      },
+      {
+        "text": "Het dorp ligt aan een rivier.",
+        "translation": "El pueblo está junto a un río."
+      },
+      {
+        "text": "Hier is nog een foto van het dorp.",
+        "translation": "Aquí hay otra foto del pueblo."
+      },
+      {
+        "text": "Mijn vrouw en ik lopen langs de oever van de rivier.",
+        "translation": "Mi esposa y yo estamos caminando por la orilla del río."
+      },
+      {
+        "text": "We zijn aan de linkerkant.",
+        "translation": "Estamos a la izquierda."
+      },
+      {
+        "text": "Er is een jongen in het water.",
+        "translation": "Hay un chico en el agua."
+      },
+      {
+        "text": "Hij zwemt door de rivier.",
+        "translation": "Está nadando a través del río."
+      },
+      {
+        "text": "Hier is nog een foto.",
+        "translation": "Aquí hay otra foto."
+      },
+      {
+        "text": "Dit is het schoolgebouw.",
+        "translation": "Este es el edificio de la escuela."
+      },
+      {
+        "text": "Het staat naast een park.",
+        "translation": "Está al lado de un parque."
+      },
+      {
+        "text": "Het park is aan de rechterkant.",
+        "translation": "El parque está a la derecha."
+      },
+      {
+        "text": "Er komen enkele kinderen uit het gebouw.",
+        "translation": "Algunos niños están saliendo del edificio."
+      },
+      {
+        "text": "Sommigen van hen gaan naar het park.",
+        "translation": "Algunos de ellos están yendo al parque."
+      }
+    ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page35_illust001.png",
         "alt": "Vista panorámica de un pueblo en un valle entre colinas, con un río atravesándolo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page35_illust002.png",
         "alt": "Pareja caminando junto al río, un niño nadando en el agua"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
-        "alt": "Edificio escolar al lado de un parque, niños saliendo de la escuela y entrando al parque"
+        "src": "/illustrations-sorted/page35_illust003.png",
+        "alt": "Edificio escolar al lado de un parque, niños saliendo de la escuela"
       }
     ]
   }

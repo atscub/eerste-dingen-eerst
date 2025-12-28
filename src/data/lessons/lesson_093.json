@@ -1,41 +1,91 @@
 {
   "id": 93,
   "title": "Les 93",
+  "subtitle": "Meneer Van den Berg, de piloot",
   "type": "dialogue",
   "dialogue": {
-    "lines": [],
+    "lines": [
+      {
+        "text": "Meneer Van den Berg is onze nieuwe buurman.",
+        "translation": "El señor Van den Berg es nuestro nuevo vecino."
+      },
+      {
+        "text": "Hij is piloot bij KLM.",
+        "translation": "Es piloto de KLM."
+      },
+      {
+        "text": "Hij zat tijdens de oorlog bij de luchtmacht.",
+        "translation": "Estuvo en la fuerza aérea durante la guerra."
+      },
+      {
+        "text": "Hij vliegt volgende maand naar New York.",
+        "translation": "Volará a Nueva York el mes que viene."
+      },
+      {
+        "text": "De maand daarna vliegt hij naar Tokio.",
+        "translation": "El mes después de ese volará a Tokio."
+      },
+      {
+        "text": "Op dit moment is hij in Madrid.",
+        "translation": "En este momento está en Madrid."
+      },
+      {
+        "text": "Hij is een week geleden naar Spanje gevlogen.",
+        "translation": "Voló a España hace una semana."
+      },
+      {
+        "text": "Hij keert over een week terug naar Amsterdam.",
+        "translation": "Regresará a Ámsterdam dentro de una semana."
+      },
+      {
+        "text": "Hij is pas eenenveertig jaar oud en hij is al in bijna elk land ter wereld geweest.",
+        "translation": "Tiene solo cuarenta y un años y ya ha estado en casi todos los países del mundo."
+      },
+      {
+        "text": "Meneer Van den Berg is een heel gelukkige man.",
+        "translation": "El señor Van den Berg es un hombre muy afortunado."
+      },
+      {
+        "text": "Maar zijn vrouw is niet erg gelukkig.",
+        "translation": "Pero su esposa no es muy afortunada."
+      },
+      {
+        "text": "Zij blijft meestal thuis!",
+        "translation": "¡Ella generalmente se queda en casa!"
+      }
+    ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
-        "alt": "Sr. Hill junto a un avión B.E.A."
+        "src": "/illustrations-sorted/page93_illust001.png",
+        "alt": "Sr. Van den Berg junto a un avión de KLM"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
-        "alt": "Sr. Hill en uniforme R.A.F. durante la guerra"
+        "src": "/illustrations-sorted/page93_illust002.png",
+        "alt": "Sr. Van den Berg en uniforme de la fuerza aérea durante la guerra"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
-        "alt": "Avión volando hacia Nueva York (rascacielos visibles)"
+        "src": "/illustrations-sorted/page93_illust003.png",
+        "alt": "Avión volando hacia Nueva York"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
-        "alt": "Avión volando hacia Tokio (arquitectura japonesa visible)"
+        "src": "/illustrations-sorted/page93_illust004.png",
+        "alt": "Avión volando hacia Tokio"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
-        "alt": "Sr. Hill en Madrid con cartel \"SPAIN\" y un avión"
+        "src": "/illustrations-sorted/page93_illust005.png",
+        "alt": "Sr. Van den Berg en Madrid"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
-        "alt": "Avión regresando a Londres (Big Ben visible)"
+        "src": "/illustrations-sorted/page93_illust006.png",
+        "alt": "Avión regresando a Ámsterdam"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+7",
-        "alt": "Globo terráqueo con flechas de avión mostrando viajes"
+        "src": "/illustrations-sorted/page93_illust007.png",
+        "alt": "Globo terráqueo mostrando viajes del piloto"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+8",
-        "alt": "Sra. Hill en casa mirando un avión pasar"
+        "src": "/illustrations-sorted/page93_illust008.png",
+        "alt": "Sra. Van den Berg en casa mirando un avión pasar"
       }
     ]
   }

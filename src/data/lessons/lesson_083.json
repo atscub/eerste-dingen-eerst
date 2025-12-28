@@ -6,88 +6,88 @@
     "lines": [
       {
         "text": "Hallo, John. Kom binnen.",
-        "speaker": "Speaker 1",
+        "speaker": "Tom",
         "translation": "Hola, John. Entra."
       },
       {
         "text": "Hallo, John. We lunchen. Wil je met ons lunchen?",
-        "speaker": "Speaker 2",
+        "speaker": "Peggy",
         "translation": "Hola, John. Estamos almorzando. ¿Quieres almorzar con nosotros?"
       },
       {
         "text": "Nee dank je, Tom. Ik heb al geluncht. Ik lunchte om half een.",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "No gracias, Tom. Ya almorcé. Almorcé a las doce y media."
       },
       {
         "text": "Neem dan een kopje koffie.",
-        "speaker": "Speaker 2",
+        "speaker": "Peggy",
         "translation": "Ten una taza de café entonces."
       },
       {
         "text": "Ik heb net een kopje gehad, dank je. Ik nam er een na mijn lunch.",
-        "speaker": "Speaker 1",
+        "speaker": "John",
         "translation": "Acabo de tomar una taza, gracias. Tomé una después de mi almuerzo."
       },
       {
         "text": "Laten we naar de woonkamer gaan, Peggy. We kunnen daar onze koffie drinken.",
-        "speaker": "Speaker 2",
+        "speaker": "Tom",
         "translation": "Vamos a la sala, Peggy. Podemos tomar nuestro café allí."
       },
       {
         "text": "Excuseer de rommel, John. Deze kamer is erg rommelig. We pakken onze koffers. We gaan morgen weg. Tom en ik gaan op vakantie.",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "Disculpa el desorden, John. Esta habitación está muy desordenada. Estamos empacando nuestras maletas. Nos vamos a ir mañana. Tom y yo vamos a tener unas vacaciones."
       },
       {
         "text": "Zijn jullie niet gelukkig! Wanneer ga jij op vakantie, John?",
-        "speaker": "Speaker 2",
+        "speaker": "John",
         "translation": "¿No tienen suerte! ¿Cuándo van a tener unas vacaciones, John?"
       },
       {
         "text": "Wanneer ga je op vakantie, John?",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "¿Cuándo vas a tener unas vacaciones, John?"
       },
       {
         "text": "Ik weet het niet. Ik heb dit jaar al vakantie gehad.",
-        "speaker": "Speaker 2",
+        "speaker": "John",
         "translation": "No lo sé. Ya tuve mis vacaciones este año."
       },
       {
         "text": "Waar ging je heen?",
-        "speaker": "Speaker 1",
+        "speaker": "Peggy",
         "translation": "¿Dónde fuiste?"
       },
       {
         "text": "Ik bleef thuis!",
-        "speaker": "Speaker 2",
+        "speaker": "John",
         "translation": "¡Me quedé en casa!"
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page83_illust001.png",
         "alt": "Peggy abriendo la puerta para John"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page83_illust002.png",
         "alt": "Tom, Peggy y John en el comedor, Tom y Peggy almorzando"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page83_illust003.png",
         "alt": "Peggy ofreciendo café a John"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page83_illust004.png",
         "alt": "Los tres moviéndose a la sala"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page83_illust005.png",
         "alt": "Sala desordenada con maletas siendo empacadas"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page83_illust006.png",
         "alt": "John, Tom y Peggy conversando sobre vacaciones"
       }
     ]

@@ -6,89 +6,89 @@
     "lines": [
       {
         "text": "Kom en ontmoet onze medewerkers, meneer Richards.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Jackson",
         "translation": "Venga y conozca a nuestros empleados, Sr. Richards."
       },
       {
         "text": "Dank u, meneer Jackson.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Richards",
         "translation": "Gracias, Sr. Jackson."
       },
       {
         "text": "Dit is juffrouw Grey en dit is juffrouw Taylor.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Jackson",
         "translation": "Ésta es la Srta. Grey y ésta es la Srta. Taylor."
       },
       {
         "text": "Hoe maakt u het?",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Richards",
         "translation": "¿Cómo están?"
       },
       {
         "text": "Die meisjes zijn erg mooi. Wat zijn hun banen?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Jackson",
         "translation": "Esas chicas son muy bonitas. ¿Cuáles son sus trabajos?"
       },
       {
         "text": "Ze zijn typistes.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Richards",
         "translation": "Son mecanógrafas."
       },
       {
         "text": "Dit is meneer Baker en dit is meneer Short.",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Jackson",
         "translation": "Éste es el Sr. Baker y éste es el Sr. Short."
       },
       {
         "text": "Hoe maakt u het?",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Richards",
         "translation": "¿Cómo están?"
       },
       {
         "text": "Ze zijn niet erg druk. Wat zijn hun banen?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Jackson",
         "translation": "No están muy ocupados. ¿Cuáles son sus trabajos?"
       },
       {
         "text": "Ze zijn klerken. Ze zijn erg lui.",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Richards",
         "translation": "Son oficinistas. Son muy perezosos."
       },
       {
         "text": "Wie is deze jonge man?",
-        "speaker": "Speaker 1",
+        "speaker": "Meneer Jackson",
         "translation": "¿Quién es este joven?"
       },
       {
         "text": "Dit is Jim. Hij is onze kantoorjongen!",
-        "speaker": "Speaker 2",
+        "speaker": "Meneer Richards",
         "translation": "Éste es Jim. ¡Él es nuestro chico de oficina!"
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page17_illust001.png",
         "alt": "Sr. Jackson y Sr. Richards en la entrada de la oficina"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page17_illust002.png",
         "alt": "Dos mujeres (Srta. Grey y Srta. Taylor) trabajando en sus escritorios"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page17_illust003.png",
         "alt": "Sr. Richards observando a las dos mecanógrafas con admiración"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page17_illust004.png",
         "alt": "Sr. Baker y Sr. Short en sus escritorios, con aspecto relajado"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page17_illust005.png",
         "alt": "Los dos empleados claramente sin hacer mucho, Sr. Richards notándolo"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
-        "alt": "Jim, un joven, rodeado de documentos y ocupado con tareas de oficina"
+        "src": "/illustrations-sorted/page17_illust006.png",
+        "alt": "Ilustración 6 del diálogo"
       }
     ]
   }

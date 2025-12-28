@@ -6,75 +6,79 @@
     "lines": [
       {
         "text": "Heeft meneer West zijn huis al verkocht?",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "¿Ha vendido el Sr. West su casa todavía?"
       },
       {
         "text": "Ja, dat heeft hij. Hij verkocht het vorige week.",
-        "speaker": "Speaker 2",
+        "speaker": "Buurman",
         "translation": "Sí, lo ha hecho. La vendió la semana pasada."
       },
       {
         "text": "Is hij al naar zijn nieuwe huis verhuisd?",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "¿Se ha mudado a su nueva casa todavía?"
       },
       {
         "text": "Nee, nog niet. Hij is nog hier. Hij gaat morgen verhuizen.",
-        "speaker": "Speaker 2",
+        "speaker": "Buurman",
         "translation": "No, todavía no. Todavía está aquí. Va a mudarse mañana."
       },
       {
         "text": "Wanneer? Morgenochtend?",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "¿Cuándo? ¿Mañana por la mañana?"
       },
       {
         "text": "Nee. Morgenmiddag. Ik zal hem missen. Hij is altijd een goede buurman geweest.",
-        "speaker": "Speaker 2",
+        "speaker": "Buurman",
         "translation": "No. Mañana por la tarde. Lo voy a extrañar. Siempre ha sido un buen vecino."
       },
       {
         "text": "Hij is een heel aardige persoon. We zullen hem allemaal missen.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "Es una persona muy agradable. Todos lo vamos a extrañar."
       },
       {
         "text": "Wanneer komen de nieuwe mensen in dit huis wonen?",
-        "speaker": "Speaker 2",
+        "speaker": "Buurman",
         "translation": "¿Cuándo se mudarán las nuevas personas a esta casa?"
       },
       {
         "text": "Ik denk dat ze overmorgen komen.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "Creo que se mudarán pasado mañana."
       },
       {
         "text": "Zie je meneer West vandaag, mevrouw Brown?",
-        "speaker": "Speaker 2",
+        "speaker": "Buurman",
         "translation": "¿Verás al Sr. West hoy, Sra. Brown?"
       },
       {
         "text": "Ja, dat zal ik.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "Sí, lo haré."
       },
       {
         "text": "Doe hem alsjeblieft de groeten van mij.",
-        "speaker": "Speaker 2",
+        "speaker": "Buurman",
         "translation": "Por favor, dale mis saludos."
       },
       {
         "text": "Arme meneer West! Hij wilde dit huis niet verlaten.",
-        "speaker": "Speaker 1",
+        "speaker": "Mevrouw Brown",
         "translation": "¡Pobre Sr. West! No quería dejar esta casa."
       },
       {
         "text": "Nee, hij wilde niet weggaan, maar zijn vrouw wel!",
-        "speaker": "Speaker 2",
+        "speaker": "Buurman",
         "translation": "No, él no quería irse, ¡pero su esposa sí!"
       }
     ],
+    "headerImage": {
+      "src": "/illustrations-sorted/page91_illust001.png",
+      "alt": "Ilustración 1 del diálogo"
+    },
     "images": []
   }
 }

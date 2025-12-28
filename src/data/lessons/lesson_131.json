@@ -50,6 +50,10 @@
         "translation": "No estés tan seguro. Puede que no vayamos a ninguna parte. Mi esposa siempre se preocupa demasiado. ¿Quién va a cuidar del perro? ¿Quién va a cuidar de la casa? ¿Quién va a cuidar del jardín? Tenemos este problema cada año. ¡Al final nos quedamos en casa y cuidamos de todo!"
       }
     ],
+    "headerImage": {
+      "src": "/illustrations-sorted/page131_illust001.png",
+      "alt": "Ilustración 1 del diálogo"
+    },
     "images": []
   }
 }

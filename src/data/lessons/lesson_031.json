@@ -6,55 +6,59 @@
     "lines": [
       {
         "text": "Waar is Sally, Jack?",
-        "speaker": "Speaker 1",
+        "speaker": "Jean",
         "translation": "¿Dónde está Sally, Jack?"
       },
       {
         "text": "Ze is in de tuin, Jean.",
-        "speaker": "Speaker 2",
+        "speaker": "Jack",
         "translation": "Está en el jardín, Jean."
       },
       {
         "text": "Wat doet ze?",
-        "speaker": "Speaker 1",
+        "speaker": "Jean",
         "translation": "¿Qué está haciendo?"
       },
       {
         "text": "Ze zit onder de boom.",
-        "speaker": "Speaker 2",
+        "speaker": "Jack",
         "translation": "Está sentada bajo el árbol."
       },
       {
         "text": "Is Tim ook in de tuin?",
-        "speaker": "Speaker 1",
+        "speaker": "Jean",
         "translation": "¿Está Tim en el jardín también?"
       },
       {
         "text": "Ja, hij is er. Hij klimt in de boom.",
-        "speaker": "Speaker 2",
+        "speaker": "Jack",
         "translation": "Sí, él está allí. Está trepando el árbol."
       },
       {
         "text": "Pardon? Wie klimt er in de boom?",
-        "speaker": "Speaker 1",
+        "speaker": "Jean",
         "translation": "¿Perdón? ¿Quién está trepando el árbol?"
       },
       {
         "text": "Tim doet dat.",
-        "speaker": "Speaker 2",
+        "speaker": "Jack",
         "translation": "Tim."
       },
       {
         "text": "En de hond?",
-        "speaker": "Speaker 1",
+        "speaker": "Jean",
         "translation": "¿Y el perro?"
       },
       {
         "text": "De hond is ook in de tuin. Hij rent over het gras. Hij rent achter een kat aan.",
-        "speaker": "Speaker 2",
+        "speaker": "Jack",
         "translation": "El perro también está en el jardín. Está corriendo por el césped. Está corriendo detrás de un gato."
       }
     ],
+    "headerImage": {
+      "src": "/illustrations-sorted/page31_illust001.png",
+      "alt": "Ilustración 1 del diálogo"
+    },
     "images": []
   }
 }

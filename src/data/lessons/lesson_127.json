@@ -70,6 +70,10 @@
         "translation": "¡No *tan* hace mucho! Yo misma no tengo más de veintinueve años."
       }
     ],
+    "headerImage": {
+      "src": "/illustrations-sorted/page127_illust001.png",
+      "alt": "Ilustración 1 del diálogo"
+    },
     "images": []
   }
 }

@@ -97,27 +97,27 @@
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page123_illust001.png",
         "alt": "Bill en Bob zitten naast elkaar, Bill houdt een fotoalbum vast"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page123_illust002.png",
         "alt": "Close-up van een foto in het album met mensen erop"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page123_illust003.png",
         "alt": "Foto van een groot schip op zee"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page123_illust004.png",
         "alt": "Foto van een man in de hitte"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page123_illust005.png",
         "alt": "Foto van Bill met een dikke baard, bijna onherkenbaar"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page123_illust006.png",
         "alt": "Bill thuis met zijn vrouw, nu zonder baard, vrouw wijst geschokt naar de foto"
       }
     ]

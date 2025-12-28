@@ -55,23 +55,10 @@
         "translation": ""
       }
     ],
-    "images": [
-      {
-        "src": "https://placehold.co/480x320?text=Scene+1",
-        "alt": "Twee jonge mannen staan in een gang voor een deur met \"EXAMINATION ROOM\" erop, beiden houden boeken vast"
-      },
-      {
-        "src": "https://placehold.co/480x320?text=Scene+2",
-        "alt": "De jongens praten druk met elkaar, de ene ziet er bezorgd uit, de andere meer ontspannen"
-      },
-      {
-        "src": "https://placehold.co/480x320?text=Scene+3",
-        "alt": "Close-up van Harry's gezicht, hij kijkt teleurgesteld terwijl hij over het examen vertelt"
-      },
-      {
-        "src": "https://placehold.co/480x320?text=Scene+4",
-        "alt": "Dick kijkt nadenkend en maakt een kalmerend gebaar terwijl hij Harry probeert op te vrolijken"
-      }
-    ]
+    "headerImage": {
+      "src": "/illustrations-sorted/page103_illust001.png",
+      "alt": "Twee jonge mannen staan in een gang voor een deur met \"EXAMINATION ROOM\" erop, beiden houden boeken vast"
+    },
+    "images": []
   }
 }

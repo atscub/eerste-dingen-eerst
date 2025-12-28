@@ -6,68 +6,68 @@
     "lines": [
       {
         "text": "Geef me een boek, alsjeblieft, Jane.",
-        "speaker": "Speaker 1",
+        "speaker": "Man",
         "translation": "Dame un libro, por favor, Jane."
       },
       {
         "text": "Welk boek?",
-        "speaker": "Speaker 2",
+        "speaker": "Jane",
         "translation": "¿Qué libro?"
       },
       {
         "text": "Deze?",
-        "speaker": "Speaker 1",
+        "speaker": "Man",
         "translation": "¿Éste?"
       },
       {
         "text": "Nee, niet die. De rode.",
-        "speaker": "Speaker 2",
+        "speaker": "Jane",
         "translation": "No, no ese. El rojo."
       },
       {
         "text": "Deze?",
-        "speaker": "Speaker 1",
+        "speaker": "Man",
         "translation": "¿Éste?"
       },
       {
         "text": "Ja, alsjeblieft.",
-        "speaker": "Speaker 2",
+        "speaker": "Jane",
         "translation": "Sí, por favor."
       },
       {
         "text": "Alsjeblieft.",
-        "speaker": "Speaker 1",
+        "speaker": "Man",
         "translation": "Aquí tienes."
       },
       {
         "text": "Dank je.",
-        "speaker": "Speaker 2",
+        "speaker": "Jane",
         "translation": "Gracias."
       }
     ],
     "images": [
       {
-        "src": "https://placehold.co/480x320?text=Scene+1",
+        "src": "/illustrations-sorted/page21_illust001.png",
         "alt": "Hombre sentado en un sillón pidiendo un libro a una mujer de pie junto a un estante"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+2",
+        "src": "/illustrations-sorted/page21_illust002.png",
         "alt": "Mujer volteando hacia el estante con expresión interrogativa"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+3",
+        "src": "/illustrations-sorted/page21_illust003.png",
         "alt": "Mujer señalando un libro en el estante"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+4",
+        "src": "/illustrations-sorted/page21_illust004.png",
         "alt": "Hombre señalando hacia un libro rojo diferente"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+5",
+        "src": "/illustrations-sorted/page21_illust005.png",
         "alt": "Mujer tomando el libro rojo correcto del estante"
       },
       {
-        "src": "https://placehold.co/480x320?text=Scene+6",
+        "src": "/illustrations-sorted/page21_illust006.png",
         "alt": "Mujer entregando el libro rojo al hombre"
       }
     ]

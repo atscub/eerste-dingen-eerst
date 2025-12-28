@@ -55,6 +55,10 @@
         "translation": "¡Es un sueño agradable pero todo depende de \"si\"!"
       }
     ],
+    "headerImage": {
+      "src": "/illustrations-sorted/page137_illust001.png",
+      "alt": "Ilustración 1 del diálogo"
+    },
     "images": []
   }
 }

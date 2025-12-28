@@ -7,45 +7,78 @@
     "lines": [
       {
         "text": "I can put my hat on, but I can't put my coat on.",
-        "speaker": "Speaker 1",
+        "speaker": "Dokter",
         "translation": ""
       },
       {
         "text": "I can see that aeroplane, but I can't see a bird.",
-        "speaker": "Speaker 2",
+        "speaker": "Patiënt",
         "translation": ""
       },
       {
         "text": "I can paint this book-case, but I can't paint this room.",
-        "speaker": "Speaker 1",
+        "speaker": "Dokter",
         "translation": ""
       },
       {
         "text": "I can lift that chair, but I can't lift this table.",
-        "speaker": "Speaker 2",
+        "speaker": "Patiënt",
         "translation": ""
       },
       {
         "text": "Ik kan mijn hoed opzetten, maar ik kan mijn jas niet aantrekken.",
-        "speaker": "Speaker 1",
+        "speaker": "Dokter",
         "translation": ""
       },
       {
         "text": "Ik kan dat vliegtuig zien, maar ik kan geen vogel zien.",
-        "speaker": "Speaker 2",
+        "speaker": "Patiënt",
         "translation": ""
       },
       {
         "text": "Ik kan deze boekenplank schilderen, maar ik kan deze kamer niet schilderen.",
-        "speaker": "Speaker 1",
+        "speaker": "Dokter",
         "translation": ""
       },
       {
         "text": "Ik kan die stoel optillen, maar ik kan deze tafel niet optillen.",
-        "speaker": "Speaker 2",
+        "speaker": "Patiënt",
         "translation": ""
       }
     ],
-    "images": []
+    "images": [
+      {
+        "src": "/illustrations-sorted/page46_illust001.png",
+        "alt": "Ilustración 1 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page46_illust002.png",
+        "alt": "Ilustración 2 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page46_illust003.png",
+        "alt": "Ilustración 3 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page46_illust004.png",
+        "alt": "Ilustración 4 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page46_illust005.png",
+        "alt": "Ilustración 5 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page46_illust006.png",
+        "alt": "Ilustración 6 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page46_illust007.png",
+        "alt": "Ilustración 7 del diálogo"
+      },
+      {
+        "src": "/illustrations-sorted/page46_illust008.png",
+        "alt": "Ilustración 8 del diálogo"
+      }
+    ]
   }
 }

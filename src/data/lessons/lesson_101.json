@@ -6,7 +6,7 @@
     "lines": [
       {
         "text": "Fin de las Lecciones 51-100",
-        "speaker": "Speaker 1",
+        "speaker": "Mary",
         "translation": "Fin de las Lecciones 51-100"
       },
       {
@@ -85,23 +85,10 @@
         "translation": "No puede escribir mucho en una postal, madre."
       }
     ],
-    "images": [
-      {
-        "src": "https://placehold.co/480x320?text=Scene+1",
-        "alt": "Een oudere vrouw met grijs haar en een jongere vrouw zitten samen op een bank in een gezellige woonkamer, omringd door ingelijste foto's en een antieke klok"
-      },
-      {
-        "src": "https://placehold.co/480x320?text=Scene+2",
-        "alt": "De grootmoeder houdt een ansichtkaart vast en leest deze aan Mary voor, beide vrouwen kijken geïnteresseerd"
-      },
-      {
-        "src": "https://placehold.co/480x320?text=Scene+3",
-        "alt": "Close-up van de ansichtkaart met \"Schotland\" erop en een afbeelding van een jeugdherberg"
-      },
-      {
-        "src": "https://placehold.co/480x320?text=Scene+4",
-        "alt": "Mary buigt zich voorover om beter te kunnen horen terwijl grootmoeder de kaart leest"
-      }
-    ]
+    "headerImage": {
+      "src": "/illustrations-sorted/page101_illust001.png",
+      "alt": "Een oudere vrouw met grijs haar en een jongere vrouw zitten samen op een bank in een gezellige woonkamer, omringd door ingelijste foto's en een antieke klok"
+    },
+    "images": []
   }
 }
